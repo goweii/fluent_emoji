@@ -1,0 +1,36 @@
+name: fluent_emoji
+description: "A new Flutter package project."
+version: 0.0.1
+homepage: https://github.com/goweii/fluent_emoji
+
+environment:
+  sdk: ^3.6.1
+  flutter: ">=1.17.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  fluent_emoji_activities:
+    path: ../fluent_emoji_activities
+  fluent_emoji_animals_and_nature:
+    path: ../fluent_emoji_animals_and_nature
+  fluent_emoji_flags:
+    path: ../fluent_emoji_flags
+  fluent_emoji_food_and_drink:
+    path: ../fluent_emoji_food_and_drink
+  fluent_emoji_objects:
+    path: ../fluent_emoji_objects
+  fluent_emoji_people_and_body:
+    path: ../fluent_emoji_people_and_body
+  fluent_emoji_smileys_and_emotion:
+    path: ../fluent_emoji_smileys_and_emotion
+  fluent_emoji_symbols:
+    path: ../fluent_emoji_symbols
+  fluent_emoji_travel_and_places:
+    path: ../fluent_emoji_travel_and_places
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^5.0.0
