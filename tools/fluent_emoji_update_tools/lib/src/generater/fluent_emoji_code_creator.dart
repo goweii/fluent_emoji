@@ -33,10 +33,56 @@ class FluentEmojiCodeCreator {
 
     final buffer = StringBuffer();
     buffer.writeln('class $className {');
-    buffer.writeln('  static const instance = $className._();');
+    buffer.writeln('  static final instance = $className._();');
     buffer.writeln();
-    buffer.writeln('  const $className._();');
+    buffer.writeln('  $className._();');
     buffer.writeln();
+    buffer.write(_buildAllEmojiField());
+    buffer.writeln();
+    buffer.write(_buildEmojiFields());
+    buffer.writeln('}');
+
+    dartFile.writeAsString(buffer.toString());
+  }
+
+  String _buildAllEmojiField() {
+    final buffer = StringBuffer();
+
+    buffer.writeln('  late final Map<String, String> allEmojis = {');
+
+    void writeFieldLine(SingleFluentEmoji emoji, [String? subfix]) {
+      var fieldName = emoji.nameLowerCase;
+      if (subfix != null) {
+        fieldName += subfix;
+      }
+      buffer.writeln("    '${emoji.glyph}': $fieldName,");
+    }
+
+    for (var i = 0; i < emojiGroup.emojis.length; i++) {
+      final emoji = emojiGroup.emojis[i];
+
+      switch (emoji) {
+        case SingleFluentEmoji():
+          writeFieldLine(emoji);
+          break;
+        case SkinToneFluentEmoji():
+          writeFieldLine(emoji.normal);
+          writeFieldLine(emoji.light, 'Light');
+          writeFieldLine(emoji.mediumLight, 'MediumLight');
+          writeFieldLine(emoji.medium, 'Medium');
+          writeFieldLine(emoji.mediumDark, 'MediumDark');
+          writeFieldLine(emoji.dark, 'Dark');
+          break;
+      }
+    }
+
+    buffer.writeln('  };');
+
+    return buffer.toString();
+  }
+
+  String _buildEmojiFields() {
+    final buffer = StringBuffer();
 
     void writeFieldLine(SingleFluentEmoji emoji, [String? subfix]) {
       var fieldName = emoji.nameLowerCase;
@@ -70,8 +116,6 @@ class FluentEmojiCodeCreator {
       }
     }
 
-    buffer.writeln('}');
-
-    dartFile.writeAsString(buffer.toString());
+    return buffer.toString();
   }
 }

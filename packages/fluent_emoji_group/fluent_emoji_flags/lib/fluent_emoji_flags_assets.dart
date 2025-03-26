@@ -1,7 +1,18 @@
 class FluentEmojiFlagsAssets {
-  static const instance = FluentEmojiFlagsAssets._();
+  static final instance = FluentEmojiFlagsAssets._();
 
-  const FluentEmojiFlagsAssets._();
+  FluentEmojiFlagsAssets._();
+
+  late final Map<String, String> allEmojis = {
+    '🏴': blackFlag,
+    '🏁': chequeredFlag,
+    '🎌': crossedFlags,
+    '🏴‍☠️': pirateFlag,
+    '🏳️‍🌈': rainbowFlag,
+    '🏳️‍⚧️': transgenderFlag,
+    '🚩': triangularFlag,
+    '🏳️': whiteFlag,
+  };
 
   /// 🏴 black flag
   final String blackFlag = 'assets/black_flag_color.svg';
