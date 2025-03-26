@@ -17,17 +17,17 @@ class FluentEmojiPeopleAndBodyAssets {
   final String mrsClausDark = 'assets/mrs_claus_color_dark.svg';
 
   /// 👌 OK hand
-  final String oKHand = 'assets/ok_hand_color_default.svg';
+  final String okHand = 'assets/ok_hand_color_default.svg';
   /// 👌🏻 OK hand
-  final String oKHandLight = 'assets/ok_hand_color_light.svg';
+  final String okHandLight = 'assets/ok_hand_color_light.svg';
   /// 👌🏼 OK hand
-  final String oKHandMediumLight = 'assets/ok_hand_color_medium-light.svg';
+  final String okHandMediumLight = 'assets/ok_hand_color_medium-light.svg';
   /// 👌🏽 OK hand
-  final String oKHandMedium = 'assets/ok_hand_color_medium.svg';
+  final String okHandMedium = 'assets/ok_hand_color_medium.svg';
   /// 👌🏾 OK hand
-  final String oKHandMediumDark = 'assets/ok_hand_color_medium-dark.svg';
+  final String okHandMediumDark = 'assets/ok_hand_color_medium-dark.svg';
   /// 👌🏿 OK hand
-  final String oKHandDark = 'assets/ok_hand_color_dark.svg';
+  final String okHandDark = 'assets/ok_hand_color_dark.svg';
 
   /// 🎅 Santa Claus
   final String santaClaus = 'assets/santa_claus_color_default.svg';
@@ -940,30 +940,30 @@ class FluentEmojiPeopleAndBodyAssets {
   final String manGenie = 'assets/man_genie_color.svg';
 
   /// 🙅‍♂️ man gesturing NO
-  final String manGesturingNO = 'assets/man_gesturing_no_color_default.svg';
+  final String manGesturingNo = 'assets/man_gesturing_no_color_default.svg';
   /// 🙅🏻‍♂️ man gesturing NO
-  final String manGesturingNOLight = 'assets/man_gesturing_no_color_light.svg';
+  final String manGesturingNoLight = 'assets/man_gesturing_no_color_light.svg';
   /// 🙅🏼‍♂️ man gesturing NO
-  final String manGesturingNOMediumLight = 'assets/man_gesturing_no_color_medium-light.svg';
+  final String manGesturingNoMediumLight = 'assets/man_gesturing_no_color_medium-light.svg';
   /// 🙅🏽‍♂️ man gesturing NO
-  final String manGesturingNOMedium = 'assets/man_gesturing_no_color_medium.svg';
+  final String manGesturingNoMedium = 'assets/man_gesturing_no_color_medium.svg';
   /// 🙅🏾‍♂️ man gesturing NO
-  final String manGesturingNOMediumDark = 'assets/man_gesturing_no_color_medium-dark.svg';
+  final String manGesturingNoMediumDark = 'assets/man_gesturing_no_color_medium-dark.svg';
   /// 🙅🏿‍♂️ man gesturing NO
-  final String manGesturingNODark = 'assets/man_gesturing_no_color_dark.svg';
+  final String manGesturingNoDark = 'assets/man_gesturing_no_color_dark.svg';
 
   /// 🙆‍♂️ man gesturing OK
-  final String manGesturingOK = 'assets/man_gesturing_ok_color_default.svg';
+  final String manGesturingOk = 'assets/man_gesturing_ok_color_default.svg';
   /// 🙆🏻‍♂️ man gesturing OK
-  final String manGesturingOKLight = 'assets/man_gesturing_ok_color_light.svg';
+  final String manGesturingOkLight = 'assets/man_gesturing_ok_color_light.svg';
   /// 🙆🏼‍♂️ man gesturing OK
-  final String manGesturingOKMediumLight = 'assets/man_gesturing_ok_color_medium-light.svg';
+  final String manGesturingOkMediumLight = 'assets/man_gesturing_ok_color_medium-light.svg';
   /// 🙆🏽‍♂️ man gesturing OK
-  final String manGesturingOKMedium = 'assets/man_gesturing_ok_color_medium.svg';
+  final String manGesturingOkMedium = 'assets/man_gesturing_ok_color_medium.svg';
   /// 🙆🏾‍♂️ man gesturing OK
-  final String manGesturingOKMediumDark = 'assets/man_gesturing_ok_color_medium-dark.svg';
+  final String manGesturingOkMediumDark = 'assets/man_gesturing_ok_color_medium-dark.svg';
   /// 🙆🏿‍♂️ man gesturing OK
-  final String manGesturingOKDark = 'assets/man_gesturing_ok_color_dark.svg';
+  final String manGesturingOkDark = 'assets/man_gesturing_ok_color_dark.svg';
 
   /// 💇‍♂️ man getting haircut
   final String manGettingHaircut = 'assets/man_getting_haircut_color_default.svg';
@@ -2062,30 +2062,30 @@ class FluentEmojiPeopleAndBodyAssets {
   final String personFrowningDark = 'assets/person_frowning_color_dark.svg';
 
   /// 🙅 person gesturing NO
-  final String personGesturingNO = 'assets/person_gesturing_no_color_default.svg';
+  final String personGesturingNo = 'assets/person_gesturing_no_color_default.svg';
   /// 🙅🏻 person gesturing NO
-  final String personGesturingNOLight = 'assets/person_gesturing_no_color_light.svg';
+  final String personGesturingNoLight = 'assets/person_gesturing_no_color_light.svg';
   /// 🙅🏼 person gesturing NO
-  final String personGesturingNOMediumLight = 'assets/person_gesturing_no_color_medium-light.svg';
+  final String personGesturingNoMediumLight = 'assets/person_gesturing_no_color_medium-light.svg';
   /// 🙅🏽 person gesturing NO
-  final String personGesturingNOMedium = 'assets/person_gesturing_no_color_medium.svg';
+  final String personGesturingNoMedium = 'assets/person_gesturing_no_color_medium.svg';
   /// 🙅🏾 person gesturing NO
-  final String personGesturingNOMediumDark = 'assets/person_gesturing_no_color_medium-dark.svg';
+  final String personGesturingNoMediumDark = 'assets/person_gesturing_no_color_medium-dark.svg';
   /// 🙅🏿 person gesturing NO
-  final String personGesturingNODark = 'assets/person_gesturing_no_color_dark.svg';
+  final String personGesturingNoDark = 'assets/person_gesturing_no_color_dark.svg';
 
   /// 🙆 person gesturing OK
-  final String personGesturingOK = 'assets/person_gesturing_ok_color_default.svg';
+  final String personGesturingOk = 'assets/person_gesturing_ok_color_default.svg';
   /// 🙆🏻 person gesturing OK
-  final String personGesturingOKLight = 'assets/person_gesturing_ok_color_light.svg';
+  final String personGesturingOkLight = 'assets/person_gesturing_ok_color_light.svg';
   /// 🙆🏼 person gesturing OK
-  final String personGesturingOKMediumLight = 'assets/person_gesturing_ok_color_medium-light.svg';
+  final String personGesturingOkMediumLight = 'assets/person_gesturing_ok_color_medium-light.svg';
   /// 🙆🏽 person gesturing OK
-  final String personGesturingOKMedium = 'assets/person_gesturing_ok_color_medium.svg';
+  final String personGesturingOkMedium = 'assets/person_gesturing_ok_color_medium.svg';
   /// 🙆🏾 person gesturing OK
-  final String personGesturingOKMediumDark = 'assets/person_gesturing_ok_color_medium-dark.svg';
+  final String personGesturingOkMediumDark = 'assets/person_gesturing_ok_color_medium-dark.svg';
   /// 🙆🏿 person gesturing OK
-  final String personGesturingOKDark = 'assets/person_gesturing_ok_color_dark.svg';
+  final String personGesturingOkDark = 'assets/person_gesturing_ok_color_dark.svg';
 
   /// 💇 person getting haircut
   final String personGettingHaircut = 'assets/person_getting_haircut_color_default.svg';
@@ -3354,30 +3354,30 @@ class FluentEmojiPeopleAndBodyAssets {
   final String womanGenie = 'assets/woman_genie_color.svg';
 
   /// 🙅‍♀️ woman gesturing NO
-  final String womanGesturingNO = 'assets/woman_gesturing_no_color_default.svg';
+  final String womanGesturingNo = 'assets/woman_gesturing_no_color_default.svg';
   /// 🙅🏻‍♀️ woman gesturing NO
-  final String womanGesturingNOLight = 'assets/woman_gesturing_no_color_light.svg';
+  final String womanGesturingNoLight = 'assets/woman_gesturing_no_color_light.svg';
   /// 🙅🏼‍♀️ woman gesturing NO
-  final String womanGesturingNOMediumLight = 'assets/woman_gesturing_no_color_medium-light.svg';
+  final String womanGesturingNoMediumLight = 'assets/woman_gesturing_no_color_medium-light.svg';
   /// 🙅🏽‍♀️ woman gesturing NO
-  final String womanGesturingNOMedium = 'assets/woman_gesturing_no_color_medium.svg';
+  final String womanGesturingNoMedium = 'assets/woman_gesturing_no_color_medium.svg';
   /// 🙅🏾‍♀️ woman gesturing NO
-  final String womanGesturingNOMediumDark = 'assets/woman_gesturing_no_color_medium-dark.svg';
+  final String womanGesturingNoMediumDark = 'assets/woman_gesturing_no_color_medium-dark.svg';
   /// 🙅🏿‍♀️ woman gesturing NO
-  final String womanGesturingNODark = 'assets/woman_gesturing_no_color_dark.svg';
+  final String womanGesturingNoDark = 'assets/woman_gesturing_no_color_dark.svg';
 
   /// 🙆‍♀️ woman gesturing OK
-  final String womanGesturingOK = 'assets/woman_gesturing_ok_color_default.svg';
+  final String womanGesturingOk = 'assets/woman_gesturing_ok_color_default.svg';
   /// 🙆🏻‍♀️ woman gesturing OK
-  final String womanGesturingOKLight = 'assets/woman_gesturing_ok_color_light.svg';
+  final String womanGesturingOkLight = 'assets/woman_gesturing_ok_color_light.svg';
   /// 🙆🏼‍♀️ woman gesturing OK
-  final String womanGesturingOKMediumLight = 'assets/woman_gesturing_ok_color_medium-light.svg';
+  final String womanGesturingOkMediumLight = 'assets/woman_gesturing_ok_color_medium-light.svg';
   /// 🙆🏽‍♀️ woman gesturing OK
-  final String womanGesturingOKMedium = 'assets/woman_gesturing_ok_color_medium.svg';
+  final String womanGesturingOkMedium = 'assets/woman_gesturing_ok_color_medium.svg';
   /// 🙆🏾‍♀️ woman gesturing OK
-  final String womanGesturingOKMediumDark = 'assets/woman_gesturing_ok_color_medium-dark.svg';
+  final String womanGesturingOkMediumDark = 'assets/woman_gesturing_ok_color_medium-dark.svg';
   /// 🙆🏿‍♀️ woman gesturing OK
-  final String womanGesturingOKDark = 'assets/woman_gesturing_ok_color_dark.svg';
+  final String womanGesturingOkDark = 'assets/woman_gesturing_ok_color_dark.svg';
 
   /// 💇‍♀️ woman getting haircut
   final String womanGettingHaircut = 'assets/woman_getting_haircut_color_default.svg';

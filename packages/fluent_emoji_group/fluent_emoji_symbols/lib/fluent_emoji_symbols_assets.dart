@@ -7,10 +7,10 @@ class FluentEmojiSymbolsAssets {
   final String aButtonBloodType = 'assets/a_button_blood_type_color.svg';
 
   /// 🆎 AB button (blood type)
-  final String aBButtonBloodType = 'assets/ab_button_blood_type_color.svg';
+  final String abButtonBloodType = 'assets/ab_button_blood_type_color.svg';
 
   /// 🏧 ATM sign
-  final String aTMSign = 'assets/atm_sign_color.svg';
+  final String atmSign = 'assets/atm_sign_color.svg';
 
   /// ♒ Aquarius
   final String aquarius = 'assets/aquarius_color.svg';
@@ -22,13 +22,13 @@ class FluentEmojiSymbolsAssets {
   final String bButtonBloodType = 'assets/b_button_blood_type_color.svg';
 
   /// 🔙 BACK arrow
-  final String bACKArrow = 'assets/back_arrow_color.svg';
+  final String backArrow = 'assets/back_arrow_color.svg';
 
   /// 🆑 CL button
-  final String cLButton = 'assets/cl_button_color.svg';
+  final String clButton = 'assets/cl_button_color.svg';
 
   /// 🆒 COOL button
-  final String cOOLButton = 'assets/cool_button_color.svg';
+  final String coolButton = 'assets/cool_button_color.svg';
 
   /// ♋ Cancer
   final String cancer = 'assets/cancer_color.svg';
@@ -37,16 +37,16 @@ class FluentEmojiSymbolsAssets {
   final String capricorn = 'assets/capricorn_color.svg';
 
   /// 🔚 END arrow
-  final String eNDArrow = 'assets/end_arrow_color.svg';
+  final String endArrow = 'assets/end_arrow_color.svg';
 
   /// 🆓 FREE button
-  final String fREEButton = 'assets/free_button_color.svg';
+  final String freeButton = 'assets/free_button_color.svg';
 
   /// ♊ Gemini
   final String gemini = 'assets/gemini_color.svg';
 
   /// 🆔 ID button
-  final String iDButton = 'assets/id_button_color.svg';
+  final String idButton = 'assets/id_button_color.svg';
 
   /// 🔰 Japanese symbol for beginner
   final String japaneseSymbolForBeginner = 'assets/japanese_symbol_for_beginner_color.svg';
@@ -109,19 +109,19 @@ class FluentEmojiSymbolsAssets {
   final String libra = 'assets/libra_color.svg';
 
   /// 🆕 NEW button
-  final String nEWButton = 'assets/new_button_color.svg';
+  final String newButton = 'assets/new_button_color.svg';
 
   /// 🆖 NG button
-  final String nGButton = 'assets/ng_button_color.svg';
+  final String ngButton = 'assets/ng_button_color.svg';
 
   /// 🅾️ O button (blood type)
   final String oButtonBloodType = 'assets/o_button_(blood_type)_color.svg';
 
   /// 🆗 OK button
-  final String oKButton = 'assets/ok_button_color.svg';
+  final String okButton = 'assets/ok_button_color.svg';
 
   /// 🔛 ON! arrow
-  final String oNArrow = 'assets/on!_arrow_color.svg';
+  final String onArrow = 'assets/on!_arrow_color.svg';
 
   /// ⛎ Ophiuchus
   final String ophiuchus = 'assets/ophiuchus_color.svg';
@@ -133,10 +133,10 @@ class FluentEmojiSymbolsAssets {
   final String pisces = 'assets/pisces_color.svg';
 
   /// 🔜 SOON arrow
-  final String sOONArrow = 'assets/soon_arrow_color.svg';
+  final String soonArrow = 'assets/soon_arrow_color.svg';
 
   /// 🆘 SOS button
-  final String sOSButton = 'assets/sos_button_color.svg';
+  final String sosButton = 'assets/sos_button_color.svg';
 
   /// ♐ Sagittarius
   final String sagittarius = 'assets/sagittarius_color.svg';
@@ -145,16 +145,16 @@ class FluentEmojiSymbolsAssets {
   final String scorpio = 'assets/scorpio_color.svg';
 
   /// 🔝 TOP arrow
-  final String tOPArrow = 'assets/top_arrow_color.svg';
+  final String topArrow = 'assets/top_arrow_color.svg';
 
   /// ♉ Taurus
   final String taurus = 'assets/taurus_color.svg';
 
   /// 🆙 UP! button
-  final String uPButton = 'assets/up!_button_color.svg';
+  final String upButton = 'assets/up!_button_color.svg';
 
   /// 🆚 VS button
-  final String vSButton = 'assets/vs_button_color.svg';
+  final String vsButton = 'assets/vs_button_color.svg';
 
   /// ♍ Virgo
   final String virgo = 'assets/virgo_color.svg';

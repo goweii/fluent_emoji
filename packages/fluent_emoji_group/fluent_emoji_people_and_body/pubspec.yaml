@@ -1,0 +1,24 @@
+name: fluent_emoji_people_and_body
+description: "A new Flutter package project."
+version: 0.0.1
+homepage: https://github.com/goweii/fluent_emoji
+
+environment:
+  sdk: ^3.7.0
+  flutter: ">=1.17.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  fluent_emoji_base:
+    path: ../../fluent_emoji_base/
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^5.0.0
+
+flutter:
+  assets:
+    - assets/

@@ -1,6 +1,4 @@
-library;
-
-import 'package:fluent_emoji_update_tools/src/fluent_emoji_generater.dart';
+import 'package:fluent_emoji_update_tools/src/generater/fluent_emoji_generater.dart';
 
 class FluentEmojiUpdateTools {
   static Future<void> update() async {
