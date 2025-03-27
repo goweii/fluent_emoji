@@ -6,8 +6,8 @@ import 'package:path/path.dart' as path;
 
 import 'fluent_emoji.dart';
 
-class FluentEmojiCodeCreator {
-  const FluentEmojiCodeCreator({required this.packageDirPath, required this.emojiGroup});
+class FluentEmojiGroupCodeCreator {
+  const FluentEmojiGroupCodeCreator({required this.packageDirPath, required this.emojiGroup});
 
   final String packageDirPath;
   final FluentEmojiGroup emojiGroup;

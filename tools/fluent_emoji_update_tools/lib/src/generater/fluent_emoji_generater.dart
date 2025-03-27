@@ -1,7 +1,8 @@
 import 'dart:io';
 
+import 'package:fluent_emoji_update_tools/src/generater/fluent_emoji_all_code_creator.dart';
 import 'package:fluent_emoji_update_tools/src/generater/fluent_emoji_assets_copier.dart';
-import 'package:fluent_emoji_update_tools/src/generater/fluent_emoji_code_creator.dart';
+import 'package:fluent_emoji_update_tools/src/generater/fluent_emoji_group_code_creator.dart';
 import 'package:path/path.dart' as path;
 
 import 'fluent_emoji_parser.dart';
@@ -40,56 +41,16 @@ class FluentEmojiGenerater {
         emojiGroup: emojiGroup,
       ).copy();
 
-      await FluentEmojiCodeCreator(
+      await FluentEmojiGroupCodeCreator(
         packageDirPath: packageDirPath,
         emojiGroup: emojiGroup,
       ).create();
     }
 
-    final fluentEmojiDirPath = path.join(packagesDirPath, 'fluent_emoji');
-    final packageName = path.basename(fluentEmojiDirPath);
-
-    print('[$packageName] Create dart code');
-
-    final libDirPath = path.join(fluentEmojiDirPath, 'lib');
-    final libDir = Directory(libDirPath);
-    if (!libDir.existsSync()) {
-      libDir.createSync(recursive: true);
-    }
-
-    final dartFileName = packageName;
-    final dartFilePath = path.join(libDirPath, '$dartFileName.dart');
-    final dartFile = File(dartFilePath);
-
-    final className = 'FluentEmojiAll';
-
-    final buffer = StringBuffer();
-
-    buffer.writeln("export '$dartFileName.dart';");
-    buffer.writeln();
-    buffer.writeln("import 'package:fluent_emoji_base/fluent_emoji_base.dart';");
-    for (var emojiGroup in emojiGroupList) {
-      final packageName = 'fluent_emoji_${emojiGroup.nameSnakeCase}';
-      buffer.writeln("import 'package:$packageName/$packageName.dart';");
-    }
-    buffer.writeln();
-    buffer.writeln('extension ${className}Ext on FluentEmojisBase {');
-    buffer.writeln('  $className get all => $className.instance;');
-    buffer.writeln('}');
-    buffer.writeln();
-    buffer.writeln('class $className {');
-    buffer.writeln('  static final instance = $className._();');
-    buffer.writeln();
-    buffer.writeln('  $className._();');
-    buffer.writeln();
-    buffer.writeln('  late final Map<String, FluentEmojiData> allEmojis = {');
-    for (var emojiGroup in emojiGroupList) {
-      buffer.writeln('    ...FluentEmoji${emojiGroup.nameCamelCase}.instance.allEmojis,');
-    }
-    buffer.writeln('  };');
-    buffer.writeln('}');
-
-    dartFile.writeAsString(buffer.toString());
+    await FluentEmojiAllCodeCreator(
+      packageDirPath: path.join(packagesDirPath, 'fluent_emoji'),
+      emojiGroupList: emojiGroupList,
+    ).create();
   }
 
   Future<String> _findPackagesRootDir() async {
