@@ -10,12 +10,11 @@ class FluentEmojiAllCodeCreator {
   final List<FluentEmojiGroup> emojiGroupList;
 
   Future<void> create() async {
-    final fluentEmojiDirPath = path.join(packageDirPath, 'fluent_emoji');
-    final packageName = path.basename(fluentEmojiDirPath);
+    final packageName = path.basename(packageDirPath);
 
     print('[$packageName] Create dart code');
 
-    final libDirPath = path.join(fluentEmojiDirPath, 'lib');
+    final libDirPath = path.join(packageDirPath, 'lib');
     final libDir = Directory(libDirPath);
     if (!libDir.existsSync()) {
       libDir.createSync(recursive: true);
