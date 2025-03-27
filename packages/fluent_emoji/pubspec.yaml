@@ -11,6 +11,8 @@ dependencies:
   flutter:
     sdk: flutter
 
+  fluent_emoji_base:
+    path: ../fluent_emoji_base
   fluent_emoji_activities:
     path: ../fluent_emoji_group/fluent_emoji_activities
   fluent_emoji_animals_and_nature:
