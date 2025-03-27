@@ -7,10 +7,7 @@ import 'package:path/path.dart' as path;
 import 'fluent_emoji.dart';
 
 class FluentEmojiCodeCreator {
-  const FluentEmojiCodeCreator({
-    required this.packageDirPath,
-    required this.emojiGroup,
-  });
+  const FluentEmojiCodeCreator({required this.packageDirPath, required this.emojiGroup});
 
   final String packageDirPath;
   final FluentEmojiGroup emojiGroup;
@@ -25,8 +22,6 @@ class FluentEmojiCodeCreator {
     if (!libDir.existsSync()) {
       libDir.createSync(recursive: true);
     }
-
-    // File(path.join(libDirPath, '${packageName}_assets.dart')).deleteSync();
 
     final dartFileName = packageName;
     final dartFilePath = path.join(libDirPath, '${dartFileName}.dart');
@@ -62,11 +57,7 @@ class FluentEmojiCodeCreator {
 
     buffer.writeln('  late final Map<String, FluentEmojiData> allEmojis = {');
 
-    void writeFieldLine(
-      SingleFluentEmoji emoji, {
-      String? perfix,
-      String? subfix,
-    }) {
+    void writeFieldLine(SingleFluentEmoji emoji, {String? perfix, String? subfix}) {
       var fieldName = emoji.nameLowerCase;
       if (perfix != null) {
         fieldName = perfix + fieldName;
@@ -103,11 +94,7 @@ class FluentEmojiCodeCreator {
   String _buildEmojiFields() {
     final buffer = StringBuffer();
 
-    void writeSingleFieldLine(
-      SingleFluentEmoji emoji, {
-      String? perfix,
-      String? subfix,
-    }) {
+    void writeSingleFieldLine(SingleFluentEmoji emoji, {String? perfix, String? subfix}) {
       var fieldName = emoji.nameLowerCase;
       if (perfix != null) {
         fieldName = perfix + fieldName;
