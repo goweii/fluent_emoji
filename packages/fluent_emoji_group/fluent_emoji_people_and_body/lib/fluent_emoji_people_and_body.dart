@@ -1915,6 +1915,7 @@ class FluentEmojiPeopleAndBody {
   /// Medium Dark [_mrsClausMediumDark]
   /// Dark [_mrsClausDark]
   late final SkinToneFluentEmojiData mrsClaus = SkinToneFluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'Mrs. Claus',
     glyph: '🤶',
@@ -1928,47 +1929,52 @@ class FluentEmojiPeopleAndBody {
 
   /// 🤶🏻 Mrs. Claus
   final FluentEmojiData _mrsClausLight = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'Mrs. Claus',
     glyph: '🤶🏻',
     svgPath: 'assets/mrs_claus_color_light.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.light,
   );
 
   /// 🤶🏼 Mrs. Claus
   final FluentEmojiData _mrsClausMediumLight = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'Mrs. Claus',
     glyph: '🤶🏼',
     svgPath: 'assets/mrs_claus_color_medium-light.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.mediumLight,
   );
 
   /// 🤶🏽 Mrs. Claus
   final FluentEmojiData _mrsClausMedium = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'Mrs. Claus',
     glyph: '🤶🏽',
     svgPath: 'assets/mrs_claus_color_medium.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.medium,
   );
 
   /// 🤶🏾 Mrs. Claus
   final FluentEmojiData _mrsClausMediumDark = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'Mrs. Claus',
     glyph: '🤶🏾',
     svgPath: 'assets/mrs_claus_color_medium-dark.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.mediumDark,
   );
 
   /// 🤶🏿 Mrs. Claus
   final FluentEmojiData _mrsClausDark = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'Mrs. Claus',
     glyph: '🤶🏿',
     svgPath: 'assets/mrs_claus_color_dark.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.dark,
   );
 
   /// 👌 OK hand
@@ -1979,6 +1985,7 @@ class FluentEmojiPeopleAndBody {
   /// Medium Dark [_okHandMediumDark]
   /// Dark [_okHandDark]
   late final SkinToneFluentEmojiData okHand = SkinToneFluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'OK hand',
     glyph: '👌',
@@ -1992,47 +1999,52 @@ class FluentEmojiPeopleAndBody {
 
   /// 👌🏻 OK hand
   final FluentEmojiData _okHandLight = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'OK hand',
     glyph: '👌🏻',
     svgPath: 'assets/ok_hand_color_light.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.light,
   );
 
   /// 👌🏼 OK hand
   final FluentEmojiData _okHandMediumLight = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'OK hand',
     glyph: '👌🏼',
     svgPath: 'assets/ok_hand_color_medium-light.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.mediumLight,
   );
 
   /// 👌🏽 OK hand
   final FluentEmojiData _okHandMedium = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'OK hand',
     glyph: '👌🏽',
     svgPath: 'assets/ok_hand_color_medium.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.medium,
   );
 
   /// 👌🏾 OK hand
   final FluentEmojiData _okHandMediumDark = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'OK hand',
     glyph: '👌🏾',
     svgPath: 'assets/ok_hand_color_medium-dark.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.mediumDark,
   );
 
   /// 👌🏿 OK hand
   final FluentEmojiData _okHandDark = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'OK hand',
     glyph: '👌🏿',
     svgPath: 'assets/ok_hand_color_dark.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.dark,
   );
 
   /// 🎅 Santa Claus
@@ -2043,6 +2055,7 @@ class FluentEmojiPeopleAndBody {
   /// Medium Dark [_santaClausMediumDark]
   /// Dark [_santaClausDark]
   late final SkinToneFluentEmojiData santaClaus = SkinToneFluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'Santa Claus',
     glyph: '🎅',
@@ -2056,56 +2069,62 @@ class FluentEmojiPeopleAndBody {
 
   /// 🎅🏻 Santa Claus
   final FluentEmojiData _santaClausLight = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'Santa Claus',
     glyph: '🎅🏻',
     svgPath: 'assets/santa_claus_color_light.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.light,
   );
 
   /// 🎅🏼 Santa Claus
   final FluentEmojiData _santaClausMediumLight = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'Santa Claus',
     glyph: '🎅🏼',
     svgPath: 'assets/santa_claus_color_medium-light.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.mediumLight,
   );
 
   /// 🎅🏽 Santa Claus
   final FluentEmojiData _santaClausMedium = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'Santa Claus',
     glyph: '🎅🏽',
     svgPath: 'assets/santa_claus_color_medium.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.medium,
   );
 
   /// 🎅🏾 Santa Claus
   final FluentEmojiData _santaClausMediumDark = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'Santa Claus',
     glyph: '🎅🏾',
     svgPath: 'assets/santa_claus_color_medium-dark.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.mediumDark,
   );
 
   /// 🎅🏿 Santa Claus
   final FluentEmojiData _santaClausDark = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'Santa Claus',
     glyph: '🎅🏿',
     svgPath: 'assets/santa_claus_color_dark.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.dark,
   );
 
   /// 🫀 anatomical heart
   final FluentEmojiData anatomicalHeart = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'anatomical heart',
     glyph: '🫀',
     svgPath: 'assets/anatomical_heart_color.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.standard,
   );
 
   /// 🧑‍🎨 artist
@@ -2116,6 +2135,7 @@ class FluentEmojiPeopleAndBody {
   /// Medium Dark [_artistMediumDark]
   /// Dark [_artistDark]
   late final SkinToneFluentEmojiData artist = SkinToneFluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'artist',
     glyph: '🧑‍🎨',
@@ -2129,47 +2149,52 @@ class FluentEmojiPeopleAndBody {
 
   /// 🧑🏻‍🎨 artist
   final FluentEmojiData _artistLight = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'artist',
     glyph: '🧑🏻‍🎨',
     svgPath: 'assets/artist_color_light.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.light,
   );
 
   /// 🧑🏼‍🎨 artist
   final FluentEmojiData _artistMediumLight = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'artist',
     glyph: '🧑🏼‍🎨',
     svgPath: 'assets/artist_color_medium-light.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.mediumLight,
   );
 
   /// 🧑🏽‍🎨 artist
   final FluentEmojiData _artistMedium = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'artist',
     glyph: '🧑🏽‍🎨',
     svgPath: 'assets/artist_color_medium.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.medium,
   );
 
   /// 🧑🏾‍🎨 artist
   final FluentEmojiData _artistMediumDark = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'artist',
     glyph: '🧑🏾‍🎨',
     svgPath: 'assets/artist_color_medium-dark.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.mediumDark,
   );
 
   /// 🧑🏿‍🎨 artist
   final FluentEmojiData _artistDark = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'artist',
     glyph: '🧑🏿‍🎨',
     svgPath: 'assets/artist_color_dark.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.dark,
   );
 
   /// 🧑‍🚀 astronaut
@@ -2180,6 +2205,7 @@ class FluentEmojiPeopleAndBody {
   /// Medium Dark [_astronautMediumDark]
   /// Dark [_astronautDark]
   late final SkinToneFluentEmojiData astronaut = SkinToneFluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'astronaut',
     glyph: '🧑‍🚀',
@@ -2193,47 +2219,52 @@ class FluentEmojiPeopleAndBody {
 
   /// 🧑🏻‍🚀 astronaut
   final FluentEmojiData _astronautLight = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'astronaut',
     glyph: '🧑🏻‍🚀',
     svgPath: 'assets/astronaut_color_light.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.light,
   );
 
   /// 🧑🏼‍🚀 astronaut
   final FluentEmojiData _astronautMediumLight = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'astronaut',
     glyph: '🧑🏼‍🚀',
     svgPath: 'assets/astronaut_color_medium-light.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.mediumLight,
   );
 
   /// 🧑🏽‍🚀 astronaut
   final FluentEmojiData _astronautMedium = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'astronaut',
     glyph: '🧑🏽‍🚀',
     svgPath: 'assets/astronaut_color_medium.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.medium,
   );
 
   /// 🧑🏾‍🚀 astronaut
   final FluentEmojiData _astronautMediumDark = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'astronaut',
     glyph: '🧑🏾‍🚀',
     svgPath: 'assets/astronaut_color_medium-dark.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.mediumDark,
   );
 
   /// 🧑🏿‍🚀 astronaut
   final FluentEmojiData _astronautDark = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'astronaut',
     glyph: '🧑🏿‍🚀',
     svgPath: 'assets/astronaut_color_dark.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.dark,
   );
 
   /// 👶 baby
@@ -2244,6 +2275,7 @@ class FluentEmojiPeopleAndBody {
   /// Medium Dark [_babyMediumDark]
   /// Dark [_babyDark]
   late final SkinToneFluentEmojiData baby = SkinToneFluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'baby',
     glyph: '👶',
@@ -2257,47 +2289,52 @@ class FluentEmojiPeopleAndBody {
 
   /// 👶🏻 baby
   final FluentEmojiData _babyLight = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'baby',
     glyph: '👶🏻',
     svgPath: 'assets/baby_color_light.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.light,
   );
 
   /// 👶🏼 baby
   final FluentEmojiData _babyMediumLight = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'baby',
     glyph: '👶🏼',
     svgPath: 'assets/baby_color_medium-light.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.mediumLight,
   );
 
   /// 👶🏽 baby
   final FluentEmojiData _babyMedium = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'baby',
     glyph: '👶🏽',
     svgPath: 'assets/baby_color_medium.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.medium,
   );
 
   /// 👶🏾 baby
   final FluentEmojiData _babyMediumDark = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'baby',
     glyph: '👶🏾',
     svgPath: 'assets/baby_color_medium-dark.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.mediumDark,
   );
 
   /// 👶🏿 baby
   final FluentEmojiData _babyDark = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'baby',
     glyph: '👶🏿',
     svgPath: 'assets/baby_color_dark.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.dark,
   );
 
   /// 👼 baby angel
@@ -2308,6 +2345,7 @@ class FluentEmojiPeopleAndBody {
   /// Medium Dark [_babyAngelMediumDark]
   /// Dark [_babyAngelDark]
   late final SkinToneFluentEmojiData babyAngel = SkinToneFluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'baby angel',
     glyph: '👼',
@@ -2321,47 +2359,52 @@ class FluentEmojiPeopleAndBody {
 
   /// 👼🏻 baby angel
   final FluentEmojiData _babyAngelLight = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'baby angel',
     glyph: '👼🏻',
     svgPath: 'assets/baby_angel_color_light.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.light,
   );
 
   /// 👼🏼 baby angel
   final FluentEmojiData _babyAngelMediumLight = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'baby angel',
     glyph: '👼🏼',
     svgPath: 'assets/baby_angel_color_medium-light.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.mediumLight,
   );
 
   /// 👼🏽 baby angel
   final FluentEmojiData _babyAngelMedium = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'baby angel',
     glyph: '👼🏽',
     svgPath: 'assets/baby_angel_color_medium.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.medium,
   );
 
   /// 👼🏾 baby angel
   final FluentEmojiData _babyAngelMediumDark = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'baby angel',
     glyph: '👼🏾',
     svgPath: 'assets/baby_angel_color_medium-dark.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.mediumDark,
   );
 
   /// 👼🏿 baby angel
   final FluentEmojiData _babyAngelDark = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'baby angel',
     glyph: '👼🏿',
     svgPath: 'assets/baby_angel_color_dark.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.dark,
   );
 
   /// 👇 backhand index pointing down
@@ -2372,6 +2415,7 @@ class FluentEmojiPeopleAndBody {
   /// Medium Dark [_backhandIndexPointingDownMediumDark]
   /// Dark [_backhandIndexPointingDownDark]
   late final SkinToneFluentEmojiData backhandIndexPointingDown = SkinToneFluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'backhand index pointing down',
     glyph: '👇',
@@ -2385,47 +2429,52 @@ class FluentEmojiPeopleAndBody {
 
   /// 👇🏻 backhand index pointing down
   final FluentEmojiData _backhandIndexPointingDownLight = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'backhand index pointing down',
     glyph: '👇🏻',
     svgPath: 'assets/backhand_index_pointing_down_color_light.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.light,
   );
 
   /// 👇🏼 backhand index pointing down
   final FluentEmojiData _backhandIndexPointingDownMediumLight = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'backhand index pointing down',
     glyph: '👇🏼',
     svgPath: 'assets/backhand_index_pointing_down_color_medium-light.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.mediumLight,
   );
 
   /// 👇🏽 backhand index pointing down
   final FluentEmojiData _backhandIndexPointingDownMedium = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'backhand index pointing down',
     glyph: '👇🏽',
     svgPath: 'assets/backhand_index_pointing_down_color_medium.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.medium,
   );
 
   /// 👇🏾 backhand index pointing down
   final FluentEmojiData _backhandIndexPointingDownMediumDark = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'backhand index pointing down',
     glyph: '👇🏾',
     svgPath: 'assets/backhand_index_pointing_down_color_medium-dark.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.mediumDark,
   );
 
   /// 👇🏿 backhand index pointing down
   final FluentEmojiData _backhandIndexPointingDownDark = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'backhand index pointing down',
     glyph: '👇🏿',
     svgPath: 'assets/backhand_index_pointing_down_color_dark.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.dark,
   );
 
   /// 👈 backhand index pointing left
@@ -2436,6 +2485,7 @@ class FluentEmojiPeopleAndBody {
   /// Medium Dark [_backhandIndexPointingLeftMediumDark]
   /// Dark [_backhandIndexPointingLeftDark]
   late final SkinToneFluentEmojiData backhandIndexPointingLeft = SkinToneFluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'backhand index pointing left',
     glyph: '👈',
@@ -2449,47 +2499,52 @@ class FluentEmojiPeopleAndBody {
 
   /// 👈🏻 backhand index pointing left
   final FluentEmojiData _backhandIndexPointingLeftLight = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'backhand index pointing left',
     glyph: '👈🏻',
     svgPath: 'assets/backhand_index_pointing_left_color_light.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.light,
   );
 
   /// 👈🏼 backhand index pointing left
   final FluentEmojiData _backhandIndexPointingLeftMediumLight = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'backhand index pointing left',
     glyph: '👈🏼',
     svgPath: 'assets/backhand_index_pointing_left_color_medium-light.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.mediumLight,
   );
 
   /// 👈🏽 backhand index pointing left
   final FluentEmojiData _backhandIndexPointingLeftMedium = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'backhand index pointing left',
     glyph: '👈🏽',
     svgPath: 'assets/backhand_index_pointing_left_color_medium.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.medium,
   );
 
   /// 👈🏾 backhand index pointing left
   final FluentEmojiData _backhandIndexPointingLeftMediumDark = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'backhand index pointing left',
     glyph: '👈🏾',
     svgPath: 'assets/backhand_index_pointing_left_color_medium-dark.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.mediumDark,
   );
 
   /// 👈🏿 backhand index pointing left
   final FluentEmojiData _backhandIndexPointingLeftDark = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'backhand index pointing left',
     glyph: '👈🏿',
     svgPath: 'assets/backhand_index_pointing_left_color_dark.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.dark,
   );
 
   /// 👉 backhand index pointing right
@@ -2500,6 +2555,7 @@ class FluentEmojiPeopleAndBody {
   /// Medium Dark [_backhandIndexPointingRightMediumDark]
   /// Dark [_backhandIndexPointingRightDark]
   late final SkinToneFluentEmojiData backhandIndexPointingRight = SkinToneFluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'backhand index pointing right',
     glyph: '👉',
@@ -2513,47 +2569,52 @@ class FluentEmojiPeopleAndBody {
 
   /// 👉🏻 backhand index pointing right
   final FluentEmojiData _backhandIndexPointingRightLight = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'backhand index pointing right',
     glyph: '👉🏻',
     svgPath: 'assets/backhand_index_pointing_right_color_light.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.light,
   );
 
   /// 👉🏼 backhand index pointing right
   final FluentEmojiData _backhandIndexPointingRightMediumLight = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'backhand index pointing right',
     glyph: '👉🏼',
     svgPath: 'assets/backhand_index_pointing_right_color_medium-light.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.mediumLight,
   );
 
   /// 👉🏽 backhand index pointing right
   final FluentEmojiData _backhandIndexPointingRightMedium = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'backhand index pointing right',
     glyph: '👉🏽',
     svgPath: 'assets/backhand_index_pointing_right_color_medium.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.medium,
   );
 
   /// 👉🏾 backhand index pointing right
   final FluentEmojiData _backhandIndexPointingRightMediumDark = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'backhand index pointing right',
     glyph: '👉🏾',
     svgPath: 'assets/backhand_index_pointing_right_color_medium-dark.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.mediumDark,
   );
 
   /// 👉🏿 backhand index pointing right
   final FluentEmojiData _backhandIndexPointingRightDark = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'backhand index pointing right',
     glyph: '👉🏿',
     svgPath: 'assets/backhand_index_pointing_right_color_dark.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.dark,
   );
 
   /// 👆 backhand index pointing up
@@ -2564,6 +2625,7 @@ class FluentEmojiPeopleAndBody {
   /// Medium Dark [_backhandIndexPointingUpMediumDark]
   /// Dark [_backhandIndexPointingUpDark]
   late final SkinToneFluentEmojiData backhandIndexPointingUp = SkinToneFluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'backhand index pointing up',
     glyph: '👆',
@@ -2577,65 +2639,72 @@ class FluentEmojiPeopleAndBody {
 
   /// 👆🏻 backhand index pointing up
   final FluentEmojiData _backhandIndexPointingUpLight = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'backhand index pointing up',
     glyph: '👆🏻',
     svgPath: 'assets/backhand_index_pointing_up_color_light.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.light,
   );
 
   /// 👆🏼 backhand index pointing up
   final FluentEmojiData _backhandIndexPointingUpMediumLight = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'backhand index pointing up',
     glyph: '👆🏼',
     svgPath: 'assets/backhand_index_pointing_up_color_medium-light.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.mediumLight,
   );
 
   /// 👆🏽 backhand index pointing up
   final FluentEmojiData _backhandIndexPointingUpMedium = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'backhand index pointing up',
     glyph: '👆🏽',
     svgPath: 'assets/backhand_index_pointing_up_color_medium.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.medium,
   );
 
   /// 👆🏾 backhand index pointing up
   final FluentEmojiData _backhandIndexPointingUpMediumDark = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'backhand index pointing up',
     glyph: '👆🏾',
     svgPath: 'assets/backhand_index_pointing_up_color_medium-dark.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.mediumDark,
   );
 
   /// 👆🏿 backhand index pointing up
   final FluentEmojiData _backhandIndexPointingUpDark = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'backhand index pointing up',
     glyph: '👆🏿',
     svgPath: 'assets/backhand_index_pointing_up_color_dark.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.dark,
   );
 
   /// 🫦 biting lip
   final FluentEmojiData bitingLip = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'biting lip',
     glyph: '🫦',
     svgPath: 'assets/biting_lip_color.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.standard,
   );
 
   /// 🦴 bone
   final FluentEmojiData bone = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'bone',
     glyph: '🦴',
     svgPath: 'assets/bone_color.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.standard,
   );
 
   /// 👦 boy
@@ -2646,6 +2715,7 @@ class FluentEmojiPeopleAndBody {
   /// Medium Dark [_boyMediumDark]
   /// Dark [_boyDark]
   late final SkinToneFluentEmojiData boy = SkinToneFluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'boy',
     glyph: '👦',
@@ -2659,56 +2729,62 @@ class FluentEmojiPeopleAndBody {
 
   /// 👦🏻 boy
   final FluentEmojiData _boyLight = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'boy',
     glyph: '👦🏻',
     svgPath: 'assets/boy_color_light.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.light,
   );
 
   /// 👦🏼 boy
   final FluentEmojiData _boyMediumLight = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'boy',
     glyph: '👦🏼',
     svgPath: 'assets/boy_color_medium-light.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.mediumLight,
   );
 
   /// 👦🏽 boy
   final FluentEmojiData _boyMedium = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'boy',
     glyph: '👦🏽',
     svgPath: 'assets/boy_color_medium.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.medium,
   );
 
   /// 👦🏾 boy
   final FluentEmojiData _boyMediumDark = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'boy',
     glyph: '👦🏾',
     svgPath: 'assets/boy_color_medium-dark.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.mediumDark,
   );
 
   /// 👦🏿 boy
   final FluentEmojiData _boyDark = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'boy',
     glyph: '👦🏿',
     svgPath: 'assets/boy_color_dark.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.dark,
   );
 
   /// 🧠 brain
   final FluentEmojiData brain = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'brain',
     glyph: '🧠',
     svgPath: 'assets/brain_color.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.standard,
   );
 
   /// 🤱 breast-feeding
@@ -2719,6 +2795,7 @@ class FluentEmojiPeopleAndBody {
   /// Medium Dark [_breastFeedingMediumDark]
   /// Dark [_breastFeedingDark]
   late final SkinToneFluentEmojiData breastFeeding = SkinToneFluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'breast-feeding',
     glyph: '🤱',
@@ -2732,65 +2809,72 @@ class FluentEmojiPeopleAndBody {
 
   /// 🤱🏻 breast-feeding
   final FluentEmojiData _breastFeedingLight = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'breast-feeding',
     glyph: '🤱🏻',
     svgPath: 'assets/breast_feeding_color_light.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.light,
   );
 
   /// 🤱🏼 breast-feeding
   final FluentEmojiData _breastFeedingMediumLight = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'breast-feeding',
     glyph: '🤱🏼',
     svgPath: 'assets/breast_feeding_color_medium-light.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.mediumLight,
   );
 
   /// 🤱🏽 breast-feeding
   final FluentEmojiData _breastFeedingMedium = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'breast-feeding',
     glyph: '🤱🏽',
     svgPath: 'assets/breast_feeding_color_medium.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.medium,
   );
 
   /// 🤱🏾 breast-feeding
   final FluentEmojiData _breastFeedingMediumDark = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'breast-feeding',
     glyph: '🤱🏾',
     svgPath: 'assets/breast_feeding_color_medium-dark.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.mediumDark,
   );
 
   /// 🤱🏿 breast-feeding
   final FluentEmojiData _breastFeedingDark = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'breast-feeding',
     glyph: '🤱🏿',
     svgPath: 'assets/breast_feeding_color_dark.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.dark,
   );
 
   /// 👤 bust in silhouette
   final FluentEmojiData bustInSilhouette = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'bust in silhouette',
     glyph: '👤',
     svgPath: 'assets/bust_in_silhouette_color.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.standard,
   );
 
   /// 👥 busts in silhouette
   final FluentEmojiData bustsInSilhouette = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'busts in silhouette',
     glyph: '👥',
     svgPath: 'assets/busts_in_silhouette_color.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.standard,
   );
 
   /// 🤙 call me hand
@@ -2801,6 +2885,7 @@ class FluentEmojiPeopleAndBody {
   /// Medium Dark [_callMeHandMediumDark]
   /// Dark [_callMeHandDark]
   late final SkinToneFluentEmojiData callMeHand = SkinToneFluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'call me hand',
     glyph: '🤙',
@@ -2814,47 +2899,52 @@ class FluentEmojiPeopleAndBody {
 
   /// 🤙🏻 call me hand
   final FluentEmojiData _callMeHandLight = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'call me hand',
     glyph: '🤙🏻',
     svgPath: 'assets/call_me_hand_color_light.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.light,
   );
 
   /// 🤙🏼 call me hand
   final FluentEmojiData _callMeHandMediumLight = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'call me hand',
     glyph: '🤙🏼',
     svgPath: 'assets/call_me_hand_color_medium-light.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.mediumLight,
   );
 
   /// 🤙🏽 call me hand
   final FluentEmojiData _callMeHandMedium = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'call me hand',
     glyph: '🤙🏽',
     svgPath: 'assets/call_me_hand_color_medium.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.medium,
   );
 
   /// 🤙🏾 call me hand
   final FluentEmojiData _callMeHandMediumDark = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'call me hand',
     glyph: '🤙🏾',
     svgPath: 'assets/call_me_hand_color_medium-dark.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.mediumDark,
   );
 
   /// 🤙🏿 call me hand
   final FluentEmojiData _callMeHandDark = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'call me hand',
     glyph: '🤙🏿',
     svgPath: 'assets/call_me_hand_color_dark.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.dark,
   );
 
   /// 🧒 child
@@ -2865,6 +2955,7 @@ class FluentEmojiPeopleAndBody {
   /// Medium Dark [_childMediumDark]
   /// Dark [_childDark]
   late final SkinToneFluentEmojiData child = SkinToneFluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'child',
     glyph: '🧒',
@@ -2878,47 +2969,52 @@ class FluentEmojiPeopleAndBody {
 
   /// 🧒🏻 child
   final FluentEmojiData _childLight = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'child',
     glyph: '🧒🏻',
     svgPath: 'assets/child_color_light.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.light,
   );
 
   /// 🧒🏼 child
   final FluentEmojiData _childMediumLight = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'child',
     glyph: '🧒🏼',
     svgPath: 'assets/child_color_medium-light.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.mediumLight,
   );
 
   /// 🧒🏽 child
   final FluentEmojiData _childMedium = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'child',
     glyph: '🧒🏽',
     svgPath: 'assets/child_color_medium.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.medium,
   );
 
   /// 🧒🏾 child
   final FluentEmojiData _childMediumDark = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'child',
     glyph: '🧒🏾',
     svgPath: 'assets/child_color_medium-dark.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.mediumDark,
   );
 
   /// 🧒🏿 child
   final FluentEmojiData _childDark = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'child',
     glyph: '🧒🏿',
     svgPath: 'assets/child_color_dark.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.dark,
   );
 
   /// 👏 clapping hands
@@ -2929,6 +3025,7 @@ class FluentEmojiPeopleAndBody {
   /// Medium Dark [_clappingHandsMediumDark]
   /// Dark [_clappingHandsDark]
   late final SkinToneFluentEmojiData clappingHands = SkinToneFluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'clapping hands',
     glyph: '👏',
@@ -2942,47 +3039,52 @@ class FluentEmojiPeopleAndBody {
 
   /// 👏🏻 clapping hands
   final FluentEmojiData _clappingHandsLight = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'clapping hands',
     glyph: '👏🏻',
     svgPath: 'assets/clapping_hands_color_light.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.light,
   );
 
   /// 👏🏼 clapping hands
   final FluentEmojiData _clappingHandsMediumLight = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'clapping hands',
     glyph: '👏🏼',
     svgPath: 'assets/clapping_hands_color_medium-light.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.mediumLight,
   );
 
   /// 👏🏽 clapping hands
   final FluentEmojiData _clappingHandsMedium = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'clapping hands',
     glyph: '👏🏽',
     svgPath: 'assets/clapping_hands_color_medium.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.medium,
   );
 
   /// 👏🏾 clapping hands
   final FluentEmojiData _clappingHandsMediumDark = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'clapping hands',
     glyph: '👏🏾',
     svgPath: 'assets/clapping_hands_color_medium-dark.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.mediumDark,
   );
 
   /// 👏🏿 clapping hands
   final FluentEmojiData _clappingHandsDark = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'clapping hands',
     glyph: '👏🏿',
     svgPath: 'assets/clapping_hands_color_dark.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.dark,
   );
 
   /// 👷 construction worker
@@ -2993,6 +3095,7 @@ class FluentEmojiPeopleAndBody {
   /// Medium Dark [_constructionWorkerMediumDark]
   /// Dark [_constructionWorkerDark]
   late final SkinToneFluentEmojiData constructionWorker = SkinToneFluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'construction worker',
     glyph: '👷',
@@ -3006,47 +3109,52 @@ class FluentEmojiPeopleAndBody {
 
   /// 👷🏻 construction worker
   final FluentEmojiData _constructionWorkerLight = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'construction worker',
     glyph: '👷🏻',
     svgPath: 'assets/construction_worker_color_light.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.light,
   );
 
   /// 👷🏼 construction worker
   final FluentEmojiData _constructionWorkerMediumLight = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'construction worker',
     glyph: '👷🏼',
     svgPath: 'assets/construction_worker_color_medium-light.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.mediumLight,
   );
 
   /// 👷🏽 construction worker
   final FluentEmojiData _constructionWorkerMedium = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'construction worker',
     glyph: '👷🏽',
     svgPath: 'assets/construction_worker_color_medium.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.medium,
   );
 
   /// 👷🏾 construction worker
   final FluentEmojiData _constructionWorkerMediumDark = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'construction worker',
     glyph: '👷🏾',
     svgPath: 'assets/construction_worker_color_medium-dark.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.mediumDark,
   );
 
   /// 👷🏿 construction worker
   final FluentEmojiData _constructionWorkerDark = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'construction worker',
     glyph: '👷🏿',
     svgPath: 'assets/construction_worker_color_dark.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.dark,
   );
 
   /// 🧑‍🍳 cook
@@ -3057,6 +3165,7 @@ class FluentEmojiPeopleAndBody {
   /// Medium Dark [_cookMediumDark]
   /// Dark [_cookDark]
   late final SkinToneFluentEmojiData cook = SkinToneFluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'cook',
     glyph: '🧑‍🍳',
@@ -3070,47 +3179,52 @@ class FluentEmojiPeopleAndBody {
 
   /// 🧑🏻‍🍳 cook
   final FluentEmojiData _cookLight = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'cook',
     glyph: '🧑🏻‍🍳',
     svgPath: 'assets/cook_color_light.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.light,
   );
 
   /// 🧑🏼‍🍳 cook
   final FluentEmojiData _cookMediumLight = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'cook',
     glyph: '🧑🏼‍🍳',
     svgPath: 'assets/cook_color_medium-light.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.mediumLight,
   );
 
   /// 🧑🏽‍🍳 cook
   final FluentEmojiData _cookMedium = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'cook',
     glyph: '🧑🏽‍🍳',
     svgPath: 'assets/cook_color_medium.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.medium,
   );
 
   /// 🧑🏾‍🍳 cook
   final FluentEmojiData _cookMediumDark = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'cook',
     glyph: '🧑🏾‍🍳',
     svgPath: 'assets/cook_color_medium-dark.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.mediumDark,
   );
 
   /// 🧑🏿‍🍳 cook
   final FluentEmojiData _cookDark = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'cook',
     glyph: '🧑🏿‍🍳',
     svgPath: 'assets/cook_color_dark.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.dark,
   );
 
   /// 🤞 crossed fingers
@@ -3121,6 +3235,7 @@ class FluentEmojiPeopleAndBody {
   /// Medium Dark [_crossedFingersMediumDark]
   /// Dark [_crossedFingersDark]
   late final SkinToneFluentEmojiData crossedFingers = SkinToneFluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'crossed fingers',
     glyph: '🤞',
@@ -3134,47 +3249,52 @@ class FluentEmojiPeopleAndBody {
 
   /// 🤞🏻 crossed fingers
   final FluentEmojiData _crossedFingersLight = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'crossed fingers',
     glyph: '🤞🏻',
     svgPath: 'assets/crossed_fingers_color_light.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.light,
   );
 
   /// 🤞🏼 crossed fingers
   final FluentEmojiData _crossedFingersMediumLight = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'crossed fingers',
     glyph: '🤞🏼',
     svgPath: 'assets/crossed_fingers_color_medium-light.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.mediumLight,
   );
 
   /// 🤞🏽 crossed fingers
   final FluentEmojiData _crossedFingersMedium = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'crossed fingers',
     glyph: '🤞🏽',
     svgPath: 'assets/crossed_fingers_color_medium.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.medium,
   );
 
   /// 🤞🏾 crossed fingers
   final FluentEmojiData _crossedFingersMediumDark = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'crossed fingers',
     glyph: '🤞🏾',
     svgPath: 'assets/crossed_fingers_color_medium-dark.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.mediumDark,
   );
 
   /// 🤞🏿 crossed fingers
   final FluentEmojiData _crossedFingersDark = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'crossed fingers',
     glyph: '🤞🏿',
     svgPath: 'assets/crossed_fingers_color_dark.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.dark,
   );
 
   /// 🧏‍♂️ deaf man
@@ -3185,6 +3305,7 @@ class FluentEmojiPeopleAndBody {
   /// Medium Dark [_deafManMediumDark]
   /// Dark [_deafManDark]
   late final SkinToneFluentEmojiData deafMan = SkinToneFluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'deaf man',
     glyph: '🧏‍♂️',
@@ -3198,47 +3319,52 @@ class FluentEmojiPeopleAndBody {
 
   /// 🧏🏻‍♂️ deaf man
   final FluentEmojiData _deafManLight = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'deaf man',
     glyph: '🧏🏻‍♂️',
     svgPath: 'assets/man_deaf_color_light.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.light,
   );
 
   /// 🧏🏼‍♂️ deaf man
   final FluentEmojiData _deafManMediumLight = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'deaf man',
     glyph: '🧏🏼‍♂️',
     svgPath: 'assets/man_deaf_color_medium-light.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.mediumLight,
   );
 
   /// 🧏🏽‍♂️ deaf man
   final FluentEmojiData _deafManMedium = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'deaf man',
     glyph: '🧏🏽‍♂️',
     svgPath: 'assets/man_deaf_color_medium.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.medium,
   );
 
   /// 🧏🏾‍♂️ deaf man
   final FluentEmojiData _deafManMediumDark = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'deaf man',
     glyph: '🧏🏾‍♂️',
     svgPath: 'assets/man_deaf_color_medium-dark.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.mediumDark,
   );
 
   /// 🧏🏿‍♂️ deaf man
   final FluentEmojiData _deafManDark = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'deaf man',
     glyph: '🧏🏿‍♂️',
     svgPath: 'assets/man_deaf_color_dark.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.dark,
   );
 
   /// 🧏 deaf person
@@ -3249,6 +3375,7 @@ class FluentEmojiPeopleAndBody {
   /// Medium Dark [_deafPersonMediumDark]
   /// Dark [_deafPersonDark]
   late final SkinToneFluentEmojiData deafPerson = SkinToneFluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'deaf person',
     glyph: '🧏',
@@ -3262,47 +3389,52 @@ class FluentEmojiPeopleAndBody {
 
   /// 🧏🏻 deaf person
   final FluentEmojiData _deafPersonLight = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'deaf person',
     glyph: '🧏🏻',
     svgPath: 'assets/person_deaf_color_light.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.light,
   );
 
   /// 🧏🏼 deaf person
   final FluentEmojiData _deafPersonMediumLight = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'deaf person',
     glyph: '🧏🏼',
     svgPath: 'assets/person_deaf_color_medium-light.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.mediumLight,
   );
 
   /// 🧏🏽 deaf person
   final FluentEmojiData _deafPersonMedium = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'deaf person',
     glyph: '🧏🏽',
     svgPath: 'assets/person_deaf_color_medium.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.medium,
   );
 
   /// 🧏🏾 deaf person
   final FluentEmojiData _deafPersonMediumDark = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'deaf person',
     glyph: '🧏🏾',
     svgPath: 'assets/person_deaf_color_medium-dark.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.mediumDark,
   );
 
   /// 🧏🏿 deaf person
   final FluentEmojiData _deafPersonDark = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'deaf person',
     glyph: '🧏🏿',
     svgPath: 'assets/person_deaf_color_dark.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.dark,
   );
 
   /// 🧏‍♀️ deaf woman
@@ -3313,6 +3445,7 @@ class FluentEmojiPeopleAndBody {
   /// Medium Dark [_deafWomanMediumDark]
   /// Dark [_deafWomanDark]
   late final SkinToneFluentEmojiData deafWoman = SkinToneFluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'deaf woman',
     glyph: '🧏‍♀️',
@@ -3326,47 +3459,52 @@ class FluentEmojiPeopleAndBody {
 
   /// 🧏🏻‍♀️ deaf woman
   final FluentEmojiData _deafWomanLight = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'deaf woman',
     glyph: '🧏🏻‍♀️',
     svgPath: 'assets/woman_deaf_color_light.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.light,
   );
 
   /// 🧏🏼‍♀️ deaf woman
   final FluentEmojiData _deafWomanMediumLight = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'deaf woman',
     glyph: '🧏🏼‍♀️',
     svgPath: 'assets/woman_deaf_color_medium-light.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.mediumLight,
   );
 
   /// 🧏🏽‍♀️ deaf woman
   final FluentEmojiData _deafWomanMedium = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'deaf woman',
     glyph: '🧏🏽‍♀️',
     svgPath: 'assets/woman_deaf_color_medium.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.medium,
   );
 
   /// 🧏🏾‍♀️ deaf woman
   final FluentEmojiData _deafWomanMediumDark = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'deaf woman',
     glyph: '🧏🏾‍♀️',
     svgPath: 'assets/woman_deaf_color_medium-dark.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.mediumDark,
   );
 
   /// 🧏🏿‍♀️ deaf woman
   final FluentEmojiData _deafWomanDark = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'deaf woman',
     glyph: '🧏🏿‍♀️',
     svgPath: 'assets/woman_deaf_color_dark.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.dark,
   );
 
   /// 🕵️ detective
@@ -3377,6 +3515,7 @@ class FluentEmojiPeopleAndBody {
   /// Medium Dark [_detectiveMediumDark]
   /// Dark [_detectiveDark]
   late final SkinToneFluentEmojiData detective = SkinToneFluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'detective',
     glyph: '🕵️',
@@ -3390,47 +3529,52 @@ class FluentEmojiPeopleAndBody {
 
   /// 🕵🏻 detective
   final FluentEmojiData _detectiveLight = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'detective',
     glyph: '🕵🏻',
     svgPath: 'assets/detective_color_light.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.light,
   );
 
   /// 🕵🏼 detective
   final FluentEmojiData _detectiveMediumLight = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'detective',
     glyph: '🕵🏼',
     svgPath: 'assets/detective_color_medium-light.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.mediumLight,
   );
 
   /// 🕵🏽 detective
   final FluentEmojiData _detectiveMedium = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'detective',
     glyph: '🕵🏽',
     svgPath: 'assets/detective_color_medium.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.medium,
   );
 
   /// 🕵🏾 detective
   final FluentEmojiData _detectiveMediumDark = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'detective',
     glyph: '🕵🏾',
     svgPath: 'assets/detective_color_medium-dark.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.mediumDark,
   );
 
   /// 🕵🏿 detective
   final FluentEmojiData _detectiveDark = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'detective',
     glyph: '🕵🏿',
     svgPath: 'assets/detective_color_dark.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.dark,
   );
 
   /// 👂 ear
@@ -3441,6 +3585,7 @@ class FluentEmojiPeopleAndBody {
   /// Medium Dark [_earMediumDark]
   /// Dark [_earDark]
   late final SkinToneFluentEmojiData ear = SkinToneFluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'ear',
     glyph: '👂',
@@ -3454,47 +3599,52 @@ class FluentEmojiPeopleAndBody {
 
   /// 👂🏻 ear
   final FluentEmojiData _earLight = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'ear',
     glyph: '👂🏻',
     svgPath: 'assets/ear_color_light.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.light,
   );
 
   /// 👂🏼 ear
   final FluentEmojiData _earMediumLight = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'ear',
     glyph: '👂🏼',
     svgPath: 'assets/ear_color_medium-light.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.mediumLight,
   );
 
   /// 👂🏽 ear
   final FluentEmojiData _earMedium = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'ear',
     glyph: '👂🏽',
     svgPath: 'assets/ear_color_medium.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.medium,
   );
 
   /// 👂🏾 ear
   final FluentEmojiData _earMediumDark = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'ear',
     glyph: '👂🏾',
     svgPath: 'assets/ear_color_medium-dark.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.mediumDark,
   );
 
   /// 👂🏿 ear
   final FluentEmojiData _earDark = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'ear',
     glyph: '👂🏿',
     svgPath: 'assets/ear_color_dark.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.dark,
   );
 
   /// 🦻 ear with hearing aid
@@ -3505,6 +3655,7 @@ class FluentEmojiPeopleAndBody {
   /// Medium Dark [_earWithHearingAidMediumDark]
   /// Dark [_earWithHearingAidDark]
   late final SkinToneFluentEmojiData earWithHearingAid = SkinToneFluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'ear with hearing aid',
     glyph: '🦻',
@@ -3518,47 +3669,52 @@ class FluentEmojiPeopleAndBody {
 
   /// 🦻🏻 ear with hearing aid
   final FluentEmojiData _earWithHearingAidLight = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'ear with hearing aid',
     glyph: '🦻🏻',
     svgPath: 'assets/ear_with_hearing_aid_color_light.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.light,
   );
 
   /// 🦻🏼 ear with hearing aid
   final FluentEmojiData _earWithHearingAidMediumLight = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'ear with hearing aid',
     glyph: '🦻🏼',
     svgPath: 'assets/ear_with_hearing_aid_color_medium-light.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.mediumLight,
   );
 
   /// 🦻🏽 ear with hearing aid
   final FluentEmojiData _earWithHearingAidMedium = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'ear with hearing aid',
     glyph: '🦻🏽',
     svgPath: 'assets/ear_with_hearing_aid_color_medium.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.medium,
   );
 
   /// 🦻🏾 ear with hearing aid
   final FluentEmojiData _earWithHearingAidMediumDark = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'ear with hearing aid',
     glyph: '🦻🏾',
     svgPath: 'assets/ear_with_hearing_aid_color_medium-dark.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.mediumDark,
   );
 
   /// 🦻🏿 ear with hearing aid
   final FluentEmojiData _earWithHearingAidDark = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'ear with hearing aid',
     glyph: '🦻🏿',
     svgPath: 'assets/ear_with_hearing_aid_color_dark.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.dark,
   );
 
   /// 🧝 elf
@@ -3569,6 +3725,7 @@ class FluentEmojiPeopleAndBody {
   /// Medium Dark [_elfMediumDark]
   /// Dark [_elfDark]
   late final SkinToneFluentEmojiData elf = SkinToneFluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'elf',
     glyph: '🧝',
@@ -3582,65 +3739,72 @@ class FluentEmojiPeopleAndBody {
 
   /// 🧝🏻 elf
   final FluentEmojiData _elfLight = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'elf',
     glyph: '🧝🏻',
     svgPath: 'assets/person_elf_color_light.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.light,
   );
 
   /// 🧝🏼 elf
   final FluentEmojiData _elfMediumLight = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'elf',
     glyph: '🧝🏼',
     svgPath: 'assets/person_elf_color_medium-light.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.mediumLight,
   );
 
   /// 🧝🏽 elf
   final FluentEmojiData _elfMedium = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'elf',
     glyph: '🧝🏽',
     svgPath: 'assets/person_elf_color_medium.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.medium,
   );
 
   /// 🧝🏾 elf
   final FluentEmojiData _elfMediumDark = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'elf',
     glyph: '🧝🏾',
     svgPath: 'assets/person_elf_color_medium-dark.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.mediumDark,
   );
 
   /// 🧝🏿 elf
   final FluentEmojiData _elfDark = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'elf',
     glyph: '🧝🏿',
     svgPath: 'assets/person_elf_color_dark.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.dark,
   );
 
   /// 👁️ eye
   final FluentEmojiData eye = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'eye',
     glyph: '👁️',
     svgPath: 'assets/eye_color.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.standard,
   );
 
   /// 👀 eyes
   final FluentEmojiData eyes = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'eyes',
     glyph: '👀',
     svgPath: 'assets/eyes_color.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.standard,
   );
 
   /// 🧑‍🏭 factory worker
@@ -3651,6 +3815,7 @@ class FluentEmojiPeopleAndBody {
   /// Medium Dark [_factoryWorkerMediumDark]
   /// Dark [_factoryWorkerDark]
   late final SkinToneFluentEmojiData factoryWorker = SkinToneFluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'factory worker',
     glyph: '🧑‍🏭',
@@ -3664,47 +3829,52 @@ class FluentEmojiPeopleAndBody {
 
   /// 🧑🏻‍🏭 factory worker
   final FluentEmojiData _factoryWorkerLight = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'factory worker',
     glyph: '🧑🏻‍🏭',
     svgPath: 'assets/factory_worker_color_light.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.light,
   );
 
   /// 🧑🏼‍🏭 factory worker
   final FluentEmojiData _factoryWorkerMediumLight = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'factory worker',
     glyph: '🧑🏼‍🏭',
     svgPath: 'assets/factory_worker_color_medium-light.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.mediumLight,
   );
 
   /// 🧑🏽‍🏭 factory worker
   final FluentEmojiData _factoryWorkerMedium = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'factory worker',
     glyph: '🧑🏽‍🏭',
     svgPath: 'assets/factory_worker_color_medium.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.medium,
   );
 
   /// 🧑🏾‍🏭 factory worker
   final FluentEmojiData _factoryWorkerMediumDark = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'factory worker',
     glyph: '🧑🏾‍🏭',
     svgPath: 'assets/factory_worker_color_medium-dark.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.mediumDark,
   );
 
   /// 🧑🏿‍🏭 factory worker
   final FluentEmojiData _factoryWorkerDark = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'factory worker',
     glyph: '🧑🏿‍🏭',
     svgPath: 'assets/factory_worker_color_dark.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.dark,
   );
 
   /// 🧚 fairy
@@ -3715,6 +3885,7 @@ class FluentEmojiPeopleAndBody {
   /// Medium Dark [_fairyMediumDark]
   /// Dark [_fairyDark]
   late final SkinToneFluentEmojiData fairy = SkinToneFluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'fairy',
     glyph: '🧚',
@@ -3728,47 +3899,52 @@ class FluentEmojiPeopleAndBody {
 
   /// 🧚🏻 fairy
   final FluentEmojiData _fairyLight = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'fairy',
     glyph: '🧚🏻',
     svgPath: 'assets/person_fairy_color_light.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.light,
   );
 
   /// 🧚🏼 fairy
   final FluentEmojiData _fairyMediumLight = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'fairy',
     glyph: '🧚🏼',
     svgPath: 'assets/person_fairy_color_medium-light.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.mediumLight,
   );
 
   /// 🧚🏽 fairy
   final FluentEmojiData _fairyMedium = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'fairy',
     glyph: '🧚🏽',
     svgPath: 'assets/person_fairy_color_medium.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.medium,
   );
 
   /// 🧚🏾 fairy
   final FluentEmojiData _fairyMediumDark = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'fairy',
     glyph: '🧚🏾',
     svgPath: 'assets/person_fairy_color_medium-dark.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.mediumDark,
   );
 
   /// 🧚🏿 fairy
   final FluentEmojiData _fairyDark = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'fairy',
     glyph: '🧚🏿',
     svgPath: 'assets/person_fairy_color_dark.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.dark,
   );
 
   /// 🧑‍🌾 farmer
@@ -3779,6 +3955,7 @@ class FluentEmojiPeopleAndBody {
   /// Medium Dark [_farmerMediumDark]
   /// Dark [_farmerDark]
   late final SkinToneFluentEmojiData farmer = SkinToneFluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'farmer',
     glyph: '🧑‍🌾',
@@ -3792,47 +3969,52 @@ class FluentEmojiPeopleAndBody {
 
   /// 🧑🏻‍🌾 farmer
   final FluentEmojiData _farmerLight = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'farmer',
     glyph: '🧑🏻‍🌾',
     svgPath: 'assets/farmer_color_light.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.light,
   );
 
   /// 🧑🏼‍🌾 farmer
   final FluentEmojiData _farmerMediumLight = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'farmer',
     glyph: '🧑🏼‍🌾',
     svgPath: 'assets/farmer_color_medium-light.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.mediumLight,
   );
 
   /// 🧑🏽‍🌾 farmer
   final FluentEmojiData _farmerMedium = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'farmer',
     glyph: '🧑🏽‍🌾',
     svgPath: 'assets/farmer_color_medium.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.medium,
   );
 
   /// 🧑🏾‍🌾 farmer
   final FluentEmojiData _farmerMediumDark = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'farmer',
     glyph: '🧑🏾‍🌾',
     svgPath: 'assets/farmer_color_medium-dark.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.mediumDark,
   );
 
   /// 🧑🏿‍🌾 farmer
   final FluentEmojiData _farmerDark = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'farmer',
     glyph: '🧑🏿‍🌾',
     svgPath: 'assets/farmer_color_dark.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.dark,
   );
 
   /// 🧑‍🚒 firefighter
@@ -3843,6 +4025,7 @@ class FluentEmojiPeopleAndBody {
   /// Medium Dark [_firefighterMediumDark]
   /// Dark [_firefighterDark]
   late final SkinToneFluentEmojiData firefighter = SkinToneFluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'firefighter',
     glyph: '🧑‍🚒',
@@ -3856,47 +4039,52 @@ class FluentEmojiPeopleAndBody {
 
   /// 🧑🏻‍🚒 firefighter
   final FluentEmojiData _firefighterLight = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'firefighter',
     glyph: '🧑🏻‍🚒',
     svgPath: 'assets/firefighter_color_light.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.light,
   );
 
   /// 🧑🏼‍🚒 firefighter
   final FluentEmojiData _firefighterMediumLight = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'firefighter',
     glyph: '🧑🏼‍🚒',
     svgPath: 'assets/firefighter_color_medium-light.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.mediumLight,
   );
 
   /// 🧑🏽‍🚒 firefighter
   final FluentEmojiData _firefighterMedium = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'firefighter',
     glyph: '🧑🏽‍🚒',
     svgPath: 'assets/firefighter_color_medium.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.medium,
   );
 
   /// 🧑🏾‍🚒 firefighter
   final FluentEmojiData _firefighterMediumDark = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'firefighter',
     glyph: '🧑🏾‍🚒',
     svgPath: 'assets/firefighter_color_medium-dark.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.mediumDark,
   );
 
   /// 🧑🏿‍🚒 firefighter
   final FluentEmojiData _firefighterDark = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'firefighter',
     glyph: '🧑🏿‍🚒',
     svgPath: 'assets/firefighter_color_dark.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.dark,
   );
 
   /// 💪 flexed biceps
@@ -3907,6 +4095,7 @@ class FluentEmojiPeopleAndBody {
   /// Medium Dark [_flexedBicepsMediumDark]
   /// Dark [_flexedBicepsDark]
   late final SkinToneFluentEmojiData flexedBiceps = SkinToneFluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'flexed biceps',
     glyph: '💪',
@@ -3920,47 +4109,52 @@ class FluentEmojiPeopleAndBody {
 
   /// 💪🏻 flexed biceps
   final FluentEmojiData _flexedBicepsLight = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'flexed biceps',
     glyph: '💪🏻',
     svgPath: 'assets/flexed_biceps_color_light.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.light,
   );
 
   /// 💪🏼 flexed biceps
   final FluentEmojiData _flexedBicepsMediumLight = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'flexed biceps',
     glyph: '💪🏼',
     svgPath: 'assets/flexed_biceps_color_medium-light.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.mediumLight,
   );
 
   /// 💪🏽 flexed biceps
   final FluentEmojiData _flexedBicepsMedium = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'flexed biceps',
     glyph: '💪🏽',
     svgPath: 'assets/flexed_biceps_color_medium.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.medium,
   );
 
   /// 💪🏾 flexed biceps
   final FluentEmojiData _flexedBicepsMediumDark = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'flexed biceps',
     glyph: '💪🏾',
     svgPath: 'assets/flexed_biceps_color_medium-dark.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.mediumDark,
   );
 
   /// 💪🏿 flexed biceps
   final FluentEmojiData _flexedBicepsDark = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'flexed biceps',
     glyph: '💪🏿',
     svgPath: 'assets/flexed_biceps_color_dark.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.dark,
   );
 
   /// 🙏 folded hands
@@ -3971,6 +4165,7 @@ class FluentEmojiPeopleAndBody {
   /// Medium Dark [_foldedHandsMediumDark]
   /// Dark [_foldedHandsDark]
   late final SkinToneFluentEmojiData foldedHands = SkinToneFluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'folded hands',
     glyph: '🙏',
@@ -3984,47 +4179,52 @@ class FluentEmojiPeopleAndBody {
 
   /// 🙏🏻 folded hands
   final FluentEmojiData _foldedHandsLight = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'folded hands',
     glyph: '🙏🏻',
     svgPath: 'assets/folded_hands_color_light.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.light,
   );
 
   /// 🙏🏼 folded hands
   final FluentEmojiData _foldedHandsMediumLight = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'folded hands',
     glyph: '🙏🏼',
     svgPath: 'assets/folded_hands_color_medium-light.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.mediumLight,
   );
 
   /// 🙏🏽 folded hands
   final FluentEmojiData _foldedHandsMedium = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'folded hands',
     glyph: '🙏🏽',
     svgPath: 'assets/folded_hands_color_medium.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.medium,
   );
 
   /// 🙏🏾 folded hands
   final FluentEmojiData _foldedHandsMediumDark = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'folded hands',
     glyph: '🙏🏾',
     svgPath: 'assets/folded_hands_color_medium-dark.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.mediumDark,
   );
 
   /// 🙏🏿 folded hands
   final FluentEmojiData _foldedHandsDark = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'folded hands',
     glyph: '🙏🏿',
     svgPath: 'assets/folded_hands_color_dark.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.dark,
   );
 
   /// 🦶 foot
@@ -4035,6 +4235,7 @@ class FluentEmojiPeopleAndBody {
   /// Medium Dark [_footMediumDark]
   /// Dark [_footDark]
   late final SkinToneFluentEmojiData foot = SkinToneFluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'foot',
     glyph: '🦶',
@@ -4048,65 +4249,72 @@ class FluentEmojiPeopleAndBody {
 
   /// 🦶🏻 foot
   final FluentEmojiData _footLight = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'foot',
     glyph: '🦶🏻',
     svgPath: 'assets/foot_color_light.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.light,
   );
 
   /// 🦶🏼 foot
   final FluentEmojiData _footMediumLight = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'foot',
     glyph: '🦶🏼',
     svgPath: 'assets/foot_color_medium-light.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.mediumLight,
   );
 
   /// 🦶🏽 foot
   final FluentEmojiData _footMedium = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'foot',
     glyph: '🦶🏽',
     svgPath: 'assets/foot_color_medium.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.medium,
   );
 
   /// 🦶🏾 foot
   final FluentEmojiData _footMediumDark = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'foot',
     glyph: '🦶🏾',
     svgPath: 'assets/foot_color_medium-dark.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.mediumDark,
   );
 
   /// 🦶🏿 foot
   final FluentEmojiData _footDark = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'foot',
     glyph: '🦶🏿',
     svgPath: 'assets/foot_color_dark.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.dark,
   );
 
   /// 👣 footprints
   final FluentEmojiData footprints = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'footprints',
     glyph: '👣',
     svgPath: 'assets/footprints_color.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.standard,
   );
 
   /// 🧞 genie
   final FluentEmojiData genie = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'genie',
     glyph: '🧞',
     svgPath: 'assets/person_genie_color.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.standard,
   );
 
   /// 👧 girl
@@ -4117,6 +4325,7 @@ class FluentEmojiPeopleAndBody {
   /// Medium Dark [_girlMediumDark]
   /// Dark [_girlDark]
   late final SkinToneFluentEmojiData girl = SkinToneFluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'girl',
     glyph: '👧',
@@ -4130,47 +4339,52 @@ class FluentEmojiPeopleAndBody {
 
   /// 👧🏻 girl
   final FluentEmojiData _girlLight = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'girl',
     glyph: '👧🏻',
     svgPath: 'assets/girl_color_light.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.light,
   );
 
   /// 👧🏼 girl
   final FluentEmojiData _girlMediumLight = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'girl',
     glyph: '👧🏼',
     svgPath: 'assets/girl_color_medium-light.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.mediumLight,
   );
 
   /// 👧🏽 girl
   final FluentEmojiData _girlMedium = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'girl',
     glyph: '👧🏽',
     svgPath: 'assets/girl_color_medium.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.medium,
   );
 
   /// 👧🏾 girl
   final FluentEmojiData _girlMediumDark = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'girl',
     glyph: '👧🏾',
     svgPath: 'assets/girl_color_medium-dark.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.mediumDark,
   );
 
   /// 👧🏿 girl
   final FluentEmojiData _girlDark = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'girl',
     glyph: '👧🏿',
     svgPath: 'assets/girl_color_dark.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.dark,
   );
 
   /// 💂 guard
@@ -4181,6 +4395,7 @@ class FluentEmojiPeopleAndBody {
   /// Medium Dark [_guardMediumDark]
   /// Dark [_guardDark]
   late final SkinToneFluentEmojiData guard = SkinToneFluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'guard',
     glyph: '💂',
@@ -4194,47 +4409,52 @@ class FluentEmojiPeopleAndBody {
 
   /// 💂🏻 guard
   final FluentEmojiData _guardLight = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'guard',
     glyph: '💂🏻',
     svgPath: 'assets/guard_color_light.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.light,
   );
 
   /// 💂🏼 guard
   final FluentEmojiData _guardMediumLight = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'guard',
     glyph: '💂🏼',
     svgPath: 'assets/guard_color_medium-light.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.mediumLight,
   );
 
   /// 💂🏽 guard
   final FluentEmojiData _guardMedium = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'guard',
     glyph: '💂🏽',
     svgPath: 'assets/guard_color_medium.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.medium,
   );
 
   /// 💂🏾 guard
   final FluentEmojiData _guardMediumDark = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'guard',
     glyph: '💂🏾',
     svgPath: 'assets/guard_color_medium-dark.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.mediumDark,
   );
 
   /// 💂🏿 guard
   final FluentEmojiData _guardDark = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'guard',
     glyph: '💂🏿',
     svgPath: 'assets/guard_color_dark.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.dark,
   );
 
   /// 🖐️ hand with fingers splayed
@@ -4245,6 +4465,7 @@ class FluentEmojiPeopleAndBody {
   /// Medium Dark [_handWithFingersSplayedMediumDark]
   /// Dark [_handWithFingersSplayedDark]
   late final SkinToneFluentEmojiData handWithFingersSplayed = SkinToneFluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'hand with fingers splayed',
     glyph: '🖐️',
@@ -4258,47 +4479,52 @@ class FluentEmojiPeopleAndBody {
 
   /// 🖐🏻 hand with fingers splayed
   final FluentEmojiData _handWithFingersSplayedLight = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'hand with fingers splayed',
     glyph: '🖐🏻',
     svgPath: 'assets/hand_with_fingers_splayed_color_light.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.light,
   );
 
   /// 🖐🏼 hand with fingers splayed
   final FluentEmojiData _handWithFingersSplayedMediumLight = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'hand with fingers splayed',
     glyph: '🖐🏼',
     svgPath: 'assets/hand_with_fingers_splayed_color_medium-light.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.mediumLight,
   );
 
   /// 🖐🏽 hand with fingers splayed
   final FluentEmojiData _handWithFingersSplayedMedium = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'hand with fingers splayed',
     glyph: '🖐🏽',
     svgPath: 'assets/hand_with_fingers_splayed_color_medium.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.medium,
   );
 
   /// 🖐🏾 hand with fingers splayed
   final FluentEmojiData _handWithFingersSplayedMediumDark = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'hand with fingers splayed',
     glyph: '🖐🏾',
     svgPath: 'assets/hand_with_fingers_splayed_color_medium-dark.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.mediumDark,
   );
 
   /// 🖐🏿 hand with fingers splayed
   final FluentEmojiData _handWithFingersSplayedDark = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'hand with fingers splayed',
     glyph: '🖐🏿',
     svgPath: 'assets/hand_with_fingers_splayed_color_dark.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.dark,
   );
 
   /// 🫰 hand with index finger and thumb crossed
@@ -4309,6 +4535,7 @@ class FluentEmojiPeopleAndBody {
   /// Medium Dark [_handWithIndexFingerAndThumbCrossedMediumDark]
   /// Dark [_handWithIndexFingerAndThumbCrossedDark]
   late final SkinToneFluentEmojiData handWithIndexFingerAndThumbCrossed = SkinToneFluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'hand with index finger and thumb crossed',
     glyph: '🫰',
@@ -4322,56 +4549,62 @@ class FluentEmojiPeopleAndBody {
 
   /// 🫰🏻 hand with index finger and thumb crossed
   final FluentEmojiData _handWithIndexFingerAndThumbCrossedLight = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'hand with index finger and thumb crossed',
     glyph: '🫰🏻',
     svgPath: 'assets/hand_with_index_finger_and_thumb_crossed_color_light.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.light,
   );
 
   /// 🫰🏼 hand with index finger and thumb crossed
   final FluentEmojiData _handWithIndexFingerAndThumbCrossedMediumLight = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'hand with index finger and thumb crossed',
     glyph: '🫰🏼',
     svgPath: 'assets/hand_with_index_finger_and_thumb_crossed_color_medium-light.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.mediumLight,
   );
 
   /// 🫰🏽 hand with index finger and thumb crossed
   final FluentEmojiData _handWithIndexFingerAndThumbCrossedMedium = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'hand with index finger and thumb crossed',
     glyph: '🫰🏽',
     svgPath: 'assets/hand_with_index_finger_and_thumb_crossed_color_medium.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.medium,
   );
 
   /// 🫰🏾 hand with index finger and thumb crossed
   final FluentEmojiData _handWithIndexFingerAndThumbCrossedMediumDark = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'hand with index finger and thumb crossed',
     glyph: '🫰🏾',
     svgPath: 'assets/hand_with_index_finger_and_thumb_crossed_color_medium-dark.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.mediumDark,
   );
 
   /// 🫰🏿 hand with index finger and thumb crossed
   final FluentEmojiData _handWithIndexFingerAndThumbCrossedDark = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'hand with index finger and thumb crossed',
     glyph: '🫰🏿',
     svgPath: 'assets/hand_with_index_finger_and_thumb_crossed_color_dark.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.dark,
   );
 
   /// 🤝 handshake
   final FluentEmojiData handshake = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'handshake',
     glyph: '🤝',
     svgPath: 'assets/handshake_color.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.standard,
   );
 
   /// 🧑‍⚕️ health worker
@@ -4382,6 +4615,7 @@ class FluentEmojiPeopleAndBody {
   /// Medium Dark [_healthWorkerMediumDark]
   /// Dark [_healthWorkerDark]
   late final SkinToneFluentEmojiData healthWorker = SkinToneFluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'health worker',
     glyph: '🧑‍⚕️',
@@ -4395,47 +4629,52 @@ class FluentEmojiPeopleAndBody {
 
   /// 🧑🏻‍⚕️ health worker
   final FluentEmojiData _healthWorkerLight = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'health worker',
     glyph: '🧑🏻‍⚕️',
     svgPath: 'assets/health_worker_color_light.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.light,
   );
 
   /// 🧑🏼‍⚕️ health worker
   final FluentEmojiData _healthWorkerMediumLight = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'health worker',
     glyph: '🧑🏼‍⚕️',
     svgPath: 'assets/health_worker_color_medium-light.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.mediumLight,
   );
 
   /// 🧑🏽‍⚕️ health worker
   final FluentEmojiData _healthWorkerMedium = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'health worker',
     glyph: '🧑🏽‍⚕️',
     svgPath: 'assets/health_worker_color_medium.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.medium,
   );
 
   /// 🧑🏾‍⚕️ health worker
   final FluentEmojiData _healthWorkerMediumDark = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'health worker',
     glyph: '🧑🏾‍⚕️',
     svgPath: 'assets/health_worker_color_medium-dark.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.mediumDark,
   );
 
   /// 🧑🏿‍⚕️ health worker
   final FluentEmojiData _healthWorkerDark = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'health worker',
     glyph: '🧑🏿‍⚕️',
     svgPath: 'assets/health_worker_color_dark.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.dark,
   );
 
   /// 🫶 heart hands
@@ -4446,6 +4685,7 @@ class FluentEmojiPeopleAndBody {
   /// Medium Dark [_heartHandsMediumDark]
   /// Dark [_heartHandsDark]
   late final SkinToneFluentEmojiData heartHands = SkinToneFluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'heart hands',
     glyph: '🫶',
@@ -4459,47 +4699,52 @@ class FluentEmojiPeopleAndBody {
 
   /// 🫶🏻 heart hands
   final FluentEmojiData _heartHandsLight = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'heart hands',
     glyph: '🫶🏻',
     svgPath: 'assets/heart_hands_color_light.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.light,
   );
 
   /// 🫶🏼 heart hands
   final FluentEmojiData _heartHandsMediumLight = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'heart hands',
     glyph: '🫶🏼',
     svgPath: 'assets/heart_hands_color_medium-light.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.mediumLight,
   );
 
   /// 🫶🏽 heart hands
   final FluentEmojiData _heartHandsMedium = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'heart hands',
     glyph: '🫶🏽',
     svgPath: 'assets/heart_hands_color_medium.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.medium,
   );
 
   /// 🫶🏾 heart hands
   final FluentEmojiData _heartHandsMediumDark = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'heart hands',
     glyph: '🫶🏾',
     svgPath: 'assets/heart_hands_color_medium-dark.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.mediumDark,
   );
 
   /// 🫶🏿 heart hands
   final FluentEmojiData _heartHandsDark = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'heart hands',
     glyph: '🫶🏿',
     svgPath: 'assets/heart_hands_color_dark.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.dark,
   );
 
   /// 🏇 horse racing
@@ -4510,6 +4755,7 @@ class FluentEmojiPeopleAndBody {
   /// Medium Dark [_horseRacingMediumDark]
   /// Dark [_horseRacingDark]
   late final SkinToneFluentEmojiData horseRacing = SkinToneFluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'horse racing',
     glyph: '🏇',
@@ -4523,47 +4769,52 @@ class FluentEmojiPeopleAndBody {
 
   /// 🏇🏻 horse racing
   final FluentEmojiData _horseRacingLight = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'horse racing',
     glyph: '🏇🏻',
     svgPath: 'assets/horse_racing_color_light.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.light,
   );
 
   /// 🏇🏼 horse racing
   final FluentEmojiData _horseRacingMediumLight = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'horse racing',
     glyph: '🏇🏼',
     svgPath: 'assets/horse_racing_color_medium-light.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.mediumLight,
   );
 
   /// 🏇🏽 horse racing
   final FluentEmojiData _horseRacingMedium = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'horse racing',
     glyph: '🏇🏽',
     svgPath: 'assets/horse_racing_color_medium.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.medium,
   );
 
   /// 🏇🏾 horse racing
   final FluentEmojiData _horseRacingMediumDark = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'horse racing',
     glyph: '🏇🏾',
     svgPath: 'assets/horse_racing_color_medium-dark.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.mediumDark,
   );
 
   /// 🏇🏿 horse racing
   final FluentEmojiData _horseRacingDark = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'horse racing',
     glyph: '🏇🏿',
     svgPath: 'assets/horse_racing_color_dark.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.dark,
   );
 
   /// 🫵 index pointing at the viewer
@@ -4574,6 +4825,7 @@ class FluentEmojiPeopleAndBody {
   /// Medium Dark [_indexPointingAtTheViewerMediumDark]
   /// Dark [_indexPointingAtTheViewerDark]
   late final SkinToneFluentEmojiData indexPointingAtTheViewer = SkinToneFluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'index pointing at the viewer',
     glyph: '🫵',
@@ -4587,47 +4839,52 @@ class FluentEmojiPeopleAndBody {
 
   /// 🫵🏻 index pointing at the viewer
   final FluentEmojiData _indexPointingAtTheViewerLight = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'index pointing at the viewer',
     glyph: '🫵🏻',
     svgPath: 'assets/index_pointing_at_the_viewer_color_light.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.light,
   );
 
   /// 🫵🏼 index pointing at the viewer
   final FluentEmojiData _indexPointingAtTheViewerMediumLight = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'index pointing at the viewer',
     glyph: '🫵🏼',
     svgPath: 'assets/index_pointing_at_the_viewer_color_medium-light.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.mediumLight,
   );
 
   /// 🫵🏽 index pointing at the viewer
   final FluentEmojiData _indexPointingAtTheViewerMedium = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'index pointing at the viewer',
     glyph: '🫵🏽',
     svgPath: 'assets/index_pointing_at_the_viewer_color_medium.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.medium,
   );
 
   /// 🫵🏾 index pointing at the viewer
   final FluentEmojiData _indexPointingAtTheViewerMediumDark = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'index pointing at the viewer',
     glyph: '🫵🏾',
     svgPath: 'assets/index_pointing_at_the_viewer_color_medium-dark.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.mediumDark,
   );
 
   /// 🫵🏿 index pointing at the viewer
   final FluentEmojiData _indexPointingAtTheViewerDark = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'index pointing at the viewer',
     glyph: '🫵🏿',
     svgPath: 'assets/index_pointing_at_the_viewer_color_dark.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.dark,
   );
 
   /// ☝️ index pointing up
@@ -4638,6 +4895,7 @@ class FluentEmojiPeopleAndBody {
   /// Medium Dark [_indexPointingUpMediumDark]
   /// Dark [_indexPointingUpDark]
   late final SkinToneFluentEmojiData indexPointingUp = SkinToneFluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'index pointing up',
     glyph: '☝️',
@@ -4651,47 +4909,52 @@ class FluentEmojiPeopleAndBody {
 
   /// ☝🏻 index pointing up
   final FluentEmojiData _indexPointingUpLight = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'index pointing up',
     glyph: '☝🏻',
     svgPath: 'assets/index_pointing_up_color_light.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.light,
   );
 
   /// ☝🏼 index pointing up
   final FluentEmojiData _indexPointingUpMediumLight = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'index pointing up',
     glyph: '☝🏼',
     svgPath: 'assets/index_pointing_up_color_medium-light.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.mediumLight,
   );
 
   /// ☝🏽 index pointing up
   final FluentEmojiData _indexPointingUpMedium = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'index pointing up',
     glyph: '☝🏽',
     svgPath: 'assets/index_pointing_up_color_medium.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.medium,
   );
 
   /// ☝🏾 index pointing up
   final FluentEmojiData _indexPointingUpMediumDark = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'index pointing up',
     glyph: '☝🏾',
     svgPath: 'assets/index_pointing_up_color_medium-dark.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.mediumDark,
   );
 
   /// ☝🏿 index pointing up
   final FluentEmojiData _indexPointingUpDark = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'index pointing up',
     glyph: '☝🏿',
     svgPath: 'assets/index_pointing_up_color_dark.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.dark,
   );
 
   /// 🧑‍⚖️ judge
@@ -4702,6 +4965,7 @@ class FluentEmojiPeopleAndBody {
   /// Medium Dark [_judgeMediumDark]
   /// Dark [_judgeDark]
   late final SkinToneFluentEmojiData judge = SkinToneFluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'judge',
     glyph: '🧑‍⚖️',
@@ -4715,47 +4979,52 @@ class FluentEmojiPeopleAndBody {
 
   /// 🧑🏻‍⚖️ judge
   final FluentEmojiData _judgeLight = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'judge',
     glyph: '🧑🏻‍⚖️',
     svgPath: 'assets/judge_color_light.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.light,
   );
 
   /// 🧑🏼‍⚖️ judge
   final FluentEmojiData _judgeMediumLight = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'judge',
     glyph: '🧑🏼‍⚖️',
     svgPath: 'assets/judge_color_medium-light.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.mediumLight,
   );
 
   /// 🧑🏽‍⚖️ judge
   final FluentEmojiData _judgeMedium = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'judge',
     glyph: '🧑🏽‍⚖️',
     svgPath: 'assets/judge_color_medium.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.medium,
   );
 
   /// 🧑🏾‍⚖️ judge
   final FluentEmojiData _judgeMediumDark = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'judge',
     glyph: '🧑🏾‍⚖️',
     svgPath: 'assets/judge_color_medium-dark.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.mediumDark,
   );
 
   /// 🧑🏿‍⚖️ judge
   final FluentEmojiData _judgeDark = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'judge',
     glyph: '🧑🏿‍⚖️',
     svgPath: 'assets/judge_color_dark.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.dark,
   );
 
   /// 🤛 left-facing fist
@@ -4766,6 +5035,7 @@ class FluentEmojiPeopleAndBody {
   /// Medium Dark [_leftFacingFistMediumDark]
   /// Dark [_leftFacingFistDark]
   late final SkinToneFluentEmojiData leftFacingFist = SkinToneFluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'left-facing fist',
     glyph: '🤛',
@@ -4779,47 +5049,52 @@ class FluentEmojiPeopleAndBody {
 
   /// 🤛🏻 left-facing fist
   final FluentEmojiData _leftFacingFistLight = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'left-facing fist',
     glyph: '🤛🏻',
     svgPath: 'assets/left-facing_fist_color_light.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.light,
   );
 
   /// 🤛🏼 left-facing fist
   final FluentEmojiData _leftFacingFistMediumLight = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'left-facing fist',
     glyph: '🤛🏼',
     svgPath: 'assets/left-facing_fist_color_medium-light.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.mediumLight,
   );
 
   /// 🤛🏽 left-facing fist
   final FluentEmojiData _leftFacingFistMedium = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'left-facing fist',
     glyph: '🤛🏽',
     svgPath: 'assets/left-facing_fist_color_medium.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.medium,
   );
 
   /// 🤛🏾 left-facing fist
   final FluentEmojiData _leftFacingFistMediumDark = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'left-facing fist',
     glyph: '🤛🏾',
     svgPath: 'assets/left-facing_fist_color_medium-dark.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.mediumDark,
   );
 
   /// 🤛🏿 left-facing fist
   final FluentEmojiData _leftFacingFistDark = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'left-facing fist',
     glyph: '🤛🏿',
     svgPath: 'assets/left-facing_fist_color_dark.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.dark,
   );
 
   /// 🫲 leftwards hand
@@ -4830,6 +5105,7 @@ class FluentEmojiPeopleAndBody {
   /// Medium Dark [_leftwardsHandMediumDark]
   /// Dark [_leftwardsHandDark]
   late final SkinToneFluentEmojiData leftwardsHand = SkinToneFluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'leftwards hand',
     glyph: '🫲',
@@ -4843,47 +5119,52 @@ class FluentEmojiPeopleAndBody {
 
   /// 🫲🏻 leftwards hand
   final FluentEmojiData _leftwardsHandLight = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'leftwards hand',
     glyph: '🫲🏻',
     svgPath: 'assets/leftwards_hand_color_light.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.light,
   );
 
   /// 🫲🏼 leftwards hand
   final FluentEmojiData _leftwardsHandMediumLight = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'leftwards hand',
     glyph: '🫲🏼',
     svgPath: 'assets/leftwards_hand_color_medium-light.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.mediumLight,
   );
 
   /// 🫲🏽 leftwards hand
   final FluentEmojiData _leftwardsHandMedium = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'leftwards hand',
     glyph: '🫲🏽',
     svgPath: 'assets/leftwards_hand_color_medium.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.medium,
   );
 
   /// 🫲🏾 leftwards hand
   final FluentEmojiData _leftwardsHandMediumDark = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'leftwards hand',
     glyph: '🫲🏾',
     svgPath: 'assets/leftwards_hand_color_medium-dark.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.mediumDark,
   );
 
   /// 🫲🏿 leftwards hand
   final FluentEmojiData _leftwardsHandDark = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'leftwards hand',
     glyph: '🫲🏿',
     svgPath: 'assets/leftwards_hand_color_dark.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.dark,
   );
 
   /// 🫷 leftwards pushing hand
@@ -4894,6 +5175,7 @@ class FluentEmojiPeopleAndBody {
   /// Medium Dark [_leftwardsPushingHandMediumDark]
   /// Dark [_leftwardsPushingHandDark]
   late final SkinToneFluentEmojiData leftwardsPushingHand = SkinToneFluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'leftwards pushing hand',
     glyph: '🫷',
@@ -4907,47 +5189,52 @@ class FluentEmojiPeopleAndBody {
 
   /// 🫷🏻 leftwards pushing hand
   final FluentEmojiData _leftwardsPushingHandLight = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'leftwards pushing hand',
     glyph: '🫷🏻',
     svgPath: 'assets/leftwards_pushing_hand_color_light.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.light,
   );
 
   /// 🫷🏼 leftwards pushing hand
   final FluentEmojiData _leftwardsPushingHandMediumLight = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'leftwards pushing hand',
     glyph: '🫷🏼',
     svgPath: 'assets/leftwards_pushing_hand_color_medium-light.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.mediumLight,
   );
 
   /// 🫷🏽 leftwards pushing hand
   final FluentEmojiData _leftwardsPushingHandMedium = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'leftwards pushing hand',
     glyph: '🫷🏽',
     svgPath: 'assets/leftwards_pushing_hand_color_medium.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.medium,
   );
 
   /// 🫷🏾 leftwards pushing hand
   final FluentEmojiData _leftwardsPushingHandMediumDark = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'leftwards pushing hand',
     glyph: '🫷🏾',
     svgPath: 'assets/leftwards_pushing_hand_color_medium-dark.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.mediumDark,
   );
 
   /// 🫷🏿 leftwards pushing hand
   final FluentEmojiData _leftwardsPushingHandDark = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'leftwards pushing hand',
     glyph: '🫷🏿',
     svgPath: 'assets/leftwards_pushing_hand_color_dark.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.dark,
   );
 
   /// 🦵 leg
@@ -4958,6 +5245,7 @@ class FluentEmojiPeopleAndBody {
   /// Medium Dark [_legMediumDark]
   /// Dark [_legDark]
   late final SkinToneFluentEmojiData leg = SkinToneFluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'leg',
     glyph: '🦵',
@@ -4971,47 +5259,52 @@ class FluentEmojiPeopleAndBody {
 
   /// 🦵🏻 leg
   final FluentEmojiData _legLight = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'leg',
     glyph: '🦵🏻',
     svgPath: 'assets/leg_color_light.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.light,
   );
 
   /// 🦵🏼 leg
   final FluentEmojiData _legMediumLight = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'leg',
     glyph: '🦵🏼',
     svgPath: 'assets/leg_color_medium-light.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.mediumLight,
   );
 
   /// 🦵🏽 leg
   final FluentEmojiData _legMedium = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'leg',
     glyph: '🦵🏽',
     svgPath: 'assets/leg_color_medium.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.medium,
   );
 
   /// 🦵🏾 leg
   final FluentEmojiData _legMediumDark = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'leg',
     glyph: '🦵🏾',
     svgPath: 'assets/leg_color_medium-dark.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.mediumDark,
   );
 
   /// 🦵🏿 leg
   final FluentEmojiData _legDark = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'leg',
     glyph: '🦵🏿',
     svgPath: 'assets/leg_color_dark.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.dark,
   );
 
   /// 🤟 love-you gesture
@@ -5022,6 +5315,7 @@ class FluentEmojiPeopleAndBody {
   /// Medium Dark [_loveYouGestureMediumDark]
   /// Dark [_loveYouGestureDark]
   late final SkinToneFluentEmojiData loveYouGesture = SkinToneFluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'love-you gesture',
     glyph: '🤟',
@@ -5035,56 +5329,62 @@ class FluentEmojiPeopleAndBody {
 
   /// 🤟🏻 love-you gesture
   final FluentEmojiData _loveYouGestureLight = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'love-you gesture',
     glyph: '🤟🏻',
     svgPath: 'assets/love-you_gesture_color_light.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.light,
   );
 
   /// 🤟🏼 love-you gesture
   final FluentEmojiData _loveYouGestureMediumLight = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'love-you gesture',
     glyph: '🤟🏼',
     svgPath: 'assets/love-you_gesture_color_medium-light.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.mediumLight,
   );
 
   /// 🤟🏽 love-you gesture
   final FluentEmojiData _loveYouGestureMedium = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'love-you gesture',
     glyph: '🤟🏽',
     svgPath: 'assets/love-you_gesture_color_medium.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.medium,
   );
 
   /// 🤟🏾 love-you gesture
   final FluentEmojiData _loveYouGestureMediumDark = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'love-you gesture',
     glyph: '🤟🏾',
     svgPath: 'assets/love-you_gesture_color_medium-dark.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.mediumDark,
   );
 
   /// 🤟🏿 love-you gesture
   final FluentEmojiData _loveYouGestureDark = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'love-you gesture',
     glyph: '🤟🏿',
     svgPath: 'assets/love-you_gesture_color_dark.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.dark,
   );
 
   /// 🫁 lungs
   final FluentEmojiData lungs = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'lungs',
     glyph: '🫁',
     svgPath: 'assets/lungs_color.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.standard,
   );
 
   /// 🧙 mage
@@ -5095,6 +5395,7 @@ class FluentEmojiPeopleAndBody {
   /// Medium Dark [_mageMediumDark]
   /// Dark [_mageDark]
   late final SkinToneFluentEmojiData mage = SkinToneFluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'mage',
     glyph: '🧙',
@@ -5108,47 +5409,52 @@ class FluentEmojiPeopleAndBody {
 
   /// 🧙🏻 mage
   final FluentEmojiData _mageLight = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'mage',
     glyph: '🧙🏻',
     svgPath: 'assets/person_mage_color_light.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.light,
   );
 
   /// 🧙🏼 mage
   final FluentEmojiData _mageMediumLight = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'mage',
     glyph: '🧙🏼',
     svgPath: 'assets/person_mage_color_medium-light.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.mediumLight,
   );
 
   /// 🧙🏽 mage
   final FluentEmojiData _mageMedium = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'mage',
     glyph: '🧙🏽',
     svgPath: 'assets/person_mage_color_medium.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.medium,
   );
 
   /// 🧙🏾 mage
   final FluentEmojiData _mageMediumDark = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'mage',
     glyph: '🧙🏾',
     svgPath: 'assets/person_mage_color_medium-dark.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.mediumDark,
   );
 
   /// 🧙🏿 mage
   final FluentEmojiData _mageDark = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'mage',
     glyph: '🧙🏿',
     svgPath: 'assets/person_mage_color_dark.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.dark,
   );
 
   /// 👨 man
@@ -5159,6 +5465,7 @@ class FluentEmojiPeopleAndBody {
   /// Medium Dark [_manMediumDark]
   /// Dark [_manDark]
   late final SkinToneFluentEmojiData man = SkinToneFluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'man',
     glyph: '👨',
@@ -5172,47 +5479,52 @@ class FluentEmojiPeopleAndBody {
 
   /// 👨🏻 man
   final FluentEmojiData _manLight = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'man',
     glyph: '👨🏻',
     svgPath: 'assets/man_color_light.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.light,
   );
 
   /// 👨🏼 man
   final FluentEmojiData _manMediumLight = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'man',
     glyph: '👨🏼',
     svgPath: 'assets/man_color_medium-light.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.mediumLight,
   );
 
   /// 👨🏽 man
   final FluentEmojiData _manMedium = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'man',
     glyph: '👨🏽',
     svgPath: 'assets/man_color_medium.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.medium,
   );
 
   /// 👨🏾 man
   final FluentEmojiData _manMediumDark = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'man',
     glyph: '👨🏾',
     svgPath: 'assets/man_color_medium-dark.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.mediumDark,
   );
 
   /// 👨🏿 man
   final FluentEmojiData _manDark = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'man',
     glyph: '👨🏿',
     svgPath: 'assets/man_color_dark.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.dark,
   );
 
   /// 👨‍🎨 man artist
@@ -5223,6 +5535,7 @@ class FluentEmojiPeopleAndBody {
   /// Medium Dark [_manArtistMediumDark]
   /// Dark [_manArtistDark]
   late final SkinToneFluentEmojiData manArtist = SkinToneFluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'man artist',
     glyph: '👨‍🎨',
@@ -5236,47 +5549,52 @@ class FluentEmojiPeopleAndBody {
 
   /// 👨🏻‍🎨 man artist
   final FluentEmojiData _manArtistLight = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'man artist',
     glyph: '👨🏻‍🎨',
     svgPath: 'assets/man_artist_color_light.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.light,
   );
 
   /// 👨🏼‍🎨 man artist
   final FluentEmojiData _manArtistMediumLight = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'man artist',
     glyph: '👨🏼‍🎨',
     svgPath: 'assets/man_artist_color_medium-light.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.mediumLight,
   );
 
   /// 👨🏽‍🎨 man artist
   final FluentEmojiData _manArtistMedium = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'man artist',
     glyph: '👨🏽‍🎨',
     svgPath: 'assets/man_artist_color_medium.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.medium,
   );
 
   /// 👨🏾‍🎨 man artist
   final FluentEmojiData _manArtistMediumDark = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'man artist',
     glyph: '👨🏾‍🎨',
     svgPath: 'assets/man_artist_color_medium-dark.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.mediumDark,
   );
 
   /// 👨🏿‍🎨 man artist
   final FluentEmojiData _manArtistDark = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'man artist',
     glyph: '👨🏿‍🎨',
     svgPath: 'assets/man_artist_color_dark.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.dark,
   );
 
   /// 👨‍🚀 man astronaut
@@ -5287,6 +5605,7 @@ class FluentEmojiPeopleAndBody {
   /// Medium Dark [_manAstronautMediumDark]
   /// Dark [_manAstronautDark]
   late final SkinToneFluentEmojiData manAstronaut = SkinToneFluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'man astronaut',
     glyph: '👨‍🚀',
@@ -5300,47 +5619,52 @@ class FluentEmojiPeopleAndBody {
 
   /// 👨🏻‍🚀 man astronaut
   final FluentEmojiData _manAstronautLight = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'man astronaut',
     glyph: '👨🏻‍🚀',
     svgPath: 'assets/man_astronaut_color_light.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.light,
   );
 
   /// 👨🏼‍🚀 man astronaut
   final FluentEmojiData _manAstronautMediumLight = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'man astronaut',
     glyph: '👨🏼‍🚀',
     svgPath: 'assets/man_astronaut_color_medium-light.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.mediumLight,
   );
 
   /// 👨🏽‍🚀 man astronaut
   final FluentEmojiData _manAstronautMedium = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'man astronaut',
     glyph: '👨🏽‍🚀',
     svgPath: 'assets/man_astronaut_color_medium.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.medium,
   );
 
   /// 👨🏾‍🚀 man astronaut
   final FluentEmojiData _manAstronautMediumDark = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'man astronaut',
     glyph: '👨🏾‍🚀',
     svgPath: 'assets/man_astronaut_color_medium-dark.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.mediumDark,
   );
 
   /// 👨🏿‍🚀 man astronaut
   final FluentEmojiData _manAstronautDark = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'man astronaut',
     glyph: '👨🏿‍🚀',
     svgPath: 'assets/man_astronaut_color_dark.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.dark,
   );
 
   /// 🚴‍♂️ man biking
@@ -5351,6 +5675,7 @@ class FluentEmojiPeopleAndBody {
   /// Medium Dark [_manBikingMediumDark]
   /// Dark [_manBikingDark]
   late final SkinToneFluentEmojiData manBiking = SkinToneFluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'man biking',
     glyph: '🚴‍♂️',
@@ -5364,47 +5689,52 @@ class FluentEmojiPeopleAndBody {
 
   /// 🚴🏻‍♂️ man biking
   final FluentEmojiData _manBikingLight = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'man biking',
     glyph: '🚴🏻‍♂️',
     svgPath: 'assets/man_biking_color_light.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.light,
   );
 
   /// 🚴🏼‍♂️ man biking
   final FluentEmojiData _manBikingMediumLight = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'man biking',
     glyph: '🚴🏼‍♂️',
     svgPath: 'assets/man_biking_color_medium-light.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.mediumLight,
   );
 
   /// 🚴🏽‍♂️ man biking
   final FluentEmojiData _manBikingMedium = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'man biking',
     glyph: '🚴🏽‍♂️',
     svgPath: 'assets/man_biking_color_medium.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.medium,
   );
 
   /// 🚴🏾‍♂️ man biking
   final FluentEmojiData _manBikingMediumDark = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'man biking',
     glyph: '🚴🏾‍♂️',
     svgPath: 'assets/man_biking_color_medium-dark.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.mediumDark,
   );
 
   /// 🚴🏿‍♂️ man biking
   final FluentEmojiData _manBikingDark = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'man biking',
     glyph: '🚴🏿‍♂️',
     svgPath: 'assets/man_biking_color_dark.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.dark,
   );
 
   /// ⛹️‍♂️ man bouncing ball
@@ -5415,6 +5745,7 @@ class FluentEmojiPeopleAndBody {
   /// Medium Dark [_manBouncingBallMediumDark]
   /// Dark [_manBouncingBallDark]
   late final SkinToneFluentEmojiData manBouncingBall = SkinToneFluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'man bouncing ball',
     glyph: '⛹️‍♂️',
@@ -5428,47 +5759,52 @@ class FluentEmojiPeopleAndBody {
 
   /// ⛹🏻‍♂️ man bouncing ball
   final FluentEmojiData _manBouncingBallLight = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'man bouncing ball',
     glyph: '⛹🏻‍♂️',
     svgPath: 'assets/man_bouncing_ball_color_light.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.light,
   );
 
   /// ⛹🏼‍♂️ man bouncing ball
   final FluentEmojiData _manBouncingBallMediumLight = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'man bouncing ball',
     glyph: '⛹🏼‍♂️',
     svgPath: 'assets/man_bouncing_ball_color_medium-light.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.mediumLight,
   );
 
   /// ⛹🏽‍♂️ man bouncing ball
   final FluentEmojiData _manBouncingBallMedium = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'man bouncing ball',
     glyph: '⛹🏽‍♂️',
     svgPath: 'assets/man_bouncing_ball_color_medium.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.medium,
   );
 
   /// ⛹🏾‍♂️ man bouncing ball
   final FluentEmojiData _manBouncingBallMediumDark = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'man bouncing ball',
     glyph: '⛹🏾‍♂️',
     svgPath: 'assets/man_bouncing_ball_color_medium-dark.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.mediumDark,
   );
 
   /// ⛹🏿‍♂️ man bouncing ball
   final FluentEmojiData _manBouncingBallDark = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'man bouncing ball',
     glyph: '⛹🏿‍♂️',
     svgPath: 'assets/man_bouncing_ball_color_dark.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.dark,
   );
 
   /// 🙇‍♂️ man bowing
@@ -5479,6 +5815,7 @@ class FluentEmojiPeopleAndBody {
   /// Medium Dark [_manBowingMediumDark]
   /// Dark [_manBowingDark]
   late final SkinToneFluentEmojiData manBowing = SkinToneFluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'man bowing',
     glyph: '🙇‍♂️',
@@ -5492,47 +5829,52 @@ class FluentEmojiPeopleAndBody {
 
   /// 🙇🏻‍♂️ man bowing
   final FluentEmojiData _manBowingLight = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'man bowing',
     glyph: '🙇🏻‍♂️',
     svgPath: 'assets/man_bowing_color_light.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.light,
   );
 
   /// 🙇🏼‍♂️ man bowing
   final FluentEmojiData _manBowingMediumLight = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'man bowing',
     glyph: '🙇🏼‍♂️',
     svgPath: 'assets/man_bowing_color_medium-light.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.mediumLight,
   );
 
   /// 🙇🏽‍♂️ man bowing
   final FluentEmojiData _manBowingMedium = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'man bowing',
     glyph: '🙇🏽‍♂️',
     svgPath: 'assets/man_bowing_color_medium.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.medium,
   );
 
   /// 🙇🏾‍♂️ man bowing
   final FluentEmojiData _manBowingMediumDark = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'man bowing',
     glyph: '🙇🏾‍♂️',
     svgPath: 'assets/man_bowing_color_medium-dark.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.mediumDark,
   );
 
   /// 🙇🏿‍♂️ man bowing
   final FluentEmojiData _manBowingDark = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'man bowing',
     glyph: '🙇🏿‍♂️',
     svgPath: 'assets/man_bowing_color_dark.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.dark,
   );
 
   /// 🤸‍♂️ man cartwheeling
@@ -5543,6 +5885,7 @@ class FluentEmojiPeopleAndBody {
   /// Medium Dark [_manCartwheelingMediumDark]
   /// Dark [_manCartwheelingDark]
   late final SkinToneFluentEmojiData manCartwheeling = SkinToneFluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'man cartwheeling',
     glyph: '🤸‍♂️',
@@ -5556,47 +5899,52 @@ class FluentEmojiPeopleAndBody {
 
   /// 🤸🏻‍♂️ man cartwheeling
   final FluentEmojiData _manCartwheelingLight = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'man cartwheeling',
     glyph: '🤸🏻‍♂️',
     svgPath: 'assets/man_cartwheeling_color_light.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.light,
   );
 
   /// 🤸🏼‍♂️ man cartwheeling
   final FluentEmojiData _manCartwheelingMediumLight = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'man cartwheeling',
     glyph: '🤸🏼‍♂️',
     svgPath: 'assets/man_cartwheeling_color_medium-light.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.mediumLight,
   );
 
   /// 🤸🏽‍♂️ man cartwheeling
   final FluentEmojiData _manCartwheelingMedium = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'man cartwheeling',
     glyph: '🤸🏽‍♂️',
     svgPath: 'assets/man_cartwheeling_color_medium.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.medium,
   );
 
   /// 🤸🏾‍♂️ man cartwheeling
   final FluentEmojiData _manCartwheelingMediumDark = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'man cartwheeling',
     glyph: '🤸🏾‍♂️',
     svgPath: 'assets/man_cartwheeling_color_medium-dark.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.mediumDark,
   );
 
   /// 🤸🏿‍♂️ man cartwheeling
   final FluentEmojiData _manCartwheelingDark = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'man cartwheeling',
     glyph: '🤸🏿‍♂️',
     svgPath: 'assets/man_cartwheeling_color_dark.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.dark,
   );
 
   /// 🧗‍♂️ man climbing
@@ -5607,6 +5955,7 @@ class FluentEmojiPeopleAndBody {
   /// Medium Dark [_manClimbingMediumDark]
   /// Dark [_manClimbingDark]
   late final SkinToneFluentEmojiData manClimbing = SkinToneFluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'man climbing',
     glyph: '🧗‍♂️',
@@ -5620,47 +5969,52 @@ class FluentEmojiPeopleAndBody {
 
   /// 🧗🏻‍♂️ man climbing
   final FluentEmojiData _manClimbingLight = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'man climbing',
     glyph: '🧗🏻‍♂️',
     svgPath: 'assets/man_climbing_color_light.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.light,
   );
 
   /// 🧗🏼‍♂️ man climbing
   final FluentEmojiData _manClimbingMediumLight = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'man climbing',
     glyph: '🧗🏼‍♂️',
     svgPath: 'assets/man_climbing_color_medium-light.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.mediumLight,
   );
 
   /// 🧗🏽‍♂️ man climbing
   final FluentEmojiData _manClimbingMedium = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'man climbing',
     glyph: '🧗🏽‍♂️',
     svgPath: 'assets/man_climbing_color_medium.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.medium,
   );
 
   /// 🧗🏾‍♂️ man climbing
   final FluentEmojiData _manClimbingMediumDark = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'man climbing',
     glyph: '🧗🏾‍♂️',
     svgPath: 'assets/man_climbing_color_medium-dark.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.mediumDark,
   );
 
   /// 🧗🏿‍♂️ man climbing
   final FluentEmojiData _manClimbingDark = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'man climbing',
     glyph: '🧗🏿‍♂️',
     svgPath: 'assets/man_climbing_color_dark.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.dark,
   );
 
   /// 👷‍♂️ man construction worker
@@ -5671,6 +6025,7 @@ class FluentEmojiPeopleAndBody {
   /// Medium Dark [_manConstructionWorkerMediumDark]
   /// Dark [_manConstructionWorkerDark]
   late final SkinToneFluentEmojiData manConstructionWorker = SkinToneFluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'man construction worker',
     glyph: '👷‍♂️',
@@ -5684,47 +6039,52 @@ class FluentEmojiPeopleAndBody {
 
   /// 👷🏻‍♂️ man construction worker
   final FluentEmojiData _manConstructionWorkerLight = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'man construction worker',
     glyph: '👷🏻‍♂️',
     svgPath: 'assets/man_construction_worker_color_light.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.light,
   );
 
   /// 👷🏼‍♂️ man construction worker
   final FluentEmojiData _manConstructionWorkerMediumLight = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'man construction worker',
     glyph: '👷🏼‍♂️',
     svgPath: 'assets/man_construction_worker_color_medium-light.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.mediumLight,
   );
 
   /// 👷🏽‍♂️ man construction worker
   final FluentEmojiData _manConstructionWorkerMedium = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'man construction worker',
     glyph: '👷🏽‍♂️',
     svgPath: 'assets/man_construction_worker_color_medium.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.medium,
   );
 
   /// 👷🏾‍♂️ man construction worker
   final FluentEmojiData _manConstructionWorkerMediumDark = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'man construction worker',
     glyph: '👷🏾‍♂️',
     svgPath: 'assets/man_construction_worker_color_medium-dark.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.mediumDark,
   );
 
   /// 👷🏿‍♂️ man construction worker
   final FluentEmojiData _manConstructionWorkerDark = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'man construction worker',
     glyph: '👷🏿‍♂️',
     svgPath: 'assets/man_construction_worker_color_dark.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.dark,
   );
 
   /// 👨‍🍳 man cook
@@ -5735,6 +6095,7 @@ class FluentEmojiPeopleAndBody {
   /// Medium Dark [_manCookMediumDark]
   /// Dark [_manCookDark]
   late final SkinToneFluentEmojiData manCook = SkinToneFluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'man cook',
     glyph: '👨‍🍳',
@@ -5748,47 +6109,52 @@ class FluentEmojiPeopleAndBody {
 
   /// 👨🏻‍🍳 man cook
   final FluentEmojiData _manCookLight = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'man cook',
     glyph: '👨🏻‍🍳',
     svgPath: 'assets/man_cook_color_light.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.light,
   );
 
   /// 👨🏼‍🍳 man cook
   final FluentEmojiData _manCookMediumLight = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'man cook',
     glyph: '👨🏼‍🍳',
     svgPath: 'assets/man_cook_color_medium-light.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.mediumLight,
   );
 
   /// 👨🏽‍🍳 man cook
   final FluentEmojiData _manCookMedium = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'man cook',
     glyph: '👨🏽‍🍳',
     svgPath: 'assets/man_cook_color_medium.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.medium,
   );
 
   /// 👨🏾‍🍳 man cook
   final FluentEmojiData _manCookMediumDark = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'man cook',
     glyph: '👨🏾‍🍳',
     svgPath: 'assets/man_cook_color_medium-dark.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.mediumDark,
   );
 
   /// 👨🏿‍🍳 man cook
   final FluentEmojiData _manCookDark = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'man cook',
     glyph: '👨🏿‍🍳',
     svgPath: 'assets/man_cook_color_dark.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.dark,
   );
 
   /// 🕺 man dancing
@@ -5799,6 +6165,7 @@ class FluentEmojiPeopleAndBody {
   /// Medium Dark [_manDancingMediumDark]
   /// Dark [_manDancingDark]
   late final SkinToneFluentEmojiData manDancing = SkinToneFluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'man dancing',
     glyph: '🕺',
@@ -5812,47 +6179,52 @@ class FluentEmojiPeopleAndBody {
 
   /// 🕺🏻 man dancing
   final FluentEmojiData _manDancingLight = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'man dancing',
     glyph: '🕺🏻',
     svgPath: 'assets/man_dancing_color_light.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.light,
   );
 
   /// 🕺🏼 man dancing
   final FluentEmojiData _manDancingMediumLight = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'man dancing',
     glyph: '🕺🏼',
     svgPath: 'assets/man_dancing_color_medium-light.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.mediumLight,
   );
 
   /// 🕺🏽 man dancing
   final FluentEmojiData _manDancingMedium = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'man dancing',
     glyph: '🕺🏽',
     svgPath: 'assets/man_dancing_color_medium.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.medium,
   );
 
   /// 🕺🏾 man dancing
   final FluentEmojiData _manDancingMediumDark = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'man dancing',
     glyph: '🕺🏾',
     svgPath: 'assets/man_dancing_color_medium-dark.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.mediumDark,
   );
 
   /// 🕺🏿 man dancing
   final FluentEmojiData _manDancingDark = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'man dancing',
     glyph: '🕺🏿',
     svgPath: 'assets/man_dancing_color_dark.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.dark,
   );
 
   /// 🕵️‍♂️ man detective
@@ -5863,6 +6235,7 @@ class FluentEmojiPeopleAndBody {
   /// Medium Dark [_manDetectiveMediumDark]
   /// Dark [_manDetectiveDark]
   late final SkinToneFluentEmojiData manDetective = SkinToneFluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'man detective',
     glyph: '🕵️‍♂️',
@@ -5876,47 +6249,52 @@ class FluentEmojiPeopleAndBody {
 
   /// 🕵🏻‍♂️ man detective
   final FluentEmojiData _manDetectiveLight = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'man detective',
     glyph: '🕵🏻‍♂️',
     svgPath: 'assets/man_detective_color_light.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.light,
   );
 
   /// 🕵🏼‍♂️ man detective
   final FluentEmojiData _manDetectiveMediumLight = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'man detective',
     glyph: '🕵🏼‍♂️',
     svgPath: 'assets/man_detective_color_medium-light.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.mediumLight,
   );
 
   /// 🕵🏽‍♂️ man detective
   final FluentEmojiData _manDetectiveMedium = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'man detective',
     glyph: '🕵🏽‍♂️',
     svgPath: 'assets/man_detective_color_medium.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.medium,
   );
 
   /// 🕵🏾‍♂️ man detective
   final FluentEmojiData _manDetectiveMediumDark = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'man detective',
     glyph: '🕵🏾‍♂️',
     svgPath: 'assets/man_detective_color_medium-dark.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.mediumDark,
   );
 
   /// 🕵🏿‍♂️ man detective
   final FluentEmojiData _manDetectiveDark = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'man detective',
     glyph: '🕵🏿‍♂️',
     svgPath: 'assets/man_detective_color_dark.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.dark,
   );
 
   /// 🧝‍♂️ man elf
@@ -5927,6 +6305,7 @@ class FluentEmojiPeopleAndBody {
   /// Medium Dark [_manElfMediumDark]
   /// Dark [_manElfDark]
   late final SkinToneFluentEmojiData manElf = SkinToneFluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'man elf',
     glyph: '🧝‍♂️',
@@ -5940,47 +6319,52 @@ class FluentEmojiPeopleAndBody {
 
   /// 🧝🏻‍♂️ man elf
   final FluentEmojiData _manElfLight = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'man elf',
     glyph: '🧝🏻‍♂️',
     svgPath: 'assets/man_elf_color_light.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.light,
   );
 
   /// 🧝🏼‍♂️ man elf
   final FluentEmojiData _manElfMediumLight = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'man elf',
     glyph: '🧝🏼‍♂️',
     svgPath: 'assets/man_elf_color_medium-light.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.mediumLight,
   );
 
   /// 🧝🏽‍♂️ man elf
   final FluentEmojiData _manElfMedium = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'man elf',
     glyph: '🧝🏽‍♂️',
     svgPath: 'assets/man_elf_color_medium.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.medium,
   );
 
   /// 🧝🏾‍♂️ man elf
   final FluentEmojiData _manElfMediumDark = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'man elf',
     glyph: '🧝🏾‍♂️',
     svgPath: 'assets/man_elf_color_medium-dark.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.mediumDark,
   );
 
   /// 🧝🏿‍♂️ man elf
   final FluentEmojiData _manElfDark = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'man elf',
     glyph: '🧝🏿‍♂️',
     svgPath: 'assets/man_elf_color_dark.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.dark,
   );
 
   /// 🤦‍♂️ man facepalming
@@ -5991,6 +6375,7 @@ class FluentEmojiPeopleAndBody {
   /// Medium Dark [_manFacepalmingMediumDark]
   /// Dark [_manFacepalmingDark]
   late final SkinToneFluentEmojiData manFacepalming = SkinToneFluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'man facepalming',
     glyph: '🤦‍♂️',
@@ -6004,47 +6389,52 @@ class FluentEmojiPeopleAndBody {
 
   /// 🤦🏻‍♂️ man facepalming
   final FluentEmojiData _manFacepalmingLight = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'man facepalming',
     glyph: '🤦🏻‍♂️',
     svgPath: 'assets/man_facepalming_color_light.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.light,
   );
 
   /// 🤦🏼‍♂️ man facepalming
   final FluentEmojiData _manFacepalmingMediumLight = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'man facepalming',
     glyph: '🤦🏼‍♂️',
     svgPath: 'assets/man_facepalming_color_medium-light.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.mediumLight,
   );
 
   /// 🤦🏽‍♂️ man facepalming
   final FluentEmojiData _manFacepalmingMedium = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'man facepalming',
     glyph: '🤦🏽‍♂️',
     svgPath: 'assets/man_facepalming_color_medium.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.medium,
   );
 
   /// 🤦🏾‍♂️ man facepalming
   final FluentEmojiData _manFacepalmingMediumDark = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'man facepalming',
     glyph: '🤦🏾‍♂️',
     svgPath: 'assets/man_facepalming_color_medium-dark.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.mediumDark,
   );
 
   /// 🤦🏿‍♂️ man facepalming
   final FluentEmojiData _manFacepalmingDark = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'man facepalming',
     glyph: '🤦🏿‍♂️',
     svgPath: 'assets/man_facepalming_color_dark.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.dark,
   );
 
   /// 👨‍🏭 man factory worker
@@ -6055,6 +6445,7 @@ class FluentEmojiPeopleAndBody {
   /// Medium Dark [_manFactoryWorkerMediumDark]
   /// Dark [_manFactoryWorkerDark]
   late final SkinToneFluentEmojiData manFactoryWorker = SkinToneFluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'man factory worker',
     glyph: '👨‍🏭',
@@ -6068,47 +6459,52 @@ class FluentEmojiPeopleAndBody {
 
   /// 👨🏻‍🏭 man factory worker
   final FluentEmojiData _manFactoryWorkerLight = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'man factory worker',
     glyph: '👨🏻‍🏭',
     svgPath: 'assets/man_factory_worker_color_light.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.light,
   );
 
   /// 👨🏼‍🏭 man factory worker
   final FluentEmojiData _manFactoryWorkerMediumLight = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'man factory worker',
     glyph: '👨🏼‍🏭',
     svgPath: 'assets/man_factory_worker_color_medium-light.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.mediumLight,
   );
 
   /// 👨🏽‍🏭 man factory worker
   final FluentEmojiData _manFactoryWorkerMedium = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'man factory worker',
     glyph: '👨🏽‍🏭',
     svgPath: 'assets/man_factory_worker_color_medium.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.medium,
   );
 
   /// 👨🏾‍🏭 man factory worker
   final FluentEmojiData _manFactoryWorkerMediumDark = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'man factory worker',
     glyph: '👨🏾‍🏭',
     svgPath: 'assets/man_factory_worker_color_medium-dark.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.mediumDark,
   );
 
   /// 👨🏿‍🏭 man factory worker
   final FluentEmojiData _manFactoryWorkerDark = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'man factory worker',
     glyph: '👨🏿‍🏭',
     svgPath: 'assets/man_factory_worker_color_dark.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.dark,
   );
 
   /// 🧚‍♂️ man fairy
@@ -6119,6 +6515,7 @@ class FluentEmojiPeopleAndBody {
   /// Medium Dark [_manFairyMediumDark]
   /// Dark [_manFairyDark]
   late final SkinToneFluentEmojiData manFairy = SkinToneFluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'man fairy',
     glyph: '🧚‍♂️',
@@ -6132,47 +6529,52 @@ class FluentEmojiPeopleAndBody {
 
   /// 🧚🏻‍♂️ man fairy
   final FluentEmojiData _manFairyLight = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'man fairy',
     glyph: '🧚🏻‍♂️',
     svgPath: 'assets/man_fairy_color_light.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.light,
   );
 
   /// 🧚🏼‍♂️ man fairy
   final FluentEmojiData _manFairyMediumLight = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'man fairy',
     glyph: '🧚🏼‍♂️',
     svgPath: 'assets/man_fairy_color_medium-light.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.mediumLight,
   );
 
   /// 🧚🏽‍♂️ man fairy
   final FluentEmojiData _manFairyMedium = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'man fairy',
     glyph: '🧚🏽‍♂️',
     svgPath: 'assets/man_fairy_color_medium.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.medium,
   );
 
   /// 🧚🏾‍♂️ man fairy
   final FluentEmojiData _manFairyMediumDark = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'man fairy',
     glyph: '🧚🏾‍♂️',
     svgPath: 'assets/man_fairy_color_medium-dark.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.mediumDark,
   );
 
   /// 🧚🏿‍♂️ man fairy
   final FluentEmojiData _manFairyDark = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'man fairy',
     glyph: '🧚🏿‍♂️',
     svgPath: 'assets/man_fairy_color_dark.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.dark,
   );
 
   /// 👨‍🌾 man farmer
@@ -6183,6 +6585,7 @@ class FluentEmojiPeopleAndBody {
   /// Medium Dark [_manFarmerMediumDark]
   /// Dark [_manFarmerDark]
   late final SkinToneFluentEmojiData manFarmer = SkinToneFluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'man farmer',
     glyph: '👨‍🌾',
@@ -6196,47 +6599,52 @@ class FluentEmojiPeopleAndBody {
 
   /// 👨🏻‍🌾 man farmer
   final FluentEmojiData _manFarmerLight = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'man farmer',
     glyph: '👨🏻‍🌾',
     svgPath: 'assets/man_farmer_color_light.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.light,
   );
 
   /// 👨🏼‍🌾 man farmer
   final FluentEmojiData _manFarmerMediumLight = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'man farmer',
     glyph: '👨🏼‍🌾',
     svgPath: 'assets/man_farmer_color_medium-light.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.mediumLight,
   );
 
   /// 👨🏽‍🌾 man farmer
   final FluentEmojiData _manFarmerMedium = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'man farmer',
     glyph: '👨🏽‍🌾',
     svgPath: 'assets/man_farmer_color_medium.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.medium,
   );
 
   /// 👨🏾‍🌾 man farmer
   final FluentEmojiData _manFarmerMediumDark = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'man farmer',
     glyph: '👨🏾‍🌾',
     svgPath: 'assets/man_farmer_color_medium-dark.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.mediumDark,
   );
 
   /// 👨🏿‍🌾 man farmer
   final FluentEmojiData _manFarmerDark = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'man farmer',
     glyph: '👨🏿‍🌾',
     svgPath: 'assets/man_farmer_color_dark.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.dark,
   );
 
   /// 👨‍🍼 man feeding baby
@@ -6247,6 +6655,7 @@ class FluentEmojiPeopleAndBody {
   /// Medium Dark [_manFeedingBabyMediumDark]
   /// Dark [_manFeedingBabyDark]
   late final SkinToneFluentEmojiData manFeedingBaby = SkinToneFluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'man feeding baby',
     glyph: '👨‍🍼',
@@ -6260,47 +6669,52 @@ class FluentEmojiPeopleAndBody {
 
   /// 👨🏻‍🍼 man feeding baby
   final FluentEmojiData _manFeedingBabyLight = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'man feeding baby',
     glyph: '👨🏻‍🍼',
     svgPath: 'assets/man_feeding_baby_color_light.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.light,
   );
 
   /// 👨🏼‍🍼 man feeding baby
   final FluentEmojiData _manFeedingBabyMediumLight = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'man feeding baby',
     glyph: '👨🏼‍🍼',
     svgPath: 'assets/man_feeding_baby_color_medium-light.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.mediumLight,
   );
 
   /// 👨🏽‍🍼 man feeding baby
   final FluentEmojiData _manFeedingBabyMedium = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'man feeding baby',
     glyph: '👨🏽‍🍼',
     svgPath: 'assets/man_feeding_baby_color_medium.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.medium,
   );
 
   /// 👨🏾‍🍼 man feeding baby
   final FluentEmojiData _manFeedingBabyMediumDark = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'man feeding baby',
     glyph: '👨🏾‍🍼',
     svgPath: 'assets/man_feeding_baby_color_medium-dark.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.mediumDark,
   );
 
   /// 👨🏿‍🍼 man feeding baby
   final FluentEmojiData _manFeedingBabyDark = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'man feeding baby',
     glyph: '👨🏿‍🍼',
     svgPath: 'assets/man_feeding_baby_color_dark.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.dark,
   );
 
   /// 👨‍🚒 man firefighter
@@ -6311,6 +6725,7 @@ class FluentEmojiPeopleAndBody {
   /// Medium Dark [_manFirefighterMediumDark]
   /// Dark [_manFirefighterDark]
   late final SkinToneFluentEmojiData manFirefighter = SkinToneFluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'man firefighter',
     glyph: '👨‍🚒',
@@ -6324,47 +6739,52 @@ class FluentEmojiPeopleAndBody {
 
   /// 👨🏻‍🚒 man firefighter
   final FluentEmojiData _manFirefighterLight = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'man firefighter',
     glyph: '👨🏻‍🚒',
     svgPath: 'assets/man_firefighter_color_light.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.light,
   );
 
   /// 👨🏼‍🚒 man firefighter
   final FluentEmojiData _manFirefighterMediumLight = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'man firefighter',
     glyph: '👨🏼‍🚒',
     svgPath: 'assets/man_firefighter_color_medium-light.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.mediumLight,
   );
 
   /// 👨🏽‍🚒 man firefighter
   final FluentEmojiData _manFirefighterMedium = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'man firefighter',
     glyph: '👨🏽‍🚒',
     svgPath: 'assets/man_firefighter_color_medium.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.medium,
   );
 
   /// 👨🏾‍🚒 man firefighter
   final FluentEmojiData _manFirefighterMediumDark = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'man firefighter',
     glyph: '👨🏾‍🚒',
     svgPath: 'assets/man_firefighter_color_medium-dark.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.mediumDark,
   );
 
   /// 👨🏿‍🚒 man firefighter
   final FluentEmojiData _manFirefighterDark = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'man firefighter',
     glyph: '👨🏿‍🚒',
     svgPath: 'assets/man_firefighter_color_dark.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.dark,
   );
 
   /// 🙍‍♂️ man frowning
@@ -6375,6 +6795,7 @@ class FluentEmojiPeopleAndBody {
   /// Medium Dark [_manFrowningMediumDark]
   /// Dark [_manFrowningDark]
   late final SkinToneFluentEmojiData manFrowning = SkinToneFluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'man frowning',
     glyph: '🙍‍♂️',
@@ -6388,56 +6809,62 @@ class FluentEmojiPeopleAndBody {
 
   /// 🙍🏻‍♂️ man frowning
   final FluentEmojiData _manFrowningLight = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'man frowning',
     glyph: '🙍🏻‍♂️',
     svgPath: 'assets/man_frowning_color_light.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.light,
   );
 
   /// 🙍🏼‍♂️ man frowning
   final FluentEmojiData _manFrowningMediumLight = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'man frowning',
     glyph: '🙍🏼‍♂️',
     svgPath: 'assets/man_frowning_color_medium-light.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.mediumLight,
   );
 
   /// 🙍🏽‍♂️ man frowning
   final FluentEmojiData _manFrowningMedium = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'man frowning',
     glyph: '🙍🏽‍♂️',
     svgPath: 'assets/man_frowning_color_medium.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.medium,
   );
 
   /// 🙍🏾‍♂️ man frowning
   final FluentEmojiData _manFrowningMediumDark = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'man frowning',
     glyph: '🙍🏾‍♂️',
     svgPath: 'assets/man_frowning_color_medium-dark.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.mediumDark,
   );
 
   /// 🙍🏿‍♂️ man frowning
   final FluentEmojiData _manFrowningDark = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'man frowning',
     glyph: '🙍🏿‍♂️',
     svgPath: 'assets/man_frowning_color_dark.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.dark,
   );
 
   /// 🧞‍♂️ man genie
   final FluentEmojiData manGenie = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'man genie',
     glyph: '🧞‍♂️',
     svgPath: 'assets/man_genie_color.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.standard,
   );
 
   /// 🙅‍♂️ man gesturing NO
@@ -6448,6 +6875,7 @@ class FluentEmojiPeopleAndBody {
   /// Medium Dark [_manGesturingNoMediumDark]
   /// Dark [_manGesturingNoDark]
   late final SkinToneFluentEmojiData manGesturingNo = SkinToneFluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'man gesturing NO',
     glyph: '🙅‍♂️',
@@ -6461,47 +6889,52 @@ class FluentEmojiPeopleAndBody {
 
   /// 🙅🏻‍♂️ man gesturing NO
   final FluentEmojiData _manGesturingNoLight = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'man gesturing NO',
     glyph: '🙅🏻‍♂️',
     svgPath: 'assets/man_gesturing_no_color_light.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.light,
   );
 
   /// 🙅🏼‍♂️ man gesturing NO
   final FluentEmojiData _manGesturingNoMediumLight = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'man gesturing NO',
     glyph: '🙅🏼‍♂️',
     svgPath: 'assets/man_gesturing_no_color_medium-light.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.mediumLight,
   );
 
   /// 🙅🏽‍♂️ man gesturing NO
   final FluentEmojiData _manGesturingNoMedium = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'man gesturing NO',
     glyph: '🙅🏽‍♂️',
     svgPath: 'assets/man_gesturing_no_color_medium.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.medium,
   );
 
   /// 🙅🏾‍♂️ man gesturing NO
   final FluentEmojiData _manGesturingNoMediumDark = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'man gesturing NO',
     glyph: '🙅🏾‍♂️',
     svgPath: 'assets/man_gesturing_no_color_medium-dark.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.mediumDark,
   );
 
   /// 🙅🏿‍♂️ man gesturing NO
   final FluentEmojiData _manGesturingNoDark = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'man gesturing NO',
     glyph: '🙅🏿‍♂️',
     svgPath: 'assets/man_gesturing_no_color_dark.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.dark,
   );
 
   /// 🙆‍♂️ man gesturing OK
@@ -6512,6 +6945,7 @@ class FluentEmojiPeopleAndBody {
   /// Medium Dark [_manGesturingOkMediumDark]
   /// Dark [_manGesturingOkDark]
   late final SkinToneFluentEmojiData manGesturingOk = SkinToneFluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'man gesturing OK',
     glyph: '🙆‍♂️',
@@ -6525,47 +6959,52 @@ class FluentEmojiPeopleAndBody {
 
   /// 🙆🏻‍♂️ man gesturing OK
   final FluentEmojiData _manGesturingOkLight = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'man gesturing OK',
     glyph: '🙆🏻‍♂️',
     svgPath: 'assets/man_gesturing_ok_color_light.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.light,
   );
 
   /// 🙆🏼‍♂️ man gesturing OK
   final FluentEmojiData _manGesturingOkMediumLight = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'man gesturing OK',
     glyph: '🙆🏼‍♂️',
     svgPath: 'assets/man_gesturing_ok_color_medium-light.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.mediumLight,
   );
 
   /// 🙆🏽‍♂️ man gesturing OK
   final FluentEmojiData _manGesturingOkMedium = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'man gesturing OK',
     glyph: '🙆🏽‍♂️',
     svgPath: 'assets/man_gesturing_ok_color_medium.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.medium,
   );
 
   /// 🙆🏾‍♂️ man gesturing OK
   final FluentEmojiData _manGesturingOkMediumDark = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'man gesturing OK',
     glyph: '🙆🏾‍♂️',
     svgPath: 'assets/man_gesturing_ok_color_medium-dark.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.mediumDark,
   );
 
   /// 🙆🏿‍♂️ man gesturing OK
   final FluentEmojiData _manGesturingOkDark = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'man gesturing OK',
     glyph: '🙆🏿‍♂️',
     svgPath: 'assets/man_gesturing_ok_color_dark.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.dark,
   );
 
   /// 💇‍♂️ man getting haircut
@@ -6576,6 +7015,7 @@ class FluentEmojiPeopleAndBody {
   /// Medium Dark [_manGettingHaircutMediumDark]
   /// Dark [_manGettingHaircutDark]
   late final SkinToneFluentEmojiData manGettingHaircut = SkinToneFluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'man getting haircut',
     glyph: '💇‍♂️',
@@ -6589,47 +7029,52 @@ class FluentEmojiPeopleAndBody {
 
   /// 💇🏻‍♂️ man getting haircut
   final FluentEmojiData _manGettingHaircutLight = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'man getting haircut',
     glyph: '💇🏻‍♂️',
     svgPath: 'assets/man_getting_haircut_color_light.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.light,
   );
 
   /// 💇🏼‍♂️ man getting haircut
   final FluentEmojiData _manGettingHaircutMediumLight = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'man getting haircut',
     glyph: '💇🏼‍♂️',
     svgPath: 'assets/man_getting_haircut_color_medium-light.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.mediumLight,
   );
 
   /// 💇🏽‍♂️ man getting haircut
   final FluentEmojiData _manGettingHaircutMedium = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'man getting haircut',
     glyph: '💇🏽‍♂️',
     svgPath: 'assets/man_getting_haircut_color_medium.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.medium,
   );
 
   /// 💇🏾‍♂️ man getting haircut
   final FluentEmojiData _manGettingHaircutMediumDark = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'man getting haircut',
     glyph: '💇🏾‍♂️',
     svgPath: 'assets/man_getting_haircut_color_medium-dark.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.mediumDark,
   );
 
   /// 💇🏿‍♂️ man getting haircut
   final FluentEmojiData _manGettingHaircutDark = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'man getting haircut',
     glyph: '💇🏿‍♂️',
     svgPath: 'assets/man_getting_haircut_color_dark.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.dark,
   );
 
   /// 💆‍♂️ man getting massage
@@ -6640,6 +7085,7 @@ class FluentEmojiPeopleAndBody {
   /// Medium Dark [_manGettingMassageMediumDark]
   /// Dark [_manGettingMassageDark]
   late final SkinToneFluentEmojiData manGettingMassage = SkinToneFluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'man getting massage',
     glyph: '💆‍♂️',
@@ -6653,47 +7099,52 @@ class FluentEmojiPeopleAndBody {
 
   /// 💆🏻‍♂️ man getting massage
   final FluentEmojiData _manGettingMassageLight = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'man getting massage',
     glyph: '💆🏻‍♂️',
     svgPath: 'assets/man_getting_massage_color_light.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.light,
   );
 
   /// 💆🏼‍♂️ man getting massage
   final FluentEmojiData _manGettingMassageMediumLight = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'man getting massage',
     glyph: '💆🏼‍♂️',
     svgPath: 'assets/man_getting_massage_color_medium-light.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.mediumLight,
   );
 
   /// 💆🏽‍♂️ man getting massage
   final FluentEmojiData _manGettingMassageMedium = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'man getting massage',
     glyph: '💆🏽‍♂️',
     svgPath: 'assets/man_getting_massage_color_medium.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.medium,
   );
 
   /// 💆🏾‍♂️ man getting massage
   final FluentEmojiData _manGettingMassageMediumDark = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'man getting massage',
     glyph: '💆🏾‍♂️',
     svgPath: 'assets/man_getting_massage_color_medium-dark.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.mediumDark,
   );
 
   /// 💆🏿‍♂️ man getting massage
   final FluentEmojiData _manGettingMassageDark = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'man getting massage',
     glyph: '💆🏿‍♂️',
     svgPath: 'assets/man_getting_massage_color_dark.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.dark,
   );
 
   /// 🏌️‍♂️ man golfing
@@ -6704,6 +7155,7 @@ class FluentEmojiPeopleAndBody {
   /// Medium Dark [_manGolfingMediumDark]
   /// Dark [_manGolfingDark]
   late final SkinToneFluentEmojiData manGolfing = SkinToneFluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'man golfing',
     glyph: '🏌️‍♂️',
@@ -6717,47 +7169,52 @@ class FluentEmojiPeopleAndBody {
 
   /// 🏌🏻‍♂️ man golfing
   final FluentEmojiData _manGolfingLight = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'man golfing',
     glyph: '🏌🏻‍♂️',
     svgPath: 'assets/man_golfing_color_light.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.light,
   );
 
   /// 🏌🏼‍♂️ man golfing
   final FluentEmojiData _manGolfingMediumLight = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'man golfing',
     glyph: '🏌🏼‍♂️',
     svgPath: 'assets/man_golfing_color_medium-light.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.mediumLight,
   );
 
   /// 🏌🏽‍♂️ man golfing
   final FluentEmojiData _manGolfingMedium = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'man golfing',
     glyph: '🏌🏽‍♂️',
     svgPath: 'assets/man_golfing_color_medium.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.medium,
   );
 
   /// 🏌🏾‍♂️ man golfing
   final FluentEmojiData _manGolfingMediumDark = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'man golfing',
     glyph: '🏌🏾‍♂️',
     svgPath: 'assets/man_golfing_color_medium-dark.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.mediumDark,
   );
 
   /// 🏌🏿‍♂️ man golfing
   final FluentEmojiData _manGolfingDark = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'man golfing',
     glyph: '🏌🏿‍♂️',
     svgPath: 'assets/man_golfing_color_dark.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.dark,
   );
 
   /// 💂‍♂️ man guard
@@ -6768,6 +7225,7 @@ class FluentEmojiPeopleAndBody {
   /// Medium Dark [_manGuardMediumDark]
   /// Dark [_manGuardDark]
   late final SkinToneFluentEmojiData manGuard = SkinToneFluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'man guard',
     glyph: '💂‍♂️',
@@ -6781,47 +7239,52 @@ class FluentEmojiPeopleAndBody {
 
   /// 💂🏻‍♂️ man guard
   final FluentEmojiData _manGuardLight = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'man guard',
     glyph: '💂🏻‍♂️',
     svgPath: 'assets/man_guard_color_light.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.light,
   );
 
   /// 💂🏼‍♂️ man guard
   final FluentEmojiData _manGuardMediumLight = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'man guard',
     glyph: '💂🏼‍♂️',
     svgPath: 'assets/man_guard_color_medium-light.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.mediumLight,
   );
 
   /// 💂🏽‍♂️ man guard
   final FluentEmojiData _manGuardMedium = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'man guard',
     glyph: '💂🏽‍♂️',
     svgPath: 'assets/man_guard_color_medium.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.medium,
   );
 
   /// 💂🏾‍♂️ man guard
   final FluentEmojiData _manGuardMediumDark = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'man guard',
     glyph: '💂🏾‍♂️',
     svgPath: 'assets/man_guard_color_medium-dark.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.mediumDark,
   );
 
   /// 💂🏿‍♂️ man guard
   final FluentEmojiData _manGuardDark = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'man guard',
     glyph: '💂🏿‍♂️',
     svgPath: 'assets/man_guard_color_dark.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.dark,
   );
 
   /// 👨‍⚕️ man health worker
@@ -6832,6 +7295,7 @@ class FluentEmojiPeopleAndBody {
   /// Medium Dark [_manHealthWorkerMediumDark]
   /// Dark [_manHealthWorkerDark]
   late final SkinToneFluentEmojiData manHealthWorker = SkinToneFluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'man health worker',
     glyph: '👨‍⚕️',
@@ -6845,47 +7309,52 @@ class FluentEmojiPeopleAndBody {
 
   /// 👨🏻‍⚕️ man health worker
   final FluentEmojiData _manHealthWorkerLight = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'man health worker',
     glyph: '👨🏻‍⚕️',
     svgPath: 'assets/man_health_worker_color_light.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.light,
   );
 
   /// 👨🏼‍⚕️ man health worker
   final FluentEmojiData _manHealthWorkerMediumLight = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'man health worker',
     glyph: '👨🏼‍⚕️',
     svgPath: 'assets/man_health_worker_color_medium-light.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.mediumLight,
   );
 
   /// 👨🏽‍⚕️ man health worker
   final FluentEmojiData _manHealthWorkerMedium = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'man health worker',
     glyph: '👨🏽‍⚕️',
     svgPath: 'assets/man_health_worker_color_medium.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.medium,
   );
 
   /// 👨🏾‍⚕️ man health worker
   final FluentEmojiData _manHealthWorkerMediumDark = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'man health worker',
     glyph: '👨🏾‍⚕️',
     svgPath: 'assets/man_health_worker_color_medium-dark.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.mediumDark,
   );
 
   /// 👨🏿‍⚕️ man health worker
   final FluentEmojiData _manHealthWorkerDark = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'man health worker',
     glyph: '👨🏿‍⚕️',
     svgPath: 'assets/man_health_worker_color_dark.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.dark,
   );
 
   /// 🧘‍♂️ man in lotus position
@@ -6896,6 +7365,7 @@ class FluentEmojiPeopleAndBody {
   /// Medium Dark [_manInLotusPositionMediumDark]
   /// Dark [_manInLotusPositionDark]
   late final SkinToneFluentEmojiData manInLotusPosition = SkinToneFluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'man in lotus position',
     glyph: '🧘‍♂️',
@@ -6909,47 +7379,52 @@ class FluentEmojiPeopleAndBody {
 
   /// 🧘🏻‍♂️ man in lotus position
   final FluentEmojiData _manInLotusPositionLight = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'man in lotus position',
     glyph: '🧘🏻‍♂️',
     svgPath: 'assets/man_in_lotus_position_color_light.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.light,
   );
 
   /// 🧘🏼‍♂️ man in lotus position
   final FluentEmojiData _manInLotusPositionMediumLight = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'man in lotus position',
     glyph: '🧘🏼‍♂️',
     svgPath: 'assets/man_in_lotus_position_color_medium-light.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.mediumLight,
   );
 
   /// 🧘🏽‍♂️ man in lotus position
   final FluentEmojiData _manInLotusPositionMedium = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'man in lotus position',
     glyph: '🧘🏽‍♂️',
     svgPath: 'assets/man_in_lotus_position_color_medium.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.medium,
   );
 
   /// 🧘🏾‍♂️ man in lotus position
   final FluentEmojiData _manInLotusPositionMediumDark = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'man in lotus position',
     glyph: '🧘🏾‍♂️',
     svgPath: 'assets/man_in_lotus_position_color_medium-dark.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.mediumDark,
   );
 
   /// 🧘🏿‍♂️ man in lotus position
   final FluentEmojiData _manInLotusPositionDark = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'man in lotus position',
     glyph: '🧘🏿‍♂️',
     svgPath: 'assets/man_in_lotus_position_color_dark.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.dark,
   );
 
   /// 👨‍🦽 man in manual wheelchair
@@ -6960,6 +7435,7 @@ class FluentEmojiPeopleAndBody {
   /// Medium Dark [_manInManualWheelchairMediumDark]
   /// Dark [_manInManualWheelchairDark]
   late final SkinToneFluentEmojiData manInManualWheelchair = SkinToneFluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'man in manual wheelchair',
     glyph: '👨‍🦽',
@@ -6973,47 +7449,52 @@ class FluentEmojiPeopleAndBody {
 
   /// 👨🏻‍🦽 man in manual wheelchair
   final FluentEmojiData _manInManualWheelchairLight = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'man in manual wheelchair',
     glyph: '👨🏻‍🦽',
     svgPath: 'assets/man_in_manual_wheelchair_color_light.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.light,
   );
 
   /// 👨🏼‍🦽 man in manual wheelchair
   final FluentEmojiData _manInManualWheelchairMediumLight = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'man in manual wheelchair',
     glyph: '👨🏼‍🦽',
     svgPath: 'assets/man_in_manual_wheelchair_color_medium-light.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.mediumLight,
   );
 
   /// 👨🏽‍🦽 man in manual wheelchair
   final FluentEmojiData _manInManualWheelchairMedium = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'man in manual wheelchair',
     glyph: '👨🏽‍🦽',
     svgPath: 'assets/man_in_manual_wheelchair_color_medium.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.medium,
   );
 
   /// 👨🏾‍🦽 man in manual wheelchair
   final FluentEmojiData _manInManualWheelchairMediumDark = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'man in manual wheelchair',
     glyph: '👨🏾‍🦽',
     svgPath: 'assets/man_in_manual_wheelchair_color_medium-dark.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.mediumDark,
   );
 
   /// 👨🏿‍🦽 man in manual wheelchair
   final FluentEmojiData _manInManualWheelchairDark = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'man in manual wheelchair',
     glyph: '👨🏿‍🦽',
     svgPath: 'assets/man_in_manual_wheelchair_color_dark.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.dark,
   );
 
   /// 👨‍🦽‍➡️ man in manual wheelchair facing right
@@ -7024,6 +7505,7 @@ class FluentEmojiPeopleAndBody {
   /// Medium Dark [_manInManualWheelchairFacingRightMediumDark]
   /// Dark [_manInManualWheelchairFacingRightDark]
   late final SkinToneFluentEmojiData manInManualWheelchairFacingRight = SkinToneFluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'man in manual wheelchair facing right',
     glyph: '👨‍🦽‍➡️',
@@ -7037,47 +7519,52 @@ class FluentEmojiPeopleAndBody {
 
   /// 👨🏻‍🦽‍➡️ man in manual wheelchair facing right
   final FluentEmojiData _manInManualWheelchairFacingRightLight = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'man in manual wheelchair facing right',
     glyph: '👨🏻‍🦽‍➡️',
     svgPath: 'assets/man_in_manual_wheelchair_facing_right_color_light.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.light,
   );
 
   /// 👨🏼‍🦽‍➡️ man in manual wheelchair facing right
   final FluentEmojiData _manInManualWheelchairFacingRightMediumLight = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'man in manual wheelchair facing right',
     glyph: '👨🏼‍🦽‍➡️',
     svgPath: 'assets/man_in_manual_wheelchair_facing_right_color_medium-light.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.mediumLight,
   );
 
   /// 👨🏽‍🦽‍➡️ man in manual wheelchair facing right
   final FluentEmojiData _manInManualWheelchairFacingRightMedium = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'man in manual wheelchair facing right',
     glyph: '👨🏽‍🦽‍➡️',
     svgPath: 'assets/man_in_manual_wheelchair_facing_right_color_medium.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.medium,
   );
 
   /// 👨🏾‍🦽‍➡️ man in manual wheelchair facing right
   final FluentEmojiData _manInManualWheelchairFacingRightMediumDark = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'man in manual wheelchair facing right',
     glyph: '👨🏾‍🦽‍➡️',
     svgPath: 'assets/man_in_manual_wheelchair_facing_right_color_medium-dark.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.mediumDark,
   );
 
   /// 👨🏿‍🦽‍➡️ man in manual wheelchair facing right
   final FluentEmojiData _manInManualWheelchairFacingRightDark = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'man in manual wheelchair facing right',
     glyph: '👨🏿‍🦽‍➡️',
     svgPath: 'assets/man_in_manual_wheelchair_facing_right_color_dark.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.dark,
   );
 
   /// 👨‍🦼 man in motorized wheelchair
@@ -7088,6 +7575,7 @@ class FluentEmojiPeopleAndBody {
   /// Medium Dark [_manInMotorizedWheelchairMediumDark]
   /// Dark [_manInMotorizedWheelchairDark]
   late final SkinToneFluentEmojiData manInMotorizedWheelchair = SkinToneFluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'man in motorized wheelchair',
     glyph: '👨‍🦼',
@@ -7101,47 +7589,52 @@ class FluentEmojiPeopleAndBody {
 
   /// 👨🏻‍🦼 man in motorized wheelchair
   final FluentEmojiData _manInMotorizedWheelchairLight = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'man in motorized wheelchair',
     glyph: '👨🏻‍🦼',
     svgPath: 'assets/man_in_motorized_wheelchair_color_light.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.light,
   );
 
   /// 👨🏼‍🦼 man in motorized wheelchair
   final FluentEmojiData _manInMotorizedWheelchairMediumLight = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'man in motorized wheelchair',
     glyph: '👨🏼‍🦼',
     svgPath: 'assets/man_in_motorized_wheelchair_color_medium-light.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.mediumLight,
   );
 
   /// 👨🏽‍🦼 man in motorized wheelchair
   final FluentEmojiData _manInMotorizedWheelchairMedium = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'man in motorized wheelchair',
     glyph: '👨🏽‍🦼',
     svgPath: 'assets/man_in_motorized_wheelchair_color_medium.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.medium,
   );
 
   /// 👨🏾‍🦼 man in motorized wheelchair
   final FluentEmojiData _manInMotorizedWheelchairMediumDark = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'man in motorized wheelchair',
     glyph: '👨🏾‍🦼',
     svgPath: 'assets/man_in_motorized_wheelchair_color_medium-dark.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.mediumDark,
   );
 
   /// 👨🏿‍🦼 man in motorized wheelchair
   final FluentEmojiData _manInMotorizedWheelchairDark = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'man in motorized wheelchair',
     glyph: '👨🏿‍🦼',
     svgPath: 'assets/man_in_motorized_wheelchair_color_dark.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.dark,
   );
 
   /// 👨‍🦼‍➡️ man in motorized wheelchair facing right
@@ -7152,6 +7645,7 @@ class FluentEmojiPeopleAndBody {
   /// Medium Dark [_manInMotorizedWheelchairFacingRightMediumDark]
   /// Dark [_manInMotorizedWheelchairFacingRightDark]
   late final SkinToneFluentEmojiData manInMotorizedWheelchairFacingRight = SkinToneFluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'man in motorized wheelchair facing right',
     glyph: '👨‍🦼‍➡️',
@@ -7165,47 +7659,52 @@ class FluentEmojiPeopleAndBody {
 
   /// 👨🏻‍🦼‍➡️ man in motorized wheelchair facing right
   final FluentEmojiData _manInMotorizedWheelchairFacingRightLight = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'man in motorized wheelchair facing right',
     glyph: '👨🏻‍🦼‍➡️',
     svgPath: 'assets/man_in_motorized_wheelchair_facing_right_color_light.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.light,
   );
 
   /// 👨🏼‍🦼‍➡️ man in motorized wheelchair facing right
   final FluentEmojiData _manInMotorizedWheelchairFacingRightMediumLight = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'man in motorized wheelchair facing right',
     glyph: '👨🏼‍🦼‍➡️',
     svgPath: 'assets/man_in_motorized_wheelchair_facing_right_color_medium-light.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.mediumLight,
   );
 
   /// 👨🏽‍🦼‍➡️ man in motorized wheelchair facing right
   final FluentEmojiData _manInMotorizedWheelchairFacingRightMedium = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'man in motorized wheelchair facing right',
     glyph: '👨🏽‍🦼‍➡️',
     svgPath: 'assets/man_in_motorized_wheelchair_facing_right_color_medium.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.medium,
   );
 
   /// 👨🏾‍🦼‍➡️ man in motorized wheelchair facing right
   final FluentEmojiData _manInMotorizedWheelchairFacingRightMediumDark = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'man in motorized wheelchair facing right',
     glyph: '👨🏾‍🦼‍➡️',
     svgPath: 'assets/man_in_motorized_wheelchair_facing_right_color_medium-dark.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.mediumDark,
   );
 
   /// 👨🏿‍🦼‍➡️ man in motorized wheelchair facing right
   final FluentEmojiData _manInMotorizedWheelchairFacingRightDark = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'man in motorized wheelchair facing right',
     glyph: '👨🏿‍🦼‍➡️',
     svgPath: 'assets/man_in_motorized_wheelchair_facing_right_color_dark.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.dark,
   );
 
   /// 🧖‍♂️ man in steamy room
@@ -7216,6 +7715,7 @@ class FluentEmojiPeopleAndBody {
   /// Medium Dark [_manInSteamyRoomMediumDark]
   /// Dark [_manInSteamyRoomDark]
   late final SkinToneFluentEmojiData manInSteamyRoom = SkinToneFluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'man in steamy room',
     glyph: '🧖‍♂️',
@@ -7229,47 +7729,52 @@ class FluentEmojiPeopleAndBody {
 
   /// 🧖🏻‍♂️ man in steamy room
   final FluentEmojiData _manInSteamyRoomLight = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'man in steamy room',
     glyph: '🧖🏻‍♂️',
     svgPath: 'assets/man_in_steamy_room_color_light.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.light,
   );
 
   /// 🧖🏼‍♂️ man in steamy room
   final FluentEmojiData _manInSteamyRoomMediumLight = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'man in steamy room',
     glyph: '🧖🏼‍♂️',
     svgPath: 'assets/man_in_steamy_room_color_medium-light.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.mediumLight,
   );
 
   /// 🧖🏽‍♂️ man in steamy room
   final FluentEmojiData _manInSteamyRoomMedium = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'man in steamy room',
     glyph: '🧖🏽‍♂️',
     svgPath: 'assets/man_in_steamy_room_color_medium.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.medium,
   );
 
   /// 🧖🏾‍♂️ man in steamy room
   final FluentEmojiData _manInSteamyRoomMediumDark = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'man in steamy room',
     glyph: '🧖🏾‍♂️',
     svgPath: 'assets/man_in_steamy_room_color_medium-dark.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.mediumDark,
   );
 
   /// 🧖🏿‍♂️ man in steamy room
   final FluentEmojiData _manInSteamyRoomDark = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'man in steamy room',
     glyph: '🧖🏿‍♂️',
     svgPath: 'assets/man_in_steamy_room_color_dark.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.dark,
   );
 
   /// 🤵‍♂️ man in tuxedo
@@ -7280,6 +7785,7 @@ class FluentEmojiPeopleAndBody {
   /// Medium Dark [_manInTuxedoMediumDark]
   /// Dark [_manInTuxedoDark]
   late final SkinToneFluentEmojiData manInTuxedo = SkinToneFluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'man in tuxedo',
     glyph: '🤵‍♂️',
@@ -7293,47 +7799,52 @@ class FluentEmojiPeopleAndBody {
 
   /// 🤵🏻‍♂️ man in tuxedo
   final FluentEmojiData _manInTuxedoLight = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'man in tuxedo',
     glyph: '🤵🏻‍♂️',
     svgPath: 'assets/man_in_tuxedo_color_light.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.light,
   );
 
   /// 🤵🏼‍♂️ man in tuxedo
   final FluentEmojiData _manInTuxedoMediumLight = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'man in tuxedo',
     glyph: '🤵🏼‍♂️',
     svgPath: 'assets/man_in_tuxedo_color_medium-light.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.mediumLight,
   );
 
   /// 🤵🏽‍♂️ man in tuxedo
   final FluentEmojiData _manInTuxedoMedium = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'man in tuxedo',
     glyph: '🤵🏽‍♂️',
     svgPath: 'assets/man_in_tuxedo_color_medium.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.medium,
   );
 
   /// 🤵🏾‍♂️ man in tuxedo
   final FluentEmojiData _manInTuxedoMediumDark = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'man in tuxedo',
     glyph: '🤵🏾‍♂️',
     svgPath: 'assets/man_in_tuxedo_color_medium-dark.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.mediumDark,
   );
 
   /// 🤵🏿‍♂️ man in tuxedo
   final FluentEmojiData _manInTuxedoDark = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'man in tuxedo',
     glyph: '🤵🏿‍♂️',
     svgPath: 'assets/man_in_tuxedo_color_dark.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.dark,
   );
 
   /// 👨‍⚖️ man judge
@@ -7344,6 +7855,7 @@ class FluentEmojiPeopleAndBody {
   /// Medium Dark [_manJudgeMediumDark]
   /// Dark [_manJudgeDark]
   late final SkinToneFluentEmojiData manJudge = SkinToneFluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'man judge',
     glyph: '👨‍⚖️',
@@ -7357,47 +7869,52 @@ class FluentEmojiPeopleAndBody {
 
   /// 👨🏻‍⚖️ man judge
   final FluentEmojiData _manJudgeLight = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'man judge',
     glyph: '👨🏻‍⚖️',
     svgPath: 'assets/man_judge_color_light.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.light,
   );
 
   /// 👨🏼‍⚖️ man judge
   final FluentEmojiData _manJudgeMediumLight = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'man judge',
     glyph: '👨🏼‍⚖️',
     svgPath: 'assets/man_judge_color_medium-light.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.mediumLight,
   );
 
   /// 👨🏽‍⚖️ man judge
   final FluentEmojiData _manJudgeMedium = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'man judge',
     glyph: '👨🏽‍⚖️',
     svgPath: 'assets/man_judge_color_medium.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.medium,
   );
 
   /// 👨🏾‍⚖️ man judge
   final FluentEmojiData _manJudgeMediumDark = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'man judge',
     glyph: '👨🏾‍⚖️',
     svgPath: 'assets/man_judge_color_medium-dark.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.mediumDark,
   );
 
   /// 👨🏿‍⚖️ man judge
   final FluentEmojiData _manJudgeDark = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'man judge',
     glyph: '👨🏿‍⚖️',
     svgPath: 'assets/man_judge_color_dark.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.dark,
   );
 
   /// 🤹‍♂️ man juggling
@@ -7408,6 +7925,7 @@ class FluentEmojiPeopleAndBody {
   /// Medium Dark [_manJugglingMediumDark]
   /// Dark [_manJugglingDark]
   late final SkinToneFluentEmojiData manJuggling = SkinToneFluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'man juggling',
     glyph: '🤹‍♂️',
@@ -7421,47 +7939,52 @@ class FluentEmojiPeopleAndBody {
 
   /// 🤹🏻‍♂️ man juggling
   final FluentEmojiData _manJugglingLight = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'man juggling',
     glyph: '🤹🏻‍♂️',
     svgPath: 'assets/man_juggling_color_light.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.light,
   );
 
   /// 🤹🏼‍♂️ man juggling
   final FluentEmojiData _manJugglingMediumLight = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'man juggling',
     glyph: '🤹🏼‍♂️',
     svgPath: 'assets/man_juggling_color_medium-light.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.mediumLight,
   );
 
   /// 🤹🏽‍♂️ man juggling
   final FluentEmojiData _manJugglingMedium = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'man juggling',
     glyph: '🤹🏽‍♂️',
     svgPath: 'assets/man_juggling_color_medium.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.medium,
   );
 
   /// 🤹🏾‍♂️ man juggling
   final FluentEmojiData _manJugglingMediumDark = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'man juggling',
     glyph: '🤹🏾‍♂️',
     svgPath: 'assets/man_juggling_color_medium-dark.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.mediumDark,
   );
 
   /// 🤹🏿‍♂️ man juggling
   final FluentEmojiData _manJugglingDark = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'man juggling',
     glyph: '🤹🏿‍♂️',
     svgPath: 'assets/man_juggling_color_dark.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.dark,
   );
 
   /// 🧎‍♂️ man kneeling
@@ -7472,6 +7995,7 @@ class FluentEmojiPeopleAndBody {
   /// Medium Dark [_manKneelingMediumDark]
   /// Dark [_manKneelingDark]
   late final SkinToneFluentEmojiData manKneeling = SkinToneFluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'man kneeling',
     glyph: '🧎‍♂️',
@@ -7485,47 +8009,52 @@ class FluentEmojiPeopleAndBody {
 
   /// 🧎🏻‍♂️ man kneeling
   final FluentEmojiData _manKneelingLight = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'man kneeling',
     glyph: '🧎🏻‍♂️',
     svgPath: 'assets/man_kneeling_color_light.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.light,
   );
 
   /// 🧎🏼‍♂️ man kneeling
   final FluentEmojiData _manKneelingMediumLight = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'man kneeling',
     glyph: '🧎🏼‍♂️',
     svgPath: 'assets/man_kneeling_color_medium-light.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.mediumLight,
   );
 
   /// 🧎🏽‍♂️ man kneeling
   final FluentEmojiData _manKneelingMedium = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'man kneeling',
     glyph: '🧎🏽‍♂️',
     svgPath: 'assets/man_kneeling_color_medium.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.medium,
   );
 
   /// 🧎🏾‍♂️ man kneeling
   final FluentEmojiData _manKneelingMediumDark = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'man kneeling',
     glyph: '🧎🏾‍♂️',
     svgPath: 'assets/man_kneeling_color_medium-dark.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.mediumDark,
   );
 
   /// 🧎🏿‍♂️ man kneeling
   final FluentEmojiData _manKneelingDark = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'man kneeling',
     glyph: '🧎🏿‍♂️',
     svgPath: 'assets/man_kneeling_color_dark.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.dark,
   );
 
   /// 🧎‍♂️‍➡️ man kneeling facing right
@@ -7536,6 +8065,7 @@ class FluentEmojiPeopleAndBody {
   /// Medium Dark [_manKneelingFacingRightMediumDark]
   /// Dark [_manKneelingFacingRightDark]
   late final SkinToneFluentEmojiData manKneelingFacingRight = SkinToneFluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'man kneeling facing right',
     glyph: '🧎‍♂️‍➡️',
@@ -7549,47 +8079,52 @@ class FluentEmojiPeopleAndBody {
 
   /// 🧎🏻‍♂️‍➡️ man kneeling facing right
   final FluentEmojiData _manKneelingFacingRightLight = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'man kneeling facing right',
     glyph: '🧎🏻‍♂️‍➡️',
     svgPath: 'assets/man_kneeling_facing_right_color_light.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.light,
   );
 
   /// 🧎🏼‍♂️‍➡️ man kneeling facing right
   final FluentEmojiData _manKneelingFacingRightMediumLight = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'man kneeling facing right',
     glyph: '🧎🏼‍♂️‍➡️',
     svgPath: 'assets/man_kneeling_facing_right_color_medium-light.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.mediumLight,
   );
 
   /// 🧎🏽‍♂️‍➡️ man kneeling facing right
   final FluentEmojiData _manKneelingFacingRightMedium = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'man kneeling facing right',
     glyph: '🧎🏽‍♂️‍➡️',
     svgPath: 'assets/man_kneeling_facing_right_color_medium.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.medium,
   );
 
   /// 🧎🏾‍♂️‍➡️ man kneeling facing right
   final FluentEmojiData _manKneelingFacingRightMediumDark = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'man kneeling facing right',
     glyph: '🧎🏾‍♂️‍➡️',
     svgPath: 'assets/man_kneeling_facing_right_color_medium-dark.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.mediumDark,
   );
 
   /// 🧎🏿‍♂️‍➡️ man kneeling facing right
   final FluentEmojiData _manKneelingFacingRightDark = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'man kneeling facing right',
     glyph: '🧎🏿‍♂️‍➡️',
     svgPath: 'assets/man_kneeling_facing_right_color_dark.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.dark,
   );
 
   /// 🏋️‍♂️ man lifting weights
@@ -7600,6 +8135,7 @@ class FluentEmojiPeopleAndBody {
   /// Medium Dark [_manLiftingWeightsMediumDark]
   /// Dark [_manLiftingWeightsDark]
   late final SkinToneFluentEmojiData manLiftingWeights = SkinToneFluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'man lifting weights',
     glyph: '🏋️‍♂️',
@@ -7613,47 +8149,52 @@ class FluentEmojiPeopleAndBody {
 
   /// 🏋🏻‍♂️ man lifting weights
   final FluentEmojiData _manLiftingWeightsLight = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'man lifting weights',
     glyph: '🏋🏻‍♂️',
     svgPath: 'assets/man_lifting_weights_color_light.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.light,
   );
 
   /// 🏋🏼‍♂️ man lifting weights
   final FluentEmojiData _manLiftingWeightsMediumLight = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'man lifting weights',
     glyph: '🏋🏼‍♂️',
     svgPath: 'assets/man_lifting_weights_color_medium-light.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.mediumLight,
   );
 
   /// 🏋🏽‍♂️ man lifting weights
   final FluentEmojiData _manLiftingWeightsMedium = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'man lifting weights',
     glyph: '🏋🏽‍♂️',
     svgPath: 'assets/man_lifting_weights_color_medium.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.medium,
   );
 
   /// 🏋🏾‍♂️ man lifting weights
   final FluentEmojiData _manLiftingWeightsMediumDark = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'man lifting weights',
     glyph: '🏋🏾‍♂️',
     svgPath: 'assets/man_lifting_weights_color_medium-dark.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.mediumDark,
   );
 
   /// 🏋🏿‍♂️ man lifting weights
   final FluentEmojiData _manLiftingWeightsDark = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'man lifting weights',
     glyph: '🏋🏿‍♂️',
     svgPath: 'assets/man_lifting_weights_color_dark.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.dark,
   );
 
   /// 🧙‍♂️ man mage
@@ -7664,6 +8205,7 @@ class FluentEmojiPeopleAndBody {
   /// Medium Dark [_manMageMediumDark]
   /// Dark [_manMageDark]
   late final SkinToneFluentEmojiData manMage = SkinToneFluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'man mage',
     glyph: '🧙‍♂️',
@@ -7677,47 +8219,52 @@ class FluentEmojiPeopleAndBody {
 
   /// 🧙🏻‍♂️ man mage
   final FluentEmojiData _manMageLight = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'man mage',
     glyph: '🧙🏻‍♂️',
     svgPath: 'assets/man_mage_color_light.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.light,
   );
 
   /// 🧙🏼‍♂️ man mage
   final FluentEmojiData _manMageMediumLight = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'man mage',
     glyph: '🧙🏼‍♂️',
     svgPath: 'assets/man_mage_color_medium-light.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.mediumLight,
   );
 
   /// 🧙🏽‍♂️ man mage
   final FluentEmojiData _manMageMedium = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'man mage',
     glyph: '🧙🏽‍♂️',
     svgPath: 'assets/man_mage_color_medium.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.medium,
   );
 
   /// 🧙🏾‍♂️ man mage
   final FluentEmojiData _manMageMediumDark = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'man mage',
     glyph: '🧙🏾‍♂️',
     svgPath: 'assets/man_mage_color_medium-dark.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.mediumDark,
   );
 
   /// 🧙🏿‍♂️ man mage
   final FluentEmojiData _manMageDark = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'man mage',
     glyph: '🧙🏿‍♂️',
     svgPath: 'assets/man_mage_color_dark.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.dark,
   );
 
   /// 👨‍🔧 man mechanic
@@ -7728,6 +8275,7 @@ class FluentEmojiPeopleAndBody {
   /// Medium Dark [_manMechanicMediumDark]
   /// Dark [_manMechanicDark]
   late final SkinToneFluentEmojiData manMechanic = SkinToneFluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'man mechanic',
     glyph: '👨‍🔧',
@@ -7741,47 +8289,52 @@ class FluentEmojiPeopleAndBody {
 
   /// 👨🏻‍🔧 man mechanic
   final FluentEmojiData _manMechanicLight = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'man mechanic',
     glyph: '👨🏻‍🔧',
     svgPath: 'assets/man_mechanic_color_light.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.light,
   );
 
   /// 👨🏼‍🔧 man mechanic
   final FluentEmojiData _manMechanicMediumLight = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'man mechanic',
     glyph: '👨🏼‍🔧',
     svgPath: 'assets/man_mechanic_color_medium-light.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.mediumLight,
   );
 
   /// 👨🏽‍🔧 man mechanic
   final FluentEmojiData _manMechanicMedium = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'man mechanic',
     glyph: '👨🏽‍🔧',
     svgPath: 'assets/man_mechanic_color_medium.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.medium,
   );
 
   /// 👨🏾‍🔧 man mechanic
   final FluentEmojiData _manMechanicMediumDark = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'man mechanic',
     glyph: '👨🏾‍🔧',
     svgPath: 'assets/man_mechanic_color_medium-dark.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.mediumDark,
   );
 
   /// 👨🏿‍🔧 man mechanic
   final FluentEmojiData _manMechanicDark = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'man mechanic',
     glyph: '👨🏿‍🔧',
     svgPath: 'assets/man_mechanic_color_dark.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.dark,
   );
 
   /// 🚵‍♂️ man mountain biking
@@ -7792,6 +8345,7 @@ class FluentEmojiPeopleAndBody {
   /// Medium Dark [_manMountainBikingMediumDark]
   /// Dark [_manMountainBikingDark]
   late final SkinToneFluentEmojiData manMountainBiking = SkinToneFluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'man mountain biking',
     glyph: '🚵‍♂️',
@@ -7805,47 +8359,52 @@ class FluentEmojiPeopleAndBody {
 
   /// 🚵🏻‍♂️ man mountain biking
   final FluentEmojiData _manMountainBikingLight = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'man mountain biking',
     glyph: '🚵🏻‍♂️',
     svgPath: 'assets/man_mountain_biking_color_light.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.light,
   );
 
   /// 🚵🏼‍♂️ man mountain biking
   final FluentEmojiData _manMountainBikingMediumLight = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'man mountain biking',
     glyph: '🚵🏼‍♂️',
     svgPath: 'assets/man_mountain_biking_color_medium-light.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.mediumLight,
   );
 
   /// 🚵🏽‍♂️ man mountain biking
   final FluentEmojiData _manMountainBikingMedium = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'man mountain biking',
     glyph: '🚵🏽‍♂️',
     svgPath: 'assets/man_mountain_biking_color_medium.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.medium,
   );
 
   /// 🚵🏾‍♂️ man mountain biking
   final FluentEmojiData _manMountainBikingMediumDark = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'man mountain biking',
     glyph: '🚵🏾‍♂️',
     svgPath: 'assets/man_mountain_biking_color_medium-dark.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.mediumDark,
   );
 
   /// 🚵🏿‍♂️ man mountain biking
   final FluentEmojiData _manMountainBikingDark = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'man mountain biking',
     glyph: '🚵🏿‍♂️',
     svgPath: 'assets/man_mountain_biking_color_dark.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.dark,
   );
 
   /// 👨‍💼 man office worker
@@ -7856,6 +8415,7 @@ class FluentEmojiPeopleAndBody {
   /// Medium Dark [_manOfficeWorkerMediumDark]
   /// Dark [_manOfficeWorkerDark]
   late final SkinToneFluentEmojiData manOfficeWorker = SkinToneFluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'man office worker',
     glyph: '👨‍💼',
@@ -7869,47 +8429,52 @@ class FluentEmojiPeopleAndBody {
 
   /// 👨🏻‍💼 man office worker
   final FluentEmojiData _manOfficeWorkerLight = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'man office worker',
     glyph: '👨🏻‍💼',
     svgPath: 'assets/man_office_worker_color_light.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.light,
   );
 
   /// 👨🏼‍💼 man office worker
   final FluentEmojiData _manOfficeWorkerMediumLight = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'man office worker',
     glyph: '👨🏼‍💼',
     svgPath: 'assets/man_office_worker_color_medium-light.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.mediumLight,
   );
 
   /// 👨🏽‍💼 man office worker
   final FluentEmojiData _manOfficeWorkerMedium = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'man office worker',
     glyph: '👨🏽‍💼',
     svgPath: 'assets/man_office_worker_color_medium.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.medium,
   );
 
   /// 👨🏾‍💼 man office worker
   final FluentEmojiData _manOfficeWorkerMediumDark = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'man office worker',
     glyph: '👨🏾‍💼',
     svgPath: 'assets/man_office_worker_color_medium-dark.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.mediumDark,
   );
 
   /// 👨🏿‍💼 man office worker
   final FluentEmojiData _manOfficeWorkerDark = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'man office worker',
     glyph: '👨🏿‍💼',
     svgPath: 'assets/man_office_worker_color_dark.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.dark,
   );
 
   /// 👨‍✈️ man pilot
@@ -7920,6 +8485,7 @@ class FluentEmojiPeopleAndBody {
   /// Medium Dark [_manPilotMediumDark]
   /// Dark [_manPilotDark]
   late final SkinToneFluentEmojiData manPilot = SkinToneFluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'man pilot',
     glyph: '👨‍✈️',
@@ -7933,47 +8499,52 @@ class FluentEmojiPeopleAndBody {
 
   /// 👨🏻‍✈️ man pilot
   final FluentEmojiData _manPilotLight = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'man pilot',
     glyph: '👨🏻‍✈️',
     svgPath: 'assets/man_pilot_color_light.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.light,
   );
 
   /// 👨🏼‍✈️ man pilot
   final FluentEmojiData _manPilotMediumLight = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'man pilot',
     glyph: '👨🏼‍✈️',
     svgPath: 'assets/man_pilot_color_medium-light.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.mediumLight,
   );
 
   /// 👨🏽‍✈️ man pilot
   final FluentEmojiData _manPilotMedium = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'man pilot',
     glyph: '👨🏽‍✈️',
     svgPath: 'assets/man_pilot_color_medium.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.medium,
   );
 
   /// 👨🏾‍✈️ man pilot
   final FluentEmojiData _manPilotMediumDark = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'man pilot',
     glyph: '👨🏾‍✈️',
     svgPath: 'assets/man_pilot_color_medium-dark.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.mediumDark,
   );
 
   /// 👨🏿‍✈️ man pilot
   final FluentEmojiData _manPilotDark = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'man pilot',
     glyph: '👨🏿‍✈️',
     svgPath: 'assets/man_pilot_color_dark.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.dark,
   );
 
   /// 🤾‍♂️ man playing handball
@@ -7984,6 +8555,7 @@ class FluentEmojiPeopleAndBody {
   /// Medium Dark [_manPlayingHandballMediumDark]
   /// Dark [_manPlayingHandballDark]
   late final SkinToneFluentEmojiData manPlayingHandball = SkinToneFluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'man playing handball',
     glyph: '🤾‍♂️',
@@ -7997,47 +8569,52 @@ class FluentEmojiPeopleAndBody {
 
   /// 🤾🏻‍♂️ man playing handball
   final FluentEmojiData _manPlayingHandballLight = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'man playing handball',
     glyph: '🤾🏻‍♂️',
     svgPath: 'assets/man_playing_handball_color_light.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.light,
   );
 
   /// 🤾🏼‍♂️ man playing handball
   final FluentEmojiData _manPlayingHandballMediumLight = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'man playing handball',
     glyph: '🤾🏼‍♂️',
     svgPath: 'assets/man_playing_handball_color_medium-light.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.mediumLight,
   );
 
   /// 🤾🏽‍♂️ man playing handball
   final FluentEmojiData _manPlayingHandballMedium = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'man playing handball',
     glyph: '🤾🏽‍♂️',
     svgPath: 'assets/man_playing_handball_color_medium.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.medium,
   );
 
   /// 🤾🏾‍♂️ man playing handball
   final FluentEmojiData _manPlayingHandballMediumDark = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'man playing handball',
     glyph: '🤾🏾‍♂️',
     svgPath: 'assets/man_playing_handball_color_medium-dark.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.mediumDark,
   );
 
   /// 🤾🏿‍♂️ man playing handball
   final FluentEmojiData _manPlayingHandballDark = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'man playing handball',
     glyph: '🤾🏿‍♂️',
     svgPath: 'assets/man_playing_handball_color_dark.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.dark,
   );
 
   /// 🤽‍♂️ man playing water polo
@@ -8048,6 +8625,7 @@ class FluentEmojiPeopleAndBody {
   /// Medium Dark [_manPlayingWaterPoloMediumDark]
   /// Dark [_manPlayingWaterPoloDark]
   late final SkinToneFluentEmojiData manPlayingWaterPolo = SkinToneFluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'man playing water polo',
     glyph: '🤽‍♂️',
@@ -8061,47 +8639,52 @@ class FluentEmojiPeopleAndBody {
 
   /// 🤽🏻‍♂️ man playing water polo
   final FluentEmojiData _manPlayingWaterPoloLight = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'man playing water polo',
     glyph: '🤽🏻‍♂️',
     svgPath: 'assets/man_playing_water_polo_color_light.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.light,
   );
 
   /// 🤽🏼‍♂️ man playing water polo
   final FluentEmojiData _manPlayingWaterPoloMediumLight = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'man playing water polo',
     glyph: '🤽🏼‍♂️',
     svgPath: 'assets/man_playing_water_polo_color_medium-light.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.mediumLight,
   );
 
   /// 🤽🏽‍♂️ man playing water polo
   final FluentEmojiData _manPlayingWaterPoloMedium = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'man playing water polo',
     glyph: '🤽🏽‍♂️',
     svgPath: 'assets/man_playing_water_polo_color_medium.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.medium,
   );
 
   /// 🤽🏾‍♂️ man playing water polo
   final FluentEmojiData _manPlayingWaterPoloMediumDark = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'man playing water polo',
     glyph: '🤽🏾‍♂️',
     svgPath: 'assets/man_playing_water_polo_color_medium-dark.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.mediumDark,
   );
 
   /// 🤽🏿‍♂️ man playing water polo
   final FluentEmojiData _manPlayingWaterPoloDark = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'man playing water polo',
     glyph: '🤽🏿‍♂️',
     svgPath: 'assets/man_playing_water_polo_color_dark.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.dark,
   );
 
   /// 👮‍♂️ man police officer
@@ -8112,6 +8695,7 @@ class FluentEmojiPeopleAndBody {
   /// Medium Dark [_manPoliceOfficerMediumDark]
   /// Dark [_manPoliceOfficerDark]
   late final SkinToneFluentEmojiData manPoliceOfficer = SkinToneFluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'man police officer',
     glyph: '👮‍♂️',
@@ -8125,47 +8709,52 @@ class FluentEmojiPeopleAndBody {
 
   /// 👮🏻‍♂️ man police officer
   final FluentEmojiData _manPoliceOfficerLight = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'man police officer',
     glyph: '👮🏻‍♂️',
     svgPath: 'assets/man_police_officer_color_light.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.light,
   );
 
   /// 👮🏼‍♂️ man police officer
   final FluentEmojiData _manPoliceOfficerMediumLight = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'man police officer',
     glyph: '👮🏼‍♂️',
     svgPath: 'assets/man_police_officer_color_medium-light.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.mediumLight,
   );
 
   /// 👮🏽‍♂️ man police officer
   final FluentEmojiData _manPoliceOfficerMedium = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'man police officer',
     glyph: '👮🏽‍♂️',
     svgPath: 'assets/man_police_officer_color_medium.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.medium,
   );
 
   /// 👮🏾‍♂️ man police officer
   final FluentEmojiData _manPoliceOfficerMediumDark = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'man police officer',
     glyph: '👮🏾‍♂️',
     svgPath: 'assets/man_police_officer_color_medium-dark.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.mediumDark,
   );
 
   /// 👮🏿‍♂️ man police officer
   final FluentEmojiData _manPoliceOfficerDark = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'man police officer',
     glyph: '👮🏿‍♂️',
     svgPath: 'assets/man_police_officer_color_dark.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.dark,
   );
 
   /// 🙎‍♂️ man pouting
@@ -8176,6 +8765,7 @@ class FluentEmojiPeopleAndBody {
   /// Medium Dark [_manPoutingMediumDark]
   /// Dark [_manPoutingDark]
   late final SkinToneFluentEmojiData manPouting = SkinToneFluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'man pouting',
     glyph: '🙎‍♂️',
@@ -8189,47 +8779,52 @@ class FluentEmojiPeopleAndBody {
 
   /// 🙎🏻‍♂️ man pouting
   final FluentEmojiData _manPoutingLight = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'man pouting',
     glyph: '🙎🏻‍♂️',
     svgPath: 'assets/man_pouting_color_light.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.light,
   );
 
   /// 🙎🏼‍♂️ man pouting
   final FluentEmojiData _manPoutingMediumLight = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'man pouting',
     glyph: '🙎🏼‍♂️',
     svgPath: 'assets/man_pouting_color_medium-light.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.mediumLight,
   );
 
   /// 🙎🏽‍♂️ man pouting
   final FluentEmojiData _manPoutingMedium = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'man pouting',
     glyph: '🙎🏽‍♂️',
     svgPath: 'assets/man_pouting_color_medium.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.medium,
   );
 
   /// 🙎🏾‍♂️ man pouting
   final FluentEmojiData _manPoutingMediumDark = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'man pouting',
     glyph: '🙎🏾‍♂️',
     svgPath: 'assets/man_pouting_color_medium-dark.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.mediumDark,
   );
 
   /// 🙎🏿‍♂️ man pouting
   final FluentEmojiData _manPoutingDark = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'man pouting',
     glyph: '🙎🏿‍♂️',
     svgPath: 'assets/man_pouting_color_dark.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.dark,
   );
 
   /// 🙋‍♂️ man raising hand
@@ -8240,6 +8835,7 @@ class FluentEmojiPeopleAndBody {
   /// Medium Dark [_manRaisingHandMediumDark]
   /// Dark [_manRaisingHandDark]
   late final SkinToneFluentEmojiData manRaisingHand = SkinToneFluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'man raising hand',
     glyph: '🙋‍♂️',
@@ -8253,47 +8849,52 @@ class FluentEmojiPeopleAndBody {
 
   /// 🙋🏻‍♂️ man raising hand
   final FluentEmojiData _manRaisingHandLight = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'man raising hand',
     glyph: '🙋🏻‍♂️',
     svgPath: 'assets/man_raising_hand_color_light.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.light,
   );
 
   /// 🙋🏼‍♂️ man raising hand
   final FluentEmojiData _manRaisingHandMediumLight = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'man raising hand',
     glyph: '🙋🏼‍♂️',
     svgPath: 'assets/man_raising_hand_color_medium-light.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.mediumLight,
   );
 
   /// 🙋🏽‍♂️ man raising hand
   final FluentEmojiData _manRaisingHandMedium = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'man raising hand',
     glyph: '🙋🏽‍♂️',
     svgPath: 'assets/man_raising_hand_color_medium.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.medium,
   );
 
   /// 🙋🏾‍♂️ man raising hand
   final FluentEmojiData _manRaisingHandMediumDark = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'man raising hand',
     glyph: '🙋🏾‍♂️',
     svgPath: 'assets/man_raising_hand_color_medium-dark.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.mediumDark,
   );
 
   /// 🙋🏿‍♂️ man raising hand
   final FluentEmojiData _manRaisingHandDark = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'man raising hand',
     glyph: '🙋🏿‍♂️',
     svgPath: 'assets/man_raising_hand_color_dark.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.dark,
   );
 
   /// 🚣‍♂️ man rowing boat
@@ -8304,6 +8905,7 @@ class FluentEmojiPeopleAndBody {
   /// Medium Dark [_manRowingBoatMediumDark]
   /// Dark [_manRowingBoatDark]
   late final SkinToneFluentEmojiData manRowingBoat = SkinToneFluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'man rowing boat',
     glyph: '🚣‍♂️',
@@ -8317,47 +8919,52 @@ class FluentEmojiPeopleAndBody {
 
   /// 🚣🏻‍♂️ man rowing boat
   final FluentEmojiData _manRowingBoatLight = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'man rowing boat',
     glyph: '🚣🏻‍♂️',
     svgPath: 'assets/man_rowing_boat_color_light.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.light,
   );
 
   /// 🚣🏼‍♂️ man rowing boat
   final FluentEmojiData _manRowingBoatMediumLight = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'man rowing boat',
     glyph: '🚣🏼‍♂️',
     svgPath: 'assets/man_rowing_boat_color_medium-light.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.mediumLight,
   );
 
   /// 🚣🏽‍♂️ man rowing boat
   final FluentEmojiData _manRowingBoatMedium = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'man rowing boat',
     glyph: '🚣🏽‍♂️',
     svgPath: 'assets/man_rowing_boat_color_medium.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.medium,
   );
 
   /// 🚣🏾‍♂️ man rowing boat
   final FluentEmojiData _manRowingBoatMediumDark = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'man rowing boat',
     glyph: '🚣🏾‍♂️',
     svgPath: 'assets/man_rowing_boat_color_medium-dark.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.mediumDark,
   );
 
   /// 🚣🏿‍♂️ man rowing boat
   final FluentEmojiData _manRowingBoatDark = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'man rowing boat',
     glyph: '🚣🏿‍♂️',
     svgPath: 'assets/man_rowing_boat_color_dark.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.dark,
   );
 
   /// 🏃‍♂️ man running
@@ -8368,6 +8975,7 @@ class FluentEmojiPeopleAndBody {
   /// Medium Dark [_manRunningMediumDark]
   /// Dark [_manRunningDark]
   late final SkinToneFluentEmojiData manRunning = SkinToneFluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'man running',
     glyph: '🏃‍♂️',
@@ -8381,47 +8989,52 @@ class FluentEmojiPeopleAndBody {
 
   /// 🏃🏻‍♂️ man running
   final FluentEmojiData _manRunningLight = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'man running',
     glyph: '🏃🏻‍♂️',
     svgPath: 'assets/man_running_color_light.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.light,
   );
 
   /// 🏃🏼‍♂️ man running
   final FluentEmojiData _manRunningMediumLight = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'man running',
     glyph: '🏃🏼‍♂️',
     svgPath: 'assets/man_running_color_medium-light.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.mediumLight,
   );
 
   /// 🏃🏽‍♂️ man running
   final FluentEmojiData _manRunningMedium = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'man running',
     glyph: '🏃🏽‍♂️',
     svgPath: 'assets/man_running_color_medium.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.medium,
   );
 
   /// 🏃🏾‍♂️ man running
   final FluentEmojiData _manRunningMediumDark = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'man running',
     glyph: '🏃🏾‍♂️',
     svgPath: 'assets/man_running_color_medium-dark.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.mediumDark,
   );
 
   /// 🏃🏿‍♂️ man running
   final FluentEmojiData _manRunningDark = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'man running',
     glyph: '🏃🏿‍♂️',
     svgPath: 'assets/man_running_color_dark.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.dark,
   );
 
   /// 🏃‍♂️‍➡️ man running facing right
@@ -8432,6 +9045,7 @@ class FluentEmojiPeopleAndBody {
   /// Medium Dark [_manRunningFacingRightMediumDark]
   /// Dark [_manRunningFacingRightDark]
   late final SkinToneFluentEmojiData manRunningFacingRight = SkinToneFluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'man running facing right',
     glyph: '🏃‍♂️‍➡️',
@@ -8445,47 +9059,52 @@ class FluentEmojiPeopleAndBody {
 
   /// 🏃🏻‍♂️‍➡️ man running facing right
   final FluentEmojiData _manRunningFacingRightLight = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'man running facing right',
     glyph: '🏃🏻‍♂️‍➡️',
     svgPath: 'assets/man_running_facing_right_color_light.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.light,
   );
 
   /// 🏃🏼‍♂️‍➡️ man running facing right
   final FluentEmojiData _manRunningFacingRightMediumLight = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'man running facing right',
     glyph: '🏃🏼‍♂️‍➡️',
     svgPath: 'assets/man_running_facing_right_color_medium-light.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.mediumLight,
   );
 
   /// 🏃🏽‍♂️‍➡️ man running facing right
   final FluentEmojiData _manRunningFacingRightMedium = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'man running facing right',
     glyph: '🏃🏽‍♂️‍➡️',
     svgPath: 'assets/man_running_facing_right_color_medium.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.medium,
   );
 
   /// 🏃🏾‍♂️‍➡️ man running facing right
   final FluentEmojiData _manRunningFacingRightMediumDark = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'man running facing right',
     glyph: '🏃🏾‍♂️‍➡️',
     svgPath: 'assets/man_running_facing_right_color_medium-dark.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.mediumDark,
   );
 
   /// 🏃🏿‍♂️‍➡️ man running facing right
   final FluentEmojiData _manRunningFacingRightDark = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'man running facing right',
     glyph: '🏃🏿‍♂️‍➡️',
     svgPath: 'assets/man_running_facing_right_color_dark.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.dark,
   );
 
   /// 👨‍🔬 man scientist
@@ -8496,6 +9115,7 @@ class FluentEmojiPeopleAndBody {
   /// Medium Dark [_manScientistMediumDark]
   /// Dark [_manScientistDark]
   late final SkinToneFluentEmojiData manScientist = SkinToneFluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'man scientist',
     glyph: '👨‍🔬',
@@ -8509,47 +9129,52 @@ class FluentEmojiPeopleAndBody {
 
   /// 👨🏻‍🔬 man scientist
   final FluentEmojiData _manScientistLight = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'man scientist',
     glyph: '👨🏻‍🔬',
     svgPath: 'assets/man_scientist_color_light.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.light,
   );
 
   /// 👨🏼‍🔬 man scientist
   final FluentEmojiData _manScientistMediumLight = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'man scientist',
     glyph: '👨🏼‍🔬',
     svgPath: 'assets/man_scientist_color_medium-light.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.mediumLight,
   );
 
   /// 👨🏽‍🔬 man scientist
   final FluentEmojiData _manScientistMedium = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'man scientist',
     glyph: '👨🏽‍🔬',
     svgPath: 'assets/man_scientist_color_medium.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.medium,
   );
 
   /// 👨🏾‍🔬 man scientist
   final FluentEmojiData _manScientistMediumDark = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'man scientist',
     glyph: '👨🏾‍🔬',
     svgPath: 'assets/man_scientist_color_medium-dark.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.mediumDark,
   );
 
   /// 👨🏿‍🔬 man scientist
   final FluentEmojiData _manScientistDark = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'man scientist',
     glyph: '👨🏿‍🔬',
     svgPath: 'assets/man_scientist_color_dark.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.dark,
   );
 
   /// 🤷‍♂️ man shrugging
@@ -8560,6 +9185,7 @@ class FluentEmojiPeopleAndBody {
   /// Medium Dark [_manShruggingMediumDark]
   /// Dark [_manShruggingDark]
   late final SkinToneFluentEmojiData manShrugging = SkinToneFluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'man shrugging',
     glyph: '🤷‍♂️',
@@ -8573,47 +9199,52 @@ class FluentEmojiPeopleAndBody {
 
   /// 🤷🏻‍♂️ man shrugging
   final FluentEmojiData _manShruggingLight = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'man shrugging',
     glyph: '🤷🏻‍♂️',
     svgPath: 'assets/man_shrugging_color_light.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.light,
   );
 
   /// 🤷🏼‍♂️ man shrugging
   final FluentEmojiData _manShruggingMediumLight = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'man shrugging',
     glyph: '🤷🏼‍♂️',
     svgPath: 'assets/man_shrugging_color_medium-light.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.mediumLight,
   );
 
   /// 🤷🏽‍♂️ man shrugging
   final FluentEmojiData _manShruggingMedium = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'man shrugging',
     glyph: '🤷🏽‍♂️',
     svgPath: 'assets/man_shrugging_color_medium.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.medium,
   );
 
   /// 🤷🏾‍♂️ man shrugging
   final FluentEmojiData _manShruggingMediumDark = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'man shrugging',
     glyph: '🤷🏾‍♂️',
     svgPath: 'assets/man_shrugging_color_medium-dark.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.mediumDark,
   );
 
   /// 🤷🏿‍♂️ man shrugging
   final FluentEmojiData _manShruggingDark = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'man shrugging',
     glyph: '🤷🏿‍♂️',
     svgPath: 'assets/man_shrugging_color_dark.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.dark,
   );
 
   /// 👨‍🎤 man singer
@@ -8624,6 +9255,7 @@ class FluentEmojiPeopleAndBody {
   /// Medium Dark [_manSingerMediumDark]
   /// Dark [_manSingerDark]
   late final SkinToneFluentEmojiData manSinger = SkinToneFluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'man singer',
     glyph: '👨‍🎤',
@@ -8637,47 +9269,52 @@ class FluentEmojiPeopleAndBody {
 
   /// 👨🏻‍🎤 man singer
   final FluentEmojiData _manSingerLight = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'man singer',
     glyph: '👨🏻‍🎤',
     svgPath: 'assets/man_singer_color_light.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.light,
   );
 
   /// 👨🏼‍🎤 man singer
   final FluentEmojiData _manSingerMediumLight = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'man singer',
     glyph: '👨🏼‍🎤',
     svgPath: 'assets/man_singer_color_medium-light.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.mediumLight,
   );
 
   /// 👨🏽‍🎤 man singer
   final FluentEmojiData _manSingerMedium = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'man singer',
     glyph: '👨🏽‍🎤',
     svgPath: 'assets/man_singer_color_medium.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.medium,
   );
 
   /// 👨🏾‍🎤 man singer
   final FluentEmojiData _manSingerMediumDark = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'man singer',
     glyph: '👨🏾‍🎤',
     svgPath: 'assets/man_singer_color_medium-dark.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.mediumDark,
   );
 
   /// 👨🏿‍🎤 man singer
   final FluentEmojiData _manSingerDark = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'man singer',
     glyph: '👨🏿‍🎤',
     svgPath: 'assets/man_singer_color_dark.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.dark,
   );
 
   /// 🧍‍♂️ man standing
@@ -8688,6 +9325,7 @@ class FluentEmojiPeopleAndBody {
   /// Medium Dark [_manStandingMediumDark]
   /// Dark [_manStandingDark]
   late final SkinToneFluentEmojiData manStanding = SkinToneFluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'man standing',
     glyph: '🧍‍♂️',
@@ -8701,47 +9339,52 @@ class FluentEmojiPeopleAndBody {
 
   /// 🧍🏻‍♂️ man standing
   final FluentEmojiData _manStandingLight = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'man standing',
     glyph: '🧍🏻‍♂️',
     svgPath: 'assets/man_standing_color_light.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.light,
   );
 
   /// 🧍🏼‍♂️ man standing
   final FluentEmojiData _manStandingMediumLight = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'man standing',
     glyph: '🧍🏼‍♂️',
     svgPath: 'assets/man_standing_color_medium-light.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.mediumLight,
   );
 
   /// 🧍🏽‍♂️ man standing
   final FluentEmojiData _manStandingMedium = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'man standing',
     glyph: '🧍🏽‍♂️',
     svgPath: 'assets/man_standing_color_medium.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.medium,
   );
 
   /// 🧍🏾‍♂️ man standing
   final FluentEmojiData _manStandingMediumDark = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'man standing',
     glyph: '🧍🏾‍♂️',
     svgPath: 'assets/man_standing_color_medium-dark.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.mediumDark,
   );
 
   /// 🧍🏿‍♂️ man standing
   final FluentEmojiData _manStandingDark = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'man standing',
     glyph: '🧍🏿‍♂️',
     svgPath: 'assets/man_standing_color_dark.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.dark,
   );
 
   /// 👨‍🎓 man student
@@ -8752,6 +9395,7 @@ class FluentEmojiPeopleAndBody {
   /// Medium Dark [_manStudentMediumDark]
   /// Dark [_manStudentDark]
   late final SkinToneFluentEmojiData manStudent = SkinToneFluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'man student',
     glyph: '👨‍🎓',
@@ -8765,47 +9409,52 @@ class FluentEmojiPeopleAndBody {
 
   /// 👨🏻‍🎓 man student
   final FluentEmojiData _manStudentLight = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'man student',
     glyph: '👨🏻‍🎓',
     svgPath: 'assets/man_student_color_light.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.light,
   );
 
   /// 👨🏼‍🎓 man student
   final FluentEmojiData _manStudentMediumLight = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'man student',
     glyph: '👨🏼‍🎓',
     svgPath: 'assets/man_student_color_medium-light.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.mediumLight,
   );
 
   /// 👨🏽‍🎓 man student
   final FluentEmojiData _manStudentMedium = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'man student',
     glyph: '👨🏽‍🎓',
     svgPath: 'assets/man_student_color_medium.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.medium,
   );
 
   /// 👨🏾‍🎓 man student
   final FluentEmojiData _manStudentMediumDark = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'man student',
     glyph: '👨🏾‍🎓',
     svgPath: 'assets/man_student_color_medium-dark.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.mediumDark,
   );
 
   /// 👨🏿‍🎓 man student
   final FluentEmojiData _manStudentDark = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'man student',
     glyph: '👨🏿‍🎓',
     svgPath: 'assets/man_student_color_dark.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.dark,
   );
 
   /// 🦸‍♂️ man superhero
@@ -8816,6 +9465,7 @@ class FluentEmojiPeopleAndBody {
   /// Medium Dark [_manSuperheroMediumDark]
   /// Dark [_manSuperheroDark]
   late final SkinToneFluentEmojiData manSuperhero = SkinToneFluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'man superhero',
     glyph: '🦸‍♂️',
@@ -8829,47 +9479,52 @@ class FluentEmojiPeopleAndBody {
 
   /// 🦸🏻‍♂️ man superhero
   final FluentEmojiData _manSuperheroLight = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'man superhero',
     glyph: '🦸🏻‍♂️',
     svgPath: 'assets/man_superhero_color_light.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.light,
   );
 
   /// 🦸🏼‍♂️ man superhero
   final FluentEmojiData _manSuperheroMediumLight = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'man superhero',
     glyph: '🦸🏼‍♂️',
     svgPath: 'assets/man_superhero_color_medium-light.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.mediumLight,
   );
 
   /// 🦸🏽‍♂️ man superhero
   final FluentEmojiData _manSuperheroMedium = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'man superhero',
     glyph: '🦸🏽‍♂️',
     svgPath: 'assets/man_superhero_color_medium.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.medium,
   );
 
   /// 🦸🏾‍♂️ man superhero
   final FluentEmojiData _manSuperheroMediumDark = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'man superhero',
     glyph: '🦸🏾‍♂️',
     svgPath: 'assets/man_superhero_color_medium-dark.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.mediumDark,
   );
 
   /// 🦸🏿‍♂️ man superhero
   final FluentEmojiData _manSuperheroDark = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'man superhero',
     glyph: '🦸🏿‍♂️',
     svgPath: 'assets/man_superhero_color_dark.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.dark,
   );
 
   /// 🦹‍♂️ man supervillain
@@ -8880,6 +9535,7 @@ class FluentEmojiPeopleAndBody {
   /// Medium Dark [_manSupervillainMediumDark]
   /// Dark [_manSupervillainDark]
   late final SkinToneFluentEmojiData manSupervillain = SkinToneFluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'man supervillain',
     glyph: '🦹‍♂️',
@@ -8893,47 +9549,52 @@ class FluentEmojiPeopleAndBody {
 
   /// 🦹🏻‍♂️ man supervillain
   final FluentEmojiData _manSupervillainLight = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'man supervillain',
     glyph: '🦹🏻‍♂️',
     svgPath: 'assets/man_supervillain_color_light.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.light,
   );
 
   /// 🦹🏼‍♂️ man supervillain
   final FluentEmojiData _manSupervillainMediumLight = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'man supervillain',
     glyph: '🦹🏼‍♂️',
     svgPath: 'assets/man_supervillain_color_medium-light.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.mediumLight,
   );
 
   /// 🦹🏽‍♂️ man supervillain
   final FluentEmojiData _manSupervillainMedium = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'man supervillain',
     glyph: '🦹🏽‍♂️',
     svgPath: 'assets/man_supervillain_color_medium.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.medium,
   );
 
   /// 🦹🏾‍♂️ man supervillain
   final FluentEmojiData _manSupervillainMediumDark = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'man supervillain',
     glyph: '🦹🏾‍♂️',
     svgPath: 'assets/man_supervillain_color_medium-dark.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.mediumDark,
   );
 
   /// 🦹🏿‍♂️ man supervillain
   final FluentEmojiData _manSupervillainDark = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'man supervillain',
     glyph: '🦹🏿‍♂️',
     svgPath: 'assets/man_supervillain_color_dark.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.dark,
   );
 
   /// 🏄‍♂️ man surfing
@@ -8944,6 +9605,7 @@ class FluentEmojiPeopleAndBody {
   /// Medium Dark [_manSurfingMediumDark]
   /// Dark [_manSurfingDark]
   late final SkinToneFluentEmojiData manSurfing = SkinToneFluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'man surfing',
     glyph: '🏄‍♂️',
@@ -8957,47 +9619,52 @@ class FluentEmojiPeopleAndBody {
 
   /// 🏄🏻‍♂️ man surfing
   final FluentEmojiData _manSurfingLight = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'man surfing',
     glyph: '🏄🏻‍♂️',
     svgPath: 'assets/man_surfing_color_light.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.light,
   );
 
   /// 🏄🏼‍♂️ man surfing
   final FluentEmojiData _manSurfingMediumLight = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'man surfing',
     glyph: '🏄🏼‍♂️',
     svgPath: 'assets/man_surfing_color_medium-light.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.mediumLight,
   );
 
   /// 🏄🏽‍♂️ man surfing
   final FluentEmojiData _manSurfingMedium = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'man surfing',
     glyph: '🏄🏽‍♂️',
     svgPath: 'assets/man_surfing_color_medium.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.medium,
   );
 
   /// 🏄🏾‍♂️ man surfing
   final FluentEmojiData _manSurfingMediumDark = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'man surfing',
     glyph: '🏄🏾‍♂️',
     svgPath: 'assets/man_surfing_color_medium-dark.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.mediumDark,
   );
 
   /// 🏄🏿‍♂️ man surfing
   final FluentEmojiData _manSurfingDark = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'man surfing',
     glyph: '🏄🏿‍♂️',
     svgPath: 'assets/man_surfing_color_dark.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.dark,
   );
 
   /// 🏊‍♂️ man swimming
@@ -9008,6 +9675,7 @@ class FluentEmojiPeopleAndBody {
   /// Medium Dark [_manSwimmingMediumDark]
   /// Dark [_manSwimmingDark]
   late final SkinToneFluentEmojiData manSwimming = SkinToneFluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'man swimming',
     glyph: '🏊‍♂️',
@@ -9021,47 +9689,52 @@ class FluentEmojiPeopleAndBody {
 
   /// 🏊🏻‍♂️ man swimming
   final FluentEmojiData _manSwimmingLight = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'man swimming',
     glyph: '🏊🏻‍♂️',
     svgPath: 'assets/man_swimming_color_light.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.light,
   );
 
   /// 🏊🏼‍♂️ man swimming
   final FluentEmojiData _manSwimmingMediumLight = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'man swimming',
     glyph: '🏊🏼‍♂️',
     svgPath: 'assets/man_swimming_color_medium-light.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.mediumLight,
   );
 
   /// 🏊🏽‍♂️ man swimming
   final FluentEmojiData _manSwimmingMedium = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'man swimming',
     glyph: '🏊🏽‍♂️',
     svgPath: 'assets/man_swimming_color_medium.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.medium,
   );
 
   /// 🏊🏾‍♂️ man swimming
   final FluentEmojiData _manSwimmingMediumDark = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'man swimming',
     glyph: '🏊🏾‍♂️',
     svgPath: 'assets/man_swimming_color_medium-dark.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.mediumDark,
   );
 
   /// 🏊🏿‍♂️ man swimming
   final FluentEmojiData _manSwimmingDark = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'man swimming',
     glyph: '🏊🏿‍♂️',
     svgPath: 'assets/man_swimming_color_dark.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.dark,
   );
 
   /// 👨‍🏫 man teacher
@@ -9072,6 +9745,7 @@ class FluentEmojiPeopleAndBody {
   /// Medium Dark [_manTeacherMediumDark]
   /// Dark [_manTeacherDark]
   late final SkinToneFluentEmojiData manTeacher = SkinToneFluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'man teacher',
     glyph: '👨‍🏫',
@@ -9085,47 +9759,52 @@ class FluentEmojiPeopleAndBody {
 
   /// 👨🏻‍🏫 man teacher
   final FluentEmojiData _manTeacherLight = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'man teacher',
     glyph: '👨🏻‍🏫',
     svgPath: 'assets/man_teacher_color_light.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.light,
   );
 
   /// 👨🏼‍🏫 man teacher
   final FluentEmojiData _manTeacherMediumLight = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'man teacher',
     glyph: '👨🏼‍🏫',
     svgPath: 'assets/man_teacher_color_medium-light.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.mediumLight,
   );
 
   /// 👨🏽‍🏫 man teacher
   final FluentEmojiData _manTeacherMedium = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'man teacher',
     glyph: '👨🏽‍🏫',
     svgPath: 'assets/man_teacher_color_medium.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.medium,
   );
 
   /// 👨🏾‍🏫 man teacher
   final FluentEmojiData _manTeacherMediumDark = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'man teacher',
     glyph: '👨🏾‍🏫',
     svgPath: 'assets/man_teacher_color_medium-dark.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.mediumDark,
   );
 
   /// 👨🏿‍🏫 man teacher
   final FluentEmojiData _manTeacherDark = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'man teacher',
     glyph: '👨🏿‍🏫',
     svgPath: 'assets/man_teacher_color_dark.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.dark,
   );
 
   /// 👨‍💻 man technologist
@@ -9136,6 +9815,7 @@ class FluentEmojiPeopleAndBody {
   /// Medium Dark [_manTechnologistMediumDark]
   /// Dark [_manTechnologistDark]
   late final SkinToneFluentEmojiData manTechnologist = SkinToneFluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'man technologist',
     glyph: '👨‍💻',
@@ -9149,47 +9829,52 @@ class FluentEmojiPeopleAndBody {
 
   /// 👨🏻‍💻 man technologist
   final FluentEmojiData _manTechnologistLight = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'man technologist',
     glyph: '👨🏻‍💻',
     svgPath: 'assets/man_technologist_color_light.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.light,
   );
 
   /// 👨🏼‍💻 man technologist
   final FluentEmojiData _manTechnologistMediumLight = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'man technologist',
     glyph: '👨🏼‍💻',
     svgPath: 'assets/man_technologist_color_medium-light.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.mediumLight,
   );
 
   /// 👨🏽‍💻 man technologist
   final FluentEmojiData _manTechnologistMedium = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'man technologist',
     glyph: '👨🏽‍💻',
     svgPath: 'assets/man_technologist_color_medium.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.medium,
   );
 
   /// 👨🏾‍💻 man technologist
   final FluentEmojiData _manTechnologistMediumDark = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'man technologist',
     glyph: '👨🏾‍💻',
     svgPath: 'assets/man_technologist_color_medium-dark.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.mediumDark,
   );
 
   /// 👨🏿‍💻 man technologist
   final FluentEmojiData _manTechnologistDark = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'man technologist',
     glyph: '👨🏿‍💻',
     svgPath: 'assets/man_technologist_color_dark.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.dark,
   );
 
   /// 💁‍♂️ man tipping hand
@@ -9200,6 +9885,7 @@ class FluentEmojiPeopleAndBody {
   /// Medium Dark [_manTippingHandMediumDark]
   /// Dark [_manTippingHandDark]
   late final SkinToneFluentEmojiData manTippingHand = SkinToneFluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'man tipping hand',
     glyph: '💁‍♂️',
@@ -9213,47 +9899,52 @@ class FluentEmojiPeopleAndBody {
 
   /// 💁🏻‍♂️ man tipping hand
   final FluentEmojiData _manTippingHandLight = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'man tipping hand',
     glyph: '💁🏻‍♂️',
     svgPath: 'assets/man_tipping_hand_color_light.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.light,
   );
 
   /// 💁🏼‍♂️ man tipping hand
   final FluentEmojiData _manTippingHandMediumLight = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'man tipping hand',
     glyph: '💁🏼‍♂️',
     svgPath: 'assets/man_tipping_hand_color_medium-light.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.mediumLight,
   );
 
   /// 💁🏽‍♂️ man tipping hand
   final FluentEmojiData _manTippingHandMedium = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'man tipping hand',
     glyph: '💁🏽‍♂️',
     svgPath: 'assets/man_tipping_hand_color_medium.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.medium,
   );
 
   /// 💁🏾‍♂️ man tipping hand
   final FluentEmojiData _manTippingHandMediumDark = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'man tipping hand',
     glyph: '💁🏾‍♂️',
     svgPath: 'assets/man_tipping_hand_color_medium-dark.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.mediumDark,
   );
 
   /// 💁🏿‍♂️ man tipping hand
   final FluentEmojiData _manTippingHandDark = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'man tipping hand',
     glyph: '💁🏿‍♂️',
     svgPath: 'assets/man_tipping_hand_color_dark.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.dark,
   );
 
   /// 🧛‍♂️ man vampire
@@ -9264,6 +9955,7 @@ class FluentEmojiPeopleAndBody {
   /// Medium Dark [_manVampireMediumDark]
   /// Dark [_manVampireDark]
   late final SkinToneFluentEmojiData manVampire = SkinToneFluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'man vampire',
     glyph: '🧛‍♂️',
@@ -9277,47 +9969,52 @@ class FluentEmojiPeopleAndBody {
 
   /// 🧛🏻‍♂️ man vampire
   final FluentEmojiData _manVampireLight = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'man vampire',
     glyph: '🧛🏻‍♂️',
     svgPath: 'assets/man_vampire_color_light.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.light,
   );
 
   /// 🧛🏼‍♂️ man vampire
   final FluentEmojiData _manVampireMediumLight = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'man vampire',
     glyph: '🧛🏼‍♂️',
     svgPath: 'assets/man_vampire_color_medium-light.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.mediumLight,
   );
 
   /// 🧛🏽‍♂️ man vampire
   final FluentEmojiData _manVampireMedium = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'man vampire',
     glyph: '🧛🏽‍♂️',
     svgPath: 'assets/man_vampire_color_medium.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.medium,
   );
 
   /// 🧛🏾‍♂️ man vampire
   final FluentEmojiData _manVampireMediumDark = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'man vampire',
     glyph: '🧛🏾‍♂️',
     svgPath: 'assets/man_vampire_color_medium-dark.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.mediumDark,
   );
 
   /// 🧛🏿‍♂️ man vampire
   final FluentEmojiData _manVampireDark = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'man vampire',
     glyph: '🧛🏿‍♂️',
     svgPath: 'assets/man_vampire_color_dark.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.dark,
   );
 
   /// 🚶‍♂️ man walking
@@ -9328,6 +10025,7 @@ class FluentEmojiPeopleAndBody {
   /// Medium Dark [_manWalkingMediumDark]
   /// Dark [_manWalkingDark]
   late final SkinToneFluentEmojiData manWalking = SkinToneFluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'man walking',
     glyph: '🚶‍♂️',
@@ -9341,47 +10039,52 @@ class FluentEmojiPeopleAndBody {
 
   /// 🚶🏻‍♂️ man walking
   final FluentEmojiData _manWalkingLight = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'man walking',
     glyph: '🚶🏻‍♂️',
     svgPath: 'assets/man_walking_color_light.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.light,
   );
 
   /// 🚶🏼‍♂️ man walking
   final FluentEmojiData _manWalkingMediumLight = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'man walking',
     glyph: '🚶🏼‍♂️',
     svgPath: 'assets/man_walking_color_medium-light.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.mediumLight,
   );
 
   /// 🚶🏽‍♂️ man walking
   final FluentEmojiData _manWalkingMedium = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'man walking',
     glyph: '🚶🏽‍♂️',
     svgPath: 'assets/man_walking_color_medium.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.medium,
   );
 
   /// 🚶🏾‍♂️ man walking
   final FluentEmojiData _manWalkingMediumDark = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'man walking',
     glyph: '🚶🏾‍♂️',
     svgPath: 'assets/man_walking_color_medium-dark.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.mediumDark,
   );
 
   /// 🚶🏿‍♂️ man walking
   final FluentEmojiData _manWalkingDark = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'man walking',
     glyph: '🚶🏿‍♂️',
     svgPath: 'assets/man_walking_color_dark.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.dark,
   );
 
   /// 🚶‍♂️‍➡️ man walking facing right
@@ -9392,6 +10095,7 @@ class FluentEmojiPeopleAndBody {
   /// Medium Dark [_manWalkingFacingRightMediumDark]
   /// Dark [_manWalkingFacingRightDark]
   late final SkinToneFluentEmojiData manWalkingFacingRight = SkinToneFluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'man walking facing right',
     glyph: '🚶‍♂️‍➡️',
@@ -9405,47 +10109,52 @@ class FluentEmojiPeopleAndBody {
 
   /// 🚶🏻‍♂️‍➡️ man walking facing right
   final FluentEmojiData _manWalkingFacingRightLight = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'man walking facing right',
     glyph: '🚶🏻‍♂️‍➡️',
     svgPath: 'assets/man_walking_facing_right_color_light.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.light,
   );
 
   /// 🚶🏼‍♂️‍➡️ man walking facing right
   final FluentEmojiData _manWalkingFacingRightMediumLight = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'man walking facing right',
     glyph: '🚶🏼‍♂️‍➡️',
     svgPath: 'assets/man_walking_facing_right_color_medium-light.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.mediumLight,
   );
 
   /// 🚶🏽‍♂️‍➡️ man walking facing right
   final FluentEmojiData _manWalkingFacingRightMedium = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'man walking facing right',
     glyph: '🚶🏽‍♂️‍➡️',
     svgPath: 'assets/man_walking_facing_right_color_medium.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.medium,
   );
 
   /// 🚶🏾‍♂️‍➡️ man walking facing right
   final FluentEmojiData _manWalkingFacingRightMediumDark = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'man walking facing right',
     glyph: '🚶🏾‍♂️‍➡️',
     svgPath: 'assets/man_walking_facing_right_color_medium-dark.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.mediumDark,
   );
 
   /// 🚶🏿‍♂️‍➡️ man walking facing right
   final FluentEmojiData _manWalkingFacingRightDark = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'man walking facing right',
     glyph: '🚶🏿‍♂️‍➡️',
     svgPath: 'assets/man_walking_facing_right_color_dark.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.dark,
   );
 
   /// 👳‍♂️ man wearing turban
@@ -9456,6 +10165,7 @@ class FluentEmojiPeopleAndBody {
   /// Medium Dark [_manWearingTurbanMediumDark]
   /// Dark [_manWearingTurbanDark]
   late final SkinToneFluentEmojiData manWearingTurban = SkinToneFluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'man wearing turban',
     glyph: '👳‍♂️',
@@ -9469,47 +10179,52 @@ class FluentEmojiPeopleAndBody {
 
   /// 👳🏻‍♂️ man wearing turban
   final FluentEmojiData _manWearingTurbanLight = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'man wearing turban',
     glyph: '👳🏻‍♂️',
     svgPath: 'assets/man_wearing_turban_color_light.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.light,
   );
 
   /// 👳🏼‍♂️ man wearing turban
   final FluentEmojiData _manWearingTurbanMediumLight = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'man wearing turban',
     glyph: '👳🏼‍♂️',
     svgPath: 'assets/man_wearing_turban_color_medium-light.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.mediumLight,
   );
 
   /// 👳🏽‍♂️ man wearing turban
   final FluentEmojiData _manWearingTurbanMedium = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'man wearing turban',
     glyph: '👳🏽‍♂️',
     svgPath: 'assets/man_wearing_turban_color_medium.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.medium,
   );
 
   /// 👳🏾‍♂️ man wearing turban
   final FluentEmojiData _manWearingTurbanMediumDark = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'man wearing turban',
     glyph: '👳🏾‍♂️',
     svgPath: 'assets/man_wearing_turban_color_medium-dark.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.mediumDark,
   );
 
   /// 👳🏿‍♂️ man wearing turban
   final FluentEmojiData _manWearingTurbanDark = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'man wearing turban',
     glyph: '👳🏿‍♂️',
     svgPath: 'assets/man_wearing_turban_color_dark.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.dark,
   );
 
   /// 👰‍♂️ man with veil
@@ -9520,6 +10235,7 @@ class FluentEmojiPeopleAndBody {
   /// Medium Dark [_manWithVeilMediumDark]
   /// Dark [_manWithVeilDark]
   late final SkinToneFluentEmojiData manWithVeil = SkinToneFluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'man with veil',
     glyph: '👰‍♂️',
@@ -9533,47 +10249,52 @@ class FluentEmojiPeopleAndBody {
 
   /// 👰🏻‍♂️ man with veil
   final FluentEmojiData _manWithVeilLight = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'man with veil',
     glyph: '👰🏻‍♂️',
     svgPath: 'assets/man_with_veil_color_light.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.light,
   );
 
   /// 👰🏼‍♂️ man with veil
   final FluentEmojiData _manWithVeilMediumLight = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'man with veil',
     glyph: '👰🏼‍♂️',
     svgPath: 'assets/man_with_veil_color_medium-light.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.mediumLight,
   );
 
   /// 👰🏽‍♂️ man with veil
   final FluentEmojiData _manWithVeilMedium = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'man with veil',
     glyph: '👰🏽‍♂️',
     svgPath: 'assets/man_with_veil_color_medium.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.medium,
   );
 
   /// 👰🏾‍♂️ man with veil
   final FluentEmojiData _manWithVeilMediumDark = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'man with veil',
     glyph: '👰🏾‍♂️',
     svgPath: 'assets/man_with_veil_color_medium-dark.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.mediumDark,
   );
 
   /// 👰🏿‍♂️ man with veil
   final FluentEmojiData _manWithVeilDark = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'man with veil',
     glyph: '👰🏿‍♂️',
     svgPath: 'assets/man_with_veil_color_dark.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.dark,
   );
 
   /// 👨‍🦯 man with white cane
@@ -9584,6 +10305,7 @@ class FluentEmojiPeopleAndBody {
   /// Medium Dark [_manWithWhiteCaneMediumDark]
   /// Dark [_manWithWhiteCaneDark]
   late final SkinToneFluentEmojiData manWithWhiteCane = SkinToneFluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'man with white cane',
     glyph: '👨‍🦯',
@@ -9597,47 +10319,52 @@ class FluentEmojiPeopleAndBody {
 
   /// 👨🏻‍🦯 man with white cane
   final FluentEmojiData _manWithWhiteCaneLight = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'man with white cane',
     glyph: '👨🏻‍🦯',
     svgPath: 'assets/man_with_white_cane_color_light.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.light,
   );
 
   /// 👨🏼‍🦯 man with white cane
   final FluentEmojiData _manWithWhiteCaneMediumLight = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'man with white cane',
     glyph: '👨🏼‍🦯',
     svgPath: 'assets/man_with_white_cane_color_medium-light.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.mediumLight,
   );
 
   /// 👨🏽‍🦯 man with white cane
   final FluentEmojiData _manWithWhiteCaneMedium = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'man with white cane',
     glyph: '👨🏽‍🦯',
     svgPath: 'assets/man_with_white_cane_color_medium.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.medium,
   );
 
   /// 👨🏾‍🦯 man with white cane
   final FluentEmojiData _manWithWhiteCaneMediumDark = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'man with white cane',
     glyph: '👨🏾‍🦯',
     svgPath: 'assets/man_with_white_cane_color_medium-dark.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.mediumDark,
   );
 
   /// 👨🏿‍🦯 man with white cane
   final FluentEmojiData _manWithWhiteCaneDark = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'man with white cane',
     glyph: '👨🏿‍🦯',
     svgPath: 'assets/man_with_white_cane_color_dark.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.dark,
   );
 
   /// 👨‍🦯‍➡️ man with white cane facing right
@@ -9648,6 +10375,7 @@ class FluentEmojiPeopleAndBody {
   /// Medium Dark [_manWithWhiteCaneFacingRightMediumDark]
   /// Dark [_manWithWhiteCaneFacingRightDark]
   late final SkinToneFluentEmojiData manWithWhiteCaneFacingRight = SkinToneFluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'man with white cane facing right',
     glyph: '👨‍🦯‍➡️',
@@ -9661,56 +10389,62 @@ class FluentEmojiPeopleAndBody {
 
   /// 👨🏻‍🦯‍➡️ man with white cane facing right
   final FluentEmojiData _manWithWhiteCaneFacingRightLight = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'man with white cane facing right',
     glyph: '👨🏻‍🦯‍➡️',
     svgPath: 'assets/man_with_white_cane_facing_right_color_light.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.light,
   );
 
   /// 👨🏼‍🦯‍➡️ man with white cane facing right
   final FluentEmojiData _manWithWhiteCaneFacingRightMediumLight = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'man with white cane facing right',
     glyph: '👨🏼‍🦯‍➡️',
     svgPath: 'assets/man_with_white_cane_facing_right_color_medium-light.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.mediumLight,
   );
 
   /// 👨🏽‍🦯‍➡️ man with white cane facing right
   final FluentEmojiData _manWithWhiteCaneFacingRightMedium = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'man with white cane facing right',
     glyph: '👨🏽‍🦯‍➡️',
     svgPath: 'assets/man_with_white_cane_facing_right_color_medium.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.medium,
   );
 
   /// 👨🏾‍🦯‍➡️ man with white cane facing right
   final FluentEmojiData _manWithWhiteCaneFacingRightMediumDark = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'man with white cane facing right',
     glyph: '👨🏾‍🦯‍➡️',
     svgPath: 'assets/man_with_white_cane_facing_right_color_medium-dark.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.mediumDark,
   );
 
   /// 👨🏿‍🦯‍➡️ man with white cane facing right
   final FluentEmojiData _manWithWhiteCaneFacingRightDark = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'man with white cane facing right',
     glyph: '👨🏿‍🦯‍➡️',
     svgPath: 'assets/man_with_white_cane_facing_right_color_dark.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.dark,
   );
 
   /// 🧟‍♂️ man zombie
   final FluentEmojiData manZombie = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'man zombie',
     glyph: '🧟‍♂️',
     svgPath: 'assets/man_zombie_color.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.standard,
   );
 
   /// 👨‍🦲 man: bald
@@ -9721,6 +10455,7 @@ class FluentEmojiPeopleAndBody {
   /// Medium Dark [_manBaldMediumDark]
   /// Dark [_manBaldDark]
   late final SkinToneFluentEmojiData manBald = SkinToneFluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'man: bald',
     glyph: '👨‍🦲',
@@ -9734,47 +10469,52 @@ class FluentEmojiPeopleAndBody {
 
   /// 👨🏻‍🦲 man: bald
   final FluentEmojiData _manBaldLight = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'man: bald',
     glyph: '👨🏻‍🦲',
     svgPath: 'assets/man_bald_color_light.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.light,
   );
 
   /// 👨🏼‍🦲 man: bald
   final FluentEmojiData _manBaldMediumLight = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'man: bald',
     glyph: '👨🏼‍🦲',
     svgPath: 'assets/man_bald_color_medium-light.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.mediumLight,
   );
 
   /// 👨🏽‍🦲 man: bald
   final FluentEmojiData _manBaldMedium = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'man: bald',
     glyph: '👨🏽‍🦲',
     svgPath: 'assets/man_bald_color_medium.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.medium,
   );
 
   /// 👨🏾‍🦲 man: bald
   final FluentEmojiData _manBaldMediumDark = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'man: bald',
     glyph: '👨🏾‍🦲',
     svgPath: 'assets/man_bald_color_medium-dark.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.mediumDark,
   );
 
   /// 👨🏿‍🦲 man: bald
   final FluentEmojiData _manBaldDark = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'man: bald',
     glyph: '👨🏿‍🦲',
     svgPath: 'assets/man_bald_color_dark.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.dark,
   );
 
   /// 🧔‍♂️ man: beard
@@ -9785,6 +10525,7 @@ class FluentEmojiPeopleAndBody {
   /// Medium Dark [_manBeardMediumDark]
   /// Dark [_manBeardDark]
   late final SkinToneFluentEmojiData manBeard = SkinToneFluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'man: beard',
     glyph: '🧔‍♂️',
@@ -9798,47 +10539,52 @@ class FluentEmojiPeopleAndBody {
 
   /// 🧔🏻‍♂️ man: beard
   final FluentEmojiData _manBeardLight = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'man: beard',
     glyph: '🧔🏻‍♂️',
     svgPath: 'assets/man_beard_color_light.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.light,
   );
 
   /// 🧔🏼‍♂️ man: beard
   final FluentEmojiData _manBeardMediumLight = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'man: beard',
     glyph: '🧔🏼‍♂️',
     svgPath: 'assets/man_beard_color_medium-light.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.mediumLight,
   );
 
   /// 🧔🏽‍♂️ man: beard
   final FluentEmojiData _manBeardMedium = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'man: beard',
     glyph: '🧔🏽‍♂️',
     svgPath: 'assets/man_beard_color_medium.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.medium,
   );
 
   /// 🧔🏾‍♂️ man: beard
   final FluentEmojiData _manBeardMediumDark = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'man: beard',
     glyph: '🧔🏾‍♂️',
     svgPath: 'assets/man_beard_color_medium-dark.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.mediumDark,
   );
 
   /// 🧔🏿‍♂️ man: beard
   final FluentEmojiData _manBeardDark = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'man: beard',
     glyph: '🧔🏿‍♂️',
     svgPath: 'assets/man_beard_color_dark.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.dark,
   );
 
   /// 👱‍♂️ man: blond hair
@@ -9849,6 +10595,7 @@ class FluentEmojiPeopleAndBody {
   /// Medium Dark [_manBlondHairMediumDark]
   /// Dark [_manBlondHairDark]
   late final SkinToneFluentEmojiData manBlondHair = SkinToneFluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'man: blond hair',
     glyph: '👱‍♂️',
@@ -9862,47 +10609,52 @@ class FluentEmojiPeopleAndBody {
 
   /// 👱🏻‍♂️ man: blond hair
   final FluentEmojiData _manBlondHairLight = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'man: blond hair',
     glyph: '👱🏻‍♂️',
     svgPath: 'assets/man_blonde_hair_color_light.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.light,
   );
 
   /// 👱🏼‍♂️ man: blond hair
   final FluentEmojiData _manBlondHairMediumLight = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'man: blond hair',
     glyph: '👱🏼‍♂️',
     svgPath: 'assets/man_blonde_hair_color_medium-light.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.mediumLight,
   );
 
   /// 👱🏽‍♂️ man: blond hair
   final FluentEmojiData _manBlondHairMedium = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'man: blond hair',
     glyph: '👱🏽‍♂️',
     svgPath: 'assets/man_blonde_hair_color_medium.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.medium,
   );
 
   /// 👱🏾‍♂️ man: blond hair
   final FluentEmojiData _manBlondHairMediumDark = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'man: blond hair',
     glyph: '👱🏾‍♂️',
     svgPath: 'assets/man_blonde_hair_color_medium-dark.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.mediumDark,
   );
 
   /// 👱🏿‍♂️ man: blond hair
   final FluentEmojiData _manBlondHairDark = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'man: blond hair',
     glyph: '👱🏿‍♂️',
     svgPath: 'assets/man_blonde_hair_color_dark.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.dark,
   );
 
   /// 👨‍🦱 man: curly hair
@@ -9913,6 +10665,7 @@ class FluentEmojiPeopleAndBody {
   /// Medium Dark [_manCurlyHairMediumDark]
   /// Dark [_manCurlyHairDark]
   late final SkinToneFluentEmojiData manCurlyHair = SkinToneFluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'man: curly hair',
     glyph: '👨‍🦱',
@@ -9926,47 +10679,52 @@ class FluentEmojiPeopleAndBody {
 
   /// 👨🏻‍🦱 man: curly hair
   final FluentEmojiData _manCurlyHairLight = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'man: curly hair',
     glyph: '👨🏻‍🦱',
     svgPath: 'assets/man_curly_hair_color_light.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.light,
   );
 
   /// 👨🏼‍🦱 man: curly hair
   final FluentEmojiData _manCurlyHairMediumLight = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'man: curly hair',
     glyph: '👨🏼‍🦱',
     svgPath: 'assets/man_curly_hair_color_medium-light.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.mediumLight,
   );
 
   /// 👨🏽‍🦱 man: curly hair
   final FluentEmojiData _manCurlyHairMedium = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'man: curly hair',
     glyph: '👨🏽‍🦱',
     svgPath: 'assets/man_curly_hair_color_medium.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.medium,
   );
 
   /// 👨🏾‍🦱 man: curly hair
   final FluentEmojiData _manCurlyHairMediumDark = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'man: curly hair',
     glyph: '👨🏾‍🦱',
     svgPath: 'assets/man_curly_hair_color_medium-dark.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.mediumDark,
   );
 
   /// 👨🏿‍🦱 man: curly hair
   final FluentEmojiData _manCurlyHairDark = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'man: curly hair',
     glyph: '👨🏿‍🦱',
     svgPath: 'assets/man_curly_hair_color_dark.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.dark,
   );
 
   /// 👨‍🦰 man: red hair
@@ -9977,6 +10735,7 @@ class FluentEmojiPeopleAndBody {
   /// Medium Dark [_manRedHairMediumDark]
   /// Dark [_manRedHairDark]
   late final SkinToneFluentEmojiData manRedHair = SkinToneFluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'man: red hair',
     glyph: '👨‍🦰',
@@ -9990,47 +10749,52 @@ class FluentEmojiPeopleAndBody {
 
   /// 👨🏻‍🦰 man: red hair
   final FluentEmojiData _manRedHairLight = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'man: red hair',
     glyph: '👨🏻‍🦰',
     svgPath: 'assets/man_red_hair_color_light.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.light,
   );
 
   /// 👨🏼‍🦰 man: red hair
   final FluentEmojiData _manRedHairMediumLight = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'man: red hair',
     glyph: '👨🏼‍🦰',
     svgPath: 'assets/man_red_hair_color_medium-light.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.mediumLight,
   );
 
   /// 👨🏽‍🦰 man: red hair
   final FluentEmojiData _manRedHairMedium = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'man: red hair',
     glyph: '👨🏽‍🦰',
     svgPath: 'assets/man_red_hair_color_medium.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.medium,
   );
 
   /// 👨🏾‍🦰 man: red hair
   final FluentEmojiData _manRedHairMediumDark = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'man: red hair',
     glyph: '👨🏾‍🦰',
     svgPath: 'assets/man_red_hair_color_medium-dark.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.mediumDark,
   );
 
   /// 👨🏿‍🦰 man: red hair
   final FluentEmojiData _manRedHairDark = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'man: red hair',
     glyph: '👨🏿‍🦰',
     svgPath: 'assets/man_red_hair_color_dark.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.dark,
   );
 
   /// 👨‍🦳 man: white hair
@@ -10041,6 +10805,7 @@ class FluentEmojiPeopleAndBody {
   /// Medium Dark [_manWhiteHairMediumDark]
   /// Dark [_manWhiteHairDark]
   late final SkinToneFluentEmojiData manWhiteHair = SkinToneFluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'man: white hair',
     glyph: '👨‍🦳',
@@ -10054,47 +10819,52 @@ class FluentEmojiPeopleAndBody {
 
   /// 👨🏻‍🦳 man: white hair
   final FluentEmojiData _manWhiteHairLight = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'man: white hair',
     glyph: '👨🏻‍🦳',
     svgPath: 'assets/man_white_hair_color_light.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.light,
   );
 
   /// 👨🏼‍🦳 man: white hair
   final FluentEmojiData _manWhiteHairMediumLight = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'man: white hair',
     glyph: '👨🏼‍🦳',
     svgPath: 'assets/man_white_hair_color_medium-light.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.mediumLight,
   );
 
   /// 👨🏽‍🦳 man: white hair
   final FluentEmojiData _manWhiteHairMedium = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'man: white hair',
     glyph: '👨🏽‍🦳',
     svgPath: 'assets/man_white_hair_color_medium.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.medium,
   );
 
   /// 👨🏾‍🦳 man: white hair
   final FluentEmojiData _manWhiteHairMediumDark = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'man: white hair',
     glyph: '👨🏾‍🦳',
     svgPath: 'assets/man_white_hair_color_medium-dark.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.mediumDark,
   );
 
   /// 👨🏿‍🦳 man: white hair
   final FluentEmojiData _manWhiteHairDark = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'man: white hair',
     glyph: '👨🏿‍🦳',
     svgPath: 'assets/man_white_hair_color_dark.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.dark,
   );
 
   /// 🧑‍🔧 mechanic
@@ -10105,6 +10875,7 @@ class FluentEmojiPeopleAndBody {
   /// Medium Dark [_mechanicMediumDark]
   /// Dark [_mechanicDark]
   late final SkinToneFluentEmojiData mechanic = SkinToneFluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'mechanic',
     glyph: '🧑‍🔧',
@@ -10118,83 +10889,92 @@ class FluentEmojiPeopleAndBody {
 
   /// 🧑🏻‍🔧 mechanic
   final FluentEmojiData _mechanicLight = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'mechanic',
     glyph: '🧑🏻‍🔧',
     svgPath: 'assets/mechanic_color_light.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.light,
   );
 
   /// 🧑🏼‍🔧 mechanic
   final FluentEmojiData _mechanicMediumLight = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'mechanic',
     glyph: '🧑🏼‍🔧',
     svgPath: 'assets/mechanic_color_medium-light.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.mediumLight,
   );
 
   /// 🧑🏽‍🔧 mechanic
   final FluentEmojiData _mechanicMedium = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'mechanic',
     glyph: '🧑🏽‍🔧',
     svgPath: 'assets/mechanic_color_medium.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.medium,
   );
 
   /// 🧑🏾‍🔧 mechanic
   final FluentEmojiData _mechanicMediumDark = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'mechanic',
     glyph: '🧑🏾‍🔧',
     svgPath: 'assets/mechanic_color_medium-dark.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.mediumDark,
   );
 
   /// 🧑🏿‍🔧 mechanic
   final FluentEmojiData _mechanicDark = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'mechanic',
     glyph: '🧑🏿‍🔧',
     svgPath: 'assets/mechanic_color_dark.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.dark,
   );
 
   /// 🦾 mechanical arm
   final FluentEmojiData mechanicalArm = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'mechanical arm',
     glyph: '🦾',
     svgPath: 'assets/mechanical_arm_color.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.standard,
   );
 
   /// 🦿 mechanical leg
   final FluentEmojiData mechanicalLeg = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'mechanical leg',
     glyph: '🦿',
     svgPath: 'assets/mechanical_leg_color.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.standard,
   );
 
   /// 👯‍♂️ men with bunny ears
   final FluentEmojiData menWithBunnyEars = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'men with bunny ears',
     glyph: '👯‍♂️',
     svgPath: 'assets/man_with_bunny_ears_color.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.standard,
   );
 
   /// 🤼‍♂️ men wrestling
   final FluentEmojiData menWrestling = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'men wrestling',
     glyph: '🤼‍♂️',
     svgPath: 'assets/man_wrestling_color.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.standard,
   );
 
   /// 🧜‍♀️ mermaid
@@ -10205,6 +10985,7 @@ class FluentEmojiPeopleAndBody {
   /// Medium Dark [_mermaidMediumDark]
   /// Dark [_mermaidDark]
   late final SkinToneFluentEmojiData mermaid = SkinToneFluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'mermaid',
     glyph: '🧜‍♀️',
@@ -10218,47 +10999,52 @@ class FluentEmojiPeopleAndBody {
 
   /// 🧜🏻‍♀️ mermaid
   final FluentEmojiData _mermaidLight = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'mermaid',
     glyph: '🧜🏻‍♀️',
     svgPath: 'assets/woman_merpeople_color_light.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.light,
   );
 
   /// 🧜🏼‍♀️ mermaid
   final FluentEmojiData _mermaidMediumLight = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'mermaid',
     glyph: '🧜🏼‍♀️',
     svgPath: 'assets/woman_merpeople_color_medium-light.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.mediumLight,
   );
 
   /// 🧜🏽‍♀️ mermaid
   final FluentEmojiData _mermaidMedium = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'mermaid',
     glyph: '🧜🏽‍♀️',
     svgPath: 'assets/woman_merpeople_color_medium.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.medium,
   );
 
   /// 🧜🏾‍♀️ mermaid
   final FluentEmojiData _mermaidMediumDark = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'mermaid',
     glyph: '🧜🏾‍♀️',
     svgPath: 'assets/woman_merpeople_color_medium-dark.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.mediumDark,
   );
 
   /// 🧜🏿‍♀️ mermaid
   final FluentEmojiData _mermaidDark = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'mermaid',
     glyph: '🧜🏿‍♀️',
     svgPath: 'assets/woman_merpeople_color_dark.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.dark,
   );
 
   /// 🧜‍♂️ merman
@@ -10269,6 +11055,7 @@ class FluentEmojiPeopleAndBody {
   /// Medium Dark [_mermanMediumDark]
   /// Dark [_mermanDark]
   late final SkinToneFluentEmojiData merman = SkinToneFluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'merman',
     glyph: '🧜‍♂️',
@@ -10282,47 +11069,52 @@ class FluentEmojiPeopleAndBody {
 
   /// 🧜🏻‍♂️ merman
   final FluentEmojiData _mermanLight = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'merman',
     glyph: '🧜🏻‍♂️',
     svgPath: 'assets/man_merpeople_color_light.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.light,
   );
 
   /// 🧜🏼‍♂️ merman
   final FluentEmojiData _mermanMediumLight = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'merman',
     glyph: '🧜🏼‍♂️',
     svgPath: 'assets/man_merpeople_color_medium-light.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.mediumLight,
   );
 
   /// 🧜🏽‍♂️ merman
   final FluentEmojiData _mermanMedium = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'merman',
     glyph: '🧜🏽‍♂️',
     svgPath: 'assets/man_merpeople_color_medium.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.medium,
   );
 
   /// 🧜🏾‍♂️ merman
   final FluentEmojiData _mermanMediumDark = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'merman',
     glyph: '🧜🏾‍♂️',
     svgPath: 'assets/man_merpeople_color_medium-dark.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.mediumDark,
   );
 
   /// 🧜🏿‍♂️ merman
   final FluentEmojiData _mermanDark = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'merman',
     glyph: '🧜🏿‍♂️',
     svgPath: 'assets/man_merpeople_color_dark.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.dark,
   );
 
   /// 🧜 merperson
@@ -10333,6 +11125,7 @@ class FluentEmojiPeopleAndBody {
   /// Medium Dark [_merpersonMediumDark]
   /// Dark [_merpersonDark]
   late final SkinToneFluentEmojiData merperson = SkinToneFluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'merperson',
     glyph: '🧜',
@@ -10346,47 +11139,52 @@ class FluentEmojiPeopleAndBody {
 
   /// 🧜🏻 merperson
   final FluentEmojiData _merpersonLight = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'merperson',
     glyph: '🧜🏻',
     svgPath: 'assets/person_merpeople_color_light.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.light,
   );
 
   /// 🧜🏼 merperson
   final FluentEmojiData _merpersonMediumLight = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'merperson',
     glyph: '🧜🏼',
     svgPath: 'assets/person_merpeople_color_medium-light.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.mediumLight,
   );
 
   /// 🧜🏽 merperson
   final FluentEmojiData _merpersonMedium = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'merperson',
     glyph: '🧜🏽',
     svgPath: 'assets/person_merpeople_color_medium.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.medium,
   );
 
   /// 🧜🏾 merperson
   final FluentEmojiData _merpersonMediumDark = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'merperson',
     glyph: '🧜🏾',
     svgPath: 'assets/person_merpeople_color_medium-dark.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.mediumDark,
   );
 
   /// 🧜🏿 merperson
   final FluentEmojiData _merpersonDark = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'merperson',
     glyph: '🧜🏿',
     svgPath: 'assets/person_merpeople_color_dark.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.dark,
   );
 
   /// 🖕 middle finger
@@ -10397,6 +11195,7 @@ class FluentEmojiPeopleAndBody {
   /// Medium Dark [_middleFingerMediumDark]
   /// Dark [_middleFingerDark]
   late final SkinToneFluentEmojiData middleFinger = SkinToneFluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'middle finger',
     glyph: '🖕',
@@ -10410,56 +11209,62 @@ class FluentEmojiPeopleAndBody {
 
   /// 🖕🏻 middle finger
   final FluentEmojiData _middleFingerLight = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'middle finger',
     glyph: '🖕🏻',
     svgPath: 'assets/middle_finger_color_light.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.light,
   );
 
   /// 🖕🏼 middle finger
   final FluentEmojiData _middleFingerMediumLight = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'middle finger',
     glyph: '🖕🏼',
     svgPath: 'assets/middle_finger_color_medium-light.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.mediumLight,
   );
 
   /// 🖕🏽 middle finger
   final FluentEmojiData _middleFingerMedium = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'middle finger',
     glyph: '🖕🏽',
     svgPath: 'assets/middle_finger_color_medium.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.medium,
   );
 
   /// 🖕🏾 middle finger
   final FluentEmojiData _middleFingerMediumDark = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'middle finger',
     glyph: '🖕🏾',
     svgPath: 'assets/middle_finger_color_medium-dark.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.mediumDark,
   );
 
   /// 🖕🏿 middle finger
   final FluentEmojiData _middleFingerDark = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'middle finger',
     glyph: '🖕🏿',
     svgPath: 'assets/middle_finger_color_dark.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.dark,
   );
 
   /// 👄 mouth
   final FluentEmojiData mouth = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'mouth',
     glyph: '👄',
     svgPath: 'assets/mouth_color.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.standard,
   );
 
   /// 🧑‍🎄 mx claus
@@ -10470,6 +11275,7 @@ class FluentEmojiPeopleAndBody {
   /// Medium Dark [_mxClausMediumDark]
   /// Dark [_mxClausDark]
   late final SkinToneFluentEmojiData mxClaus = SkinToneFluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'mx claus',
     glyph: '🧑‍🎄',
@@ -10483,47 +11289,52 @@ class FluentEmojiPeopleAndBody {
 
   /// 🧑🏻‍🎄 mx claus
   final FluentEmojiData _mxClausLight = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'mx claus',
     glyph: '🧑🏻‍🎄',
     svgPath: 'assets/mx_claus_color_light.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.light,
   );
 
   /// 🧑🏼‍🎄 mx claus
   final FluentEmojiData _mxClausMediumLight = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'mx claus',
     glyph: '🧑🏼‍🎄',
     svgPath: 'assets/mx_claus_color_medium-light.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.mediumLight,
   );
 
   /// 🧑🏽‍🎄 mx claus
   final FluentEmojiData _mxClausMedium = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'mx claus',
     glyph: '🧑🏽‍🎄',
     svgPath: 'assets/mx_claus_color_medium.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.medium,
   );
 
   /// 🧑🏾‍🎄 mx claus
   final FluentEmojiData _mxClausMediumDark = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'mx claus',
     glyph: '🧑🏾‍🎄',
     svgPath: 'assets/mx_claus_color_medium-dark.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.mediumDark,
   );
 
   /// 🧑🏿‍🎄 mx claus
   final FluentEmojiData _mxClausDark = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'mx claus',
     glyph: '🧑🏿‍🎄',
     svgPath: 'assets/mx_claus_color_dark.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.dark,
   );
 
   /// 💅 nail polish
@@ -10534,6 +11345,7 @@ class FluentEmojiPeopleAndBody {
   /// Medium Dark [_nailPolishMediumDark]
   /// Dark [_nailPolishDark]
   late final SkinToneFluentEmojiData nailPolish = SkinToneFluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'nail polish',
     glyph: '💅',
@@ -10547,47 +11359,52 @@ class FluentEmojiPeopleAndBody {
 
   /// 💅🏻 nail polish
   final FluentEmojiData _nailPolishLight = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'nail polish',
     glyph: '💅🏻',
     svgPath: 'assets/nail_polish_color_light.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.light,
   );
 
   /// 💅🏼 nail polish
   final FluentEmojiData _nailPolishMediumLight = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'nail polish',
     glyph: '💅🏼',
     svgPath: 'assets/nail_polish_color_medium-light.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.mediumLight,
   );
 
   /// 💅🏽 nail polish
   final FluentEmojiData _nailPolishMedium = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'nail polish',
     glyph: '💅🏽',
     svgPath: 'assets/nail_polish_color_medium.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.medium,
   );
 
   /// 💅🏾 nail polish
   final FluentEmojiData _nailPolishMediumDark = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'nail polish',
     glyph: '💅🏾',
     svgPath: 'assets/nail_polish_color_medium-dark.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.mediumDark,
   );
 
   /// 💅🏿 nail polish
   final FluentEmojiData _nailPolishDark = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'nail polish',
     glyph: '💅🏿',
     svgPath: 'assets/nail_polish_color_dark.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.dark,
   );
 
   /// 🥷 ninja
@@ -10598,6 +11415,7 @@ class FluentEmojiPeopleAndBody {
   /// Medium Dark [_ninjaMediumDark]
   /// Dark [_ninjaDark]
   late final SkinToneFluentEmojiData ninja = SkinToneFluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'ninja',
     glyph: '🥷',
@@ -10611,47 +11429,52 @@ class FluentEmojiPeopleAndBody {
 
   /// 🥷🏻 ninja
   final FluentEmojiData _ninjaLight = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'ninja',
     glyph: '🥷🏻',
     svgPath: 'assets/ninja_color_light.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.light,
   );
 
   /// 🥷🏼 ninja
   final FluentEmojiData _ninjaMediumLight = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'ninja',
     glyph: '🥷🏼',
     svgPath: 'assets/ninja_color_medium-light.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.mediumLight,
   );
 
   /// 🥷🏽 ninja
   final FluentEmojiData _ninjaMedium = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'ninja',
     glyph: '🥷🏽',
     svgPath: 'assets/ninja_color_medium.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.medium,
   );
 
   /// 🥷🏾 ninja
   final FluentEmojiData _ninjaMediumDark = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'ninja',
     glyph: '🥷🏾',
     svgPath: 'assets/ninja_color_medium-dark.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.mediumDark,
   );
 
   /// 🥷🏿 ninja
   final FluentEmojiData _ninjaDark = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'ninja',
     glyph: '🥷🏿',
     svgPath: 'assets/ninja_color_dark.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.dark,
   );
 
   /// 👃 nose
@@ -10662,6 +11485,7 @@ class FluentEmojiPeopleAndBody {
   /// Medium Dark [_noseMediumDark]
   /// Dark [_noseDark]
   late final SkinToneFluentEmojiData nose = SkinToneFluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'nose',
     glyph: '👃',
@@ -10675,47 +11499,52 @@ class FluentEmojiPeopleAndBody {
 
   /// 👃🏻 nose
   final FluentEmojiData _noseLight = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'nose',
     glyph: '👃🏻',
     svgPath: 'assets/nose_color_light.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.light,
   );
 
   /// 👃🏼 nose
   final FluentEmojiData _noseMediumLight = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'nose',
     glyph: '👃🏼',
     svgPath: 'assets/nose_color_medium-light.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.mediumLight,
   );
 
   /// 👃🏽 nose
   final FluentEmojiData _noseMedium = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'nose',
     glyph: '👃🏽',
     svgPath: 'assets/nose_color_medium.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.medium,
   );
 
   /// 👃🏾 nose
   final FluentEmojiData _noseMediumDark = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'nose',
     glyph: '👃🏾',
     svgPath: 'assets/nose_color_medium-dark.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.mediumDark,
   );
 
   /// 👃🏿 nose
   final FluentEmojiData _noseDark = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'nose',
     glyph: '👃🏿',
     svgPath: 'assets/nose_color_dark.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.dark,
   );
 
   /// 🧑‍💼 office worker
@@ -10726,6 +11555,7 @@ class FluentEmojiPeopleAndBody {
   /// Medium Dark [_officeWorkerMediumDark]
   /// Dark [_officeWorkerDark]
   late final SkinToneFluentEmojiData officeWorker = SkinToneFluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'office worker',
     glyph: '🧑‍💼',
@@ -10739,47 +11569,52 @@ class FluentEmojiPeopleAndBody {
 
   /// 🧑🏻‍💼 office worker
   final FluentEmojiData _officeWorkerLight = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'office worker',
     glyph: '🧑🏻‍💼',
     svgPath: 'assets/office_worker_color_light.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.light,
   );
 
   /// 🧑🏼‍💼 office worker
   final FluentEmojiData _officeWorkerMediumLight = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'office worker',
     glyph: '🧑🏼‍💼',
     svgPath: 'assets/office_worker_color_medium-light.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.mediumLight,
   );
 
   /// 🧑🏽‍💼 office worker
   final FluentEmojiData _officeWorkerMedium = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'office worker',
     glyph: '🧑🏽‍💼',
     svgPath: 'assets/office_worker_color_medium.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.medium,
   );
 
   /// 🧑🏾‍💼 office worker
   final FluentEmojiData _officeWorkerMediumDark = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'office worker',
     glyph: '🧑🏾‍💼',
     svgPath: 'assets/office_worker_color_medium-dark.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.mediumDark,
   );
 
   /// 🧑🏿‍💼 office worker
   final FluentEmojiData _officeWorkerDark = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'office worker',
     glyph: '🧑🏿‍💼',
     svgPath: 'assets/office_worker_color_dark.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.dark,
   );
 
   /// 👴 old man
@@ -10790,6 +11625,7 @@ class FluentEmojiPeopleAndBody {
   /// Medium Dark [_oldManMediumDark]
   /// Dark [_oldManDark]
   late final SkinToneFluentEmojiData oldMan = SkinToneFluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'old man',
     glyph: '👴',
@@ -10803,47 +11639,52 @@ class FluentEmojiPeopleAndBody {
 
   /// 👴🏻 old man
   final FluentEmojiData _oldManLight = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'old man',
     glyph: '👴🏻',
     svgPath: 'assets/old_man_color_light.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.light,
   );
 
   /// 👴🏼 old man
   final FluentEmojiData _oldManMediumLight = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'old man',
     glyph: '👴🏼',
     svgPath: 'assets/old_man_color_medium-light.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.mediumLight,
   );
 
   /// 👴🏽 old man
   final FluentEmojiData _oldManMedium = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'old man',
     glyph: '👴🏽',
     svgPath: 'assets/old_man_color_medium.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.medium,
   );
 
   /// 👴🏾 old man
   final FluentEmojiData _oldManMediumDark = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'old man',
     glyph: '👴🏾',
     svgPath: 'assets/old_man_color_medium-dark.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.mediumDark,
   );
 
   /// 👴🏿 old man
   final FluentEmojiData _oldManDark = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'old man',
     glyph: '👴🏿',
     svgPath: 'assets/old_man_color_dark.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.dark,
   );
 
   /// 👵 old woman
@@ -10854,6 +11695,7 @@ class FluentEmojiPeopleAndBody {
   /// Medium Dark [_oldWomanMediumDark]
   /// Dark [_oldWomanDark]
   late final SkinToneFluentEmojiData oldWoman = SkinToneFluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'old woman',
     glyph: '👵',
@@ -10867,47 +11709,52 @@ class FluentEmojiPeopleAndBody {
 
   /// 👵🏻 old woman
   final FluentEmojiData _oldWomanLight = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'old woman',
     glyph: '👵🏻',
     svgPath: 'assets/old_woman_color_light.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.light,
   );
 
   /// 👵🏼 old woman
   final FluentEmojiData _oldWomanMediumLight = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'old woman',
     glyph: '👵🏼',
     svgPath: 'assets/old_woman_color_medium-light.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.mediumLight,
   );
 
   /// 👵🏽 old woman
   final FluentEmojiData _oldWomanMedium = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'old woman',
     glyph: '👵🏽',
     svgPath: 'assets/old_woman_color_medium.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.medium,
   );
 
   /// 👵🏾 old woman
   final FluentEmojiData _oldWomanMediumDark = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'old woman',
     glyph: '👵🏾',
     svgPath: 'assets/old_woman_color_medium-dark.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.mediumDark,
   );
 
   /// 👵🏿 old woman
   final FluentEmojiData _oldWomanDark = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'old woman',
     glyph: '👵🏿',
     svgPath: 'assets/old_woman_color_dark.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.dark,
   );
 
   /// 🧓 older person
@@ -10918,6 +11765,7 @@ class FluentEmojiPeopleAndBody {
   /// Medium Dark [_olderPersonMediumDark]
   /// Dark [_olderPersonDark]
   late final SkinToneFluentEmojiData olderPerson = SkinToneFluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'older person',
     glyph: '🧓',
@@ -10931,47 +11779,52 @@ class FluentEmojiPeopleAndBody {
 
   /// 🧓🏻 older person
   final FluentEmojiData _olderPersonLight = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'older person',
     glyph: '🧓🏻',
     svgPath: 'assets/older_person_color_light.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.light,
   );
 
   /// 🧓🏼 older person
   final FluentEmojiData _olderPersonMediumLight = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'older person',
     glyph: '🧓🏼',
     svgPath: 'assets/older_person_color_medium-light.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.mediumLight,
   );
 
   /// 🧓🏽 older person
   final FluentEmojiData _olderPersonMedium = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'older person',
     glyph: '🧓🏽',
     svgPath: 'assets/older_person_color_medium.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.medium,
   );
 
   /// 🧓🏾 older person
   final FluentEmojiData _olderPersonMediumDark = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'older person',
     glyph: '🧓🏾',
     svgPath: 'assets/older_person_color_medium-dark.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.mediumDark,
   );
 
   /// 🧓🏿 older person
   final FluentEmojiData _olderPersonDark = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'older person',
     glyph: '🧓🏿',
     svgPath: 'assets/older_person_color_dark.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.dark,
   );
 
   /// 👊 oncoming fist
@@ -10982,6 +11835,7 @@ class FluentEmojiPeopleAndBody {
   /// Medium Dark [_oncomingFistMediumDark]
   /// Dark [_oncomingFistDark]
   late final SkinToneFluentEmojiData oncomingFist = SkinToneFluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'oncoming fist',
     glyph: '👊',
@@ -10995,47 +11849,52 @@ class FluentEmojiPeopleAndBody {
 
   /// 👊🏻 oncoming fist
   final FluentEmojiData _oncomingFistLight = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'oncoming fist',
     glyph: '👊🏻',
     svgPath: 'assets/oncoming_fist_color_light.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.light,
   );
 
   /// 👊🏼 oncoming fist
   final FluentEmojiData _oncomingFistMediumLight = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'oncoming fist',
     glyph: '👊🏼',
     svgPath: 'assets/oncoming_fist_color_medium-light.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.mediumLight,
   );
 
   /// 👊🏽 oncoming fist
   final FluentEmojiData _oncomingFistMedium = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'oncoming fist',
     glyph: '👊🏽',
     svgPath: 'assets/oncoming_fist_color_medium.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.medium,
   );
 
   /// 👊🏾 oncoming fist
   final FluentEmojiData _oncomingFistMediumDark = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'oncoming fist',
     glyph: '👊🏾',
     svgPath: 'assets/oncoming_fist_color_medium-dark.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.mediumDark,
   );
 
   /// 👊🏿 oncoming fist
   final FluentEmojiData _oncomingFistDark = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'oncoming fist',
     glyph: '👊🏿',
     svgPath: 'assets/oncoming_fist_color_dark.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.dark,
   );
 
   /// 👐 open hands
@@ -11046,6 +11905,7 @@ class FluentEmojiPeopleAndBody {
   /// Medium Dark [_openHandsMediumDark]
   /// Dark [_openHandsDark]
   late final SkinToneFluentEmojiData openHands = SkinToneFluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'open hands',
     glyph: '👐',
@@ -11059,47 +11919,52 @@ class FluentEmojiPeopleAndBody {
 
   /// 👐🏻 open hands
   final FluentEmojiData _openHandsLight = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'open hands',
     glyph: '👐🏻',
     svgPath: 'assets/open_hands_color_light.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.light,
   );
 
   /// 👐🏼 open hands
   final FluentEmojiData _openHandsMediumLight = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'open hands',
     glyph: '👐🏼',
     svgPath: 'assets/open_hands_color_medium-light.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.mediumLight,
   );
 
   /// 👐🏽 open hands
   final FluentEmojiData _openHandsMedium = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'open hands',
     glyph: '👐🏽',
     svgPath: 'assets/open_hands_color_medium.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.medium,
   );
 
   /// 👐🏾 open hands
   final FluentEmojiData _openHandsMediumDark = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'open hands',
     glyph: '👐🏾',
     svgPath: 'assets/open_hands_color_medium-dark.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.mediumDark,
   );
 
   /// 👐🏿 open hands
   final FluentEmojiData _openHandsDark = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'open hands',
     glyph: '👐🏿',
     svgPath: 'assets/open_hands_color_dark.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.dark,
   );
 
   /// 🫳 palm down hand
@@ -11110,6 +11975,7 @@ class FluentEmojiPeopleAndBody {
   /// Medium Dark [_palmDownHandMediumDark]
   /// Dark [_palmDownHandDark]
   late final SkinToneFluentEmojiData palmDownHand = SkinToneFluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'palm down hand',
     glyph: '🫳',
@@ -11123,47 +11989,52 @@ class FluentEmojiPeopleAndBody {
 
   /// 🫳🏻 palm down hand
   final FluentEmojiData _palmDownHandLight = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'palm down hand',
     glyph: '🫳🏻',
     svgPath: 'assets/palm_down_hand_color_light.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.light,
   );
 
   /// 🫳🏼 palm down hand
   final FluentEmojiData _palmDownHandMediumLight = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'palm down hand',
     glyph: '🫳🏼',
     svgPath: 'assets/palm_down_hand_color_medium-light.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.mediumLight,
   );
 
   /// 🫳🏽 palm down hand
   final FluentEmojiData _palmDownHandMedium = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'palm down hand',
     glyph: '🫳🏽',
     svgPath: 'assets/palm_down_hand_color_medium.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.medium,
   );
 
   /// 🫳🏾 palm down hand
   final FluentEmojiData _palmDownHandMediumDark = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'palm down hand',
     glyph: '🫳🏾',
     svgPath: 'assets/palm_down_hand_color_medium-dark.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.mediumDark,
   );
 
   /// 🫳🏿 palm down hand
   final FluentEmojiData _palmDownHandDark = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'palm down hand',
     glyph: '🫳🏿',
     svgPath: 'assets/palm_down_hand_color_dark.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.dark,
   );
 
   /// 🫴 palm up hand
@@ -11174,6 +12045,7 @@ class FluentEmojiPeopleAndBody {
   /// Medium Dark [_palmUpHandMediumDark]
   /// Dark [_palmUpHandDark]
   late final SkinToneFluentEmojiData palmUpHand = SkinToneFluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'palm up hand',
     glyph: '🫴',
@@ -11187,47 +12059,52 @@ class FluentEmojiPeopleAndBody {
 
   /// 🫴🏻 palm up hand
   final FluentEmojiData _palmUpHandLight = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'palm up hand',
     glyph: '🫴🏻',
     svgPath: 'assets/palm_up_hand_color_light.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.light,
   );
 
   /// 🫴🏼 palm up hand
   final FluentEmojiData _palmUpHandMediumLight = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'palm up hand',
     glyph: '🫴🏼',
     svgPath: 'assets/palm_up_hand_color_medium-light.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.mediumLight,
   );
 
   /// 🫴🏽 palm up hand
   final FluentEmojiData _palmUpHandMedium = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'palm up hand',
     glyph: '🫴🏽',
     svgPath: 'assets/palm_up_hand_color_medium.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.medium,
   );
 
   /// 🫴🏾 palm up hand
   final FluentEmojiData _palmUpHandMediumDark = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'palm up hand',
     glyph: '🫴🏾',
     svgPath: 'assets/palm_up_hand_color_medium-dark.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.mediumDark,
   );
 
   /// 🫴🏿 palm up hand
   final FluentEmojiData _palmUpHandDark = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'palm up hand',
     glyph: '🫴🏿',
     svgPath: 'assets/palm_up_hand_color_dark.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.dark,
   );
 
   /// 🤲 palms up together
@@ -11238,6 +12115,7 @@ class FluentEmojiPeopleAndBody {
   /// Medium Dark [_palmsUpTogetherMediumDark]
   /// Dark [_palmsUpTogetherDark]
   late final SkinToneFluentEmojiData palmsUpTogether = SkinToneFluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'palms up together',
     glyph: '🤲',
@@ -11251,74 +12129,82 @@ class FluentEmojiPeopleAndBody {
 
   /// 🤲🏻 palms up together
   final FluentEmojiData _palmsUpTogetherLight = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'palms up together',
     glyph: '🤲🏻',
     svgPath: 'assets/palms_up_together_color_light.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.light,
   );
 
   /// 🤲🏼 palms up together
   final FluentEmojiData _palmsUpTogetherMediumLight = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'palms up together',
     glyph: '🤲🏼',
     svgPath: 'assets/palms_up_together_color_medium-light.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.mediumLight,
   );
 
   /// 🤲🏽 palms up together
   final FluentEmojiData _palmsUpTogetherMedium = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'palms up together',
     glyph: '🤲🏽',
     svgPath: 'assets/palms_up_together_color_medium.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.medium,
   );
 
   /// 🤲🏾 palms up together
   final FluentEmojiData _palmsUpTogetherMediumDark = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'palms up together',
     glyph: '🤲🏾',
     svgPath: 'assets/palms_up_together_color_medium-dark.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.mediumDark,
   );
 
   /// 🤲🏿 palms up together
   final FluentEmojiData _palmsUpTogetherDark = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'palms up together',
     glyph: '🤲🏿',
     svgPath: 'assets/palms_up_together_color_dark.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.dark,
   );
 
   /// 🫂 people hugging
   final FluentEmojiData peopleHugging = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'people hugging',
     glyph: '🫂',
     svgPath: 'assets/people_hugging_color.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.standard,
   );
 
   /// 👯 people with bunny ears
   final FluentEmojiData peopleWithBunnyEars = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'people with bunny ears',
     glyph: '👯',
     svgPath: 'assets/person_with_bunny_ears_color.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.standard,
   );
 
   /// 🤼 people wrestling
   final FluentEmojiData peopleWrestling = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'people wrestling',
     glyph: '🤼',
     svgPath: 'assets/person_wrestling_color.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.standard,
   );
 
   /// 🧑 person
@@ -11329,6 +12215,7 @@ class FluentEmojiPeopleAndBody {
   /// Medium Dark [_personMediumDark]
   /// Dark [_personDark]
   late final SkinToneFluentEmojiData person = SkinToneFluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'person',
     glyph: '🧑',
@@ -11342,47 +12229,52 @@ class FluentEmojiPeopleAndBody {
 
   /// 🧑🏻 person
   final FluentEmojiData _personLight = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'person',
     glyph: '🧑🏻',
     svgPath: 'assets/person_color_light.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.light,
   );
 
   /// 🧑🏼 person
   final FluentEmojiData _personMediumLight = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'person',
     glyph: '🧑🏼',
     svgPath: 'assets/person_color_medium-light.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.mediumLight,
   );
 
   /// 🧑🏽 person
   final FluentEmojiData _personMedium = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'person',
     glyph: '🧑🏽',
     svgPath: 'assets/person_color_medium.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.medium,
   );
 
   /// 🧑🏾 person
   final FluentEmojiData _personMediumDark = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'person',
     glyph: '🧑🏾',
     svgPath: 'assets/person_color_medium-dark.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.mediumDark,
   );
 
   /// 🧑🏿 person
   final FluentEmojiData _personDark = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'person',
     glyph: '🧑🏿',
     svgPath: 'assets/person_color_dark.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.dark,
   );
 
   /// 🚴 person biking
@@ -11393,6 +12285,7 @@ class FluentEmojiPeopleAndBody {
   /// Medium Dark [_personBikingMediumDark]
   /// Dark [_personBikingDark]
   late final SkinToneFluentEmojiData personBiking = SkinToneFluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'person biking',
     glyph: '🚴',
@@ -11406,47 +12299,52 @@ class FluentEmojiPeopleAndBody {
 
   /// 🚴🏻 person biking
   final FluentEmojiData _personBikingLight = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'person biking',
     glyph: '🚴🏻',
     svgPath: 'assets/person_biking_color_light.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.light,
   );
 
   /// 🚴🏼 person biking
   final FluentEmojiData _personBikingMediumLight = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'person biking',
     glyph: '🚴🏼',
     svgPath: 'assets/person_biking_color_medium-light.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.mediumLight,
   );
 
   /// 🚴🏽 person biking
   final FluentEmojiData _personBikingMedium = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'person biking',
     glyph: '🚴🏽',
     svgPath: 'assets/person_biking_color_medium.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.medium,
   );
 
   /// 🚴🏾 person biking
   final FluentEmojiData _personBikingMediumDark = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'person biking',
     glyph: '🚴🏾',
     svgPath: 'assets/person_biking_color_medium-dark.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.mediumDark,
   );
 
   /// 🚴🏿 person biking
   final FluentEmojiData _personBikingDark = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'person biking',
     glyph: '🚴🏿',
     svgPath: 'assets/person_biking_color_dark.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.dark,
   );
 
   /// ⛹️ person bouncing ball
@@ -11457,6 +12355,7 @@ class FluentEmojiPeopleAndBody {
   /// Medium Dark [_personBouncingBallMediumDark]
   /// Dark [_personBouncingBallDark]
   late final SkinToneFluentEmojiData personBouncingBall = SkinToneFluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'person bouncing ball',
     glyph: '⛹️',
@@ -11470,47 +12369,52 @@ class FluentEmojiPeopleAndBody {
 
   /// ⛹🏻 person bouncing ball
   final FluentEmojiData _personBouncingBallLight = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'person bouncing ball',
     glyph: '⛹🏻',
     svgPath: 'assets/person_bouncing_ball_color_light.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.light,
   );
 
   /// ⛹🏼 person bouncing ball
   final FluentEmojiData _personBouncingBallMediumLight = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'person bouncing ball',
     glyph: '⛹🏼',
     svgPath: 'assets/person_bouncing_ball_color_medium-light.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.mediumLight,
   );
 
   /// ⛹🏽 person bouncing ball
   final FluentEmojiData _personBouncingBallMedium = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'person bouncing ball',
     glyph: '⛹🏽',
     svgPath: 'assets/person_bouncing_ball_color_medium.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.medium,
   );
 
   /// ⛹🏾 person bouncing ball
   final FluentEmojiData _personBouncingBallMediumDark = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'person bouncing ball',
     glyph: '⛹🏾',
     svgPath: 'assets/person_bouncing_ball_color_medium-dark.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.mediumDark,
   );
 
   /// ⛹🏿 person bouncing ball
   final FluentEmojiData _personBouncingBallDark = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'person bouncing ball',
     glyph: '⛹🏿',
     svgPath: 'assets/person_bouncing_ball_color_dark.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.dark,
   );
 
   /// 🙇 person bowing
@@ -11521,6 +12425,7 @@ class FluentEmojiPeopleAndBody {
   /// Medium Dark [_personBowingMediumDark]
   /// Dark [_personBowingDark]
   late final SkinToneFluentEmojiData personBowing = SkinToneFluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'person bowing',
     glyph: '🙇',
@@ -11534,47 +12439,52 @@ class FluentEmojiPeopleAndBody {
 
   /// 🙇🏻 person bowing
   final FluentEmojiData _personBowingLight = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'person bowing',
     glyph: '🙇🏻',
     svgPath: 'assets/person_bowing_color_light.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.light,
   );
 
   /// 🙇🏼 person bowing
   final FluentEmojiData _personBowingMediumLight = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'person bowing',
     glyph: '🙇🏼',
     svgPath: 'assets/person_bowing_color_medium-light.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.mediumLight,
   );
 
   /// 🙇🏽 person bowing
   final FluentEmojiData _personBowingMedium = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'person bowing',
     glyph: '🙇🏽',
     svgPath: 'assets/person_bowing_color_medium.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.medium,
   );
 
   /// 🙇🏾 person bowing
   final FluentEmojiData _personBowingMediumDark = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'person bowing',
     glyph: '🙇🏾',
     svgPath: 'assets/person_bowing_color_medium-dark.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.mediumDark,
   );
 
   /// 🙇🏿 person bowing
   final FluentEmojiData _personBowingDark = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'person bowing',
     glyph: '🙇🏿',
     svgPath: 'assets/person_bowing_color_dark.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.dark,
   );
 
   /// 🤸 person cartwheeling
@@ -11585,6 +12495,7 @@ class FluentEmojiPeopleAndBody {
   /// Medium Dark [_personCartwheelingMediumDark]
   /// Dark [_personCartwheelingDark]
   late final SkinToneFluentEmojiData personCartwheeling = SkinToneFluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'person cartwheeling',
     glyph: '🤸',
@@ -11598,47 +12509,52 @@ class FluentEmojiPeopleAndBody {
 
   /// 🤸🏻 person cartwheeling
   final FluentEmojiData _personCartwheelingLight = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'person cartwheeling',
     glyph: '🤸🏻',
     svgPath: 'assets/person_cartwheeling_color_light.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.light,
   );
 
   /// 🤸🏼 person cartwheeling
   final FluentEmojiData _personCartwheelingMediumLight = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'person cartwheeling',
     glyph: '🤸🏼',
     svgPath: 'assets/person_cartwheeling_color_medium-light.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.mediumLight,
   );
 
   /// 🤸🏽 person cartwheeling
   final FluentEmojiData _personCartwheelingMedium = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'person cartwheeling',
     glyph: '🤸🏽',
     svgPath: 'assets/person_cartwheeling_color_medium.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.medium,
   );
 
   /// 🤸🏾 person cartwheeling
   final FluentEmojiData _personCartwheelingMediumDark = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'person cartwheeling',
     glyph: '🤸🏾',
     svgPath: 'assets/person_cartwheeling_color_medium-dark.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.mediumDark,
   );
 
   /// 🤸🏿 person cartwheeling
   final FluentEmojiData _personCartwheelingDark = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'person cartwheeling',
     glyph: '🤸🏿',
     svgPath: 'assets/person_cartwheeling_color_dark.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.dark,
   );
 
   /// 🧗 person climbing
@@ -11649,6 +12565,7 @@ class FluentEmojiPeopleAndBody {
   /// Medium Dark [_personClimbingMediumDark]
   /// Dark [_personClimbingDark]
   late final SkinToneFluentEmojiData personClimbing = SkinToneFluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'person climbing',
     glyph: '🧗',
@@ -11662,47 +12579,52 @@ class FluentEmojiPeopleAndBody {
 
   /// 🧗🏻 person climbing
   final FluentEmojiData _personClimbingLight = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'person climbing',
     glyph: '🧗🏻',
     svgPath: 'assets/person_climbing_color_light.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.light,
   );
 
   /// 🧗🏼 person climbing
   final FluentEmojiData _personClimbingMediumLight = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'person climbing',
     glyph: '🧗🏼',
     svgPath: 'assets/person_climbing_color_medium-light.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.mediumLight,
   );
 
   /// 🧗🏽 person climbing
   final FluentEmojiData _personClimbingMedium = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'person climbing',
     glyph: '🧗🏽',
     svgPath: 'assets/person_climbing_color_medium.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.medium,
   );
 
   /// 🧗🏾 person climbing
   final FluentEmojiData _personClimbingMediumDark = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'person climbing',
     glyph: '🧗🏾',
     svgPath: 'assets/person_climbing_color_medium-dark.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.mediumDark,
   );
 
   /// 🧗🏿 person climbing
   final FluentEmojiData _personClimbingDark = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'person climbing',
     glyph: '🧗🏿',
     svgPath: 'assets/person_climbing_color_dark.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.dark,
   );
 
   /// 🤦 person facepalming
@@ -11713,6 +12635,7 @@ class FluentEmojiPeopleAndBody {
   /// Medium Dark [_personFacepalmingMediumDark]
   /// Dark [_personFacepalmingDark]
   late final SkinToneFluentEmojiData personFacepalming = SkinToneFluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'person facepalming',
     glyph: '🤦',
@@ -11726,47 +12649,52 @@ class FluentEmojiPeopleAndBody {
 
   /// 🤦🏻 person facepalming
   final FluentEmojiData _personFacepalmingLight = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'person facepalming',
     glyph: '🤦🏻',
     svgPath: 'assets/person_facepalming_color_light.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.light,
   );
 
   /// 🤦🏼 person facepalming
   final FluentEmojiData _personFacepalmingMediumLight = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'person facepalming',
     glyph: '🤦🏼',
     svgPath: 'assets/person_facepalming_color_medium-light.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.mediumLight,
   );
 
   /// 🤦🏽 person facepalming
   final FluentEmojiData _personFacepalmingMedium = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'person facepalming',
     glyph: '🤦🏽',
     svgPath: 'assets/person_facepalming_color_medium.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.medium,
   );
 
   /// 🤦🏾 person facepalming
   final FluentEmojiData _personFacepalmingMediumDark = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'person facepalming',
     glyph: '🤦🏾',
     svgPath: 'assets/person_facepalming_color_medium-dark.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.mediumDark,
   );
 
   /// 🤦🏿 person facepalming
   final FluentEmojiData _personFacepalmingDark = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'person facepalming',
     glyph: '🤦🏿',
     svgPath: 'assets/person_facepalming_color_dark.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.dark,
   );
 
   /// 🧑‍🍼 person feeding baby
@@ -11777,6 +12705,7 @@ class FluentEmojiPeopleAndBody {
   /// Medium Dark [_personFeedingBabyMediumDark]
   /// Dark [_personFeedingBabyDark]
   late final SkinToneFluentEmojiData personFeedingBaby = SkinToneFluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'person feeding baby',
     glyph: '🧑‍🍼',
@@ -11790,56 +12719,62 @@ class FluentEmojiPeopleAndBody {
 
   /// 🧑🏻‍🍼 person feeding baby
   final FluentEmojiData _personFeedingBabyLight = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'person feeding baby',
     glyph: '🧑🏻‍🍼',
     svgPath: 'assets/person_feeding_baby_color_light.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.light,
   );
 
   /// 🧑🏼‍🍼 person feeding baby
   final FluentEmojiData _personFeedingBabyMediumLight = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'person feeding baby',
     glyph: '🧑🏼‍🍼',
     svgPath: 'assets/person_feeding_baby_color_medium-light.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.mediumLight,
   );
 
   /// 🧑🏽‍🍼 person feeding baby
   final FluentEmojiData _personFeedingBabyMedium = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'person feeding baby',
     glyph: '🧑🏽‍🍼',
     svgPath: 'assets/person_feeding_baby_color_medium.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.medium,
   );
 
   /// 🧑🏾‍🍼 person feeding baby
   final FluentEmojiData _personFeedingBabyMediumDark = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'person feeding baby',
     glyph: '🧑🏾‍🍼',
     svgPath: 'assets/person_feeding_baby_color_medium-dark.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.mediumDark,
   );
 
   /// 🧑🏿‍🍼 person feeding baby
   final FluentEmojiData _personFeedingBabyDark = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'person feeding baby',
     glyph: '🧑🏿‍🍼',
     svgPath: 'assets/person_feeding_baby_color_dark.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.dark,
   );
 
   /// 🤺 person fencing
   final FluentEmojiData personFencing = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'person fencing',
     glyph: '🤺',
     svgPath: 'assets/person_fencing_color.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.standard,
   );
 
   /// 🙍 person frowning
@@ -11850,6 +12785,7 @@ class FluentEmojiPeopleAndBody {
   /// Medium Dark [_personFrowningMediumDark]
   /// Dark [_personFrowningDark]
   late final SkinToneFluentEmojiData personFrowning = SkinToneFluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'person frowning',
     glyph: '🙍',
@@ -11863,47 +12799,52 @@ class FluentEmojiPeopleAndBody {
 
   /// 🙍🏻 person frowning
   final FluentEmojiData _personFrowningLight = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'person frowning',
     glyph: '🙍🏻',
     svgPath: 'assets/person_frowning_color_light.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.light,
   );
 
   /// 🙍🏼 person frowning
   final FluentEmojiData _personFrowningMediumLight = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'person frowning',
     glyph: '🙍🏼',
     svgPath: 'assets/person_frowning_color_medium-light.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.mediumLight,
   );
 
   /// 🙍🏽 person frowning
   final FluentEmojiData _personFrowningMedium = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'person frowning',
     glyph: '🙍🏽',
     svgPath: 'assets/person_frowning_color_medium.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.medium,
   );
 
   /// 🙍🏾 person frowning
   final FluentEmojiData _personFrowningMediumDark = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'person frowning',
     glyph: '🙍🏾',
     svgPath: 'assets/person_frowning_color_medium-dark.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.mediumDark,
   );
 
   /// 🙍🏿 person frowning
   final FluentEmojiData _personFrowningDark = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'person frowning',
     glyph: '🙍🏿',
     svgPath: 'assets/person_frowning_color_dark.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.dark,
   );
 
   /// 🙅 person gesturing NO
@@ -11914,6 +12855,7 @@ class FluentEmojiPeopleAndBody {
   /// Medium Dark [_personGesturingNoMediumDark]
   /// Dark [_personGesturingNoDark]
   late final SkinToneFluentEmojiData personGesturingNo = SkinToneFluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'person gesturing NO',
     glyph: '🙅',
@@ -11927,47 +12869,52 @@ class FluentEmojiPeopleAndBody {
 
   /// 🙅🏻 person gesturing NO
   final FluentEmojiData _personGesturingNoLight = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'person gesturing NO',
     glyph: '🙅🏻',
     svgPath: 'assets/person_gesturing_no_color_light.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.light,
   );
 
   /// 🙅🏼 person gesturing NO
   final FluentEmojiData _personGesturingNoMediumLight = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'person gesturing NO',
     glyph: '🙅🏼',
     svgPath: 'assets/person_gesturing_no_color_medium-light.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.mediumLight,
   );
 
   /// 🙅🏽 person gesturing NO
   final FluentEmojiData _personGesturingNoMedium = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'person gesturing NO',
     glyph: '🙅🏽',
     svgPath: 'assets/person_gesturing_no_color_medium.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.medium,
   );
 
   /// 🙅🏾 person gesturing NO
   final FluentEmojiData _personGesturingNoMediumDark = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'person gesturing NO',
     glyph: '🙅🏾',
     svgPath: 'assets/person_gesturing_no_color_medium-dark.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.mediumDark,
   );
 
   /// 🙅🏿 person gesturing NO
   final FluentEmojiData _personGesturingNoDark = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'person gesturing NO',
     glyph: '🙅🏿',
     svgPath: 'assets/person_gesturing_no_color_dark.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.dark,
   );
 
   /// 🙆 person gesturing OK
@@ -11978,6 +12925,7 @@ class FluentEmojiPeopleAndBody {
   /// Medium Dark [_personGesturingOkMediumDark]
   /// Dark [_personGesturingOkDark]
   late final SkinToneFluentEmojiData personGesturingOk = SkinToneFluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'person gesturing OK',
     glyph: '🙆',
@@ -11991,47 +12939,52 @@ class FluentEmojiPeopleAndBody {
 
   /// 🙆🏻 person gesturing OK
   final FluentEmojiData _personGesturingOkLight = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'person gesturing OK',
     glyph: '🙆🏻',
     svgPath: 'assets/person_gesturing_ok_color_light.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.light,
   );
 
   /// 🙆🏼 person gesturing OK
   final FluentEmojiData _personGesturingOkMediumLight = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'person gesturing OK',
     glyph: '🙆🏼',
     svgPath: 'assets/person_gesturing_ok_color_medium-light.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.mediumLight,
   );
 
   /// 🙆🏽 person gesturing OK
   final FluentEmojiData _personGesturingOkMedium = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'person gesturing OK',
     glyph: '🙆🏽',
     svgPath: 'assets/person_gesturing_ok_color_medium.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.medium,
   );
 
   /// 🙆🏾 person gesturing OK
   final FluentEmojiData _personGesturingOkMediumDark = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'person gesturing OK',
     glyph: '🙆🏾',
     svgPath: 'assets/person_gesturing_ok_color_medium-dark.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.mediumDark,
   );
 
   /// 🙆🏿 person gesturing OK
   final FluentEmojiData _personGesturingOkDark = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'person gesturing OK',
     glyph: '🙆🏿',
     svgPath: 'assets/person_gesturing_ok_color_dark.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.dark,
   );
 
   /// 💇 person getting haircut
@@ -12042,6 +12995,7 @@ class FluentEmojiPeopleAndBody {
   /// Medium Dark [_personGettingHaircutMediumDark]
   /// Dark [_personGettingHaircutDark]
   late final SkinToneFluentEmojiData personGettingHaircut = SkinToneFluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'person getting haircut',
     glyph: '💇',
@@ -12055,47 +13009,52 @@ class FluentEmojiPeopleAndBody {
 
   /// 💇🏻 person getting haircut
   final FluentEmojiData _personGettingHaircutLight = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'person getting haircut',
     glyph: '💇🏻',
     svgPath: 'assets/person_getting_haircut_color_light.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.light,
   );
 
   /// 💇🏼 person getting haircut
   final FluentEmojiData _personGettingHaircutMediumLight = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'person getting haircut',
     glyph: '💇🏼',
     svgPath: 'assets/person_getting_haircut_color_medium-light.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.mediumLight,
   );
 
   /// 💇🏽 person getting haircut
   final FluentEmojiData _personGettingHaircutMedium = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'person getting haircut',
     glyph: '💇🏽',
     svgPath: 'assets/person_getting_haircut_color_medium.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.medium,
   );
 
   /// 💇🏾 person getting haircut
   final FluentEmojiData _personGettingHaircutMediumDark = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'person getting haircut',
     glyph: '💇🏾',
     svgPath: 'assets/person_getting_haircut_color_medium-dark.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.mediumDark,
   );
 
   /// 💇🏿 person getting haircut
   final FluentEmojiData _personGettingHaircutDark = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'person getting haircut',
     glyph: '💇🏿',
     svgPath: 'assets/person_getting_haircut_color_dark.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.dark,
   );
 
   /// 💆 person getting massage
@@ -12106,6 +13065,7 @@ class FluentEmojiPeopleAndBody {
   /// Medium Dark [_personGettingMassageMediumDark]
   /// Dark [_personGettingMassageDark]
   late final SkinToneFluentEmojiData personGettingMassage = SkinToneFluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'person getting massage',
     glyph: '💆',
@@ -12119,47 +13079,52 @@ class FluentEmojiPeopleAndBody {
 
   /// 💆🏻 person getting massage
   final FluentEmojiData _personGettingMassageLight = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'person getting massage',
     glyph: '💆🏻',
     svgPath: 'assets/person_getting_massage_color_light.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.light,
   );
 
   /// 💆🏼 person getting massage
   final FluentEmojiData _personGettingMassageMediumLight = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'person getting massage',
     glyph: '💆🏼',
     svgPath: 'assets/person_getting_massage_color_medium-light.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.mediumLight,
   );
 
   /// 💆🏽 person getting massage
   final FluentEmojiData _personGettingMassageMedium = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'person getting massage',
     glyph: '💆🏽',
     svgPath: 'assets/person_getting_massage_color_medium.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.medium,
   );
 
   /// 💆🏾 person getting massage
   final FluentEmojiData _personGettingMassageMediumDark = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'person getting massage',
     glyph: '💆🏾',
     svgPath: 'assets/person_getting_massage_color_medium-dark.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.mediumDark,
   );
 
   /// 💆🏿 person getting massage
   final FluentEmojiData _personGettingMassageDark = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'person getting massage',
     glyph: '💆🏿',
     svgPath: 'assets/person_getting_massage_color_dark.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.dark,
   );
 
   /// 🏌️ person golfing
@@ -12170,6 +13135,7 @@ class FluentEmojiPeopleAndBody {
   /// Medium Dark [_personGolfingMediumDark]
   /// Dark [_personGolfingDark]
   late final SkinToneFluentEmojiData personGolfing = SkinToneFluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'person golfing',
     glyph: '🏌️',
@@ -12183,47 +13149,52 @@ class FluentEmojiPeopleAndBody {
 
   /// 🏌🏻 person golfing
   final FluentEmojiData _personGolfingLight = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'person golfing',
     glyph: '🏌🏻',
     svgPath: 'assets/person_golfing_color_light.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.light,
   );
 
   /// 🏌🏼 person golfing
   final FluentEmojiData _personGolfingMediumLight = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'person golfing',
     glyph: '🏌🏼',
     svgPath: 'assets/person_golfing_color_medium-light.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.mediumLight,
   );
 
   /// 🏌🏽 person golfing
   final FluentEmojiData _personGolfingMedium = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'person golfing',
     glyph: '🏌🏽',
     svgPath: 'assets/person_golfing_color_medium.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.medium,
   );
 
   /// 🏌🏾 person golfing
   final FluentEmojiData _personGolfingMediumDark = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'person golfing',
     glyph: '🏌🏾',
     svgPath: 'assets/person_golfing_color_medium-dark.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.mediumDark,
   );
 
   /// 🏌🏿 person golfing
   final FluentEmojiData _personGolfingDark = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'person golfing',
     glyph: '🏌🏿',
     svgPath: 'assets/person_golfing_color_dark.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.dark,
   );
 
   /// 🛌 person in bed
@@ -12234,6 +13205,7 @@ class FluentEmojiPeopleAndBody {
   /// Medium Dark [_personInBedMediumDark]
   /// Dark [_personInBedDark]
   late final SkinToneFluentEmojiData personInBed = SkinToneFluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'person in bed',
     glyph: '🛌',
@@ -12247,47 +13219,52 @@ class FluentEmojiPeopleAndBody {
 
   /// 🛌🏻 person in bed
   final FluentEmojiData _personInBedLight = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'person in bed',
     glyph: '🛌🏻',
     svgPath: 'assets/person_in_bed_color_light.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.light,
   );
 
   /// 🛌🏼 person in bed
   final FluentEmojiData _personInBedMediumLight = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'person in bed',
     glyph: '🛌🏼',
     svgPath: 'assets/person_in_bed_color_medium-light.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.mediumLight,
   );
 
   /// 🛌🏽 person in bed
   final FluentEmojiData _personInBedMedium = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'person in bed',
     glyph: '🛌🏽',
     svgPath: 'assets/person_in_bed_color_medium.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.medium,
   );
 
   /// 🛌🏾 person in bed
   final FluentEmojiData _personInBedMediumDark = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'person in bed',
     glyph: '🛌🏾',
     svgPath: 'assets/person_in_bed_color_medium-dark.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.mediumDark,
   );
 
   /// 🛌🏿 person in bed
   final FluentEmojiData _personInBedDark = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'person in bed',
     glyph: '🛌🏿',
     svgPath: 'assets/person_in_bed_color_dark.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.dark,
   );
 
   /// 🧘 person in lotus position
@@ -12298,6 +13275,7 @@ class FluentEmojiPeopleAndBody {
   /// Medium Dark [_personInLotusPositionMediumDark]
   /// Dark [_personInLotusPositionDark]
   late final SkinToneFluentEmojiData personInLotusPosition = SkinToneFluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'person in lotus position',
     glyph: '🧘',
@@ -12311,47 +13289,52 @@ class FluentEmojiPeopleAndBody {
 
   /// 🧘🏻 person in lotus position
   final FluentEmojiData _personInLotusPositionLight = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'person in lotus position',
     glyph: '🧘🏻',
     svgPath: 'assets/person_in_lotus_position_color_light.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.light,
   );
 
   /// 🧘🏼 person in lotus position
   final FluentEmojiData _personInLotusPositionMediumLight = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'person in lotus position',
     glyph: '🧘🏼',
     svgPath: 'assets/person_in_lotus_position_color_medium-light.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.mediumLight,
   );
 
   /// 🧘🏽 person in lotus position
   final FluentEmojiData _personInLotusPositionMedium = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'person in lotus position',
     glyph: '🧘🏽',
     svgPath: 'assets/person_in_lotus_position_color_medium.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.medium,
   );
 
   /// 🧘🏾 person in lotus position
   final FluentEmojiData _personInLotusPositionMediumDark = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'person in lotus position',
     glyph: '🧘🏾',
     svgPath: 'assets/person_in_lotus_position_color_medium-dark.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.mediumDark,
   );
 
   /// 🧘🏿 person in lotus position
   final FluentEmojiData _personInLotusPositionDark = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'person in lotus position',
     glyph: '🧘🏿',
     svgPath: 'assets/person_in_lotus_position_color_dark.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.dark,
   );
 
   /// 🧑‍🦽 person in manual wheelchair
@@ -12362,6 +13345,7 @@ class FluentEmojiPeopleAndBody {
   /// Medium Dark [_personInManualWheelchairMediumDark]
   /// Dark [_personInManualWheelchairDark]
   late final SkinToneFluentEmojiData personInManualWheelchair = SkinToneFluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'person in manual wheelchair',
     glyph: '🧑‍🦽',
@@ -12375,47 +13359,52 @@ class FluentEmojiPeopleAndBody {
 
   /// 🧑🏻‍🦽 person in manual wheelchair
   final FluentEmojiData _personInManualWheelchairLight = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'person in manual wheelchair',
     glyph: '🧑🏻‍🦽',
     svgPath: 'assets/person_in_manual_wheelchair_color_light.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.light,
   );
 
   /// 🧑🏼‍🦽 person in manual wheelchair
   final FluentEmojiData _personInManualWheelchairMediumLight = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'person in manual wheelchair',
     glyph: '🧑🏼‍🦽',
     svgPath: 'assets/person_in_manual_wheelchair_color_medium-light.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.mediumLight,
   );
 
   /// 🧑🏽‍🦽 person in manual wheelchair
   final FluentEmojiData _personInManualWheelchairMedium = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'person in manual wheelchair',
     glyph: '🧑🏽‍🦽',
     svgPath: 'assets/person_in_manual_wheelchair_color_medium.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.medium,
   );
 
   /// 🧑🏾‍🦽 person in manual wheelchair
   final FluentEmojiData _personInManualWheelchairMediumDark = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'person in manual wheelchair',
     glyph: '🧑🏾‍🦽',
     svgPath: 'assets/person_in_manual_wheelchair_color_medium-dark.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.mediumDark,
   );
 
   /// 🧑🏿‍🦽 person in manual wheelchair
   final FluentEmojiData _personInManualWheelchairDark = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'person in manual wheelchair',
     glyph: '🧑🏿‍🦽',
     svgPath: 'assets/person_in_manual_wheelchair_color_dark.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.dark,
   );
 
   /// 🧑‍🦽‍➡️ person in manual wheelchair facing right
@@ -12426,6 +13415,7 @@ class FluentEmojiPeopleAndBody {
   /// Medium Dark [_personInManualWheelchairFacingRightMediumDark]
   /// Dark [_personInManualWheelchairFacingRightDark]
   late final SkinToneFluentEmojiData personInManualWheelchairFacingRight = SkinToneFluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'person in manual wheelchair facing right',
     glyph: '🧑‍🦽‍➡️',
@@ -12439,47 +13429,52 @@ class FluentEmojiPeopleAndBody {
 
   /// 🧑🏻‍🦽‍➡️ person in manual wheelchair facing right
   final FluentEmojiData _personInManualWheelchairFacingRightLight = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'person in manual wheelchair facing right',
     glyph: '🧑🏻‍🦽‍➡️',
     svgPath: 'assets/person_in_manual_wheelchair_facing_right_color_light.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.light,
   );
 
   /// 🧑🏼‍🦽‍➡️ person in manual wheelchair facing right
   final FluentEmojiData _personInManualWheelchairFacingRightMediumLight = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'person in manual wheelchair facing right',
     glyph: '🧑🏼‍🦽‍➡️',
     svgPath: 'assets/person_in_manual_wheelchair_facing_right_color_medium-light.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.mediumLight,
   );
 
   /// 🧑🏽‍🦽‍➡️ person in manual wheelchair facing right
   final FluentEmojiData _personInManualWheelchairFacingRightMedium = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'person in manual wheelchair facing right',
     glyph: '🧑🏽‍🦽‍➡️',
     svgPath: 'assets/person_in_manual_wheelchair_facing_right_color_medium.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.medium,
   );
 
   /// 🧑🏾‍🦽‍➡️ person in manual wheelchair facing right
   final FluentEmojiData _personInManualWheelchairFacingRightMediumDark = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'person in manual wheelchair facing right',
     glyph: '🧑🏾‍🦽‍➡️',
     svgPath: 'assets/person_in_manual_wheelchair_facing_right_color_medium-dark.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.mediumDark,
   );
 
   /// 🧑🏿‍🦽‍➡️ person in manual wheelchair facing right
   final FluentEmojiData _personInManualWheelchairFacingRightDark = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'person in manual wheelchair facing right',
     glyph: '🧑🏿‍🦽‍➡️',
     svgPath: 'assets/person_in_manual_wheelchair_facing_right_color_dark.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.dark,
   );
 
   /// 🧑‍🦼 person in motorized wheelchair
@@ -12490,6 +13485,7 @@ class FluentEmojiPeopleAndBody {
   /// Medium Dark [_personInMotorizedWheelchairMediumDark]
   /// Dark [_personInMotorizedWheelchairDark]
   late final SkinToneFluentEmojiData personInMotorizedWheelchair = SkinToneFluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'person in motorized wheelchair',
     glyph: '🧑‍🦼',
@@ -12503,47 +13499,52 @@ class FluentEmojiPeopleAndBody {
 
   /// 🧑🏻‍🦼 person in motorized wheelchair
   final FluentEmojiData _personInMotorizedWheelchairLight = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'person in motorized wheelchair',
     glyph: '🧑🏻‍🦼',
     svgPath: 'assets/person_in_motorized_wheelchair_color_light.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.light,
   );
 
   /// 🧑🏼‍🦼 person in motorized wheelchair
   final FluentEmojiData _personInMotorizedWheelchairMediumLight = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'person in motorized wheelchair',
     glyph: '🧑🏼‍🦼',
     svgPath: 'assets/person_in_motorized_wheelchair_color_medium-light.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.mediumLight,
   );
 
   /// 🧑🏽‍🦼 person in motorized wheelchair
   final FluentEmojiData _personInMotorizedWheelchairMedium = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'person in motorized wheelchair',
     glyph: '🧑🏽‍🦼',
     svgPath: 'assets/person_in_motorized_wheelchair_color_medium.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.medium,
   );
 
   /// 🧑🏾‍🦼 person in motorized wheelchair
   final FluentEmojiData _personInMotorizedWheelchairMediumDark = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'person in motorized wheelchair',
     glyph: '🧑🏾‍🦼',
     svgPath: 'assets/person_in_motorized_wheelchair_color_medium-dark.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.mediumDark,
   );
 
   /// 🧑🏿‍🦼 person in motorized wheelchair
   final FluentEmojiData _personInMotorizedWheelchairDark = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'person in motorized wheelchair',
     glyph: '🧑🏿‍🦼',
     svgPath: 'assets/person_in_motorized_wheelchair_color_dark.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.dark,
   );
 
   /// 🧑‍🦼‍➡️ person in motorized wheelchair facing right
@@ -12554,6 +13555,7 @@ class FluentEmojiPeopleAndBody {
   /// Medium Dark [_personInMotorizedWheelchairFacingRightMediumDark]
   /// Dark [_personInMotorizedWheelchairFacingRightDark]
   late final SkinToneFluentEmojiData personInMotorizedWheelchairFacingRight = SkinToneFluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'person in motorized wheelchair facing right',
     glyph: '🧑‍🦼‍➡️',
@@ -12567,47 +13569,52 @@ class FluentEmojiPeopleAndBody {
 
   /// 🧑🏻‍🦼‍➡️ person in motorized wheelchair facing right
   final FluentEmojiData _personInMotorizedWheelchairFacingRightLight = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'person in motorized wheelchair facing right',
     glyph: '🧑🏻‍🦼‍➡️',
     svgPath: 'assets/person_in_motorized_wheelchair_facing_right_color_light.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.light,
   );
 
   /// 🧑🏼‍🦼‍➡️ person in motorized wheelchair facing right
   final FluentEmojiData _personInMotorizedWheelchairFacingRightMediumLight = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'person in motorized wheelchair facing right',
     glyph: '🧑🏼‍🦼‍➡️',
     svgPath: 'assets/person_in_motorized_wheelchair_facing_right_color_medium-light.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.mediumLight,
   );
 
   /// 🧑🏽‍🦼‍➡️ person in motorized wheelchair facing right
   final FluentEmojiData _personInMotorizedWheelchairFacingRightMedium = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'person in motorized wheelchair facing right',
     glyph: '🧑🏽‍🦼‍➡️',
     svgPath: 'assets/person_in_motorized_wheelchair_facing_right_color_medium.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.medium,
   );
 
   /// 🧑🏾‍🦼‍➡️ person in motorized wheelchair facing right
   final FluentEmojiData _personInMotorizedWheelchairFacingRightMediumDark = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'person in motorized wheelchair facing right',
     glyph: '🧑🏾‍🦼‍➡️',
     svgPath: 'assets/person_in_motorized_wheelchair_facing_right_color_medium-dark.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.mediumDark,
   );
 
   /// 🧑🏿‍🦼‍➡️ person in motorized wheelchair facing right
   final FluentEmojiData _personInMotorizedWheelchairFacingRightDark = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'person in motorized wheelchair facing right',
     glyph: '🧑🏿‍🦼‍➡️',
     svgPath: 'assets/person_in_motorized_wheelchair_facing_right_color_dark.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.dark,
   );
 
   /// 🧖 person in steamy room
@@ -12618,6 +13625,7 @@ class FluentEmojiPeopleAndBody {
   /// Medium Dark [_personInSteamyRoomMediumDark]
   /// Dark [_personInSteamyRoomDark]
   late final SkinToneFluentEmojiData personInSteamyRoom = SkinToneFluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'person in steamy room',
     glyph: '🧖',
@@ -12631,47 +13639,52 @@ class FluentEmojiPeopleAndBody {
 
   /// 🧖🏻 person in steamy room
   final FluentEmojiData _personInSteamyRoomLight = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'person in steamy room',
     glyph: '🧖🏻',
     svgPath: 'assets/person_in_steamy_room_color_light.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.light,
   );
 
   /// 🧖🏼 person in steamy room
   final FluentEmojiData _personInSteamyRoomMediumLight = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'person in steamy room',
     glyph: '🧖🏼',
     svgPath: 'assets/person_in_steamy_room_color_medium-light.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.mediumLight,
   );
 
   /// 🧖🏽 person in steamy room
   final FluentEmojiData _personInSteamyRoomMedium = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'person in steamy room',
     glyph: '🧖🏽',
     svgPath: 'assets/person_in_steamy_room_color_medium.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.medium,
   );
 
   /// 🧖🏾 person in steamy room
   final FluentEmojiData _personInSteamyRoomMediumDark = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'person in steamy room',
     glyph: '🧖🏾',
     svgPath: 'assets/person_in_steamy_room_color_medium-dark.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.mediumDark,
   );
 
   /// 🧖🏿 person in steamy room
   final FluentEmojiData _personInSteamyRoomDark = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'person in steamy room',
     glyph: '🧖🏿',
     svgPath: 'assets/person_in_steamy_room_color_dark.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.dark,
   );
 
   /// 🕴️ person in suit levitating
@@ -12682,6 +13695,7 @@ class FluentEmojiPeopleAndBody {
   /// Medium Dark [_personInSuitLevitatingMediumDark]
   /// Dark [_personInSuitLevitatingDark]
   late final SkinToneFluentEmojiData personInSuitLevitating = SkinToneFluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'person in suit levitating',
     glyph: '🕴️',
@@ -12695,47 +13709,52 @@ class FluentEmojiPeopleAndBody {
 
   /// 🕴🏻 person in suit levitating
   final FluentEmojiData _personInSuitLevitatingLight = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'person in suit levitating',
     glyph: '🕴🏻',
     svgPath: 'assets/person_in_suit_levitating_color_light.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.light,
   );
 
   /// 🕴🏼 person in suit levitating
   final FluentEmojiData _personInSuitLevitatingMediumLight = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'person in suit levitating',
     glyph: '🕴🏼',
     svgPath: 'assets/person_in_suit_levitating_color_medium-light.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.mediumLight,
   );
 
   /// 🕴🏽 person in suit levitating
   final FluentEmojiData _personInSuitLevitatingMedium = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'person in suit levitating',
     glyph: '🕴🏽',
     svgPath: 'assets/person_in_suit_levitating_color_medium.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.medium,
   );
 
   /// 🕴🏾 person in suit levitating
   final FluentEmojiData _personInSuitLevitatingMediumDark = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'person in suit levitating',
     glyph: '🕴🏾',
     svgPath: 'assets/person_in_suit_levitating_color_medium-dark.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.mediumDark,
   );
 
   /// 🕴🏿 person in suit levitating
   final FluentEmojiData _personInSuitLevitatingDark = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'person in suit levitating',
     glyph: '🕴🏿',
     svgPath: 'assets/person_in_suit_levitating_color_dark.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.dark,
   );
 
   /// 🤵 person in tuxedo
@@ -12746,6 +13765,7 @@ class FluentEmojiPeopleAndBody {
   /// Medium Dark [_personInTuxedoMediumDark]
   /// Dark [_personInTuxedoDark]
   late final SkinToneFluentEmojiData personInTuxedo = SkinToneFluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'person in tuxedo',
     glyph: '🤵',
@@ -12759,47 +13779,52 @@ class FluentEmojiPeopleAndBody {
 
   /// 🤵🏻 person in tuxedo
   final FluentEmojiData _personInTuxedoLight = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'person in tuxedo',
     glyph: '🤵🏻',
     svgPath: 'assets/person_in_tuxedo_color_light.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.light,
   );
 
   /// 🤵🏼 person in tuxedo
   final FluentEmojiData _personInTuxedoMediumLight = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'person in tuxedo',
     glyph: '🤵🏼',
     svgPath: 'assets/person_in_tuxedo_color_medium-light.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.mediumLight,
   );
 
   /// 🤵🏽 person in tuxedo
   final FluentEmojiData _personInTuxedoMedium = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'person in tuxedo',
     glyph: '🤵🏽',
     svgPath: 'assets/person_in_tuxedo_color_medium.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.medium,
   );
 
   /// 🤵🏾 person in tuxedo
   final FluentEmojiData _personInTuxedoMediumDark = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'person in tuxedo',
     glyph: '🤵🏾',
     svgPath: 'assets/person_in_tuxedo_color_medium-dark.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.mediumDark,
   );
 
   /// 🤵🏿 person in tuxedo
   final FluentEmojiData _personInTuxedoDark = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'person in tuxedo',
     glyph: '🤵🏿',
     svgPath: 'assets/person_in_tuxedo_color_dark.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.dark,
   );
 
   /// 🤹 person juggling
@@ -12810,6 +13835,7 @@ class FluentEmojiPeopleAndBody {
   /// Medium Dark [_personJugglingMediumDark]
   /// Dark [_personJugglingDark]
   late final SkinToneFluentEmojiData personJuggling = SkinToneFluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'person juggling',
     glyph: '🤹',
@@ -12823,47 +13849,52 @@ class FluentEmojiPeopleAndBody {
 
   /// 🤹🏻 person juggling
   final FluentEmojiData _personJugglingLight = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'person juggling',
     glyph: '🤹🏻',
     svgPath: 'assets/person_juggling_color_light.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.light,
   );
 
   /// 🤹🏼 person juggling
   final FluentEmojiData _personJugglingMediumLight = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'person juggling',
     glyph: '🤹🏼',
     svgPath: 'assets/person_juggling_color_medium-light.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.mediumLight,
   );
 
   /// 🤹🏽 person juggling
   final FluentEmojiData _personJugglingMedium = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'person juggling',
     glyph: '🤹🏽',
     svgPath: 'assets/person_juggling_color_medium.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.medium,
   );
 
   /// 🤹🏾 person juggling
   final FluentEmojiData _personJugglingMediumDark = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'person juggling',
     glyph: '🤹🏾',
     svgPath: 'assets/person_juggling_color_medium-dark.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.mediumDark,
   );
 
   /// 🤹🏿 person juggling
   final FluentEmojiData _personJugglingDark = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'person juggling',
     glyph: '🤹🏿',
     svgPath: 'assets/person_juggling_color_dark.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.dark,
   );
 
   /// 🧎 person kneeling
@@ -12874,6 +13905,7 @@ class FluentEmojiPeopleAndBody {
   /// Medium Dark [_personKneelingMediumDark]
   /// Dark [_personKneelingDark]
   late final SkinToneFluentEmojiData personKneeling = SkinToneFluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'person kneeling',
     glyph: '🧎',
@@ -12887,47 +13919,52 @@ class FluentEmojiPeopleAndBody {
 
   /// 🧎🏻 person kneeling
   final FluentEmojiData _personKneelingLight = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'person kneeling',
     glyph: '🧎🏻',
     svgPath: 'assets/person_kneeling_color_light.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.light,
   );
 
   /// 🧎🏼 person kneeling
   final FluentEmojiData _personKneelingMediumLight = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'person kneeling',
     glyph: '🧎🏼',
     svgPath: 'assets/person_kneeling_color_medium-light.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.mediumLight,
   );
 
   /// 🧎🏽 person kneeling
   final FluentEmojiData _personKneelingMedium = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'person kneeling',
     glyph: '🧎🏽',
     svgPath: 'assets/person_kneeling_color_medium.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.medium,
   );
 
   /// 🧎🏾 person kneeling
   final FluentEmojiData _personKneelingMediumDark = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'person kneeling',
     glyph: '🧎🏾',
     svgPath: 'assets/person_kneeling_color_medium-dark.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.mediumDark,
   );
 
   /// 🧎🏿 person kneeling
   final FluentEmojiData _personKneelingDark = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'person kneeling',
     glyph: '🧎🏿',
     svgPath: 'assets/person_kneeling_color_dark.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.dark,
   );
 
   /// 🧎‍➡️ person kneeling facing right
@@ -12938,6 +13975,7 @@ class FluentEmojiPeopleAndBody {
   /// Medium Dark [_personKneelingFacingRightMediumDark]
   /// Dark [_personKneelingFacingRightDark]
   late final SkinToneFluentEmojiData personKneelingFacingRight = SkinToneFluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'person kneeling facing right',
     glyph: '🧎‍➡️',
@@ -12951,47 +13989,52 @@ class FluentEmojiPeopleAndBody {
 
   /// 🧎🏻‍➡️ person kneeling facing right
   final FluentEmojiData _personKneelingFacingRightLight = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'person kneeling facing right',
     glyph: '🧎🏻‍➡️',
     svgPath: 'assets/person_kneeling_facing_right_color_light.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.light,
   );
 
   /// 🧎🏼‍➡️ person kneeling facing right
   final FluentEmojiData _personKneelingFacingRightMediumLight = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'person kneeling facing right',
     glyph: '🧎🏼‍➡️',
     svgPath: 'assets/person_kneeling_facing_right_color_medium-light.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.mediumLight,
   );
 
   /// 🧎🏽‍➡️ person kneeling facing right
   final FluentEmojiData _personKneelingFacingRightMedium = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'person kneeling facing right',
     glyph: '🧎🏽‍➡️',
     svgPath: 'assets/person_kneeling_facing_right_color_medium.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.medium,
   );
 
   /// 🧎🏾‍➡️ person kneeling facing right
   final FluentEmojiData _personKneelingFacingRightMediumDark = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'person kneeling facing right',
     glyph: '🧎🏾‍➡️',
     svgPath: 'assets/person_kneeling_facing_right_color_medium-dark.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.mediumDark,
   );
 
   /// 🧎🏿‍➡️ person kneeling facing right
   final FluentEmojiData _personKneelingFacingRightDark = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'person kneeling facing right',
     glyph: '🧎🏿‍➡️',
     svgPath: 'assets/person_kneeling_facing_right_color_dark.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.dark,
   );
 
   /// 🏋️ person lifting weights
@@ -13002,6 +14045,7 @@ class FluentEmojiPeopleAndBody {
   /// Medium Dark [_personLiftingWeightsMediumDark]
   /// Dark [_personLiftingWeightsDark]
   late final SkinToneFluentEmojiData personLiftingWeights = SkinToneFluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'person lifting weights',
     glyph: '🏋️',
@@ -13015,47 +14059,52 @@ class FluentEmojiPeopleAndBody {
 
   /// 🏋🏻 person lifting weights
   final FluentEmojiData _personLiftingWeightsLight = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'person lifting weights',
     glyph: '🏋🏻',
     svgPath: 'assets/person_lifting_weights_color_light.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.light,
   );
 
   /// 🏋🏼 person lifting weights
   final FluentEmojiData _personLiftingWeightsMediumLight = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'person lifting weights',
     glyph: '🏋🏼',
     svgPath: 'assets/person_lifting_weights_color_medium-light.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.mediumLight,
   );
 
   /// 🏋🏽 person lifting weights
   final FluentEmojiData _personLiftingWeightsMedium = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'person lifting weights',
     glyph: '🏋🏽',
     svgPath: 'assets/person_lifting_weights_color_medium.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.medium,
   );
 
   /// 🏋🏾 person lifting weights
   final FluentEmojiData _personLiftingWeightsMediumDark = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'person lifting weights',
     glyph: '🏋🏾',
     svgPath: 'assets/person_lifting_weights_color_medium-dark.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.mediumDark,
   );
 
   /// 🏋🏿 person lifting weights
   final FluentEmojiData _personLiftingWeightsDark = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'person lifting weights',
     glyph: '🏋🏿',
     svgPath: 'assets/person_lifting_weights_color_dark.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.dark,
   );
 
   /// 🚵 person mountain biking
@@ -13066,6 +14115,7 @@ class FluentEmojiPeopleAndBody {
   /// Medium Dark [_personMountainBikingMediumDark]
   /// Dark [_personMountainBikingDark]
   late final SkinToneFluentEmojiData personMountainBiking = SkinToneFluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'person mountain biking',
     glyph: '🚵',
@@ -13079,47 +14129,52 @@ class FluentEmojiPeopleAndBody {
 
   /// 🚵🏻 person mountain biking
   final FluentEmojiData _personMountainBikingLight = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'person mountain biking',
     glyph: '🚵🏻',
     svgPath: 'assets/person_mountain_biking_color_light.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.light,
   );
 
   /// 🚵🏼 person mountain biking
   final FluentEmojiData _personMountainBikingMediumLight = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'person mountain biking',
     glyph: '🚵🏼',
     svgPath: 'assets/person_mountain_biking_color_medium-light.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.mediumLight,
   );
 
   /// 🚵🏽 person mountain biking
   final FluentEmojiData _personMountainBikingMedium = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'person mountain biking',
     glyph: '🚵🏽',
     svgPath: 'assets/person_mountain_biking_color_medium.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.medium,
   );
 
   /// 🚵🏾 person mountain biking
   final FluentEmojiData _personMountainBikingMediumDark = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'person mountain biking',
     glyph: '🚵🏾',
     svgPath: 'assets/person_mountain_biking_color_medium-dark.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.mediumDark,
   );
 
   /// 🚵🏿 person mountain biking
   final FluentEmojiData _personMountainBikingDark = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'person mountain biking',
     glyph: '🚵🏿',
     svgPath: 'assets/person_mountain_biking_color_dark.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.dark,
   );
 
   /// 🤾 person playing handball
@@ -13130,6 +14185,7 @@ class FluentEmojiPeopleAndBody {
   /// Medium Dark [_personPlayingHandballMediumDark]
   /// Dark [_personPlayingHandballDark]
   late final SkinToneFluentEmojiData personPlayingHandball = SkinToneFluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'person playing handball',
     glyph: '🤾',
@@ -13143,47 +14199,52 @@ class FluentEmojiPeopleAndBody {
 
   /// 🤾🏻 person playing handball
   final FluentEmojiData _personPlayingHandballLight = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'person playing handball',
     glyph: '🤾🏻',
     svgPath: 'assets/person_playing_handball_color_light.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.light,
   );
 
   /// 🤾🏼 person playing handball
   final FluentEmojiData _personPlayingHandballMediumLight = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'person playing handball',
     glyph: '🤾🏼',
     svgPath: 'assets/person_playing_handball_color_medium-light.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.mediumLight,
   );
 
   /// 🤾🏽 person playing handball
   final FluentEmojiData _personPlayingHandballMedium = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'person playing handball',
     glyph: '🤾🏽',
     svgPath: 'assets/person_playing_handball_color_medium.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.medium,
   );
 
   /// 🤾🏾 person playing handball
   final FluentEmojiData _personPlayingHandballMediumDark = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'person playing handball',
     glyph: '🤾🏾',
     svgPath: 'assets/person_playing_handball_color_medium-dark.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.mediumDark,
   );
 
   /// 🤾🏿 person playing handball
   final FluentEmojiData _personPlayingHandballDark = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'person playing handball',
     glyph: '🤾🏿',
     svgPath: 'assets/person_playing_handball_color_dark.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.dark,
   );
 
   /// 🤽 person playing water polo
@@ -13194,6 +14255,7 @@ class FluentEmojiPeopleAndBody {
   /// Medium Dark [_personPlayingWaterPoloMediumDark]
   /// Dark [_personPlayingWaterPoloDark]
   late final SkinToneFluentEmojiData personPlayingWaterPolo = SkinToneFluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'person playing water polo',
     glyph: '🤽',
@@ -13207,47 +14269,52 @@ class FluentEmojiPeopleAndBody {
 
   /// 🤽🏻 person playing water polo
   final FluentEmojiData _personPlayingWaterPoloLight = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'person playing water polo',
     glyph: '🤽🏻',
     svgPath: 'assets/person_playing_water_polo_color_light.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.light,
   );
 
   /// 🤽🏼 person playing water polo
   final FluentEmojiData _personPlayingWaterPoloMediumLight = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'person playing water polo',
     glyph: '🤽🏼',
     svgPath: 'assets/person_playing_water_polo_color_medium-light.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.mediumLight,
   );
 
   /// 🤽🏽 person playing water polo
   final FluentEmojiData _personPlayingWaterPoloMedium = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'person playing water polo',
     glyph: '🤽🏽',
     svgPath: 'assets/person_playing_water_polo_color_medium.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.medium,
   );
 
   /// 🤽🏾 person playing water polo
   final FluentEmojiData _personPlayingWaterPoloMediumDark = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'person playing water polo',
     glyph: '🤽🏾',
     svgPath: 'assets/person_playing_water_polo_color_medium-dark.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.mediumDark,
   );
 
   /// 🤽🏿 person playing water polo
   final FluentEmojiData _personPlayingWaterPoloDark = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'person playing water polo',
     glyph: '🤽🏿',
     svgPath: 'assets/person_playing_water_polo_color_dark.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.dark,
   );
 
   /// 🙎 person pouting
@@ -13258,6 +14325,7 @@ class FluentEmojiPeopleAndBody {
   /// Medium Dark [_personPoutingMediumDark]
   /// Dark [_personPoutingDark]
   late final SkinToneFluentEmojiData personPouting = SkinToneFluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'person pouting',
     glyph: '🙎',
@@ -13271,47 +14339,52 @@ class FluentEmojiPeopleAndBody {
 
   /// 🙎🏻 person pouting
   final FluentEmojiData _personPoutingLight = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'person pouting',
     glyph: '🙎🏻',
     svgPath: 'assets/person_pouting_color_light.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.light,
   );
 
   /// 🙎🏼 person pouting
   final FluentEmojiData _personPoutingMediumLight = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'person pouting',
     glyph: '🙎🏼',
     svgPath: 'assets/person_pouting_color_medium-light.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.mediumLight,
   );
 
   /// 🙎🏽 person pouting
   final FluentEmojiData _personPoutingMedium = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'person pouting',
     glyph: '🙎🏽',
     svgPath: 'assets/person_pouting_color_medium.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.medium,
   );
 
   /// 🙎🏾 person pouting
   final FluentEmojiData _personPoutingMediumDark = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'person pouting',
     glyph: '🙎🏾',
     svgPath: 'assets/person_pouting_color_medium-dark.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.mediumDark,
   );
 
   /// 🙎🏿 person pouting
   final FluentEmojiData _personPoutingDark = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'person pouting',
     glyph: '🙎🏿',
     svgPath: 'assets/person_pouting_color_dark.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.dark,
   );
 
   /// 🙋 person raising hand
@@ -13322,6 +14395,7 @@ class FluentEmojiPeopleAndBody {
   /// Medium Dark [_personRaisingHandMediumDark]
   /// Dark [_personRaisingHandDark]
   late final SkinToneFluentEmojiData personRaisingHand = SkinToneFluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'person raising hand',
     glyph: '🙋',
@@ -13335,47 +14409,52 @@ class FluentEmojiPeopleAndBody {
 
   /// 🙋🏻 person raising hand
   final FluentEmojiData _personRaisingHandLight = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'person raising hand',
     glyph: '🙋🏻',
     svgPath: 'assets/person_raising_hand_color_light.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.light,
   );
 
   /// 🙋🏼 person raising hand
   final FluentEmojiData _personRaisingHandMediumLight = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'person raising hand',
     glyph: '🙋🏼',
     svgPath: 'assets/person_raising_hand_color_medium-light.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.mediumLight,
   );
 
   /// 🙋🏽 person raising hand
   final FluentEmojiData _personRaisingHandMedium = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'person raising hand',
     glyph: '🙋🏽',
     svgPath: 'assets/person_raising_hand_color_medium.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.medium,
   );
 
   /// 🙋🏾 person raising hand
   final FluentEmojiData _personRaisingHandMediumDark = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'person raising hand',
     glyph: '🙋🏾',
     svgPath: 'assets/person_raising_hand_color_medium-dark.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.mediumDark,
   );
 
   /// 🙋🏿 person raising hand
   final FluentEmojiData _personRaisingHandDark = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'person raising hand',
     glyph: '🙋🏿',
     svgPath: 'assets/person_raising_hand_color_dark.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.dark,
   );
 
   /// 🚣 person rowing boat
@@ -13386,6 +14465,7 @@ class FluentEmojiPeopleAndBody {
   /// Medium Dark [_personRowingBoatMediumDark]
   /// Dark [_personRowingBoatDark]
   late final SkinToneFluentEmojiData personRowingBoat = SkinToneFluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'person rowing boat',
     glyph: '🚣',
@@ -13399,47 +14479,52 @@ class FluentEmojiPeopleAndBody {
 
   /// 🚣🏻 person rowing boat
   final FluentEmojiData _personRowingBoatLight = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'person rowing boat',
     glyph: '🚣🏻',
     svgPath: 'assets/person_rowing_boat_color_light.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.light,
   );
 
   /// 🚣🏼 person rowing boat
   final FluentEmojiData _personRowingBoatMediumLight = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'person rowing boat',
     glyph: '🚣🏼',
     svgPath: 'assets/person_rowing_boat_color_medium-light.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.mediumLight,
   );
 
   /// 🚣🏽 person rowing boat
   final FluentEmojiData _personRowingBoatMedium = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'person rowing boat',
     glyph: '🚣🏽',
     svgPath: 'assets/person_rowing_boat_color_medium.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.medium,
   );
 
   /// 🚣🏾 person rowing boat
   final FluentEmojiData _personRowingBoatMediumDark = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'person rowing boat',
     glyph: '🚣🏾',
     svgPath: 'assets/person_rowing_boat_color_medium-dark.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.mediumDark,
   );
 
   /// 🚣🏿 person rowing boat
   final FluentEmojiData _personRowingBoatDark = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'person rowing boat',
     glyph: '🚣🏿',
     svgPath: 'assets/person_rowing_boat_color_dark.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.dark,
   );
 
   /// 🏃 person running
@@ -13450,6 +14535,7 @@ class FluentEmojiPeopleAndBody {
   /// Medium Dark [_personRunningMediumDark]
   /// Dark [_personRunningDark]
   late final SkinToneFluentEmojiData personRunning = SkinToneFluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'person running',
     glyph: '🏃',
@@ -13463,47 +14549,52 @@ class FluentEmojiPeopleAndBody {
 
   /// 🏃🏻 person running
   final FluentEmojiData _personRunningLight = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'person running',
     glyph: '🏃🏻',
     svgPath: 'assets/person_running_color_light.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.light,
   );
 
   /// 🏃🏼 person running
   final FluentEmojiData _personRunningMediumLight = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'person running',
     glyph: '🏃🏼',
     svgPath: 'assets/person_running_color_medium-light.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.mediumLight,
   );
 
   /// 🏃🏽 person running
   final FluentEmojiData _personRunningMedium = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'person running',
     glyph: '🏃🏽',
     svgPath: 'assets/person_running_color_medium.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.medium,
   );
 
   /// 🏃🏾 person running
   final FluentEmojiData _personRunningMediumDark = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'person running',
     glyph: '🏃🏾',
     svgPath: 'assets/person_running_color_medium-dark.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.mediumDark,
   );
 
   /// 🏃🏿 person running
   final FluentEmojiData _personRunningDark = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'person running',
     glyph: '🏃🏿',
     svgPath: 'assets/person_running_color_dark.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.dark,
   );
 
   /// 🏃‍➡️ person running facing right
@@ -13514,6 +14605,7 @@ class FluentEmojiPeopleAndBody {
   /// Medium Dark [_personRunningFacingRightMediumDark]
   /// Dark [_personRunningFacingRightDark]
   late final SkinToneFluentEmojiData personRunningFacingRight = SkinToneFluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'person running facing right',
     glyph: '🏃‍➡️',
@@ -13527,47 +14619,52 @@ class FluentEmojiPeopleAndBody {
 
   /// 🏃🏻‍➡️ person running facing right
   final FluentEmojiData _personRunningFacingRightLight = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'person running facing right',
     glyph: '🏃🏻‍➡️',
     svgPath: 'assets/person_running_facing_right_color_light.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.light,
   );
 
   /// 🏃🏼‍➡️ person running facing right
   final FluentEmojiData _personRunningFacingRightMediumLight = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'person running facing right',
     glyph: '🏃🏼‍➡️',
     svgPath: 'assets/person_running_facing_right_color_medium-light.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.mediumLight,
   );
 
   /// 🏃🏽‍➡️ person running facing right
   final FluentEmojiData _personRunningFacingRightMedium = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'person running facing right',
     glyph: '🏃🏽‍➡️',
     svgPath: 'assets/person_running_facing_right_color_medium.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.medium,
   );
 
   /// 🏃🏾‍➡️ person running facing right
   final FluentEmojiData _personRunningFacingRightMediumDark = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'person running facing right',
     glyph: '🏃🏾‍➡️',
     svgPath: 'assets/person_running_facing_right_color_medium-dark.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.mediumDark,
   );
 
   /// 🏃🏿‍➡️ person running facing right
   final FluentEmojiData _personRunningFacingRightDark = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'person running facing right',
     glyph: '🏃🏿‍➡️',
     svgPath: 'assets/person_running_facing_right_color_dark.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.dark,
   );
 
   /// 🤷 person shrugging
@@ -13578,6 +14675,7 @@ class FluentEmojiPeopleAndBody {
   /// Medium Dark [_personShruggingMediumDark]
   /// Dark [_personShruggingDark]
   late final SkinToneFluentEmojiData personShrugging = SkinToneFluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'person shrugging',
     glyph: '🤷',
@@ -13591,47 +14689,52 @@ class FluentEmojiPeopleAndBody {
 
   /// 🤷🏻 person shrugging
   final FluentEmojiData _personShruggingLight = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'person shrugging',
     glyph: '🤷🏻',
     svgPath: 'assets/person_shrugging_color_light.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.light,
   );
 
   /// 🤷🏼 person shrugging
   final FluentEmojiData _personShruggingMediumLight = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'person shrugging',
     glyph: '🤷🏼',
     svgPath: 'assets/person_shrugging_color_medium-light.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.mediumLight,
   );
 
   /// 🤷🏽 person shrugging
   final FluentEmojiData _personShruggingMedium = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'person shrugging',
     glyph: '🤷🏽',
     svgPath: 'assets/person_shrugging_color_medium.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.medium,
   );
 
   /// 🤷🏾 person shrugging
   final FluentEmojiData _personShruggingMediumDark = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'person shrugging',
     glyph: '🤷🏾',
     svgPath: 'assets/person_shrugging_color_medium-dark.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.mediumDark,
   );
 
   /// 🤷🏿 person shrugging
   final FluentEmojiData _personShruggingDark = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'person shrugging',
     glyph: '🤷🏿',
     svgPath: 'assets/person_shrugging_color_dark.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.dark,
   );
 
   /// 🧍 person standing
@@ -13642,6 +14745,7 @@ class FluentEmojiPeopleAndBody {
   /// Medium Dark [_personStandingMediumDark]
   /// Dark [_personStandingDark]
   late final SkinToneFluentEmojiData personStanding = SkinToneFluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'person standing',
     glyph: '🧍',
@@ -13655,47 +14759,52 @@ class FluentEmojiPeopleAndBody {
 
   /// 🧍🏻 person standing
   final FluentEmojiData _personStandingLight = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'person standing',
     glyph: '🧍🏻',
     svgPath: 'assets/person_standing_color_light.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.light,
   );
 
   /// 🧍🏼 person standing
   final FluentEmojiData _personStandingMediumLight = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'person standing',
     glyph: '🧍🏼',
     svgPath: 'assets/person_standing_color_medium-light.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.mediumLight,
   );
 
   /// 🧍🏽 person standing
   final FluentEmojiData _personStandingMedium = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'person standing',
     glyph: '🧍🏽',
     svgPath: 'assets/person_standing_color_medium.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.medium,
   );
 
   /// 🧍🏾 person standing
   final FluentEmojiData _personStandingMediumDark = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'person standing',
     glyph: '🧍🏾',
     svgPath: 'assets/person_standing_color_medium-dark.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.mediumDark,
   );
 
   /// 🧍🏿 person standing
   final FluentEmojiData _personStandingDark = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'person standing',
     glyph: '🧍🏿',
     svgPath: 'assets/person_standing_color_dark.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.dark,
   );
 
   /// 🏄 person surfing
@@ -13706,6 +14815,7 @@ class FluentEmojiPeopleAndBody {
   /// Medium Dark [_personSurfingMediumDark]
   /// Dark [_personSurfingDark]
   late final SkinToneFluentEmojiData personSurfing = SkinToneFluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'person surfing',
     glyph: '🏄',
@@ -13719,47 +14829,52 @@ class FluentEmojiPeopleAndBody {
 
   /// 🏄🏻 person surfing
   final FluentEmojiData _personSurfingLight = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'person surfing',
     glyph: '🏄🏻',
     svgPath: 'assets/person_surfing_color_light.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.light,
   );
 
   /// 🏄🏼 person surfing
   final FluentEmojiData _personSurfingMediumLight = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'person surfing',
     glyph: '🏄🏼',
     svgPath: 'assets/person_surfing_color_medium-light.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.mediumLight,
   );
 
   /// 🏄🏽 person surfing
   final FluentEmojiData _personSurfingMedium = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'person surfing',
     glyph: '🏄🏽',
     svgPath: 'assets/person_surfing_color_medium.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.medium,
   );
 
   /// 🏄🏾 person surfing
   final FluentEmojiData _personSurfingMediumDark = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'person surfing',
     glyph: '🏄🏾',
     svgPath: 'assets/person_surfing_color_medium-dark.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.mediumDark,
   );
 
   /// 🏄🏿 person surfing
   final FluentEmojiData _personSurfingDark = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'person surfing',
     glyph: '🏄🏿',
     svgPath: 'assets/person_surfing_color_dark.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.dark,
   );
 
   /// 🏊 person swimming
@@ -13770,6 +14885,7 @@ class FluentEmojiPeopleAndBody {
   /// Medium Dark [_personSwimmingMediumDark]
   /// Dark [_personSwimmingDark]
   late final SkinToneFluentEmojiData personSwimming = SkinToneFluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'person swimming',
     glyph: '🏊',
@@ -13783,47 +14899,52 @@ class FluentEmojiPeopleAndBody {
 
   /// 🏊🏻 person swimming
   final FluentEmojiData _personSwimmingLight = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'person swimming',
     glyph: '🏊🏻',
     svgPath: 'assets/person_swimming_color_light.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.light,
   );
 
   /// 🏊🏼 person swimming
   final FluentEmojiData _personSwimmingMediumLight = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'person swimming',
     glyph: '🏊🏼',
     svgPath: 'assets/person_swimming_color_medium-light.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.mediumLight,
   );
 
   /// 🏊🏽 person swimming
   final FluentEmojiData _personSwimmingMedium = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'person swimming',
     glyph: '🏊🏽',
     svgPath: 'assets/person_swimming_color_medium.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.medium,
   );
 
   /// 🏊🏾 person swimming
   final FluentEmojiData _personSwimmingMediumDark = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'person swimming',
     glyph: '🏊🏾',
     svgPath: 'assets/person_swimming_color_medium-dark.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.mediumDark,
   );
 
   /// 🏊🏿 person swimming
   final FluentEmojiData _personSwimmingDark = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'person swimming',
     glyph: '🏊🏿',
     svgPath: 'assets/person_swimming_color_dark.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.dark,
   );
 
   /// 🛀 person taking bath
@@ -13834,6 +14955,7 @@ class FluentEmojiPeopleAndBody {
   /// Medium Dark [_personTakingBathMediumDark]
   /// Dark [_personTakingBathDark]
   late final SkinToneFluentEmojiData personTakingBath = SkinToneFluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'person taking bath',
     glyph: '🛀',
@@ -13847,47 +14969,52 @@ class FluentEmojiPeopleAndBody {
 
   /// 🛀🏻 person taking bath
   final FluentEmojiData _personTakingBathLight = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'person taking bath',
     glyph: '🛀🏻',
     svgPath: 'assets/person_taking_bath_color_light.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.light,
   );
 
   /// 🛀🏼 person taking bath
   final FluentEmojiData _personTakingBathMediumLight = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'person taking bath',
     glyph: '🛀🏼',
     svgPath: 'assets/person_taking_bath_color_medium-light.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.mediumLight,
   );
 
   /// 🛀🏽 person taking bath
   final FluentEmojiData _personTakingBathMedium = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'person taking bath',
     glyph: '🛀🏽',
     svgPath: 'assets/person_taking_bath_color_medium.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.medium,
   );
 
   /// 🛀🏾 person taking bath
   final FluentEmojiData _personTakingBathMediumDark = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'person taking bath',
     glyph: '🛀🏾',
     svgPath: 'assets/person_taking_bath_color_medium-dark.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.mediumDark,
   );
 
   /// 🛀🏿 person taking bath
   final FluentEmojiData _personTakingBathDark = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'person taking bath',
     glyph: '🛀🏿',
     svgPath: 'assets/person_taking_bath_color_dark.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.dark,
   );
 
   /// 💁 person tipping hand
@@ -13898,6 +15025,7 @@ class FluentEmojiPeopleAndBody {
   /// Medium Dark [_personTippingHandMediumDark]
   /// Dark [_personTippingHandDark]
   late final SkinToneFluentEmojiData personTippingHand = SkinToneFluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'person tipping hand',
     glyph: '💁',
@@ -13911,47 +15039,52 @@ class FluentEmojiPeopleAndBody {
 
   /// 💁🏻 person tipping hand
   final FluentEmojiData _personTippingHandLight = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'person tipping hand',
     glyph: '💁🏻',
     svgPath: 'assets/person_tipping_hand_color_light.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.light,
   );
 
   /// 💁🏼 person tipping hand
   final FluentEmojiData _personTippingHandMediumLight = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'person tipping hand',
     glyph: '💁🏼',
     svgPath: 'assets/person_tipping_hand_color_medium-light.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.mediumLight,
   );
 
   /// 💁🏽 person tipping hand
   final FluentEmojiData _personTippingHandMedium = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'person tipping hand',
     glyph: '💁🏽',
     svgPath: 'assets/person_tipping_hand_color_medium.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.medium,
   );
 
   /// 💁🏾 person tipping hand
   final FluentEmojiData _personTippingHandMediumDark = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'person tipping hand',
     glyph: '💁🏾',
     svgPath: 'assets/person_tipping_hand_color_medium-dark.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.mediumDark,
   );
 
   /// 💁🏿 person tipping hand
   final FluentEmojiData _personTippingHandDark = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'person tipping hand',
     glyph: '💁🏿',
     svgPath: 'assets/person_tipping_hand_color_dark.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.dark,
   );
 
   /// 🚶 person walking
@@ -13962,6 +15095,7 @@ class FluentEmojiPeopleAndBody {
   /// Medium Dark [_personWalkingMediumDark]
   /// Dark [_personWalkingDark]
   late final SkinToneFluentEmojiData personWalking = SkinToneFluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'person walking',
     glyph: '🚶',
@@ -13975,47 +15109,52 @@ class FluentEmojiPeopleAndBody {
 
   /// 🚶🏻 person walking
   final FluentEmojiData _personWalkingLight = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'person walking',
     glyph: '🚶🏻',
     svgPath: 'assets/person_walking_color_light.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.light,
   );
 
   /// 🚶🏼 person walking
   final FluentEmojiData _personWalkingMediumLight = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'person walking',
     glyph: '🚶🏼',
     svgPath: 'assets/person_walking_color_medium-light.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.mediumLight,
   );
 
   /// 🚶🏽 person walking
   final FluentEmojiData _personWalkingMedium = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'person walking',
     glyph: '🚶🏽',
     svgPath: 'assets/person_walking_color_medium.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.medium,
   );
 
   /// 🚶🏾 person walking
   final FluentEmojiData _personWalkingMediumDark = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'person walking',
     glyph: '🚶🏾',
     svgPath: 'assets/person_walking_color_medium-dark.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.mediumDark,
   );
 
   /// 🚶🏿 person walking
   final FluentEmojiData _personWalkingDark = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'person walking',
     glyph: '🚶🏿',
     svgPath: 'assets/person_walking_color_dark.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.dark,
   );
 
   /// 🚶‍➡️ person walking facing right
@@ -14026,6 +15165,7 @@ class FluentEmojiPeopleAndBody {
   /// Medium Dark [_personWalkingFacingRightMediumDark]
   /// Dark [_personWalkingFacingRightDark]
   late final SkinToneFluentEmojiData personWalkingFacingRight = SkinToneFluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'person walking facing right',
     glyph: '🚶‍➡️',
@@ -14039,47 +15179,52 @@ class FluentEmojiPeopleAndBody {
 
   /// 🚶🏻‍➡️ person walking facing right
   final FluentEmojiData _personWalkingFacingRightLight = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'person walking facing right',
     glyph: '🚶🏻‍➡️',
     svgPath: 'assets/person_walking_facing_right_color_light.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.light,
   );
 
   /// 🚶🏼‍➡️ person walking facing right
   final FluentEmojiData _personWalkingFacingRightMediumLight = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'person walking facing right',
     glyph: '🚶🏼‍➡️',
     svgPath: 'assets/person_walking_facing_right_color_medium-light.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.mediumLight,
   );
 
   /// 🚶🏽‍➡️ person walking facing right
   final FluentEmojiData _personWalkingFacingRightMedium = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'person walking facing right',
     glyph: '🚶🏽‍➡️',
     svgPath: 'assets/person_walking_facing_right_color_medium.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.medium,
   );
 
   /// 🚶🏾‍➡️ person walking facing right
   final FluentEmojiData _personWalkingFacingRightMediumDark = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'person walking facing right',
     glyph: '🚶🏾‍➡️',
     svgPath: 'assets/person_walking_facing_right_color_medium-dark.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.mediumDark,
   );
 
   /// 🚶🏿‍➡️ person walking facing right
   final FluentEmojiData _personWalkingFacingRightDark = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'person walking facing right',
     glyph: '🚶🏿‍➡️',
     svgPath: 'assets/person_walking_facing_right_color_dark.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.dark,
   );
 
   /// 👳 person wearing turban
@@ -14090,6 +15235,7 @@ class FluentEmojiPeopleAndBody {
   /// Medium Dark [_personWearingTurbanMediumDark]
   /// Dark [_personWearingTurbanDark]
   late final SkinToneFluentEmojiData personWearingTurban = SkinToneFluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'person wearing turban',
     glyph: '👳',
@@ -14103,47 +15249,52 @@ class FluentEmojiPeopleAndBody {
 
   /// 👳🏻 person wearing turban
   final FluentEmojiData _personWearingTurbanLight = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'person wearing turban',
     glyph: '👳🏻',
     svgPath: 'assets/person_wearing_turban_color_light.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.light,
   );
 
   /// 👳🏼 person wearing turban
   final FluentEmojiData _personWearingTurbanMediumLight = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'person wearing turban',
     glyph: '👳🏼',
     svgPath: 'assets/person_wearing_turban_color_medium-light.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.mediumLight,
   );
 
   /// 👳🏽 person wearing turban
   final FluentEmojiData _personWearingTurbanMedium = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'person wearing turban',
     glyph: '👳🏽',
     svgPath: 'assets/person_wearing_turban_color_medium.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.medium,
   );
 
   /// 👳🏾 person wearing turban
   final FluentEmojiData _personWearingTurbanMediumDark = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'person wearing turban',
     glyph: '👳🏾',
     svgPath: 'assets/person_wearing_turban_color_medium-dark.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.mediumDark,
   );
 
   /// 👳🏿 person wearing turban
   final FluentEmojiData _personWearingTurbanDark = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'person wearing turban',
     glyph: '👳🏿',
     svgPath: 'assets/person_wearing_turban_color_dark.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.dark,
   );
 
   /// 🫅 person with crown
@@ -14154,6 +15305,7 @@ class FluentEmojiPeopleAndBody {
   /// Medium Dark [_personWithCrownMediumDark]
   /// Dark [_personWithCrownDark]
   late final SkinToneFluentEmojiData personWithCrown = SkinToneFluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'person with crown',
     glyph: '🫅',
@@ -14167,47 +15319,52 @@ class FluentEmojiPeopleAndBody {
 
   /// 🫅🏻 person with crown
   final FluentEmojiData _personWithCrownLight = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'person with crown',
     glyph: '🫅🏻',
     svgPath: 'assets/person_with_crown_color_light.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.light,
   );
 
   /// 🫅🏼 person with crown
   final FluentEmojiData _personWithCrownMediumLight = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'person with crown',
     glyph: '🫅🏼',
     svgPath: 'assets/person_with_crown_color_medium-light.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.mediumLight,
   );
 
   /// 🫅🏽 person with crown
   final FluentEmojiData _personWithCrownMedium = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'person with crown',
     glyph: '🫅🏽',
     svgPath: 'assets/person_with_crown_color_medium.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.medium,
   );
 
   /// 🫅🏾 person with crown
   final FluentEmojiData _personWithCrownMediumDark = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'person with crown',
     glyph: '🫅🏾',
     svgPath: 'assets/person_with_crown_color_medium-dark.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.mediumDark,
   );
 
   /// 🫅🏿 person with crown
   final FluentEmojiData _personWithCrownDark = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'person with crown',
     glyph: '🫅🏿',
     svgPath: 'assets/person_with_crown_color_dark.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.dark,
   );
 
   /// 👲 person with skullcap
@@ -14218,6 +15375,7 @@ class FluentEmojiPeopleAndBody {
   /// Medium Dark [_personWithSkullcapMediumDark]
   /// Dark [_personWithSkullcapDark]
   late final SkinToneFluentEmojiData personWithSkullcap = SkinToneFluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'person with skullcap',
     glyph: '👲',
@@ -14231,47 +15389,52 @@ class FluentEmojiPeopleAndBody {
 
   /// 👲🏻 person with skullcap
   final FluentEmojiData _personWithSkullcapLight = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'person with skullcap',
     glyph: '👲🏻',
     svgPath: 'assets/person_with_skullcap_color_light.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.light,
   );
 
   /// 👲🏼 person with skullcap
   final FluentEmojiData _personWithSkullcapMediumLight = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'person with skullcap',
     glyph: '👲🏼',
     svgPath: 'assets/person_with_skullcap_color_medium-light.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.mediumLight,
   );
 
   /// 👲🏽 person with skullcap
   final FluentEmojiData _personWithSkullcapMedium = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'person with skullcap',
     glyph: '👲🏽',
     svgPath: 'assets/person_with_skullcap_color_medium.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.medium,
   );
 
   /// 👲🏾 person with skullcap
   final FluentEmojiData _personWithSkullcapMediumDark = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'person with skullcap',
     glyph: '👲🏾',
     svgPath: 'assets/person_with_skullcap_color_medium-dark.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.mediumDark,
   );
 
   /// 👲🏿 person with skullcap
   final FluentEmojiData _personWithSkullcapDark = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'person with skullcap',
     glyph: '👲🏿',
     svgPath: 'assets/person_with_skullcap_color_dark.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.dark,
   );
 
   /// 👰 person with veil
@@ -14282,6 +15445,7 @@ class FluentEmojiPeopleAndBody {
   /// Medium Dark [_personWithVeilMediumDark]
   /// Dark [_personWithVeilDark]
   late final SkinToneFluentEmojiData personWithVeil = SkinToneFluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'person with veil',
     glyph: '👰',
@@ -14295,47 +15459,52 @@ class FluentEmojiPeopleAndBody {
 
   /// 👰🏻 person with veil
   final FluentEmojiData _personWithVeilLight = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'person with veil',
     glyph: '👰🏻',
     svgPath: 'assets/person_with_veil_color_light.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.light,
   );
 
   /// 👰🏼 person with veil
   final FluentEmojiData _personWithVeilMediumLight = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'person with veil',
     glyph: '👰🏼',
     svgPath: 'assets/person_with_veil_color_medium-light.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.mediumLight,
   );
 
   /// 👰🏽 person with veil
   final FluentEmojiData _personWithVeilMedium = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'person with veil',
     glyph: '👰🏽',
     svgPath: 'assets/person_with_veil_color_medium.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.medium,
   );
 
   /// 👰🏾 person with veil
   final FluentEmojiData _personWithVeilMediumDark = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'person with veil',
     glyph: '👰🏾',
     svgPath: 'assets/person_with_veil_color_medium-dark.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.mediumDark,
   );
 
   /// 👰🏿 person with veil
   final FluentEmojiData _personWithVeilDark = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'person with veil',
     glyph: '👰🏿',
     svgPath: 'assets/person_with_veil_color_dark.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.dark,
   );
 
   /// 🧑‍🦯 person with white cane
@@ -14346,6 +15515,7 @@ class FluentEmojiPeopleAndBody {
   /// Medium Dark [_personWithWhiteCaneMediumDark]
   /// Dark [_personWithWhiteCaneDark]
   late final SkinToneFluentEmojiData personWithWhiteCane = SkinToneFluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'person with white cane',
     glyph: '🧑‍🦯',
@@ -14359,47 +15529,52 @@ class FluentEmojiPeopleAndBody {
 
   /// 🧑🏻‍🦯 person with white cane
   final FluentEmojiData _personWithWhiteCaneLight = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'person with white cane',
     glyph: '🧑🏻‍🦯',
     svgPath: 'assets/person_with_white_cane_color_light.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.light,
   );
 
   /// 🧑🏼‍🦯 person with white cane
   final FluentEmojiData _personWithWhiteCaneMediumLight = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'person with white cane',
     glyph: '🧑🏼‍🦯',
     svgPath: 'assets/person_with_white_cane_color_medium-light.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.mediumLight,
   );
 
   /// 🧑🏽‍🦯 person with white cane
   final FluentEmojiData _personWithWhiteCaneMedium = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'person with white cane',
     glyph: '🧑🏽‍🦯',
     svgPath: 'assets/person_with_white_cane_color_medium.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.medium,
   );
 
   /// 🧑🏾‍🦯 person with white cane
   final FluentEmojiData _personWithWhiteCaneMediumDark = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'person with white cane',
     glyph: '🧑🏾‍🦯',
     svgPath: 'assets/person_with_white_cane_color_medium-dark.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.mediumDark,
   );
 
   /// 🧑🏿‍🦯 person with white cane
   final FluentEmojiData _personWithWhiteCaneDark = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'person with white cane',
     glyph: '🧑🏿‍🦯',
     svgPath: 'assets/person_with_white_cane_color_dark.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.dark,
   );
 
   /// 🧑‍🦯‍➡️ person with white cane facing right
@@ -14410,6 +15585,7 @@ class FluentEmojiPeopleAndBody {
   /// Medium Dark [_personWithWhiteCaneFacingRightMediumDark]
   /// Dark [_personWithWhiteCaneFacingRightDark]
   late final SkinToneFluentEmojiData personWithWhiteCaneFacingRight = SkinToneFluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'person with white cane facing right',
     glyph: '🧑‍🦯‍➡️',
@@ -14423,47 +15599,52 @@ class FluentEmojiPeopleAndBody {
 
   /// 🧑🏻‍🦯‍➡️ person with white cane facing right
   final FluentEmojiData _personWithWhiteCaneFacingRightLight = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'person with white cane facing right',
     glyph: '🧑🏻‍🦯‍➡️',
     svgPath: 'assets/person_with_white_cane_facing_right_color_light.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.light,
   );
 
   /// 🧑🏼‍🦯‍➡️ person with white cane facing right
   final FluentEmojiData _personWithWhiteCaneFacingRightMediumLight = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'person with white cane facing right',
     glyph: '🧑🏼‍🦯‍➡️',
     svgPath: 'assets/person_with_white_cane_facing_right_color_medium-light.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.mediumLight,
   );
 
   /// 🧑🏽‍🦯‍➡️ person with white cane facing right
   final FluentEmojiData _personWithWhiteCaneFacingRightMedium = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'person with white cane facing right',
     glyph: '🧑🏽‍🦯‍➡️',
     svgPath: 'assets/person_with_white_cane_facing_right_color_medium.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.medium,
   );
 
   /// 🧑🏾‍🦯‍➡️ person with white cane facing right
   final FluentEmojiData _personWithWhiteCaneFacingRightMediumDark = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'person with white cane facing right',
     glyph: '🧑🏾‍🦯‍➡️',
     svgPath: 'assets/person_with_white_cane_facing_right_color_medium-dark.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.mediumDark,
   );
 
   /// 🧑🏿‍🦯‍➡️ person with white cane facing right
   final FluentEmojiData _personWithWhiteCaneFacingRightDark = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'person with white cane facing right',
     glyph: '🧑🏿‍🦯‍➡️',
     svgPath: 'assets/person_with_white_cane_facing_right_color_dark.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.dark,
   );
 
   /// 🧑‍🦲 person: bald
@@ -14474,6 +15655,7 @@ class FluentEmojiPeopleAndBody {
   /// Medium Dark [_personBaldMediumDark]
   /// Dark [_personBaldDark]
   late final SkinToneFluentEmojiData personBald = SkinToneFluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'person: bald',
     glyph: '🧑‍🦲',
@@ -14487,47 +15669,52 @@ class FluentEmojiPeopleAndBody {
 
   /// 🧑🏻‍🦲 person: bald
   final FluentEmojiData _personBaldLight = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'person: bald',
     glyph: '🧑🏻‍🦲',
     svgPath: 'assets/person_bald_color_light.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.light,
   );
 
   /// 🧑🏼‍🦲 person: bald
   final FluentEmojiData _personBaldMediumLight = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'person: bald',
     glyph: '🧑🏼‍🦲',
     svgPath: 'assets/person_bald_color_medium-light.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.mediumLight,
   );
 
   /// 🧑🏽‍🦲 person: bald
   final FluentEmojiData _personBaldMedium = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'person: bald',
     glyph: '🧑🏽‍🦲',
     svgPath: 'assets/person_bald_color_medium.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.medium,
   );
 
   /// 🧑🏾‍🦲 person: bald
   final FluentEmojiData _personBaldMediumDark = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'person: bald',
     glyph: '🧑🏾‍🦲',
     svgPath: 'assets/person_bald_color_medium-dark.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.mediumDark,
   );
 
   /// 🧑🏿‍🦲 person: bald
   final FluentEmojiData _personBaldDark = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'person: bald',
     glyph: '🧑🏿‍🦲',
     svgPath: 'assets/person_bald_color_dark.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.dark,
   );
 
   /// 🧔 person: beard
@@ -14538,6 +15725,7 @@ class FluentEmojiPeopleAndBody {
   /// Medium Dark [_personBeardMediumDark]
   /// Dark [_personBeardDark]
   late final SkinToneFluentEmojiData personBeard = SkinToneFluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'person: beard',
     glyph: '🧔',
@@ -14551,47 +15739,52 @@ class FluentEmojiPeopleAndBody {
 
   /// 🧔🏻 person: beard
   final FluentEmojiData _personBeardLight = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'person: beard',
     glyph: '🧔🏻',
     svgPath: 'assets/person_beard_color_light.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.light,
   );
 
   /// 🧔🏼 person: beard
   final FluentEmojiData _personBeardMediumLight = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'person: beard',
     glyph: '🧔🏼',
     svgPath: 'assets/person_beard_color_medium-light.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.mediumLight,
   );
 
   /// 🧔🏽 person: beard
   final FluentEmojiData _personBeardMedium = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'person: beard',
     glyph: '🧔🏽',
     svgPath: 'assets/person_beard_color_medium.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.medium,
   );
 
   /// 🧔🏾 person: beard
   final FluentEmojiData _personBeardMediumDark = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'person: beard',
     glyph: '🧔🏾',
     svgPath: 'assets/person_beard_color_medium-dark.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.mediumDark,
   );
 
   /// 🧔🏿 person: beard
   final FluentEmojiData _personBeardDark = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'person: beard',
     glyph: '🧔🏿',
     svgPath: 'assets/person_beard_color_dark.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.dark,
   );
 
   /// 👱 person: blond hair
@@ -14602,6 +15795,7 @@ class FluentEmojiPeopleAndBody {
   /// Medium Dark [_personBlondHairMediumDark]
   /// Dark [_personBlondHairDark]
   late final SkinToneFluentEmojiData personBlondHair = SkinToneFluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'person: blond hair',
     glyph: '👱',
@@ -14615,47 +15809,52 @@ class FluentEmojiPeopleAndBody {
 
   /// 👱🏻 person: blond hair
   final FluentEmojiData _personBlondHairLight = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'person: blond hair',
     glyph: '👱🏻',
     svgPath: 'assets/person_blonde_hair_color_light.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.light,
   );
 
   /// 👱🏼 person: blond hair
   final FluentEmojiData _personBlondHairMediumLight = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'person: blond hair',
     glyph: '👱🏼',
     svgPath: 'assets/person_blonde_hair_color_medium-light.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.mediumLight,
   );
 
   /// 👱🏽 person: blond hair
   final FluentEmojiData _personBlondHairMedium = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'person: blond hair',
     glyph: '👱🏽',
     svgPath: 'assets/person_blonde_hair_color_medium.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.medium,
   );
 
   /// 👱🏾 person: blond hair
   final FluentEmojiData _personBlondHairMediumDark = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'person: blond hair',
     glyph: '👱🏾',
     svgPath: 'assets/person_blonde_hair_color_medium-dark.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.mediumDark,
   );
 
   /// 👱🏿 person: blond hair
   final FluentEmojiData _personBlondHairDark = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'person: blond hair',
     glyph: '👱🏿',
     svgPath: 'assets/person_blonde_hair_color_dark.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.dark,
   );
 
   /// 🧑‍🦱 person: curly hair
@@ -14666,6 +15865,7 @@ class FluentEmojiPeopleAndBody {
   /// Medium Dark [_personCurlyHairMediumDark]
   /// Dark [_personCurlyHairDark]
   late final SkinToneFluentEmojiData personCurlyHair = SkinToneFluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'person: curly hair',
     glyph: '🧑‍🦱',
@@ -14679,47 +15879,52 @@ class FluentEmojiPeopleAndBody {
 
   /// 🧑🏻‍🦱 person: curly hair
   final FluentEmojiData _personCurlyHairLight = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'person: curly hair',
     glyph: '🧑🏻‍🦱',
     svgPath: 'assets/person_curly_hair_color_light.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.light,
   );
 
   /// 🧑🏼‍🦱 person: curly hair
   final FluentEmojiData _personCurlyHairMediumLight = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'person: curly hair',
     glyph: '🧑🏼‍🦱',
     svgPath: 'assets/person_curly_hair_color_medium-light.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.mediumLight,
   );
 
   /// 🧑🏽‍🦱 person: curly hair
   final FluentEmojiData _personCurlyHairMedium = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'person: curly hair',
     glyph: '🧑🏽‍🦱',
     svgPath: 'assets/person_curly_hair_color_medium.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.medium,
   );
 
   /// 🧑🏾‍🦱 person: curly hair
   final FluentEmojiData _personCurlyHairMediumDark = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'person: curly hair',
     glyph: '🧑🏾‍🦱',
     svgPath: 'assets/person_curly_hair_color_medium-dark.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.mediumDark,
   );
 
   /// 🧑🏿‍🦱 person: curly hair
   final FluentEmojiData _personCurlyHairDark = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'person: curly hair',
     glyph: '🧑🏿‍🦱',
     svgPath: 'assets/person_curly_hair_color_dark.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.dark,
   );
 
   /// 🧑‍🦰 person: red hair
@@ -14730,6 +15935,7 @@ class FluentEmojiPeopleAndBody {
   /// Medium Dark [_personRedHairMediumDark]
   /// Dark [_personRedHairDark]
   late final SkinToneFluentEmojiData personRedHair = SkinToneFluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'person: red hair',
     glyph: '🧑‍🦰',
@@ -14743,47 +15949,52 @@ class FluentEmojiPeopleAndBody {
 
   /// 🧑🏻‍🦰 person: red hair
   final FluentEmojiData _personRedHairLight = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'person: red hair',
     glyph: '🧑🏻‍🦰',
     svgPath: 'assets/person_red_hair_color_light.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.light,
   );
 
   /// 🧑🏼‍🦰 person: red hair
   final FluentEmojiData _personRedHairMediumLight = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'person: red hair',
     glyph: '🧑🏼‍🦰',
     svgPath: 'assets/person_red_hair_color_medium-light.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.mediumLight,
   );
 
   /// 🧑🏽‍🦰 person: red hair
   final FluentEmojiData _personRedHairMedium = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'person: red hair',
     glyph: '🧑🏽‍🦰',
     svgPath: 'assets/person_red_hair_color_medium.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.medium,
   );
 
   /// 🧑🏾‍🦰 person: red hair
   final FluentEmojiData _personRedHairMediumDark = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'person: red hair',
     glyph: '🧑🏾‍🦰',
     svgPath: 'assets/person_red_hair_color_medium-dark.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.mediumDark,
   );
 
   /// 🧑🏿‍🦰 person: red hair
   final FluentEmojiData _personRedHairDark = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'person: red hair',
     glyph: '🧑🏿‍🦰',
     svgPath: 'assets/person_red_hair_color_dark.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.dark,
   );
 
   /// 🧑‍🦳 person: white hair
@@ -14794,6 +16005,7 @@ class FluentEmojiPeopleAndBody {
   /// Medium Dark [_personWhiteHairMediumDark]
   /// Dark [_personWhiteHairDark]
   late final SkinToneFluentEmojiData personWhiteHair = SkinToneFluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'person: white hair',
     glyph: '🧑‍🦳',
@@ -14807,47 +16019,52 @@ class FluentEmojiPeopleAndBody {
 
   /// 🧑🏻‍🦳 person: white hair
   final FluentEmojiData _personWhiteHairLight = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'person: white hair',
     glyph: '🧑🏻‍🦳',
     svgPath: 'assets/person_white_hair_color_light.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.light,
   );
 
   /// 🧑🏼‍🦳 person: white hair
   final FluentEmojiData _personWhiteHairMediumLight = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'person: white hair',
     glyph: '🧑🏼‍🦳',
     svgPath: 'assets/person_white_hair_color_medium-light.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.mediumLight,
   );
 
   /// 🧑🏽‍🦳 person: white hair
   final FluentEmojiData _personWhiteHairMedium = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'person: white hair',
     glyph: '🧑🏽‍🦳',
     svgPath: 'assets/person_white_hair_color_medium.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.medium,
   );
 
   /// 🧑🏾‍🦳 person: white hair
   final FluentEmojiData _personWhiteHairMediumDark = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'person: white hair',
     glyph: '🧑🏾‍🦳',
     svgPath: 'assets/person_white_hair_color_medium-dark.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.mediumDark,
   );
 
   /// 🧑🏿‍🦳 person: white hair
   final FluentEmojiData _personWhiteHairDark = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'person: white hair',
     glyph: '🧑🏿‍🦳',
     svgPath: 'assets/person_white_hair_color_dark.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.dark,
   );
 
   /// 🧑‍✈️ pilot
@@ -14858,6 +16075,7 @@ class FluentEmojiPeopleAndBody {
   /// Medium Dark [_pilotMediumDark]
   /// Dark [_pilotDark]
   late final SkinToneFluentEmojiData pilot = SkinToneFluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'pilot',
     glyph: '🧑‍✈️',
@@ -14871,47 +16089,52 @@ class FluentEmojiPeopleAndBody {
 
   /// 🧑🏻‍✈️ pilot
   final FluentEmojiData _pilotLight = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'pilot',
     glyph: '🧑🏻‍✈️',
     svgPath: 'assets/pilot_color_light.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.light,
   );
 
   /// 🧑🏼‍✈️ pilot
   final FluentEmojiData _pilotMediumLight = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'pilot',
     glyph: '🧑🏼‍✈️',
     svgPath: 'assets/pilot_color_medium-light.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.mediumLight,
   );
 
   /// 🧑🏽‍✈️ pilot
   final FluentEmojiData _pilotMedium = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'pilot',
     glyph: '🧑🏽‍✈️',
     svgPath: 'assets/pilot_color_medium.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.medium,
   );
 
   /// 🧑🏾‍✈️ pilot
   final FluentEmojiData _pilotMediumDark = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'pilot',
     glyph: '🧑🏾‍✈️',
     svgPath: 'assets/pilot_color_medium-dark.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.mediumDark,
   );
 
   /// 🧑🏿‍✈️ pilot
   final FluentEmojiData _pilotDark = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'pilot',
     glyph: '🧑🏿‍✈️',
     svgPath: 'assets/pilot_color_dark.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.dark,
   );
 
   /// 🤌 pinched fingers
@@ -14922,6 +16145,7 @@ class FluentEmojiPeopleAndBody {
   /// Medium Dark [_pinchedFingersMediumDark]
   /// Dark [_pinchedFingersDark]
   late final SkinToneFluentEmojiData pinchedFingers = SkinToneFluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'pinched fingers',
     glyph: '🤌',
@@ -14935,47 +16159,52 @@ class FluentEmojiPeopleAndBody {
 
   /// 🤌🏻 pinched fingers
   final FluentEmojiData _pinchedFingersLight = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'pinched fingers',
     glyph: '🤌🏻',
     svgPath: 'assets/pinched_fingers_color_light.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.light,
   );
 
   /// 🤌🏼 pinched fingers
   final FluentEmojiData _pinchedFingersMediumLight = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'pinched fingers',
     glyph: '🤌🏼',
     svgPath: 'assets/pinched_fingers_color_medium-light.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.mediumLight,
   );
 
   /// 🤌🏽 pinched fingers
   final FluentEmojiData _pinchedFingersMedium = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'pinched fingers',
     glyph: '🤌🏽',
     svgPath: 'assets/pinched_fingers_color_medium.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.medium,
   );
 
   /// 🤌🏾 pinched fingers
   final FluentEmojiData _pinchedFingersMediumDark = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'pinched fingers',
     glyph: '🤌🏾',
     svgPath: 'assets/pinched_fingers_color_medium-dark.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.mediumDark,
   );
 
   /// 🤌🏿 pinched fingers
   final FluentEmojiData _pinchedFingersDark = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'pinched fingers',
     glyph: '🤌🏿',
     svgPath: 'assets/pinched_fingers_color_dark.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.dark,
   );
 
   /// 🤏 pinching hand
@@ -14986,6 +16215,7 @@ class FluentEmojiPeopleAndBody {
   /// Medium Dark [_pinchingHandMediumDark]
   /// Dark [_pinchingHandDark]
   late final SkinToneFluentEmojiData pinchingHand = SkinToneFluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'pinching hand',
     glyph: '🤏',
@@ -14999,47 +16229,52 @@ class FluentEmojiPeopleAndBody {
 
   /// 🤏🏻 pinching hand
   final FluentEmojiData _pinchingHandLight = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'pinching hand',
     glyph: '🤏🏻',
     svgPath: 'assets/pinching_hand_color_light.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.light,
   );
 
   /// 🤏🏼 pinching hand
   final FluentEmojiData _pinchingHandMediumLight = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'pinching hand',
     glyph: '🤏🏼',
     svgPath: 'assets/pinching_hand_color_medium-light.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.mediumLight,
   );
 
   /// 🤏🏽 pinching hand
   final FluentEmojiData _pinchingHandMedium = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'pinching hand',
     glyph: '🤏🏽',
     svgPath: 'assets/pinching_hand_color_medium.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.medium,
   );
 
   /// 🤏🏾 pinching hand
   final FluentEmojiData _pinchingHandMediumDark = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'pinching hand',
     glyph: '🤏🏾',
     svgPath: 'assets/pinching_hand_color_medium-dark.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.mediumDark,
   );
 
   /// 🤏🏿 pinching hand
   final FluentEmojiData _pinchingHandDark = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'pinching hand',
     glyph: '🤏🏿',
     svgPath: 'assets/pinching_hand_color_dark.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.dark,
   );
 
   /// 👮 police officer
@@ -15050,6 +16285,7 @@ class FluentEmojiPeopleAndBody {
   /// Medium Dark [_policeOfficerMediumDark]
   /// Dark [_policeOfficerDark]
   late final SkinToneFluentEmojiData policeOfficer = SkinToneFluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'police officer',
     glyph: '👮',
@@ -15063,47 +16299,52 @@ class FluentEmojiPeopleAndBody {
 
   /// 👮🏻 police officer
   final FluentEmojiData _policeOfficerLight = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'police officer',
     glyph: '👮🏻',
     svgPath: 'assets/police_officer_color_light.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.light,
   );
 
   /// 👮🏼 police officer
   final FluentEmojiData _policeOfficerMediumLight = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'police officer',
     glyph: '👮🏼',
     svgPath: 'assets/police_officer_color_medium-light.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.mediumLight,
   );
 
   /// 👮🏽 police officer
   final FluentEmojiData _policeOfficerMedium = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'police officer',
     glyph: '👮🏽',
     svgPath: 'assets/police_officer_color_medium.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.medium,
   );
 
   /// 👮🏾 police officer
   final FluentEmojiData _policeOfficerMediumDark = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'police officer',
     glyph: '👮🏾',
     svgPath: 'assets/police_officer_color_medium-dark.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.mediumDark,
   );
 
   /// 👮🏿 police officer
   final FluentEmojiData _policeOfficerDark = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'police officer',
     glyph: '👮🏿',
     svgPath: 'assets/police_officer_color_dark.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.dark,
   );
 
   /// 🫃 pregnant man
@@ -15114,6 +16355,7 @@ class FluentEmojiPeopleAndBody {
   /// Medium Dark [_pregnantManMediumDark]
   /// Dark [_pregnantManDark]
   late final SkinToneFluentEmojiData pregnantMan = SkinToneFluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'pregnant man',
     glyph: '🫃',
@@ -15127,47 +16369,52 @@ class FluentEmojiPeopleAndBody {
 
   /// 🫃🏻 pregnant man
   final FluentEmojiData _pregnantManLight = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'pregnant man',
     glyph: '🫃🏻',
     svgPath: 'assets/pregnant_man_color_light.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.light,
   );
 
   /// 🫃🏼 pregnant man
   final FluentEmojiData _pregnantManMediumLight = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'pregnant man',
     glyph: '🫃🏼',
     svgPath: 'assets/pregnant_man_color_medium-light.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.mediumLight,
   );
 
   /// 🫃🏽 pregnant man
   final FluentEmojiData _pregnantManMedium = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'pregnant man',
     glyph: '🫃🏽',
     svgPath: 'assets/pregnant_man_color_medium.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.medium,
   );
 
   /// 🫃🏾 pregnant man
   final FluentEmojiData _pregnantManMediumDark = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'pregnant man',
     glyph: '🫃🏾',
     svgPath: 'assets/pregnant_man_color_medium-dark.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.mediumDark,
   );
 
   /// 🫃🏿 pregnant man
   final FluentEmojiData _pregnantManDark = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'pregnant man',
     glyph: '🫃🏿',
     svgPath: 'assets/pregnant_man_color_dark.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.dark,
   );
 
   /// 🫄 pregnant person
@@ -15178,6 +16425,7 @@ class FluentEmojiPeopleAndBody {
   /// Medium Dark [_pregnantPersonMediumDark]
   /// Dark [_pregnantPersonDark]
   late final SkinToneFluentEmojiData pregnantPerson = SkinToneFluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'pregnant person',
     glyph: '🫄',
@@ -15191,47 +16439,52 @@ class FluentEmojiPeopleAndBody {
 
   /// 🫄🏻 pregnant person
   final FluentEmojiData _pregnantPersonLight = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'pregnant person',
     glyph: '🫄🏻',
     svgPath: 'assets/pregnant_person_color_light.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.light,
   );
 
   /// 🫄🏼 pregnant person
   final FluentEmojiData _pregnantPersonMediumLight = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'pregnant person',
     glyph: '🫄🏼',
     svgPath: 'assets/pregnant_person_color_medium-light.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.mediumLight,
   );
 
   /// 🫄🏽 pregnant person
   final FluentEmojiData _pregnantPersonMedium = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'pregnant person',
     glyph: '🫄🏽',
     svgPath: 'assets/pregnant_person_color_medium.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.medium,
   );
 
   /// 🫄🏾 pregnant person
   final FluentEmojiData _pregnantPersonMediumDark = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'pregnant person',
     glyph: '🫄🏾',
     svgPath: 'assets/pregnant_person_color_medium-dark.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.mediumDark,
   );
 
   /// 🫄🏿 pregnant person
   final FluentEmojiData _pregnantPersonDark = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'pregnant person',
     glyph: '🫄🏿',
     svgPath: 'assets/pregnant_person_color_dark.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.dark,
   );
 
   /// 🤰 pregnant woman
@@ -15242,6 +16495,7 @@ class FluentEmojiPeopleAndBody {
   /// Medium Dark [_pregnantWomanMediumDark]
   /// Dark [_pregnantWomanDark]
   late final SkinToneFluentEmojiData pregnantWoman = SkinToneFluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'pregnant woman',
     glyph: '🤰',
@@ -15255,47 +16509,52 @@ class FluentEmojiPeopleAndBody {
 
   /// 🤰🏻 pregnant woman
   final FluentEmojiData _pregnantWomanLight = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'pregnant woman',
     glyph: '🤰🏻',
     svgPath: 'assets/pregnant_woman_color_light.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.light,
   );
 
   /// 🤰🏼 pregnant woman
   final FluentEmojiData _pregnantWomanMediumLight = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'pregnant woman',
     glyph: '🤰🏼',
     svgPath: 'assets/pregnant_woman_color_medium-light.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.mediumLight,
   );
 
   /// 🤰🏽 pregnant woman
   final FluentEmojiData _pregnantWomanMedium = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'pregnant woman',
     glyph: '🤰🏽',
     svgPath: 'assets/pregnant_woman_color_medium.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.medium,
   );
 
   /// 🤰🏾 pregnant woman
   final FluentEmojiData _pregnantWomanMediumDark = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'pregnant woman',
     glyph: '🤰🏾',
     svgPath: 'assets/pregnant_woman_color_medium-dark.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.mediumDark,
   );
 
   /// 🤰🏿 pregnant woman
   final FluentEmojiData _pregnantWomanDark = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'pregnant woman',
     glyph: '🤰🏿',
     svgPath: 'assets/pregnant_woman_color_dark.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.dark,
   );
 
   /// 🤴 prince
@@ -15306,6 +16565,7 @@ class FluentEmojiPeopleAndBody {
   /// Medium Dark [_princeMediumDark]
   /// Dark [_princeDark]
   late final SkinToneFluentEmojiData prince = SkinToneFluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'prince',
     glyph: '🤴',
@@ -15319,47 +16579,52 @@ class FluentEmojiPeopleAndBody {
 
   /// 🤴🏻 prince
   final FluentEmojiData _princeLight = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'prince',
     glyph: '🤴🏻',
     svgPath: 'assets/prince_color_light.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.light,
   );
 
   /// 🤴🏼 prince
   final FluentEmojiData _princeMediumLight = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'prince',
     glyph: '🤴🏼',
     svgPath: 'assets/prince_color_medium-light.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.mediumLight,
   );
 
   /// 🤴🏽 prince
   final FluentEmojiData _princeMedium = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'prince',
     glyph: '🤴🏽',
     svgPath: 'assets/prince_color_medium.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.medium,
   );
 
   /// 🤴🏾 prince
   final FluentEmojiData _princeMediumDark = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'prince',
     glyph: '🤴🏾',
     svgPath: 'assets/prince_color_medium-dark.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.mediumDark,
   );
 
   /// 🤴🏿 prince
   final FluentEmojiData _princeDark = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'prince',
     glyph: '🤴🏿',
     svgPath: 'assets/prince_color_dark.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.dark,
   );
 
   /// 👸 princess
@@ -15370,6 +16635,7 @@ class FluentEmojiPeopleAndBody {
   /// Medium Dark [_princessMediumDark]
   /// Dark [_princessDark]
   late final SkinToneFluentEmojiData princess = SkinToneFluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'princess',
     glyph: '👸',
@@ -15383,47 +16649,52 @@ class FluentEmojiPeopleAndBody {
 
   /// 👸🏻 princess
   final FluentEmojiData _princessLight = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'princess',
     glyph: '👸🏻',
     svgPath: 'assets/princess_color_light.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.light,
   );
 
   /// 👸🏼 princess
   final FluentEmojiData _princessMediumLight = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'princess',
     glyph: '👸🏼',
     svgPath: 'assets/princess_color_medium-light.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.mediumLight,
   );
 
   /// 👸🏽 princess
   final FluentEmojiData _princessMedium = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'princess',
     glyph: '👸🏽',
     svgPath: 'assets/princess_color_medium.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.medium,
   );
 
   /// 👸🏾 princess
   final FluentEmojiData _princessMediumDark = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'princess',
     glyph: '👸🏾',
     svgPath: 'assets/princess_color_medium-dark.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.mediumDark,
   );
 
   /// 👸🏿 princess
   final FluentEmojiData _princessDark = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'princess',
     glyph: '👸🏿',
     svgPath: 'assets/princess_color_dark.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.dark,
   );
 
   /// 🤚 raised back of hand
@@ -15434,6 +16705,7 @@ class FluentEmojiPeopleAndBody {
   /// Medium Dark [_raisedBackOfHandMediumDark]
   /// Dark [_raisedBackOfHandDark]
   late final SkinToneFluentEmojiData raisedBackOfHand = SkinToneFluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'raised back of hand',
     glyph: '🤚',
@@ -15447,47 +16719,52 @@ class FluentEmojiPeopleAndBody {
 
   /// 🤚🏻 raised back of hand
   final FluentEmojiData _raisedBackOfHandLight = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'raised back of hand',
     glyph: '🤚🏻',
     svgPath: 'assets/raised_back_of_hand_color_light.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.light,
   );
 
   /// 🤚🏼 raised back of hand
   final FluentEmojiData _raisedBackOfHandMediumLight = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'raised back of hand',
     glyph: '🤚🏼',
     svgPath: 'assets/raised_back_of_hand_color_medium-light.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.mediumLight,
   );
 
   /// 🤚🏽 raised back of hand
   final FluentEmojiData _raisedBackOfHandMedium = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'raised back of hand',
     glyph: '🤚🏽',
     svgPath: 'assets/raised_back_of_hand_color_medium.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.medium,
   );
 
   /// 🤚🏾 raised back of hand
   final FluentEmojiData _raisedBackOfHandMediumDark = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'raised back of hand',
     glyph: '🤚🏾',
     svgPath: 'assets/raised_back_of_hand_color_medium-dark.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.mediumDark,
   );
 
   /// 🤚🏿 raised back of hand
   final FluentEmojiData _raisedBackOfHandDark = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'raised back of hand',
     glyph: '🤚🏿',
     svgPath: 'assets/raised_back_of_hand_color_dark.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.dark,
   );
 
   /// ✊ raised fist
@@ -15498,6 +16775,7 @@ class FluentEmojiPeopleAndBody {
   /// Medium Dark [_raisedFistMediumDark]
   /// Dark [_raisedFistDark]
   late final SkinToneFluentEmojiData raisedFist = SkinToneFluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'raised fist',
     glyph: '✊',
@@ -15511,47 +16789,52 @@ class FluentEmojiPeopleAndBody {
 
   /// ✊🏻 raised fist
   final FluentEmojiData _raisedFistLight = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'raised fist',
     glyph: '✊🏻',
     svgPath: 'assets/raised_fist_color_light.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.light,
   );
 
   /// ✊🏼 raised fist
   final FluentEmojiData _raisedFistMediumLight = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'raised fist',
     glyph: '✊🏼',
     svgPath: 'assets/raised_fist_color_medium-light.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.mediumLight,
   );
 
   /// ✊🏽 raised fist
   final FluentEmojiData _raisedFistMedium = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'raised fist',
     glyph: '✊🏽',
     svgPath: 'assets/raised_fist_color_medium.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.medium,
   );
 
   /// ✊🏾 raised fist
   final FluentEmojiData _raisedFistMediumDark = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'raised fist',
     glyph: '✊🏾',
     svgPath: 'assets/raised_fist_color_medium-dark.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.mediumDark,
   );
 
   /// ✊🏿 raised fist
   final FluentEmojiData _raisedFistDark = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'raised fist',
     glyph: '✊🏿',
     svgPath: 'assets/raised_fist_color_dark.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.dark,
   );
 
   /// ✋ raised hand
@@ -15562,6 +16845,7 @@ class FluentEmojiPeopleAndBody {
   /// Medium Dark [_raisedHandMediumDark]
   /// Dark [_raisedHandDark]
   late final SkinToneFluentEmojiData raisedHand = SkinToneFluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'raised hand',
     glyph: '✋',
@@ -15575,47 +16859,52 @@ class FluentEmojiPeopleAndBody {
 
   /// ✋🏻 raised hand
   final FluentEmojiData _raisedHandLight = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'raised hand',
     glyph: '✋🏻',
     svgPath: 'assets/raised_hand_color_light.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.light,
   );
 
   /// ✋🏼 raised hand
   final FluentEmojiData _raisedHandMediumLight = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'raised hand',
     glyph: '✋🏼',
     svgPath: 'assets/raised_hand_color_medium-light.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.mediumLight,
   );
 
   /// ✋🏽 raised hand
   final FluentEmojiData _raisedHandMedium = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'raised hand',
     glyph: '✋🏽',
     svgPath: 'assets/raised_hand_color_medium.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.medium,
   );
 
   /// ✋🏾 raised hand
   final FluentEmojiData _raisedHandMediumDark = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'raised hand',
     glyph: '✋🏾',
     svgPath: 'assets/raised_hand_color_medium-dark.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.mediumDark,
   );
 
   /// ✋🏿 raised hand
   final FluentEmojiData _raisedHandDark = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'raised hand',
     glyph: '✋🏿',
     svgPath: 'assets/raised_hand_color_dark.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.dark,
   );
 
   /// 🙌 raising hands
@@ -15626,6 +16915,7 @@ class FluentEmojiPeopleAndBody {
   /// Medium Dark [_raisingHandsMediumDark]
   /// Dark [_raisingHandsDark]
   late final SkinToneFluentEmojiData raisingHands = SkinToneFluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'raising hands',
     glyph: '🙌',
@@ -15639,47 +16929,52 @@ class FluentEmojiPeopleAndBody {
 
   /// 🙌🏻 raising hands
   final FluentEmojiData _raisingHandsLight = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'raising hands',
     glyph: '🙌🏻',
     svgPath: 'assets/raising_hands_color_light.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.light,
   );
 
   /// 🙌🏼 raising hands
   final FluentEmojiData _raisingHandsMediumLight = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'raising hands',
     glyph: '🙌🏼',
     svgPath: 'assets/raising_hands_color_medium-light.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.mediumLight,
   );
 
   /// 🙌🏽 raising hands
   final FluentEmojiData _raisingHandsMedium = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'raising hands',
     glyph: '🙌🏽',
     svgPath: 'assets/raising_hands_color_medium.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.medium,
   );
 
   /// 🙌🏾 raising hands
   final FluentEmojiData _raisingHandsMediumDark = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'raising hands',
     glyph: '🙌🏾',
     svgPath: 'assets/raising_hands_color_medium-dark.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.mediumDark,
   );
 
   /// 🙌🏿 raising hands
   final FluentEmojiData _raisingHandsDark = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'raising hands',
     glyph: '🙌🏿',
     svgPath: 'assets/raising_hands_color_dark.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.dark,
   );
 
   /// 🤜 right-facing fist
@@ -15690,6 +16985,7 @@ class FluentEmojiPeopleAndBody {
   /// Medium Dark [_rightFacingFistMediumDark]
   /// Dark [_rightFacingFistDark]
   late final SkinToneFluentEmojiData rightFacingFist = SkinToneFluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'right-facing fist',
     glyph: '🤜',
@@ -15703,47 +16999,52 @@ class FluentEmojiPeopleAndBody {
 
   /// 🤜🏻 right-facing fist
   final FluentEmojiData _rightFacingFistLight = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'right-facing fist',
     glyph: '🤜🏻',
     svgPath: 'assets/right-facing_fist_color_light.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.light,
   );
 
   /// 🤜🏼 right-facing fist
   final FluentEmojiData _rightFacingFistMediumLight = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'right-facing fist',
     glyph: '🤜🏼',
     svgPath: 'assets/right-facing_fist_color_medium-light.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.mediumLight,
   );
 
   /// 🤜🏽 right-facing fist
   final FluentEmojiData _rightFacingFistMedium = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'right-facing fist',
     glyph: '🤜🏽',
     svgPath: 'assets/right-facing_fist_color_medium.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.medium,
   );
 
   /// 🤜🏾 right-facing fist
   final FluentEmojiData _rightFacingFistMediumDark = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'right-facing fist',
     glyph: '🤜🏾',
     svgPath: 'assets/right-facing_fist_color_medium-dark.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.mediumDark,
   );
 
   /// 🤜🏿 right-facing fist
   final FluentEmojiData _rightFacingFistDark = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'right-facing fist',
     glyph: '🤜🏿',
     svgPath: 'assets/right-facing_fist_color_dark.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.dark,
   );
 
   /// 🫱 rightwards hand
@@ -15754,6 +17055,7 @@ class FluentEmojiPeopleAndBody {
   /// Medium Dark [_rightwardsHandMediumDark]
   /// Dark [_rightwardsHandDark]
   late final SkinToneFluentEmojiData rightwardsHand = SkinToneFluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'rightwards hand',
     glyph: '🫱',
@@ -15767,47 +17069,52 @@ class FluentEmojiPeopleAndBody {
 
   /// 🫱🏻 rightwards hand
   final FluentEmojiData _rightwardsHandLight = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'rightwards hand',
     glyph: '🫱🏻',
     svgPath: 'assets/rightwards_hand_color_light.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.light,
   );
 
   /// 🫱🏼 rightwards hand
   final FluentEmojiData _rightwardsHandMediumLight = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'rightwards hand',
     glyph: '🫱🏼',
     svgPath: 'assets/rightwards_hand_color_medium-light.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.mediumLight,
   );
 
   /// 🫱🏽 rightwards hand
   final FluentEmojiData _rightwardsHandMedium = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'rightwards hand',
     glyph: '🫱🏽',
     svgPath: 'assets/rightwards_hand_color_medium.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.medium,
   );
 
   /// 🫱🏾 rightwards hand
   final FluentEmojiData _rightwardsHandMediumDark = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'rightwards hand',
     glyph: '🫱🏾',
     svgPath: 'assets/rightwards_hand_color_medium-dark.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.mediumDark,
   );
 
   /// 🫱🏿 rightwards hand
   final FluentEmojiData _rightwardsHandDark = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'rightwards hand',
     glyph: '🫱🏿',
     svgPath: 'assets/rightwards_hand_color_dark.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.dark,
   );
 
   /// 🫸 rightwards pushing hand
@@ -15818,6 +17125,7 @@ class FluentEmojiPeopleAndBody {
   /// Medium Dark [_rightwardsPushingHandMediumDark]
   /// Dark [_rightwardsPushingHandDark]
   late final SkinToneFluentEmojiData rightwardsPushingHand = SkinToneFluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'rightwards pushing hand',
     glyph: '🫸',
@@ -15831,47 +17139,52 @@ class FluentEmojiPeopleAndBody {
 
   /// 🫸🏻 rightwards pushing hand
   final FluentEmojiData _rightwardsPushingHandLight = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'rightwards pushing hand',
     glyph: '🫸🏻',
     svgPath: 'assets/rightwards_pushing_hand_color_light.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.light,
   );
 
   /// 🫸🏼 rightwards pushing hand
   final FluentEmojiData _rightwardsPushingHandMediumLight = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'rightwards pushing hand',
     glyph: '🫸🏼',
     svgPath: 'assets/rightwards_pushing_hand_color_medium-light.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.mediumLight,
   );
 
   /// 🫸🏽 rightwards pushing hand
   final FluentEmojiData _rightwardsPushingHandMedium = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'rightwards pushing hand',
     glyph: '🫸🏽',
     svgPath: 'assets/rightwards_pushing_hand_color_medium.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.medium,
   );
 
   /// 🫸🏾 rightwards pushing hand
   final FluentEmojiData _rightwardsPushingHandMediumDark = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'rightwards pushing hand',
     glyph: '🫸🏾',
     svgPath: 'assets/rightwards_pushing_hand_color_medium-dark.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.mediumDark,
   );
 
   /// 🫸🏿 rightwards pushing hand
   final FluentEmojiData _rightwardsPushingHandDark = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'rightwards pushing hand',
     glyph: '🫸🏿',
     svgPath: 'assets/rightwards_pushing_hand_color_dark.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.dark,
   );
 
   /// 🧑‍🔬 scientist
@@ -15882,6 +17195,7 @@ class FluentEmojiPeopleAndBody {
   /// Medium Dark [_scientistMediumDark]
   /// Dark [_scientistDark]
   late final SkinToneFluentEmojiData scientist = SkinToneFluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'scientist',
     glyph: '🧑‍🔬',
@@ -15895,47 +17209,52 @@ class FluentEmojiPeopleAndBody {
 
   /// 🧑🏻‍🔬 scientist
   final FluentEmojiData _scientistLight = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'scientist',
     glyph: '🧑🏻‍🔬',
     svgPath: 'assets/scientist_color_light.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.light,
   );
 
   /// 🧑🏼‍🔬 scientist
   final FluentEmojiData _scientistMediumLight = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'scientist',
     glyph: '🧑🏼‍🔬',
     svgPath: 'assets/scientist_color_medium-light.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.mediumLight,
   );
 
   /// 🧑🏽‍🔬 scientist
   final FluentEmojiData _scientistMedium = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'scientist',
     glyph: '🧑🏽‍🔬',
     svgPath: 'assets/scientist_color_medium.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.medium,
   );
 
   /// 🧑🏾‍🔬 scientist
   final FluentEmojiData _scientistMediumDark = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'scientist',
     glyph: '🧑🏾‍🔬',
     svgPath: 'assets/scientist_color_medium-dark.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.mediumDark,
   );
 
   /// 🧑🏿‍🔬 scientist
   final FluentEmojiData _scientistDark = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'scientist',
     glyph: '🧑🏿‍🔬',
     svgPath: 'assets/scientist_color_dark.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.dark,
   );
 
   /// 🤳 selfie
@@ -15946,6 +17265,7 @@ class FluentEmojiPeopleAndBody {
   /// Medium Dark [_selfieMediumDark]
   /// Dark [_selfieDark]
   late final SkinToneFluentEmojiData selfie = SkinToneFluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'selfie',
     glyph: '🤳',
@@ -15959,47 +17279,52 @@ class FluentEmojiPeopleAndBody {
 
   /// 🤳🏻 selfie
   final FluentEmojiData _selfieLight = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'selfie',
     glyph: '🤳🏻',
     svgPath: 'assets/selfie_color_light.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.light,
   );
 
   /// 🤳🏼 selfie
   final FluentEmojiData _selfieMediumLight = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'selfie',
     glyph: '🤳🏼',
     svgPath: 'assets/selfie_color_medium-light.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.mediumLight,
   );
 
   /// 🤳🏽 selfie
   final FluentEmojiData _selfieMedium = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'selfie',
     glyph: '🤳🏽',
     svgPath: 'assets/selfie_color_medium.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.medium,
   );
 
   /// 🤳🏾 selfie
   final FluentEmojiData _selfieMediumDark = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'selfie',
     glyph: '🤳🏾',
     svgPath: 'assets/selfie_color_medium-dark.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.mediumDark,
   );
 
   /// 🤳🏿 selfie
   final FluentEmojiData _selfieDark = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'selfie',
     glyph: '🤳🏿',
     svgPath: 'assets/selfie_color_dark.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.dark,
   );
 
   /// 🤘 sign of the horns
@@ -16010,6 +17335,7 @@ class FluentEmojiPeopleAndBody {
   /// Medium Dark [_signOfTheHornsMediumDark]
   /// Dark [_signOfTheHornsDark]
   late final SkinToneFluentEmojiData signOfTheHorns = SkinToneFluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'sign of the horns',
     glyph: '🤘',
@@ -16023,47 +17349,52 @@ class FluentEmojiPeopleAndBody {
 
   /// 🤘🏻 sign of the horns
   final FluentEmojiData _signOfTheHornsLight = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'sign of the horns',
     glyph: '🤘🏻',
     svgPath: 'assets/sign_of_the_horns_color_light.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.light,
   );
 
   /// 🤘🏼 sign of the horns
   final FluentEmojiData _signOfTheHornsMediumLight = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'sign of the horns',
     glyph: '🤘🏼',
     svgPath: 'assets/sign_of_the_horns_color_medium-light.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.mediumLight,
   );
 
   /// 🤘🏽 sign of the horns
   final FluentEmojiData _signOfTheHornsMedium = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'sign of the horns',
     glyph: '🤘🏽',
     svgPath: 'assets/sign_of_the_horns_color_medium.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.medium,
   );
 
   /// 🤘🏾 sign of the horns
   final FluentEmojiData _signOfTheHornsMediumDark = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'sign of the horns',
     glyph: '🤘🏾',
     svgPath: 'assets/sign_of_the_horns_color_medium-dark.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.mediumDark,
   );
 
   /// 🤘🏿 sign of the horns
   final FluentEmojiData _signOfTheHornsDark = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'sign of the horns',
     glyph: '🤘🏿',
     svgPath: 'assets/sign_of_the_horns_color_dark.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.dark,
   );
 
   /// 🧑‍🎤 singer
@@ -16074,6 +17405,7 @@ class FluentEmojiPeopleAndBody {
   /// Medium Dark [_singerMediumDark]
   /// Dark [_singerDark]
   late final SkinToneFluentEmojiData singer = SkinToneFluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'singer',
     glyph: '🧑‍🎤',
@@ -16087,56 +17419,62 @@ class FluentEmojiPeopleAndBody {
 
   /// 🧑🏻‍🎤 singer
   final FluentEmojiData _singerLight = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'singer',
     glyph: '🧑🏻‍🎤',
     svgPath: 'assets/singer_color_light.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.light,
   );
 
   /// 🧑🏼‍🎤 singer
   final FluentEmojiData _singerMediumLight = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'singer',
     glyph: '🧑🏼‍🎤',
     svgPath: 'assets/singer_color_medium-light.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.mediumLight,
   );
 
   /// 🧑🏽‍🎤 singer
   final FluentEmojiData _singerMedium = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'singer',
     glyph: '🧑🏽‍🎤',
     svgPath: 'assets/singer_color_medium.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.medium,
   );
 
   /// 🧑🏾‍🎤 singer
   final FluentEmojiData _singerMediumDark = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'singer',
     glyph: '🧑🏾‍🎤',
     svgPath: 'assets/singer_color_medium-dark.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.mediumDark,
   );
 
   /// 🧑🏿‍🎤 singer
   final FluentEmojiData _singerDark = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'singer',
     glyph: '🧑🏿‍🎤',
     svgPath: 'assets/singer_color_dark.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.dark,
   );
 
   /// ⛷️ skier
   final FluentEmojiData skier = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'skier',
     glyph: '⛷️',
     svgPath: 'assets/skier_color.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.standard,
   );
 
   /// 🏂 snowboarder
@@ -16147,6 +17485,7 @@ class FluentEmojiPeopleAndBody {
   /// Medium Dark [_snowboarderMediumDark]
   /// Dark [_snowboarderDark]
   late final SkinToneFluentEmojiData snowboarder = SkinToneFluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'snowboarder',
     glyph: '🏂',
@@ -16160,56 +17499,62 @@ class FluentEmojiPeopleAndBody {
 
   /// 🏂🏻 snowboarder
   final FluentEmojiData _snowboarderLight = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'snowboarder',
     glyph: '🏂🏻',
     svgPath: 'assets/snowboarder_color_light.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.light,
   );
 
   /// 🏂🏼 snowboarder
   final FluentEmojiData _snowboarderMediumLight = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'snowboarder',
     glyph: '🏂🏼',
     svgPath: 'assets/snowboarder_color_medium-light.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.mediumLight,
   );
 
   /// 🏂🏽 snowboarder
   final FluentEmojiData _snowboarderMedium = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'snowboarder',
     glyph: '🏂🏽',
     svgPath: 'assets/snowboarder_color_medium.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.medium,
   );
 
   /// 🏂🏾 snowboarder
   final FluentEmojiData _snowboarderMediumDark = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'snowboarder',
     glyph: '🏂🏾',
     svgPath: 'assets/snowboarder_color_medium-dark.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.mediumDark,
   );
 
   /// 🏂🏿 snowboarder
   final FluentEmojiData _snowboarderDark = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'snowboarder',
     glyph: '🏂🏿',
     svgPath: 'assets/snowboarder_color_dark.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.dark,
   );
 
   /// 🗣️ speaking head
   final FluentEmojiData speakingHead = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'speaking head',
     glyph: '🗣️',
     svgPath: 'assets/speaking_head_color.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.standard,
   );
 
   /// 🧑‍🎓 student
@@ -16220,6 +17565,7 @@ class FluentEmojiPeopleAndBody {
   /// Medium Dark [_studentMediumDark]
   /// Dark [_studentDark]
   late final SkinToneFluentEmojiData student = SkinToneFluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'student',
     glyph: '🧑‍🎓',
@@ -16233,47 +17579,52 @@ class FluentEmojiPeopleAndBody {
 
   /// 🧑🏻‍🎓 student
   final FluentEmojiData _studentLight = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'student',
     glyph: '🧑🏻‍🎓',
     svgPath: 'assets/student_color_light.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.light,
   );
 
   /// 🧑🏼‍🎓 student
   final FluentEmojiData _studentMediumLight = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'student',
     glyph: '🧑🏼‍🎓',
     svgPath: 'assets/student_color_medium-light.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.mediumLight,
   );
 
   /// 🧑🏽‍🎓 student
   final FluentEmojiData _studentMedium = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'student',
     glyph: '🧑🏽‍🎓',
     svgPath: 'assets/student_color_medium.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.medium,
   );
 
   /// 🧑🏾‍🎓 student
   final FluentEmojiData _studentMediumDark = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'student',
     glyph: '🧑🏾‍🎓',
     svgPath: 'assets/student_color_medium-dark.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.mediumDark,
   );
 
   /// 🧑🏿‍🎓 student
   final FluentEmojiData _studentDark = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'student',
     glyph: '🧑🏿‍🎓',
     svgPath: 'assets/student_color_dark.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.dark,
   );
 
   /// 🦸 superhero
@@ -16284,6 +17635,7 @@ class FluentEmojiPeopleAndBody {
   /// Medium Dark [_superheroMediumDark]
   /// Dark [_superheroDark]
   late final SkinToneFluentEmojiData superhero = SkinToneFluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'superhero',
     glyph: '🦸',
@@ -16297,47 +17649,52 @@ class FluentEmojiPeopleAndBody {
 
   /// 🦸🏻 superhero
   final FluentEmojiData _superheroLight = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'superhero',
     glyph: '🦸🏻',
     svgPath: 'assets/person_superhero_color_light.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.light,
   );
 
   /// 🦸🏼 superhero
   final FluentEmojiData _superheroMediumLight = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'superhero',
     glyph: '🦸🏼',
     svgPath: 'assets/person_superhero_color_medium-light.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.mediumLight,
   );
 
   /// 🦸🏽 superhero
   final FluentEmojiData _superheroMedium = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'superhero',
     glyph: '🦸🏽',
     svgPath: 'assets/person_superhero_color_medium.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.medium,
   );
 
   /// 🦸🏾 superhero
   final FluentEmojiData _superheroMediumDark = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'superhero',
     glyph: '🦸🏾',
     svgPath: 'assets/person_superhero_color_medium-dark.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.mediumDark,
   );
 
   /// 🦸🏿 superhero
   final FluentEmojiData _superheroDark = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'superhero',
     glyph: '🦸🏿',
     svgPath: 'assets/person_superhero_color_dark.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.dark,
   );
 
   /// 🦹 supervillain
@@ -16348,6 +17705,7 @@ class FluentEmojiPeopleAndBody {
   /// Medium Dark [_supervillainMediumDark]
   /// Dark [_supervillainDark]
   late final SkinToneFluentEmojiData supervillain = SkinToneFluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'supervillain',
     glyph: '🦹',
@@ -16361,47 +17719,52 @@ class FluentEmojiPeopleAndBody {
 
   /// 🦹🏻 supervillain
   final FluentEmojiData _supervillainLight = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'supervillain',
     glyph: '🦹🏻',
     svgPath: 'assets/person_supervillain_color_light.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.light,
   );
 
   /// 🦹🏼 supervillain
   final FluentEmojiData _supervillainMediumLight = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'supervillain',
     glyph: '🦹🏼',
     svgPath: 'assets/person_supervillain_color_medium-light.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.mediumLight,
   );
 
   /// 🦹🏽 supervillain
   final FluentEmojiData _supervillainMedium = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'supervillain',
     glyph: '🦹🏽',
     svgPath: 'assets/person_supervillain_color_medium.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.medium,
   );
 
   /// 🦹🏾 supervillain
   final FluentEmojiData _supervillainMediumDark = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'supervillain',
     glyph: '🦹🏾',
     svgPath: 'assets/person_supervillain_color_medium-dark.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.mediumDark,
   );
 
   /// 🦹🏿 supervillain
   final FluentEmojiData _supervillainDark = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'supervillain',
     glyph: '🦹🏿',
     svgPath: 'assets/person_supervillain_color_dark.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.dark,
   );
 
   /// 🧑‍🏫 teacher
@@ -16412,6 +17775,7 @@ class FluentEmojiPeopleAndBody {
   /// Medium Dark [_teacherMediumDark]
   /// Dark [_teacherDark]
   late final SkinToneFluentEmojiData teacher = SkinToneFluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'teacher',
     glyph: '🧑‍🏫',
@@ -16425,47 +17789,52 @@ class FluentEmojiPeopleAndBody {
 
   /// 🧑🏻‍🏫 teacher
   final FluentEmojiData _teacherLight = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'teacher',
     glyph: '🧑🏻‍🏫',
     svgPath: 'assets/teacher_color_light.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.light,
   );
 
   /// 🧑🏼‍🏫 teacher
   final FluentEmojiData _teacherMediumLight = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'teacher',
     glyph: '🧑🏼‍🏫',
     svgPath: 'assets/teacher_color_medium-light.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.mediumLight,
   );
 
   /// 🧑🏽‍🏫 teacher
   final FluentEmojiData _teacherMedium = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'teacher',
     glyph: '🧑🏽‍🏫',
     svgPath: 'assets/teacher_color_medium.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.medium,
   );
 
   /// 🧑🏾‍🏫 teacher
   final FluentEmojiData _teacherMediumDark = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'teacher',
     glyph: '🧑🏾‍🏫',
     svgPath: 'assets/teacher_color_medium-dark.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.mediumDark,
   );
 
   /// 🧑🏿‍🏫 teacher
   final FluentEmojiData _teacherDark = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'teacher',
     glyph: '🧑🏿‍🏫',
     svgPath: 'assets/teacher_color_dark.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.dark,
   );
 
   /// 🧑‍💻 technologist
@@ -16476,6 +17845,7 @@ class FluentEmojiPeopleAndBody {
   /// Medium Dark [_technologistMediumDark]
   /// Dark [_technologistDark]
   late final SkinToneFluentEmojiData technologist = SkinToneFluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'technologist',
     glyph: '🧑‍💻',
@@ -16489,47 +17859,52 @@ class FluentEmojiPeopleAndBody {
 
   /// 🧑🏻‍💻 technologist
   final FluentEmojiData _technologistLight = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'technologist',
     glyph: '🧑🏻‍💻',
     svgPath: 'assets/technologist_color_light.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.light,
   );
 
   /// 🧑🏼‍💻 technologist
   final FluentEmojiData _technologistMediumLight = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'technologist',
     glyph: '🧑🏼‍💻',
     svgPath: 'assets/technologist_color_medium-light.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.mediumLight,
   );
 
   /// 🧑🏽‍💻 technologist
   final FluentEmojiData _technologistMedium = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'technologist',
     glyph: '🧑🏽‍💻',
     svgPath: 'assets/technologist_color_medium.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.medium,
   );
 
   /// 🧑🏾‍💻 technologist
   final FluentEmojiData _technologistMediumDark = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'technologist',
     glyph: '🧑🏾‍💻',
     svgPath: 'assets/technologist_color_medium-dark.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.mediumDark,
   );
 
   /// 🧑🏿‍💻 technologist
   final FluentEmojiData _technologistDark = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'technologist',
     glyph: '🧑🏿‍💻',
     svgPath: 'assets/technologist_color_dark.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.dark,
   );
 
   /// 👎 thumbs down
@@ -16540,6 +17915,7 @@ class FluentEmojiPeopleAndBody {
   /// Medium Dark [_thumbsDownMediumDark]
   /// Dark [_thumbsDownDark]
   late final SkinToneFluentEmojiData thumbsDown = SkinToneFluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'thumbs down',
     glyph: '👎',
@@ -16553,47 +17929,52 @@ class FluentEmojiPeopleAndBody {
 
   /// 👎🏻 thumbs down
   final FluentEmojiData _thumbsDownLight = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'thumbs down',
     glyph: '👎🏻',
     svgPath: 'assets/thumbs_down_color_light.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.light,
   );
 
   /// 👎🏼 thumbs down
   final FluentEmojiData _thumbsDownMediumLight = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'thumbs down',
     glyph: '👎🏼',
     svgPath: 'assets/thumbs_down_color_medium-light.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.mediumLight,
   );
 
   /// 👎🏽 thumbs down
   final FluentEmojiData _thumbsDownMedium = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'thumbs down',
     glyph: '👎🏽',
     svgPath: 'assets/thumbs_down_color_medium.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.medium,
   );
 
   /// 👎🏾 thumbs down
   final FluentEmojiData _thumbsDownMediumDark = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'thumbs down',
     glyph: '👎🏾',
     svgPath: 'assets/thumbs_down_color_medium-dark.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.mediumDark,
   );
 
   /// 👎🏿 thumbs down
   final FluentEmojiData _thumbsDownDark = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'thumbs down',
     glyph: '👎🏿',
     svgPath: 'assets/thumbs_down_color_dark.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.dark,
   );
 
   /// 👍 thumbs up
@@ -16604,6 +17985,7 @@ class FluentEmojiPeopleAndBody {
   /// Medium Dark [_thumbsUpMediumDark]
   /// Dark [_thumbsUpDark]
   late final SkinToneFluentEmojiData thumbsUp = SkinToneFluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'thumbs up',
     glyph: '👍',
@@ -16617,74 +17999,82 @@ class FluentEmojiPeopleAndBody {
 
   /// 👍🏻 thumbs up
   final FluentEmojiData _thumbsUpLight = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'thumbs up',
     glyph: '👍🏻',
     svgPath: 'assets/thumbs_up_color_light.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.light,
   );
 
   /// 👍🏼 thumbs up
   final FluentEmojiData _thumbsUpMediumLight = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'thumbs up',
     glyph: '👍🏼',
     svgPath: 'assets/thumbs_up_color_medium-light.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.mediumLight,
   );
 
   /// 👍🏽 thumbs up
   final FluentEmojiData _thumbsUpMedium = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'thumbs up',
     glyph: '👍🏽',
     svgPath: 'assets/thumbs_up_color_medium.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.medium,
   );
 
   /// 👍🏾 thumbs up
   final FluentEmojiData _thumbsUpMediumDark = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'thumbs up',
     glyph: '👍🏾',
     svgPath: 'assets/thumbs_up_color_medium-dark.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.mediumDark,
   );
 
   /// 👍🏿 thumbs up
   final FluentEmojiData _thumbsUpDark = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'thumbs up',
     glyph: '👍🏿',
     svgPath: 'assets/thumbs_up_color_dark.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.dark,
   );
 
   /// 👅 tongue
   final FluentEmojiData tongue = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'tongue',
     glyph: '👅',
     svgPath: 'assets/tongue_color.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.standard,
   );
 
   /// 🦷 tooth
   final FluentEmojiData tooth = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'tooth',
     glyph: '🦷',
     svgPath: 'assets/tooth_color.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.standard,
   );
 
   /// 🧌 troll
   final FluentEmojiData troll = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'troll',
     glyph: '🧌',
     svgPath: 'assets/troll_color.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.standard,
   );
 
   /// 🧛 vampire
@@ -16695,6 +18085,7 @@ class FluentEmojiPeopleAndBody {
   /// Medium Dark [_vampireMediumDark]
   /// Dark [_vampireDark]
   late final SkinToneFluentEmojiData vampire = SkinToneFluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'vampire',
     glyph: '🧛',
@@ -16708,47 +18099,52 @@ class FluentEmojiPeopleAndBody {
 
   /// 🧛🏻 vampire
   final FluentEmojiData _vampireLight = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'vampire',
     glyph: '🧛🏻',
     svgPath: 'assets/person_vampire_color_light.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.light,
   );
 
   /// 🧛🏼 vampire
   final FluentEmojiData _vampireMediumLight = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'vampire',
     glyph: '🧛🏼',
     svgPath: 'assets/person_vampire_color_medium-light.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.mediumLight,
   );
 
   /// 🧛🏽 vampire
   final FluentEmojiData _vampireMedium = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'vampire',
     glyph: '🧛🏽',
     svgPath: 'assets/person_vampire_color_medium.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.medium,
   );
 
   /// 🧛🏾 vampire
   final FluentEmojiData _vampireMediumDark = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'vampire',
     glyph: '🧛🏾',
     svgPath: 'assets/person_vampire_color_medium-dark.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.mediumDark,
   );
 
   /// 🧛🏿 vampire
   final FluentEmojiData _vampireDark = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'vampire',
     glyph: '🧛🏿',
     svgPath: 'assets/person_vampire_color_dark.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.dark,
   );
 
   /// ✌️ victory hand
@@ -16759,6 +18155,7 @@ class FluentEmojiPeopleAndBody {
   /// Medium Dark [_victoryHandMediumDark]
   /// Dark [_victoryHandDark]
   late final SkinToneFluentEmojiData victoryHand = SkinToneFluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'victory hand',
     glyph: '✌️',
@@ -16772,47 +18169,52 @@ class FluentEmojiPeopleAndBody {
 
   /// ✌🏻 victory hand
   final FluentEmojiData _victoryHandLight = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'victory hand',
     glyph: '✌🏻',
     svgPath: 'assets/victory_hand_color_light.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.light,
   );
 
   /// ✌🏼 victory hand
   final FluentEmojiData _victoryHandMediumLight = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'victory hand',
     glyph: '✌🏼',
     svgPath: 'assets/victory_hand_color_medium-light.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.mediumLight,
   );
 
   /// ✌🏽 victory hand
   final FluentEmojiData _victoryHandMedium = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'victory hand',
     glyph: '✌🏽',
     svgPath: 'assets/victory_hand_color_medium.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.medium,
   );
 
   /// ✌🏾 victory hand
   final FluentEmojiData _victoryHandMediumDark = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'victory hand',
     glyph: '✌🏾',
     svgPath: 'assets/victory_hand_color_medium-dark.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.mediumDark,
   );
 
   /// ✌🏿 victory hand
   final FluentEmojiData _victoryHandDark = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'victory hand',
     glyph: '✌🏿',
     svgPath: 'assets/victory_hand_color_dark.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.dark,
   );
 
   /// 🖖 vulcan salute
@@ -16823,6 +18225,7 @@ class FluentEmojiPeopleAndBody {
   /// Medium Dark [_vulcanSaluteMediumDark]
   /// Dark [_vulcanSaluteDark]
   late final SkinToneFluentEmojiData vulcanSalute = SkinToneFluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'vulcan salute',
     glyph: '🖖',
@@ -16836,47 +18239,52 @@ class FluentEmojiPeopleAndBody {
 
   /// 🖖🏻 vulcan salute
   final FluentEmojiData _vulcanSaluteLight = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'vulcan salute',
     glyph: '🖖🏻',
     svgPath: 'assets/vulcan_salute_color_light.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.light,
   );
 
   /// 🖖🏼 vulcan salute
   final FluentEmojiData _vulcanSaluteMediumLight = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'vulcan salute',
     glyph: '🖖🏼',
     svgPath: 'assets/vulcan_salute_color_medium-light.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.mediumLight,
   );
 
   /// 🖖🏽 vulcan salute
   final FluentEmojiData _vulcanSaluteMedium = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'vulcan salute',
     glyph: '🖖🏽',
     svgPath: 'assets/vulcan_salute_color_medium.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.medium,
   );
 
   /// 🖖🏾 vulcan salute
   final FluentEmojiData _vulcanSaluteMediumDark = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'vulcan salute',
     glyph: '🖖🏾',
     svgPath: 'assets/vulcan_salute_color_medium-dark.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.mediumDark,
   );
 
   /// 🖖🏿 vulcan salute
   final FluentEmojiData _vulcanSaluteDark = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'vulcan salute',
     glyph: '🖖🏿',
     svgPath: 'assets/vulcan_salute_color_dark.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.dark,
   );
 
   /// 👋 waving hand
@@ -16887,6 +18295,7 @@ class FluentEmojiPeopleAndBody {
   /// Medium Dark [_wavingHandMediumDark]
   /// Dark [_wavingHandDark]
   late final SkinToneFluentEmojiData wavingHand = SkinToneFluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'waving hand',
     glyph: '👋',
@@ -16900,47 +18309,52 @@ class FluentEmojiPeopleAndBody {
 
   /// 👋🏻 waving hand
   final FluentEmojiData _wavingHandLight = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'waving hand',
     glyph: '👋🏻',
     svgPath: 'assets/waving_hand_color_light.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.light,
   );
 
   /// 👋🏼 waving hand
   final FluentEmojiData _wavingHandMediumLight = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'waving hand',
     glyph: '👋🏼',
     svgPath: 'assets/waving_hand_color_medium-light.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.mediumLight,
   );
 
   /// 👋🏽 waving hand
   final FluentEmojiData _wavingHandMedium = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'waving hand',
     glyph: '👋🏽',
     svgPath: 'assets/waving_hand_color_medium.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.medium,
   );
 
   /// 👋🏾 waving hand
   final FluentEmojiData _wavingHandMediumDark = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'waving hand',
     glyph: '👋🏾',
     svgPath: 'assets/waving_hand_color_medium-dark.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.mediumDark,
   );
 
   /// 👋🏿 waving hand
   final FluentEmojiData _wavingHandDark = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'waving hand',
     glyph: '👋🏿',
     svgPath: 'assets/waving_hand_color_dark.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.dark,
   );
 
   /// 👩 woman
@@ -16951,6 +18365,7 @@ class FluentEmojiPeopleAndBody {
   /// Medium Dark [_womanMediumDark]
   /// Dark [_womanDark]
   late final SkinToneFluentEmojiData woman = SkinToneFluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'woman',
     glyph: '👩',
@@ -16964,47 +18379,52 @@ class FluentEmojiPeopleAndBody {
 
   /// 👩🏻 woman
   final FluentEmojiData _womanLight = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'woman',
     glyph: '👩🏻',
     svgPath: 'assets/woman_color_light.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.light,
   );
 
   /// 👩🏼 woman
   final FluentEmojiData _womanMediumLight = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'woman',
     glyph: '👩🏼',
     svgPath: 'assets/woman_color_medium-light.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.mediumLight,
   );
 
   /// 👩🏽 woman
   final FluentEmojiData _womanMedium = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'woman',
     glyph: '👩🏽',
     svgPath: 'assets/woman_color_medium.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.medium,
   );
 
   /// 👩🏾 woman
   final FluentEmojiData _womanMediumDark = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'woman',
     glyph: '👩🏾',
     svgPath: 'assets/woman_color_medium-dark.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.mediumDark,
   );
 
   /// 👩🏿 woman
   final FluentEmojiData _womanDark = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'woman',
     glyph: '👩🏿',
     svgPath: 'assets/woman_color_dark.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.dark,
   );
 
   /// 👩‍🎨 woman artist
@@ -17015,6 +18435,7 @@ class FluentEmojiPeopleAndBody {
   /// Medium Dark [_womanArtistMediumDark]
   /// Dark [_womanArtistDark]
   late final SkinToneFluentEmojiData womanArtist = SkinToneFluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'woman artist',
     glyph: '👩‍🎨',
@@ -17028,47 +18449,52 @@ class FluentEmojiPeopleAndBody {
 
   /// 👩🏻‍🎨 woman artist
   final FluentEmojiData _womanArtistLight = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'woman artist',
     glyph: '👩🏻‍🎨',
     svgPath: 'assets/woman_artist_color_light.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.light,
   );
 
   /// 👩🏼‍🎨 woman artist
   final FluentEmojiData _womanArtistMediumLight = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'woman artist',
     glyph: '👩🏼‍🎨',
     svgPath: 'assets/woman_artist_color_medium-light.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.mediumLight,
   );
 
   /// 👩🏽‍🎨 woman artist
   final FluentEmojiData _womanArtistMedium = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'woman artist',
     glyph: '👩🏽‍🎨',
     svgPath: 'assets/woman_artist_color_medium.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.medium,
   );
 
   /// 👩🏾‍🎨 woman artist
   final FluentEmojiData _womanArtistMediumDark = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'woman artist',
     glyph: '👩🏾‍🎨',
     svgPath: 'assets/woman_artist_color_medium-dark.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.mediumDark,
   );
 
   /// 👩🏿‍🎨 woman artist
   final FluentEmojiData _womanArtistDark = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'woman artist',
     glyph: '👩🏿‍🎨',
     svgPath: 'assets/woman_artist_color_dark.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.dark,
   );
 
   /// 👩‍🚀 woman astronaut
@@ -17079,6 +18505,7 @@ class FluentEmojiPeopleAndBody {
   /// Medium Dark [_womanAstronautMediumDark]
   /// Dark [_womanAstronautDark]
   late final SkinToneFluentEmojiData womanAstronaut = SkinToneFluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'woman astronaut',
     glyph: '👩‍🚀',
@@ -17092,47 +18519,52 @@ class FluentEmojiPeopleAndBody {
 
   /// 👩🏻‍🚀 woman astronaut
   final FluentEmojiData _womanAstronautLight = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'woman astronaut',
     glyph: '👩🏻‍🚀',
     svgPath: 'assets/woman_astronaut_color_light.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.light,
   );
 
   /// 👩🏼‍🚀 woman astronaut
   final FluentEmojiData _womanAstronautMediumLight = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'woman astronaut',
     glyph: '👩🏼‍🚀',
     svgPath: 'assets/woman_astronaut_color_medium-light.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.mediumLight,
   );
 
   /// 👩🏽‍🚀 woman astronaut
   final FluentEmojiData _womanAstronautMedium = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'woman astronaut',
     glyph: '👩🏽‍🚀',
     svgPath: 'assets/woman_astronaut_color_medium.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.medium,
   );
 
   /// 👩🏾‍🚀 woman astronaut
   final FluentEmojiData _womanAstronautMediumDark = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'woman astronaut',
     glyph: '👩🏾‍🚀',
     svgPath: 'assets/woman_astronaut_color_medium-dark.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.mediumDark,
   );
 
   /// 👩🏿‍🚀 woman astronaut
   final FluentEmojiData _womanAstronautDark = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'woman astronaut',
     glyph: '👩🏿‍🚀',
     svgPath: 'assets/woman_astronaut_color_dark.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.dark,
   );
 
   /// 🚴‍♀️ woman biking
@@ -17143,6 +18575,7 @@ class FluentEmojiPeopleAndBody {
   /// Medium Dark [_womanBikingMediumDark]
   /// Dark [_womanBikingDark]
   late final SkinToneFluentEmojiData womanBiking = SkinToneFluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'woman biking',
     glyph: '🚴‍♀️',
@@ -17156,47 +18589,52 @@ class FluentEmojiPeopleAndBody {
 
   /// 🚴🏻‍♀️ woman biking
   final FluentEmojiData _womanBikingLight = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'woman biking',
     glyph: '🚴🏻‍♀️',
     svgPath: 'assets/woman_biking_color_light.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.light,
   );
 
   /// 🚴🏼‍♀️ woman biking
   final FluentEmojiData _womanBikingMediumLight = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'woman biking',
     glyph: '🚴🏼‍♀️',
     svgPath: 'assets/woman_biking_color_medium-light.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.mediumLight,
   );
 
   /// 🚴🏽‍♀️ woman biking
   final FluentEmojiData _womanBikingMedium = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'woman biking',
     glyph: '🚴🏽‍♀️',
     svgPath: 'assets/woman_biking_color_medium.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.medium,
   );
 
   /// 🚴🏾‍♀️ woman biking
   final FluentEmojiData _womanBikingMediumDark = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'woman biking',
     glyph: '🚴🏾‍♀️',
     svgPath: 'assets/woman_biking_color_medium-dark.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.mediumDark,
   );
 
   /// 🚴🏿‍♀️ woman biking
   final FluentEmojiData _womanBikingDark = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'woman biking',
     glyph: '🚴🏿‍♀️',
     svgPath: 'assets/woman_biking_color_dark.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.dark,
   );
 
   /// ⛹️‍♀️ woman bouncing ball
@@ -17207,6 +18645,7 @@ class FluentEmojiPeopleAndBody {
   /// Medium Dark [_womanBouncingBallMediumDark]
   /// Dark [_womanBouncingBallDark]
   late final SkinToneFluentEmojiData womanBouncingBall = SkinToneFluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'woman bouncing ball',
     glyph: '⛹️‍♀️',
@@ -17220,47 +18659,52 @@ class FluentEmojiPeopleAndBody {
 
   /// ⛹🏻‍♀️ woman bouncing ball
   final FluentEmojiData _womanBouncingBallLight = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'woman bouncing ball',
     glyph: '⛹🏻‍♀️',
     svgPath: 'assets/woman_bouncing_ball_color_light.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.light,
   );
 
   /// ⛹🏼‍♀️ woman bouncing ball
   final FluentEmojiData _womanBouncingBallMediumLight = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'woman bouncing ball',
     glyph: '⛹🏼‍♀️',
     svgPath: 'assets/woman_bouncing_ball_color_medium-light.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.mediumLight,
   );
 
   /// ⛹🏽‍♀️ woman bouncing ball
   final FluentEmojiData _womanBouncingBallMedium = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'woman bouncing ball',
     glyph: '⛹🏽‍♀️',
     svgPath: 'assets/woman_bouncing_ball_color_medium.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.medium,
   );
 
   /// ⛹🏾‍♀️ woman bouncing ball
   final FluentEmojiData _womanBouncingBallMediumDark = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'woman bouncing ball',
     glyph: '⛹🏾‍♀️',
     svgPath: 'assets/woman_bouncing_ball_color_medium-dark.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.mediumDark,
   );
 
   /// ⛹🏿‍♀️ woman bouncing ball
   final FluentEmojiData _womanBouncingBallDark = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'woman bouncing ball',
     glyph: '⛹🏿‍♀️',
     svgPath: 'assets/woman_bouncing_ball_color_dark.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.dark,
   );
 
   /// 🙇‍♀️ woman bowing
@@ -17271,6 +18715,7 @@ class FluentEmojiPeopleAndBody {
   /// Medium Dark [_womanBowingMediumDark]
   /// Dark [_womanBowingDark]
   late final SkinToneFluentEmojiData womanBowing = SkinToneFluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'woman bowing',
     glyph: '🙇‍♀️',
@@ -17284,47 +18729,52 @@ class FluentEmojiPeopleAndBody {
 
   /// 🙇🏻‍♀️ woman bowing
   final FluentEmojiData _womanBowingLight = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'woman bowing',
     glyph: '🙇🏻‍♀️',
     svgPath: 'assets/woman_bowing_color_light.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.light,
   );
 
   /// 🙇🏼‍♀️ woman bowing
   final FluentEmojiData _womanBowingMediumLight = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'woman bowing',
     glyph: '🙇🏼‍♀️',
     svgPath: 'assets/woman_bowing_color_medium-light.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.mediumLight,
   );
 
   /// 🙇🏽‍♀️ woman bowing
   final FluentEmojiData _womanBowingMedium = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'woman bowing',
     glyph: '🙇🏽‍♀️',
     svgPath: 'assets/woman_bowing_color_medium.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.medium,
   );
 
   /// 🙇🏾‍♀️ woman bowing
   final FluentEmojiData _womanBowingMediumDark = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'woman bowing',
     glyph: '🙇🏾‍♀️',
     svgPath: 'assets/woman_bowing_color_medium-dark.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.mediumDark,
   );
 
   /// 🙇🏿‍♀️ woman bowing
   final FluentEmojiData _womanBowingDark = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'woman bowing',
     glyph: '🙇🏿‍♀️',
     svgPath: 'assets/woman_bowing_color_dark.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.dark,
   );
 
   /// 🤸‍♀️ woman cartwheeling
@@ -17335,6 +18785,7 @@ class FluentEmojiPeopleAndBody {
   /// Medium Dark [_womanCartwheelingMediumDark]
   /// Dark [_womanCartwheelingDark]
   late final SkinToneFluentEmojiData womanCartwheeling = SkinToneFluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'woman cartwheeling',
     glyph: '🤸‍♀️',
@@ -17348,47 +18799,52 @@ class FluentEmojiPeopleAndBody {
 
   /// 🤸🏻‍♀️ woman cartwheeling
   final FluentEmojiData _womanCartwheelingLight = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'woman cartwheeling',
     glyph: '🤸🏻‍♀️',
     svgPath: 'assets/woman_cartwheeling_color_light.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.light,
   );
 
   /// 🤸🏼‍♀️ woman cartwheeling
   final FluentEmojiData _womanCartwheelingMediumLight = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'woman cartwheeling',
     glyph: '🤸🏼‍♀️',
     svgPath: 'assets/woman_cartwheeling_color_medium-light.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.mediumLight,
   );
 
   /// 🤸🏽‍♀️ woman cartwheeling
   final FluentEmojiData _womanCartwheelingMedium = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'woman cartwheeling',
     glyph: '🤸🏽‍♀️',
     svgPath: 'assets/woman_cartwheeling_color_medium.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.medium,
   );
 
   /// 🤸🏾‍♀️ woman cartwheeling
   final FluentEmojiData _womanCartwheelingMediumDark = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'woman cartwheeling',
     glyph: '🤸🏾‍♀️',
     svgPath: 'assets/woman_cartwheeling_color_medium-dark.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.mediumDark,
   );
 
   /// 🤸🏿‍♀️ woman cartwheeling
   final FluentEmojiData _womanCartwheelingDark = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'woman cartwheeling',
     glyph: '🤸🏿‍♀️',
     svgPath: 'assets/woman_cartwheeling_color_dark.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.dark,
   );
 
   /// 🧗‍♀️ woman climbing
@@ -17399,6 +18855,7 @@ class FluentEmojiPeopleAndBody {
   /// Medium Dark [_womanClimbingMediumDark]
   /// Dark [_womanClimbingDark]
   late final SkinToneFluentEmojiData womanClimbing = SkinToneFluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'woman climbing',
     glyph: '🧗‍♀️',
@@ -17412,47 +18869,52 @@ class FluentEmojiPeopleAndBody {
 
   /// 🧗🏻‍♀️ woman climbing
   final FluentEmojiData _womanClimbingLight = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'woman climbing',
     glyph: '🧗🏻‍♀️',
     svgPath: 'assets/woman_climbing_color_light.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.light,
   );
 
   /// 🧗🏼‍♀️ woman climbing
   final FluentEmojiData _womanClimbingMediumLight = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'woman climbing',
     glyph: '🧗🏼‍♀️',
     svgPath: 'assets/woman_climbing_color_medium-light.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.mediumLight,
   );
 
   /// 🧗🏽‍♀️ woman climbing
   final FluentEmojiData _womanClimbingMedium = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'woman climbing',
     glyph: '🧗🏽‍♀️',
     svgPath: 'assets/woman_climbing_color_medium.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.medium,
   );
 
   /// 🧗🏾‍♀️ woman climbing
   final FluentEmojiData _womanClimbingMediumDark = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'woman climbing',
     glyph: '🧗🏾‍♀️',
     svgPath: 'assets/woman_climbing_color_medium-dark.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.mediumDark,
   );
 
   /// 🧗🏿‍♀️ woman climbing
   final FluentEmojiData _womanClimbingDark = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'woman climbing',
     glyph: '🧗🏿‍♀️',
     svgPath: 'assets/woman_climbing_color_dark.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.dark,
   );
 
   /// 👷‍♀️ woman construction worker
@@ -17463,6 +18925,7 @@ class FluentEmojiPeopleAndBody {
   /// Medium Dark [_womanConstructionWorkerMediumDark]
   /// Dark [_womanConstructionWorkerDark]
   late final SkinToneFluentEmojiData womanConstructionWorker = SkinToneFluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'woman construction worker',
     glyph: '👷‍♀️',
@@ -17476,47 +18939,52 @@ class FluentEmojiPeopleAndBody {
 
   /// 👷🏻‍♀️ woman construction worker
   final FluentEmojiData _womanConstructionWorkerLight = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'woman construction worker',
     glyph: '👷🏻‍♀️',
     svgPath: 'assets/woman_construction_worker_color_light.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.light,
   );
 
   /// 👷🏼‍♀️ woman construction worker
   final FluentEmojiData _womanConstructionWorkerMediumLight = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'woman construction worker',
     glyph: '👷🏼‍♀️',
     svgPath: 'assets/woman_construction_worker_color_medium-light.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.mediumLight,
   );
 
   /// 👷🏽‍♀️ woman construction worker
   final FluentEmojiData _womanConstructionWorkerMedium = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'woman construction worker',
     glyph: '👷🏽‍♀️',
     svgPath: 'assets/woman_construction_worker_color_medium.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.medium,
   );
 
   /// 👷🏾‍♀️ woman construction worker
   final FluentEmojiData _womanConstructionWorkerMediumDark = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'woman construction worker',
     glyph: '👷🏾‍♀️',
     svgPath: 'assets/woman_construction_worker_color_medium-dark.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.mediumDark,
   );
 
   /// 👷🏿‍♀️ woman construction worker
   final FluentEmojiData _womanConstructionWorkerDark = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'woman construction worker',
     glyph: '👷🏿‍♀️',
     svgPath: 'assets/woman_construction_worker_color_dark.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.dark,
   );
 
   /// 👩‍🍳 woman cook
@@ -17527,6 +18995,7 @@ class FluentEmojiPeopleAndBody {
   /// Medium Dark [_womanCookMediumDark]
   /// Dark [_womanCookDark]
   late final SkinToneFluentEmojiData womanCook = SkinToneFluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'woman cook',
     glyph: '👩‍🍳',
@@ -17540,47 +19009,52 @@ class FluentEmojiPeopleAndBody {
 
   /// 👩🏻‍🍳 woman cook
   final FluentEmojiData _womanCookLight = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'woman cook',
     glyph: '👩🏻‍🍳',
     svgPath: 'assets/woman_cook_color_light.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.light,
   );
 
   /// 👩🏼‍🍳 woman cook
   final FluentEmojiData _womanCookMediumLight = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'woman cook',
     glyph: '👩🏼‍🍳',
     svgPath: 'assets/woman_cook_color_medium-light.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.mediumLight,
   );
 
   /// 👩🏽‍🍳 woman cook
   final FluentEmojiData _womanCookMedium = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'woman cook',
     glyph: '👩🏽‍🍳',
     svgPath: 'assets/woman_cook_color_medium.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.medium,
   );
 
   /// 👩🏾‍🍳 woman cook
   final FluentEmojiData _womanCookMediumDark = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'woman cook',
     glyph: '👩🏾‍🍳',
     svgPath: 'assets/woman_cook_color_medium-dark.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.mediumDark,
   );
 
   /// 👩🏿‍🍳 woman cook
   final FluentEmojiData _womanCookDark = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'woman cook',
     glyph: '👩🏿‍🍳',
     svgPath: 'assets/woman_cook_color_dark.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.dark,
   );
 
   /// 💃 woman dancing
@@ -17591,6 +19065,7 @@ class FluentEmojiPeopleAndBody {
   /// Medium Dark [_womanDancingMediumDark]
   /// Dark [_womanDancingDark]
   late final SkinToneFluentEmojiData womanDancing = SkinToneFluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'woman dancing',
     glyph: '💃',
@@ -17604,47 +19079,52 @@ class FluentEmojiPeopleAndBody {
 
   /// 💃🏻 woman dancing
   final FluentEmojiData _womanDancingLight = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'woman dancing',
     glyph: '💃🏻',
     svgPath: 'assets/woman_dancing_color_light.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.light,
   );
 
   /// 💃🏼 woman dancing
   final FluentEmojiData _womanDancingMediumLight = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'woman dancing',
     glyph: '💃🏼',
     svgPath: 'assets/woman_dancing_color_medium-light.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.mediumLight,
   );
 
   /// 💃🏽 woman dancing
   final FluentEmojiData _womanDancingMedium = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'woman dancing',
     glyph: '💃🏽',
     svgPath: 'assets/woman_dancing_color_medium.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.medium,
   );
 
   /// 💃🏾 woman dancing
   final FluentEmojiData _womanDancingMediumDark = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'woman dancing',
     glyph: '💃🏾',
     svgPath: 'assets/woman_dancing_color_medium-dark.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.mediumDark,
   );
 
   /// 💃🏿 woman dancing
   final FluentEmojiData _womanDancingDark = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'woman dancing',
     glyph: '💃🏿',
     svgPath: 'assets/woman_dancing_color_dark.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.dark,
   );
 
   /// 🕵️‍♀️ woman detective
@@ -17655,6 +19135,7 @@ class FluentEmojiPeopleAndBody {
   /// Medium Dark [_womanDetectiveMediumDark]
   /// Dark [_womanDetectiveDark]
   late final SkinToneFluentEmojiData womanDetective = SkinToneFluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'woman detective',
     glyph: '🕵️‍♀️',
@@ -17668,47 +19149,52 @@ class FluentEmojiPeopleAndBody {
 
   /// 🕵🏻‍♀️ woman detective
   final FluentEmojiData _womanDetectiveLight = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'woman detective',
     glyph: '🕵🏻‍♀️',
     svgPath: 'assets/woman_detective_color_light.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.light,
   );
 
   /// 🕵🏼‍♀️ woman detective
   final FluentEmojiData _womanDetectiveMediumLight = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'woman detective',
     glyph: '🕵🏼‍♀️',
     svgPath: 'assets/woman_detective_color_medium-light.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.mediumLight,
   );
 
   /// 🕵🏽‍♀️ woman detective
   final FluentEmojiData _womanDetectiveMedium = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'woman detective',
     glyph: '🕵🏽‍♀️',
     svgPath: 'assets/woman_detective_color_medium.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.medium,
   );
 
   /// 🕵🏾‍♀️ woman detective
   final FluentEmojiData _womanDetectiveMediumDark = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'woman detective',
     glyph: '🕵🏾‍♀️',
     svgPath: 'assets/woman_detective_color_medium-dark.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.mediumDark,
   );
 
   /// 🕵🏿‍♀️ woman detective
   final FluentEmojiData _womanDetectiveDark = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'woman detective',
     glyph: '🕵🏿‍♀️',
     svgPath: 'assets/woman_detective_color_dark.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.dark,
   );
 
   /// 🧝‍♀️ woman elf
@@ -17719,6 +19205,7 @@ class FluentEmojiPeopleAndBody {
   /// Medium Dark [_womanElfMediumDark]
   /// Dark [_womanElfDark]
   late final SkinToneFluentEmojiData womanElf = SkinToneFluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'woman elf',
     glyph: '🧝‍♀️',
@@ -17732,47 +19219,52 @@ class FluentEmojiPeopleAndBody {
 
   /// 🧝🏻‍♀️ woman elf
   final FluentEmojiData _womanElfLight = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'woman elf',
     glyph: '🧝🏻‍♀️',
     svgPath: 'assets/woman_elf_color_light.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.light,
   );
 
   /// 🧝🏼‍♀️ woman elf
   final FluentEmojiData _womanElfMediumLight = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'woman elf',
     glyph: '🧝🏼‍♀️',
     svgPath: 'assets/woman_elf_color_medium-light.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.mediumLight,
   );
 
   /// 🧝🏽‍♀️ woman elf
   final FluentEmojiData _womanElfMedium = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'woman elf',
     glyph: '🧝🏽‍♀️',
     svgPath: 'assets/woman_elf_color_medium.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.medium,
   );
 
   /// 🧝🏾‍♀️ woman elf
   final FluentEmojiData _womanElfMediumDark = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'woman elf',
     glyph: '🧝🏾‍♀️',
     svgPath: 'assets/woman_elf_color_medium-dark.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.mediumDark,
   );
 
   /// 🧝🏿‍♀️ woman elf
   final FluentEmojiData _womanElfDark = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'woman elf',
     glyph: '🧝🏿‍♀️',
     svgPath: 'assets/woman_elf_color_dark.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.dark,
   );
 
   /// 🤦‍♀️ woman facepalming
@@ -17783,6 +19275,7 @@ class FluentEmojiPeopleAndBody {
   /// Medium Dark [_womanFacepalmingMediumDark]
   /// Dark [_womanFacepalmingDark]
   late final SkinToneFluentEmojiData womanFacepalming = SkinToneFluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'woman facepalming',
     glyph: '🤦‍♀️',
@@ -17796,47 +19289,52 @@ class FluentEmojiPeopleAndBody {
 
   /// 🤦🏻‍♀️ woman facepalming
   final FluentEmojiData _womanFacepalmingLight = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'woman facepalming',
     glyph: '🤦🏻‍♀️',
     svgPath: 'assets/woman_facepalming_color_light.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.light,
   );
 
   /// 🤦🏼‍♀️ woman facepalming
   final FluentEmojiData _womanFacepalmingMediumLight = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'woman facepalming',
     glyph: '🤦🏼‍♀️',
     svgPath: 'assets/woman_facepalming_color_medium-light.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.mediumLight,
   );
 
   /// 🤦🏽‍♀️ woman facepalming
   final FluentEmojiData _womanFacepalmingMedium = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'woman facepalming',
     glyph: '🤦🏽‍♀️',
     svgPath: 'assets/woman_facepalming_color_medium.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.medium,
   );
 
   /// 🤦🏾‍♀️ woman facepalming
   final FluentEmojiData _womanFacepalmingMediumDark = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'woman facepalming',
     glyph: '🤦🏾‍♀️',
     svgPath: 'assets/woman_facepalming_color_medium-dark.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.mediumDark,
   );
 
   /// 🤦🏿‍♀️ woman facepalming
   final FluentEmojiData _womanFacepalmingDark = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'woman facepalming',
     glyph: '🤦🏿‍♀️',
     svgPath: 'assets/woman_facepalming_color_dark.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.dark,
   );
 
   /// 👩‍🏭 woman factory worker
@@ -17847,6 +19345,7 @@ class FluentEmojiPeopleAndBody {
   /// Medium Dark [_womanFactoryWorkerMediumDark]
   /// Dark [_womanFactoryWorkerDark]
   late final SkinToneFluentEmojiData womanFactoryWorker = SkinToneFluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'woman factory worker',
     glyph: '👩‍🏭',
@@ -17860,47 +19359,52 @@ class FluentEmojiPeopleAndBody {
 
   /// 👩🏻‍🏭 woman factory worker
   final FluentEmojiData _womanFactoryWorkerLight = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'woman factory worker',
     glyph: '👩🏻‍🏭',
     svgPath: 'assets/woman_factory_worker_color_light.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.light,
   );
 
   /// 👩🏼‍🏭 woman factory worker
   final FluentEmojiData _womanFactoryWorkerMediumLight = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'woman factory worker',
     glyph: '👩🏼‍🏭',
     svgPath: 'assets/woman_factory_worker_color_medium-light.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.mediumLight,
   );
 
   /// 👩🏽‍🏭 woman factory worker
   final FluentEmojiData _womanFactoryWorkerMedium = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'woman factory worker',
     glyph: '👩🏽‍🏭',
     svgPath: 'assets/woman_factory_worker_color_medium.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.medium,
   );
 
   /// 👩🏾‍🏭 woman factory worker
   final FluentEmojiData _womanFactoryWorkerMediumDark = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'woman factory worker',
     glyph: '👩🏾‍🏭',
     svgPath: 'assets/woman_factory_worker_color_medium-dark.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.mediumDark,
   );
 
   /// 👩🏿‍🏭 woman factory worker
   final FluentEmojiData _womanFactoryWorkerDark = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'woman factory worker',
     glyph: '👩🏿‍🏭',
     svgPath: 'assets/woman_factory_worker_color_dark.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.dark,
   );
 
   /// 🧚‍♀️ woman fairy
@@ -17911,6 +19415,7 @@ class FluentEmojiPeopleAndBody {
   /// Medium Dark [_womanFairyMediumDark]
   /// Dark [_womanFairyDark]
   late final SkinToneFluentEmojiData womanFairy = SkinToneFluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'woman fairy',
     glyph: '🧚‍♀️',
@@ -17924,47 +19429,52 @@ class FluentEmojiPeopleAndBody {
 
   /// 🧚🏻‍♀️ woman fairy
   final FluentEmojiData _womanFairyLight = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'woman fairy',
     glyph: '🧚🏻‍♀️',
     svgPath: 'assets/woman_fairy_color_light.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.light,
   );
 
   /// 🧚🏼‍♀️ woman fairy
   final FluentEmojiData _womanFairyMediumLight = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'woman fairy',
     glyph: '🧚🏼‍♀️',
     svgPath: 'assets/woman_fairy_color_medium-light.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.mediumLight,
   );
 
   /// 🧚🏽‍♀️ woman fairy
   final FluentEmojiData _womanFairyMedium = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'woman fairy',
     glyph: '🧚🏽‍♀️',
     svgPath: 'assets/woman_fairy_color_medium.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.medium,
   );
 
   /// 🧚🏾‍♀️ woman fairy
   final FluentEmojiData _womanFairyMediumDark = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'woman fairy',
     glyph: '🧚🏾‍♀️',
     svgPath: 'assets/woman_fairy_color_medium-dark.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.mediumDark,
   );
 
   /// 🧚🏿‍♀️ woman fairy
   final FluentEmojiData _womanFairyDark = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'woman fairy',
     glyph: '🧚🏿‍♀️',
     svgPath: 'assets/woman_fairy_color_dark.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.dark,
   );
 
   /// 👩‍🌾 woman farmer
@@ -17975,6 +19485,7 @@ class FluentEmojiPeopleAndBody {
   /// Medium Dark [_womanFarmerMediumDark]
   /// Dark [_womanFarmerDark]
   late final SkinToneFluentEmojiData womanFarmer = SkinToneFluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'woman farmer',
     glyph: '👩‍🌾',
@@ -17988,47 +19499,52 @@ class FluentEmojiPeopleAndBody {
 
   /// 👩🏻‍🌾 woman farmer
   final FluentEmojiData _womanFarmerLight = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'woman farmer',
     glyph: '👩🏻‍🌾',
     svgPath: 'assets/woman_farmer_color_light.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.light,
   );
 
   /// 👩🏼‍🌾 woman farmer
   final FluentEmojiData _womanFarmerMediumLight = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'woman farmer',
     glyph: '👩🏼‍🌾',
     svgPath: 'assets/woman_farmer_color_medium-light.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.mediumLight,
   );
 
   /// 👩🏽‍🌾 woman farmer
   final FluentEmojiData _womanFarmerMedium = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'woman farmer',
     glyph: '👩🏽‍🌾',
     svgPath: 'assets/woman_farmer_color_medium.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.medium,
   );
 
   /// 👩🏾‍🌾 woman farmer
   final FluentEmojiData _womanFarmerMediumDark = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'woman farmer',
     glyph: '👩🏾‍🌾',
     svgPath: 'assets/woman_farmer_color_medium-dark.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.mediumDark,
   );
 
   /// 👩🏿‍🌾 woman farmer
   final FluentEmojiData _womanFarmerDark = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'woman farmer',
     glyph: '👩🏿‍🌾',
     svgPath: 'assets/woman_farmer_color_dark.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.dark,
   );
 
   /// 👩‍🍼 woman feeding baby
@@ -18039,6 +19555,7 @@ class FluentEmojiPeopleAndBody {
   /// Medium Dark [_womanFeedingBabyMediumDark]
   /// Dark [_womanFeedingBabyDark]
   late final SkinToneFluentEmojiData womanFeedingBaby = SkinToneFluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'woman feeding baby',
     glyph: '👩‍🍼',
@@ -18052,47 +19569,52 @@ class FluentEmojiPeopleAndBody {
 
   /// 👩🏻‍🍼 woman feeding baby
   final FluentEmojiData _womanFeedingBabyLight = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'woman feeding baby',
     glyph: '👩🏻‍🍼',
     svgPath: 'assets/woman_feeding_baby_color_light.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.light,
   );
 
   /// 👩🏼‍🍼 woman feeding baby
   final FluentEmojiData _womanFeedingBabyMediumLight = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'woman feeding baby',
     glyph: '👩🏼‍🍼',
     svgPath: 'assets/woman_feeding_baby_color_medium-light.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.mediumLight,
   );
 
   /// 👩🏽‍🍼 woman feeding baby
   final FluentEmojiData _womanFeedingBabyMedium = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'woman feeding baby',
     glyph: '👩🏽‍🍼',
     svgPath: 'assets/woman_feeding_baby_color_medium.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.medium,
   );
 
   /// 👩🏾‍🍼 woman feeding baby
   final FluentEmojiData _womanFeedingBabyMediumDark = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'woman feeding baby',
     glyph: '👩🏾‍🍼',
     svgPath: 'assets/woman_feeding_baby_color_medium-dark.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.mediumDark,
   );
 
   /// 👩🏿‍🍼 woman feeding baby
   final FluentEmojiData _womanFeedingBabyDark = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'woman feeding baby',
     glyph: '👩🏿‍🍼',
     svgPath: 'assets/woman_feeding_baby_color_dark.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.dark,
   );
 
   /// 👩‍🚒 woman firefighter
@@ -18103,6 +19625,7 @@ class FluentEmojiPeopleAndBody {
   /// Medium Dark [_womanFirefighterMediumDark]
   /// Dark [_womanFirefighterDark]
   late final SkinToneFluentEmojiData womanFirefighter = SkinToneFluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'woman firefighter',
     glyph: '👩‍🚒',
@@ -18116,47 +19639,52 @@ class FluentEmojiPeopleAndBody {
 
   /// 👩🏻‍🚒 woman firefighter
   final FluentEmojiData _womanFirefighterLight = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'woman firefighter',
     glyph: '👩🏻‍🚒',
     svgPath: 'assets/woman_firefighter_color_light.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.light,
   );
 
   /// 👩🏼‍🚒 woman firefighter
   final FluentEmojiData _womanFirefighterMediumLight = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'woman firefighter',
     glyph: '👩🏼‍🚒',
     svgPath: 'assets/woman_firefighter_color_medium-light.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.mediumLight,
   );
 
   /// 👩🏽‍🚒 woman firefighter
   final FluentEmojiData _womanFirefighterMedium = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'woman firefighter',
     glyph: '👩🏽‍🚒',
     svgPath: 'assets/woman_firefighter_color_medium.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.medium,
   );
 
   /// 👩🏾‍🚒 woman firefighter
   final FluentEmojiData _womanFirefighterMediumDark = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'woman firefighter',
     glyph: '👩🏾‍🚒',
     svgPath: 'assets/woman_firefighter_color_medium-dark.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.mediumDark,
   );
 
   /// 👩🏿‍🚒 woman firefighter
   final FluentEmojiData _womanFirefighterDark = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'woman firefighter',
     glyph: '👩🏿‍🚒',
     svgPath: 'assets/woman_firefighter_color_dark.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.dark,
   );
 
   /// 🙍‍♀️ woman frowning
@@ -18167,6 +19695,7 @@ class FluentEmojiPeopleAndBody {
   /// Medium Dark [_womanFrowningMediumDark]
   /// Dark [_womanFrowningDark]
   late final SkinToneFluentEmojiData womanFrowning = SkinToneFluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'woman frowning',
     glyph: '🙍‍♀️',
@@ -18180,56 +19709,62 @@ class FluentEmojiPeopleAndBody {
 
   /// 🙍🏻‍♀️ woman frowning
   final FluentEmojiData _womanFrowningLight = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'woman frowning',
     glyph: '🙍🏻‍♀️',
     svgPath: 'assets/woman_frowning_color_light.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.light,
   );
 
   /// 🙍🏼‍♀️ woman frowning
   final FluentEmojiData _womanFrowningMediumLight = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'woman frowning',
     glyph: '🙍🏼‍♀️',
     svgPath: 'assets/woman_frowning_color_medium-light.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.mediumLight,
   );
 
   /// 🙍🏽‍♀️ woman frowning
   final FluentEmojiData _womanFrowningMedium = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'woman frowning',
     glyph: '🙍🏽‍♀️',
     svgPath: 'assets/woman_frowning_color_medium.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.medium,
   );
 
   /// 🙍🏾‍♀️ woman frowning
   final FluentEmojiData _womanFrowningMediumDark = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'woman frowning',
     glyph: '🙍🏾‍♀️',
     svgPath: 'assets/woman_frowning_color_medium-dark.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.mediumDark,
   );
 
   /// 🙍🏿‍♀️ woman frowning
   final FluentEmojiData _womanFrowningDark = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'woman frowning',
     glyph: '🙍🏿‍♀️',
     svgPath: 'assets/woman_frowning_color_dark.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.dark,
   );
 
   /// 🧞‍♀️ woman genie
   final FluentEmojiData womanGenie = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'woman genie',
     glyph: '🧞‍♀️',
     svgPath: 'assets/woman_genie_color.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.standard,
   );
 
   /// 🙅‍♀️ woman gesturing NO
@@ -18240,6 +19775,7 @@ class FluentEmojiPeopleAndBody {
   /// Medium Dark [_womanGesturingNoMediumDark]
   /// Dark [_womanGesturingNoDark]
   late final SkinToneFluentEmojiData womanGesturingNo = SkinToneFluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'woman gesturing NO',
     glyph: '🙅‍♀️',
@@ -18253,47 +19789,52 @@ class FluentEmojiPeopleAndBody {
 
   /// 🙅🏻‍♀️ woman gesturing NO
   final FluentEmojiData _womanGesturingNoLight = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'woman gesturing NO',
     glyph: '🙅🏻‍♀️',
     svgPath: 'assets/woman_gesturing_no_color_light.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.light,
   );
 
   /// 🙅🏼‍♀️ woman gesturing NO
   final FluentEmojiData _womanGesturingNoMediumLight = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'woman gesturing NO',
     glyph: '🙅🏼‍♀️',
     svgPath: 'assets/woman_gesturing_no_color_medium-light.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.mediumLight,
   );
 
   /// 🙅🏽‍♀️ woman gesturing NO
   final FluentEmojiData _womanGesturingNoMedium = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'woman gesturing NO',
     glyph: '🙅🏽‍♀️',
     svgPath: 'assets/woman_gesturing_no_color_medium.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.medium,
   );
 
   /// 🙅🏾‍♀️ woman gesturing NO
   final FluentEmojiData _womanGesturingNoMediumDark = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'woman gesturing NO',
     glyph: '🙅🏾‍♀️',
     svgPath: 'assets/woman_gesturing_no_color_medium-dark.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.mediumDark,
   );
 
   /// 🙅🏿‍♀️ woman gesturing NO
   final FluentEmojiData _womanGesturingNoDark = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'woman gesturing NO',
     glyph: '🙅🏿‍♀️',
     svgPath: 'assets/woman_gesturing_no_color_dark.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.dark,
   );
 
   /// 🙆‍♀️ woman gesturing OK
@@ -18304,6 +19845,7 @@ class FluentEmojiPeopleAndBody {
   /// Medium Dark [_womanGesturingOkMediumDark]
   /// Dark [_womanGesturingOkDark]
   late final SkinToneFluentEmojiData womanGesturingOk = SkinToneFluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'woman gesturing OK',
     glyph: '🙆‍♀️',
@@ -18317,47 +19859,52 @@ class FluentEmojiPeopleAndBody {
 
   /// 🙆🏻‍♀️ woman gesturing OK
   final FluentEmojiData _womanGesturingOkLight = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'woman gesturing OK',
     glyph: '🙆🏻‍♀️',
     svgPath: 'assets/woman_gesturing_ok_color_light.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.light,
   );
 
   /// 🙆🏼‍♀️ woman gesturing OK
   final FluentEmojiData _womanGesturingOkMediumLight = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'woman gesturing OK',
     glyph: '🙆🏼‍♀️',
     svgPath: 'assets/woman_gesturing_ok_color_medium-light.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.mediumLight,
   );
 
   /// 🙆🏽‍♀️ woman gesturing OK
   final FluentEmojiData _womanGesturingOkMedium = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'woman gesturing OK',
     glyph: '🙆🏽‍♀️',
     svgPath: 'assets/woman_gesturing_ok_color_medium.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.medium,
   );
 
   /// 🙆🏾‍♀️ woman gesturing OK
   final FluentEmojiData _womanGesturingOkMediumDark = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'woman gesturing OK',
     glyph: '🙆🏾‍♀️',
     svgPath: 'assets/woman_gesturing_ok_color_medium-dark.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.mediumDark,
   );
 
   /// 🙆🏿‍♀️ woman gesturing OK
   final FluentEmojiData _womanGesturingOkDark = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'woman gesturing OK',
     glyph: '🙆🏿‍♀️',
     svgPath: 'assets/woman_gesturing_ok_color_dark.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.dark,
   );
 
   /// 💇‍♀️ woman getting haircut
@@ -18368,6 +19915,7 @@ class FluentEmojiPeopleAndBody {
   /// Medium Dark [_womanGettingHaircutMediumDark]
   /// Dark [_womanGettingHaircutDark]
   late final SkinToneFluentEmojiData womanGettingHaircut = SkinToneFluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'woman getting haircut',
     glyph: '💇‍♀️',
@@ -18381,47 +19929,52 @@ class FluentEmojiPeopleAndBody {
 
   /// 💇🏻‍♀️ woman getting haircut
   final FluentEmojiData _womanGettingHaircutLight = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'woman getting haircut',
     glyph: '💇🏻‍♀️',
     svgPath: 'assets/woman_getting_haircut_color_light.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.light,
   );
 
   /// 💇🏼‍♀️ woman getting haircut
   final FluentEmojiData _womanGettingHaircutMediumLight = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'woman getting haircut',
     glyph: '💇🏼‍♀️',
     svgPath: 'assets/woman_getting_haircut_color_medium-light.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.mediumLight,
   );
 
   /// 💇🏽‍♀️ woman getting haircut
   final FluentEmojiData _womanGettingHaircutMedium = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'woman getting haircut',
     glyph: '💇🏽‍♀️',
     svgPath: 'assets/woman_getting_haircut_color_medium.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.medium,
   );
 
   /// 💇🏾‍♀️ woman getting haircut
   final FluentEmojiData _womanGettingHaircutMediumDark = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'woman getting haircut',
     glyph: '💇🏾‍♀️',
     svgPath: 'assets/woman_getting_haircut_color_medium-dark.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.mediumDark,
   );
 
   /// 💇🏿‍♀️ woman getting haircut
   final FluentEmojiData _womanGettingHaircutDark = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'woman getting haircut',
     glyph: '💇🏿‍♀️',
     svgPath: 'assets/woman_getting_haircut_color_dark.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.dark,
   );
 
   /// 💆‍♀️ woman getting massage
@@ -18432,6 +19985,7 @@ class FluentEmojiPeopleAndBody {
   /// Medium Dark [_womanGettingMassageMediumDark]
   /// Dark [_womanGettingMassageDark]
   late final SkinToneFluentEmojiData womanGettingMassage = SkinToneFluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'woman getting massage',
     glyph: '💆‍♀️',
@@ -18445,47 +19999,52 @@ class FluentEmojiPeopleAndBody {
 
   /// 💆🏻‍♀️ woman getting massage
   final FluentEmojiData _womanGettingMassageLight = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'woman getting massage',
     glyph: '💆🏻‍♀️',
     svgPath: 'assets/woman_getting_massage_color_light.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.light,
   );
 
   /// 💆🏼‍♀️ woman getting massage
   final FluentEmojiData _womanGettingMassageMediumLight = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'woman getting massage',
     glyph: '💆🏼‍♀️',
     svgPath: 'assets/woman_getting_massage_color_medium-light.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.mediumLight,
   );
 
   /// 💆🏽‍♀️ woman getting massage
   final FluentEmojiData _womanGettingMassageMedium = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'woman getting massage',
     glyph: '💆🏽‍♀️',
     svgPath: 'assets/woman_getting_massage_color_medium.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.medium,
   );
 
   /// 💆🏾‍♀️ woman getting massage
   final FluentEmojiData _womanGettingMassageMediumDark = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'woman getting massage',
     glyph: '💆🏾‍♀️',
     svgPath: 'assets/woman_getting_massage_color_medium-dark.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.mediumDark,
   );
 
   /// 💆🏿‍♀️ woman getting massage
   final FluentEmojiData _womanGettingMassageDark = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'woman getting massage',
     glyph: '💆🏿‍♀️',
     svgPath: 'assets/woman_getting_massage_color_dark.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.dark,
   );
 
   /// 🏌️‍♀️ woman golfing
@@ -18496,6 +20055,7 @@ class FluentEmojiPeopleAndBody {
   /// Medium Dark [_womanGolfingMediumDark]
   /// Dark [_womanGolfingDark]
   late final SkinToneFluentEmojiData womanGolfing = SkinToneFluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'woman golfing',
     glyph: '🏌️‍♀️',
@@ -18509,47 +20069,52 @@ class FluentEmojiPeopleAndBody {
 
   /// 🏌🏻‍♀️ woman golfing
   final FluentEmojiData _womanGolfingLight = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'woman golfing',
     glyph: '🏌🏻‍♀️',
     svgPath: 'assets/woman_golfing_color_light.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.light,
   );
 
   /// 🏌🏼‍♀️ woman golfing
   final FluentEmojiData _womanGolfingMediumLight = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'woman golfing',
     glyph: '🏌🏼‍♀️',
     svgPath: 'assets/woman_golfing_color_medium-light.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.mediumLight,
   );
 
   /// 🏌🏽‍♀️ woman golfing
   final FluentEmojiData _womanGolfingMedium = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'woman golfing',
     glyph: '🏌🏽‍♀️',
     svgPath: 'assets/woman_golfing_color_medium.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.medium,
   );
 
   /// 🏌🏾‍♀️ woman golfing
   final FluentEmojiData _womanGolfingMediumDark = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'woman golfing',
     glyph: '🏌🏾‍♀️',
     svgPath: 'assets/woman_golfing_color_medium-dark.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.mediumDark,
   );
 
   /// 🏌🏿‍♀️ woman golfing
   final FluentEmojiData _womanGolfingDark = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'woman golfing',
     glyph: '🏌🏿‍♀️',
     svgPath: 'assets/woman_golfing_color_dark.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.dark,
   );
 
   /// 💂‍♀️ woman guard
@@ -18560,6 +20125,7 @@ class FluentEmojiPeopleAndBody {
   /// Medium Dark [_womanGuardMediumDark]
   /// Dark [_womanGuardDark]
   late final SkinToneFluentEmojiData womanGuard = SkinToneFluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'woman guard',
     glyph: '💂‍♀️',
@@ -18573,47 +20139,52 @@ class FluentEmojiPeopleAndBody {
 
   /// 💂🏻‍♀️ woman guard
   final FluentEmojiData _womanGuardLight = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'woman guard',
     glyph: '💂🏻‍♀️',
     svgPath: 'assets/woman_guard_color_light.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.light,
   );
 
   /// 💂🏼‍♀️ woman guard
   final FluentEmojiData _womanGuardMediumLight = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'woman guard',
     glyph: '💂🏼‍♀️',
     svgPath: 'assets/woman_guard_color_medium-light.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.mediumLight,
   );
 
   /// 💂🏽‍♀️ woman guard
   final FluentEmojiData _womanGuardMedium = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'woman guard',
     glyph: '💂🏽‍♀️',
     svgPath: 'assets/woman_guard_color_medium.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.medium,
   );
 
   /// 💂🏾‍♀️ woman guard
   final FluentEmojiData _womanGuardMediumDark = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'woman guard',
     glyph: '💂🏾‍♀️',
     svgPath: 'assets/woman_guard_color_medium-dark.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.mediumDark,
   );
 
   /// 💂🏿‍♀️ woman guard
   final FluentEmojiData _womanGuardDark = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'woman guard',
     glyph: '💂🏿‍♀️',
     svgPath: 'assets/woman_guard_color_dark.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.dark,
   );
 
   /// 👩‍⚕️ woman health worker
@@ -18624,6 +20195,7 @@ class FluentEmojiPeopleAndBody {
   /// Medium Dark [_womanHealthWorkerMediumDark]
   /// Dark [_womanHealthWorkerDark]
   late final SkinToneFluentEmojiData womanHealthWorker = SkinToneFluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'woman health worker',
     glyph: '👩‍⚕️',
@@ -18637,47 +20209,52 @@ class FluentEmojiPeopleAndBody {
 
   /// 👩🏻‍⚕️ woman health worker
   final FluentEmojiData _womanHealthWorkerLight = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'woman health worker',
     glyph: '👩🏻‍⚕️',
     svgPath: 'assets/woman_health_worker_color_light.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.light,
   );
 
   /// 👩🏼‍⚕️ woman health worker
   final FluentEmojiData _womanHealthWorkerMediumLight = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'woman health worker',
     glyph: '👩🏼‍⚕️',
     svgPath: 'assets/woman_health_worker_color_medium-light.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.mediumLight,
   );
 
   /// 👩🏽‍⚕️ woman health worker
   final FluentEmojiData _womanHealthWorkerMedium = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'woman health worker',
     glyph: '👩🏽‍⚕️',
     svgPath: 'assets/woman_health_worker_color_medium.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.medium,
   );
 
   /// 👩🏾‍⚕️ woman health worker
   final FluentEmojiData _womanHealthWorkerMediumDark = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'woman health worker',
     glyph: '👩🏾‍⚕️',
     svgPath: 'assets/woman_health_worker_color_medium-dark.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.mediumDark,
   );
 
   /// 👩🏿‍⚕️ woman health worker
   final FluentEmojiData _womanHealthWorkerDark = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'woman health worker',
     glyph: '👩🏿‍⚕️',
     svgPath: 'assets/woman_health_worker_color_dark.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.dark,
   );
 
   /// 🧘‍♀️ woman in lotus position
@@ -18688,6 +20265,7 @@ class FluentEmojiPeopleAndBody {
   /// Medium Dark [_womanInLotusPositionMediumDark]
   /// Dark [_womanInLotusPositionDark]
   late final SkinToneFluentEmojiData womanInLotusPosition = SkinToneFluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'woman in lotus position',
     glyph: '🧘‍♀️',
@@ -18701,47 +20279,52 @@ class FluentEmojiPeopleAndBody {
 
   /// 🧘🏻‍♀️ woman in lotus position
   final FluentEmojiData _womanInLotusPositionLight = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'woman in lotus position',
     glyph: '🧘🏻‍♀️',
     svgPath: 'assets/woman_in_lotus_position_color_light.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.light,
   );
 
   /// 🧘🏼‍♀️ woman in lotus position
   final FluentEmojiData _womanInLotusPositionMediumLight = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'woman in lotus position',
     glyph: '🧘🏼‍♀️',
     svgPath: 'assets/woman_in_lotus_position_color_medium-light.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.mediumLight,
   );
 
   /// 🧘🏽‍♀️ woman in lotus position
   final FluentEmojiData _womanInLotusPositionMedium = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'woman in lotus position',
     glyph: '🧘🏽‍♀️',
     svgPath: 'assets/woman_in_lotus_position_color_medium.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.medium,
   );
 
   /// 🧘🏾‍♀️ woman in lotus position
   final FluentEmojiData _womanInLotusPositionMediumDark = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'woman in lotus position',
     glyph: '🧘🏾‍♀️',
     svgPath: 'assets/woman_in_lotus_position_color_medium-dark.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.mediumDark,
   );
 
   /// 🧘🏿‍♀️ woman in lotus position
   final FluentEmojiData _womanInLotusPositionDark = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'woman in lotus position',
     glyph: '🧘🏿‍♀️',
     svgPath: 'assets/woman_in_lotus_position_color_dark.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.dark,
   );
 
   /// 👩‍🦽 woman in manual wheelchair
@@ -18752,6 +20335,7 @@ class FluentEmojiPeopleAndBody {
   /// Medium Dark [_womanInManualWheelchairMediumDark]
   /// Dark [_womanInManualWheelchairDark]
   late final SkinToneFluentEmojiData womanInManualWheelchair = SkinToneFluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'woman in manual wheelchair',
     glyph: '👩‍🦽',
@@ -18765,47 +20349,52 @@ class FluentEmojiPeopleAndBody {
 
   /// 👩🏻‍🦽 woman in manual wheelchair
   final FluentEmojiData _womanInManualWheelchairLight = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'woman in manual wheelchair',
     glyph: '👩🏻‍🦽',
     svgPath: 'assets/woman_in_manual_wheelchair_color_light.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.light,
   );
 
   /// 👩🏼‍🦽 woman in manual wheelchair
   final FluentEmojiData _womanInManualWheelchairMediumLight = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'woman in manual wheelchair',
     glyph: '👩🏼‍🦽',
     svgPath: 'assets/woman_in_manual_wheelchair_color_medium-light.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.mediumLight,
   );
 
   /// 👩🏽‍🦽 woman in manual wheelchair
   final FluentEmojiData _womanInManualWheelchairMedium = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'woman in manual wheelchair',
     glyph: '👩🏽‍🦽',
     svgPath: 'assets/woman_in_manual_wheelchair_color_medium.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.medium,
   );
 
   /// 👩🏾‍🦽 woman in manual wheelchair
   final FluentEmojiData _womanInManualWheelchairMediumDark = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'woman in manual wheelchair',
     glyph: '👩🏾‍🦽',
     svgPath: 'assets/woman_in_manual_wheelchair_color_medium-dark.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.mediumDark,
   );
 
   /// 👩🏿‍🦽 woman in manual wheelchair
   final FluentEmojiData _womanInManualWheelchairDark = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'woman in manual wheelchair',
     glyph: '👩🏿‍🦽',
     svgPath: 'assets/woman_in_manual_wheelchair_color_dark.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.dark,
   );
 
   /// 👩‍🦽‍➡️ woman in manual wheelchair facing right
@@ -18816,6 +20405,7 @@ class FluentEmojiPeopleAndBody {
   /// Medium Dark [_womanInManualWheelchairFacingRightMediumDark]
   /// Dark [_womanInManualWheelchairFacingRightDark]
   late final SkinToneFluentEmojiData womanInManualWheelchairFacingRight = SkinToneFluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'woman in manual wheelchair facing right',
     glyph: '👩‍🦽‍➡️',
@@ -18829,47 +20419,52 @@ class FluentEmojiPeopleAndBody {
 
   /// 👩🏻‍🦽‍➡️ woman in manual wheelchair facing right
   final FluentEmojiData _womanInManualWheelchairFacingRightLight = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'woman in manual wheelchair facing right',
     glyph: '👩🏻‍🦽‍➡️',
     svgPath: 'assets/woman_in_manual_wheelchair_facing_right_color_light.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.light,
   );
 
   /// 👩🏼‍🦽‍➡️ woman in manual wheelchair facing right
   final FluentEmojiData _womanInManualWheelchairFacingRightMediumLight = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'woman in manual wheelchair facing right',
     glyph: '👩🏼‍🦽‍➡️',
     svgPath: 'assets/woman_in_manual_wheelchair_facing_right_color_medium-light.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.mediumLight,
   );
 
   /// 👩🏽‍🦽‍➡️ woman in manual wheelchair facing right
   final FluentEmojiData _womanInManualWheelchairFacingRightMedium = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'woman in manual wheelchair facing right',
     glyph: '👩🏽‍🦽‍➡️',
     svgPath: 'assets/woman_in_manual_wheelchair_facing_right_color_medium.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.medium,
   );
 
   /// 👩🏾‍🦽‍➡️ woman in manual wheelchair facing right
   final FluentEmojiData _womanInManualWheelchairFacingRightMediumDark = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'woman in manual wheelchair facing right',
     glyph: '👩🏾‍🦽‍➡️',
     svgPath: 'assets/woman_in_manual_wheelchair_facing_right_color_medium-dark.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.mediumDark,
   );
 
   /// 👩🏿‍🦽‍➡️ woman in manual wheelchair facing right
   final FluentEmojiData _womanInManualWheelchairFacingRightDark = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'woman in manual wheelchair facing right',
     glyph: '👩🏿‍🦽‍➡️',
     svgPath: 'assets/woman_in_manual_wheelchair_facing_right_color_dark.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.dark,
   );
 
   /// 👩‍🦼 woman in motorized wheelchair
@@ -18880,6 +20475,7 @@ class FluentEmojiPeopleAndBody {
   /// Medium Dark [_womanInMotorizedWheelchairMediumDark]
   /// Dark [_womanInMotorizedWheelchairDark]
   late final SkinToneFluentEmojiData womanInMotorizedWheelchair = SkinToneFluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'woman in motorized wheelchair',
     glyph: '👩‍🦼',
@@ -18893,47 +20489,52 @@ class FluentEmojiPeopleAndBody {
 
   /// 👩🏻‍🦼 woman in motorized wheelchair
   final FluentEmojiData _womanInMotorizedWheelchairLight = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'woman in motorized wheelchair',
     glyph: '👩🏻‍🦼',
     svgPath: 'assets/woman_in_motorized_wheelchair_color_light.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.light,
   );
 
   /// 👩🏼‍🦼 woman in motorized wheelchair
   final FluentEmojiData _womanInMotorizedWheelchairMediumLight = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'woman in motorized wheelchair',
     glyph: '👩🏼‍🦼',
     svgPath: 'assets/woman_in_motorized_wheelchair_color_medium-light.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.mediumLight,
   );
 
   /// 👩🏽‍🦼 woman in motorized wheelchair
   final FluentEmojiData _womanInMotorizedWheelchairMedium = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'woman in motorized wheelchair',
     glyph: '👩🏽‍🦼',
     svgPath: 'assets/woman_in_motorized_wheelchair_color_medium.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.medium,
   );
 
   /// 👩🏾‍🦼 woman in motorized wheelchair
   final FluentEmojiData _womanInMotorizedWheelchairMediumDark = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'woman in motorized wheelchair',
     glyph: '👩🏾‍🦼',
     svgPath: 'assets/woman_in_motorized_wheelchair_color_medium-dark.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.mediumDark,
   );
 
   /// 👩🏿‍🦼 woman in motorized wheelchair
   final FluentEmojiData _womanInMotorizedWheelchairDark = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'woman in motorized wheelchair',
     glyph: '👩🏿‍🦼',
     svgPath: 'assets/woman_in_motorized_wheelchair_color_dark.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.dark,
   );
 
   /// 👩‍🦼‍➡️ woman in motorized wheelchair facing right
@@ -18944,6 +20545,7 @@ class FluentEmojiPeopleAndBody {
   /// Medium Dark [_womanInMotorizedWheelchairFacingRightMediumDark]
   /// Dark [_womanInMotorizedWheelchairFacingRightDark]
   late final SkinToneFluentEmojiData womanInMotorizedWheelchairFacingRight = SkinToneFluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'woman in motorized wheelchair facing right',
     glyph: '👩‍🦼‍➡️',
@@ -18957,47 +20559,52 @@ class FluentEmojiPeopleAndBody {
 
   /// 👩🏻‍🦼‍➡️ woman in motorized wheelchair facing right
   final FluentEmojiData _womanInMotorizedWheelchairFacingRightLight = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'woman in motorized wheelchair facing right',
     glyph: '👩🏻‍🦼‍➡️',
     svgPath: 'assets/woman_in_motorized_wheelchair_facing_right_color_light.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.light,
   );
 
   /// 👩🏼‍🦼‍➡️ woman in motorized wheelchair facing right
   final FluentEmojiData _womanInMotorizedWheelchairFacingRightMediumLight = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'woman in motorized wheelchair facing right',
     glyph: '👩🏼‍🦼‍➡️',
     svgPath: 'assets/woman_in_motorized_wheelchair_facing_right_color_medium-light.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.mediumLight,
   );
 
   /// 👩🏽‍🦼‍➡️ woman in motorized wheelchair facing right
   final FluentEmojiData _womanInMotorizedWheelchairFacingRightMedium = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'woman in motorized wheelchair facing right',
     glyph: '👩🏽‍🦼‍➡️',
     svgPath: 'assets/woman_in_motorized_wheelchair_facing_right_color_medium.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.medium,
   );
 
   /// 👩🏾‍🦼‍➡️ woman in motorized wheelchair facing right
   final FluentEmojiData _womanInMotorizedWheelchairFacingRightMediumDark = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'woman in motorized wheelchair facing right',
     glyph: '👩🏾‍🦼‍➡️',
     svgPath: 'assets/woman_in_motorized_wheelchair_facing_right_color_medium-dark.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.mediumDark,
   );
 
   /// 👩🏿‍🦼‍➡️ woman in motorized wheelchair facing right
   final FluentEmojiData _womanInMotorizedWheelchairFacingRightDark = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'woman in motorized wheelchair facing right',
     glyph: '👩🏿‍🦼‍➡️',
     svgPath: 'assets/woman_in_motorized_wheelchair_facing_right_color_dark.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.dark,
   );
 
   /// 🧖‍♀️ woman in steamy room
@@ -19008,6 +20615,7 @@ class FluentEmojiPeopleAndBody {
   /// Medium Dark [_womanInSteamyRoomMediumDark]
   /// Dark [_womanInSteamyRoomDark]
   late final SkinToneFluentEmojiData womanInSteamyRoom = SkinToneFluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'woman in steamy room',
     glyph: '🧖‍♀️',
@@ -19021,47 +20629,52 @@ class FluentEmojiPeopleAndBody {
 
   /// 🧖🏻‍♀️ woman in steamy room
   final FluentEmojiData _womanInSteamyRoomLight = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'woman in steamy room',
     glyph: '🧖🏻‍♀️',
     svgPath: 'assets/woman_in_steamy_room_color_light.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.light,
   );
 
   /// 🧖🏼‍♀️ woman in steamy room
   final FluentEmojiData _womanInSteamyRoomMediumLight = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'woman in steamy room',
     glyph: '🧖🏼‍♀️',
     svgPath: 'assets/woman_in_steamy_room_color_medium-light.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.mediumLight,
   );
 
   /// 🧖🏽‍♀️ woman in steamy room
   final FluentEmojiData _womanInSteamyRoomMedium = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'woman in steamy room',
     glyph: '🧖🏽‍♀️',
     svgPath: 'assets/woman_in_steamy_room_color_medium.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.medium,
   );
 
   /// 🧖🏾‍♀️ woman in steamy room
   final FluentEmojiData _womanInSteamyRoomMediumDark = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'woman in steamy room',
     glyph: '🧖🏾‍♀️',
     svgPath: 'assets/woman_in_steamy_room_color_medium-dark.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.mediumDark,
   );
 
   /// 🧖🏿‍♀️ woman in steamy room
   final FluentEmojiData _womanInSteamyRoomDark = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'woman in steamy room',
     glyph: '🧖🏿‍♀️',
     svgPath: 'assets/woman_in_steamy_room_color_dark.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.dark,
   );
 
   /// 🤵‍♀️ woman in tuxedo
@@ -19072,6 +20685,7 @@ class FluentEmojiPeopleAndBody {
   /// Medium Dark [_womanInTuxedoMediumDark]
   /// Dark [_womanInTuxedoDark]
   late final SkinToneFluentEmojiData womanInTuxedo = SkinToneFluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'woman in tuxedo',
     glyph: '🤵‍♀️',
@@ -19085,47 +20699,52 @@ class FluentEmojiPeopleAndBody {
 
   /// 🤵🏻‍♀️ woman in tuxedo
   final FluentEmojiData _womanInTuxedoLight = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'woman in tuxedo',
     glyph: '🤵🏻‍♀️',
     svgPath: 'assets/woman_in_tuxedo_color_light.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.light,
   );
 
   /// 🤵🏼‍♀️ woman in tuxedo
   final FluentEmojiData _womanInTuxedoMediumLight = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'woman in tuxedo',
     glyph: '🤵🏼‍♀️',
     svgPath: 'assets/woman_in_tuxedo_color_medium-light.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.mediumLight,
   );
 
   /// 🤵🏽‍♀️ woman in tuxedo
   final FluentEmojiData _womanInTuxedoMedium = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'woman in tuxedo',
     glyph: '🤵🏽‍♀️',
     svgPath: 'assets/woman_in_tuxedo_color_medium.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.medium,
   );
 
   /// 🤵🏾‍♀️ woman in tuxedo
   final FluentEmojiData _womanInTuxedoMediumDark = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'woman in tuxedo',
     glyph: '🤵🏾‍♀️',
     svgPath: 'assets/woman_in_tuxedo_color_medium-dark.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.mediumDark,
   );
 
   /// 🤵🏿‍♀️ woman in tuxedo
   final FluentEmojiData _womanInTuxedoDark = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'woman in tuxedo',
     glyph: '🤵🏿‍♀️',
     svgPath: 'assets/woman_in_tuxedo_color_dark.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.dark,
   );
 
   /// 👩‍⚖️ woman judge
@@ -19136,6 +20755,7 @@ class FluentEmojiPeopleAndBody {
   /// Medium Dark [_womanJudgeMediumDark]
   /// Dark [_womanJudgeDark]
   late final SkinToneFluentEmojiData womanJudge = SkinToneFluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'woman judge',
     glyph: '👩‍⚖️',
@@ -19149,47 +20769,52 @@ class FluentEmojiPeopleAndBody {
 
   /// 👩🏻‍⚖️ woman judge
   final FluentEmojiData _womanJudgeLight = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'woman judge',
     glyph: '👩🏻‍⚖️',
     svgPath: 'assets/woman_judge_color_light.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.light,
   );
 
   /// 👩🏼‍⚖️ woman judge
   final FluentEmojiData _womanJudgeMediumLight = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'woman judge',
     glyph: '👩🏼‍⚖️',
     svgPath: 'assets/woman_judge_color_medium-light.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.mediumLight,
   );
 
   /// 👩🏽‍⚖️ woman judge
   final FluentEmojiData _womanJudgeMedium = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'woman judge',
     glyph: '👩🏽‍⚖️',
     svgPath: 'assets/woman_judge_color_medium.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.medium,
   );
 
   /// 👩🏾‍⚖️ woman judge
   final FluentEmojiData _womanJudgeMediumDark = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'woman judge',
     glyph: '👩🏾‍⚖️',
     svgPath: 'assets/woman_judge_color_medium-dark.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.mediumDark,
   );
 
   /// 👩🏿‍⚖️ woman judge
   final FluentEmojiData _womanJudgeDark = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'woman judge',
     glyph: '👩🏿‍⚖️',
     svgPath: 'assets/woman_judge_color_dark.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.dark,
   );
 
   /// 🤹‍♀️ woman juggling
@@ -19200,6 +20825,7 @@ class FluentEmojiPeopleAndBody {
   /// Medium Dark [_womanJugglingMediumDark]
   /// Dark [_womanJugglingDark]
   late final SkinToneFluentEmojiData womanJuggling = SkinToneFluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'woman juggling',
     glyph: '🤹‍♀️',
@@ -19213,47 +20839,52 @@ class FluentEmojiPeopleAndBody {
 
   /// 🤹🏻‍♀️ woman juggling
   final FluentEmojiData _womanJugglingLight = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'woman juggling',
     glyph: '🤹🏻‍♀️',
     svgPath: 'assets/woman_juggling_color_light.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.light,
   );
 
   /// 🤹🏼‍♀️ woman juggling
   final FluentEmojiData _womanJugglingMediumLight = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'woman juggling',
     glyph: '🤹🏼‍♀️',
     svgPath: 'assets/woman_juggling_color_medium-light.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.mediumLight,
   );
 
   /// 🤹🏽‍♀️ woman juggling
   final FluentEmojiData _womanJugglingMedium = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'woman juggling',
     glyph: '🤹🏽‍♀️',
     svgPath: 'assets/woman_juggling_color_medium.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.medium,
   );
 
   /// 🤹🏾‍♀️ woman juggling
   final FluentEmojiData _womanJugglingMediumDark = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'woman juggling',
     glyph: '🤹🏾‍♀️',
     svgPath: 'assets/woman_juggling_color_medium-dark.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.mediumDark,
   );
 
   /// 🤹🏿‍♀️ woman juggling
   final FluentEmojiData _womanJugglingDark = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'woman juggling',
     glyph: '🤹🏿‍♀️',
     svgPath: 'assets/woman_juggling_color_dark.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.dark,
   );
 
   /// 🧎‍♀️ woman kneeling
@@ -19264,6 +20895,7 @@ class FluentEmojiPeopleAndBody {
   /// Medium Dark [_womanKneelingMediumDark]
   /// Dark [_womanKneelingDark]
   late final SkinToneFluentEmojiData womanKneeling = SkinToneFluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'woman kneeling',
     glyph: '🧎‍♀️',
@@ -19277,47 +20909,52 @@ class FluentEmojiPeopleAndBody {
 
   /// 🧎🏻‍♀️ woman kneeling
   final FluentEmojiData _womanKneelingLight = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'woman kneeling',
     glyph: '🧎🏻‍♀️',
     svgPath: 'assets/woman_kneeling_color_light.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.light,
   );
 
   /// 🧎🏼‍♀️ woman kneeling
   final FluentEmojiData _womanKneelingMediumLight = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'woman kneeling',
     glyph: '🧎🏼‍♀️',
     svgPath: 'assets/woman_kneeling_color_medium-light.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.mediumLight,
   );
 
   /// 🧎🏽‍♀️ woman kneeling
   final FluentEmojiData _womanKneelingMedium = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'woman kneeling',
     glyph: '🧎🏽‍♀️',
     svgPath: 'assets/woman_kneeling_color_medium.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.medium,
   );
 
   /// 🧎🏾‍♀️ woman kneeling
   final FluentEmojiData _womanKneelingMediumDark = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'woman kneeling',
     glyph: '🧎🏾‍♀️',
     svgPath: 'assets/woman_kneeling_color_medium-dark.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.mediumDark,
   );
 
   /// 🧎🏿‍♀️ woman kneeling
   final FluentEmojiData _womanKneelingDark = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'woman kneeling',
     glyph: '🧎🏿‍♀️',
     svgPath: 'assets/woman_kneeling_color_dark.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.dark,
   );
 
   /// 🧎‍♀️‍➡️ woman kneeling facing right
@@ -19328,6 +20965,7 @@ class FluentEmojiPeopleAndBody {
   /// Medium Dark [_womanKneelingFacingRightMediumDark]
   /// Dark [_womanKneelingFacingRightDark]
   late final SkinToneFluentEmojiData womanKneelingFacingRight = SkinToneFluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'woman kneeling facing right',
     glyph: '🧎‍♀️‍➡️',
@@ -19341,47 +20979,52 @@ class FluentEmojiPeopleAndBody {
 
   /// 🧎🏻‍♀️‍➡️ woman kneeling facing right
   final FluentEmojiData _womanKneelingFacingRightLight = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'woman kneeling facing right',
     glyph: '🧎🏻‍♀️‍➡️',
     svgPath: 'assets/woman_kneeling_facing_right_color_light.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.light,
   );
 
   /// 🧎🏼‍♀️‍➡️ woman kneeling facing right
   final FluentEmojiData _womanKneelingFacingRightMediumLight = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'woman kneeling facing right',
     glyph: '🧎🏼‍♀️‍➡️',
     svgPath: 'assets/woman_kneeling_facing_right_color_medium-light.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.mediumLight,
   );
 
   /// 🧎🏽‍♀️‍➡️ woman kneeling facing right
   final FluentEmojiData _womanKneelingFacingRightMedium = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'woman kneeling facing right',
     glyph: '🧎🏽‍♀️‍➡️',
     svgPath: 'assets/woman_kneeling_facing_right_color_medium.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.medium,
   );
 
   /// 🧎🏾‍♀️‍➡️ woman kneeling facing right
   final FluentEmojiData _womanKneelingFacingRightMediumDark = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'woman kneeling facing right',
     glyph: '🧎🏾‍♀️‍➡️',
     svgPath: 'assets/woman_kneeling_facing_right_color_medium-dark.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.mediumDark,
   );
 
   /// 🧎🏿‍♀️‍➡️ woman kneeling facing right
   final FluentEmojiData _womanKneelingFacingRightDark = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'woman kneeling facing right',
     glyph: '🧎🏿‍♀️‍➡️',
     svgPath: 'assets/woman_kneeling_facing_right_color_dark.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.dark,
   );
 
   /// 🏋️‍♀️ woman lifting weights
@@ -19392,6 +21035,7 @@ class FluentEmojiPeopleAndBody {
   /// Medium Dark [_womanLiftingWeightsMediumDark]
   /// Dark [_womanLiftingWeightsDark]
   late final SkinToneFluentEmojiData womanLiftingWeights = SkinToneFluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'woman lifting weights',
     glyph: '🏋️‍♀️',
@@ -19405,47 +21049,52 @@ class FluentEmojiPeopleAndBody {
 
   /// 🏋🏻‍♀️ woman lifting weights
   final FluentEmojiData _womanLiftingWeightsLight = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'woman lifting weights',
     glyph: '🏋🏻‍♀️',
     svgPath: 'assets/woman_lifting_weights_color_light.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.light,
   );
 
   /// 🏋🏼‍♀️ woman lifting weights
   final FluentEmojiData _womanLiftingWeightsMediumLight = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'woman lifting weights',
     glyph: '🏋🏼‍♀️',
     svgPath: 'assets/woman_lifting_weights_color_medium-light.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.mediumLight,
   );
 
   /// 🏋🏽‍♀️ woman lifting weights
   final FluentEmojiData _womanLiftingWeightsMedium = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'woman lifting weights',
     glyph: '🏋🏽‍♀️',
     svgPath: 'assets/woman_lifting_weights_color_medium.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.medium,
   );
 
   /// 🏋🏾‍♀️ woman lifting weights
   final FluentEmojiData _womanLiftingWeightsMediumDark = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'woman lifting weights',
     glyph: '🏋🏾‍♀️',
     svgPath: 'assets/woman_lifting_weights_color_medium-dark.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.mediumDark,
   );
 
   /// 🏋🏿‍♀️ woman lifting weights
   final FluentEmojiData _womanLiftingWeightsDark = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'woman lifting weights',
     glyph: '🏋🏿‍♀️',
     svgPath: 'assets/woman_lifting_weights_color_dark.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.dark,
   );
 
   /// 🧙‍♀️ woman mage
@@ -19456,6 +21105,7 @@ class FluentEmojiPeopleAndBody {
   /// Medium Dark [_womanMageMediumDark]
   /// Dark [_womanMageDark]
   late final SkinToneFluentEmojiData womanMage = SkinToneFluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'woman mage',
     glyph: '🧙‍♀️',
@@ -19469,47 +21119,52 @@ class FluentEmojiPeopleAndBody {
 
   /// 🧙🏻‍♀️ woman mage
   final FluentEmojiData _womanMageLight = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'woman mage',
     glyph: '🧙🏻‍♀️',
     svgPath: 'assets/woman_mage_color_light.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.light,
   );
 
   /// 🧙🏼‍♀️ woman mage
   final FluentEmojiData _womanMageMediumLight = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'woman mage',
     glyph: '🧙🏼‍♀️',
     svgPath: 'assets/woman_mage_color_medium-light.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.mediumLight,
   );
 
   /// 🧙🏽‍♀️ woman mage
   final FluentEmojiData _womanMageMedium = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'woman mage',
     glyph: '🧙🏽‍♀️',
     svgPath: 'assets/woman_mage_color_medium.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.medium,
   );
 
   /// 🧙🏾‍♀️ woman mage
   final FluentEmojiData _womanMageMediumDark = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'woman mage',
     glyph: '🧙🏾‍♀️',
     svgPath: 'assets/woman_mage_color_medium-dark.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.mediumDark,
   );
 
   /// 🧙🏿‍♀️ woman mage
   final FluentEmojiData _womanMageDark = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'woman mage',
     glyph: '🧙🏿‍♀️',
     svgPath: 'assets/woman_mage_color_dark.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.dark,
   );
 
   /// 👩‍🔧 woman mechanic
@@ -19520,6 +21175,7 @@ class FluentEmojiPeopleAndBody {
   /// Medium Dark [_womanMechanicMediumDark]
   /// Dark [_womanMechanicDark]
   late final SkinToneFluentEmojiData womanMechanic = SkinToneFluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'woman mechanic',
     glyph: '👩‍🔧',
@@ -19533,47 +21189,52 @@ class FluentEmojiPeopleAndBody {
 
   /// 👩🏻‍🔧 woman mechanic
   final FluentEmojiData _womanMechanicLight = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'woman mechanic',
     glyph: '👩🏻‍🔧',
     svgPath: 'assets/woman_mechanic_color_light.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.light,
   );
 
   /// 👩🏼‍🔧 woman mechanic
   final FluentEmojiData _womanMechanicMediumLight = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'woman mechanic',
     glyph: '👩🏼‍🔧',
     svgPath: 'assets/woman_mechanic_color_medium-light.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.mediumLight,
   );
 
   /// 👩🏽‍🔧 woman mechanic
   final FluentEmojiData _womanMechanicMedium = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'woman mechanic',
     glyph: '👩🏽‍🔧',
     svgPath: 'assets/woman_mechanic_color_medium.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.medium,
   );
 
   /// 👩🏾‍🔧 woman mechanic
   final FluentEmojiData _womanMechanicMediumDark = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'woman mechanic',
     glyph: '👩🏾‍🔧',
     svgPath: 'assets/woman_mechanic_color_medium-dark.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.mediumDark,
   );
 
   /// 👩🏿‍🔧 woman mechanic
   final FluentEmojiData _womanMechanicDark = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'woman mechanic',
     glyph: '👩🏿‍🔧',
     svgPath: 'assets/woman_mechanic_color_dark.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.dark,
   );
 
   /// 🚵‍♀️ woman mountain biking
@@ -19584,6 +21245,7 @@ class FluentEmojiPeopleAndBody {
   /// Medium Dark [_womanMountainBikingMediumDark]
   /// Dark [_womanMountainBikingDark]
   late final SkinToneFluentEmojiData womanMountainBiking = SkinToneFluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'woman mountain biking',
     glyph: '🚵‍♀️',
@@ -19597,47 +21259,52 @@ class FluentEmojiPeopleAndBody {
 
   /// 🚵🏻‍♀️ woman mountain biking
   final FluentEmojiData _womanMountainBikingLight = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'woman mountain biking',
     glyph: '🚵🏻‍♀️',
     svgPath: 'assets/woman_mountain_biking_color_light.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.light,
   );
 
   /// 🚵🏼‍♀️ woman mountain biking
   final FluentEmojiData _womanMountainBikingMediumLight = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'woman mountain biking',
     glyph: '🚵🏼‍♀️',
     svgPath: 'assets/woman_mountain_biking_color_medium-light.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.mediumLight,
   );
 
   /// 🚵🏽‍♀️ woman mountain biking
   final FluentEmojiData _womanMountainBikingMedium = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'woman mountain biking',
     glyph: '🚵🏽‍♀️',
     svgPath: 'assets/woman_mountain_biking_color_medium.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.medium,
   );
 
   /// 🚵🏾‍♀️ woman mountain biking
   final FluentEmojiData _womanMountainBikingMediumDark = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'woman mountain biking',
     glyph: '🚵🏾‍♀️',
     svgPath: 'assets/woman_mountain_biking_color_medium-dark.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.mediumDark,
   );
 
   /// 🚵🏿‍♀️ woman mountain biking
   final FluentEmojiData _womanMountainBikingDark = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'woman mountain biking',
     glyph: '🚵🏿‍♀️',
     svgPath: 'assets/woman_mountain_biking_color_dark.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.dark,
   );
 
   /// 👩‍💼 woman office worker
@@ -19648,6 +21315,7 @@ class FluentEmojiPeopleAndBody {
   /// Medium Dark [_womanOfficeWorkerMediumDark]
   /// Dark [_womanOfficeWorkerDark]
   late final SkinToneFluentEmojiData womanOfficeWorker = SkinToneFluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'woman office worker',
     glyph: '👩‍💼',
@@ -19661,47 +21329,52 @@ class FluentEmojiPeopleAndBody {
 
   /// 👩🏻‍💼 woman office worker
   final FluentEmojiData _womanOfficeWorkerLight = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'woman office worker',
     glyph: '👩🏻‍💼',
     svgPath: 'assets/woman_office_worker_color_light.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.light,
   );
 
   /// 👩🏼‍💼 woman office worker
   final FluentEmojiData _womanOfficeWorkerMediumLight = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'woman office worker',
     glyph: '👩🏼‍💼',
     svgPath: 'assets/woman_office_worker_color_medium-light.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.mediumLight,
   );
 
   /// 👩🏽‍💼 woman office worker
   final FluentEmojiData _womanOfficeWorkerMedium = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'woman office worker',
     glyph: '👩🏽‍💼',
     svgPath: 'assets/woman_office_worker_color_medium.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.medium,
   );
 
   /// 👩🏾‍💼 woman office worker
   final FluentEmojiData _womanOfficeWorkerMediumDark = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'woman office worker',
     glyph: '👩🏾‍💼',
     svgPath: 'assets/woman_office_worker_color_medium-dark.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.mediumDark,
   );
 
   /// 👩🏿‍💼 woman office worker
   final FluentEmojiData _womanOfficeWorkerDark = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'woman office worker',
     glyph: '👩🏿‍💼',
     svgPath: 'assets/woman_office_worker_color_dark.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.dark,
   );
 
   /// 👩‍✈️ woman pilot
@@ -19712,6 +21385,7 @@ class FluentEmojiPeopleAndBody {
   /// Medium Dark [_womanPilotMediumDark]
   /// Dark [_womanPilotDark]
   late final SkinToneFluentEmojiData womanPilot = SkinToneFluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'woman pilot',
     glyph: '👩‍✈️',
@@ -19725,47 +21399,52 @@ class FluentEmojiPeopleAndBody {
 
   /// 👩🏻‍✈️ woman pilot
   final FluentEmojiData _womanPilotLight = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'woman pilot',
     glyph: '👩🏻‍✈️',
     svgPath: 'assets/woman_pilot_color_light.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.light,
   );
 
   /// 👩🏼‍✈️ woman pilot
   final FluentEmojiData _womanPilotMediumLight = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'woman pilot',
     glyph: '👩🏼‍✈️',
     svgPath: 'assets/woman_pilot_color_medium-light.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.mediumLight,
   );
 
   /// 👩🏽‍✈️ woman pilot
   final FluentEmojiData _womanPilotMedium = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'woman pilot',
     glyph: '👩🏽‍✈️',
     svgPath: 'assets/woman_pilot_color_medium.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.medium,
   );
 
   /// 👩🏾‍✈️ woman pilot
   final FluentEmojiData _womanPilotMediumDark = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'woman pilot',
     glyph: '👩🏾‍✈️',
     svgPath: 'assets/woman_pilot_color_medium-dark.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.mediumDark,
   );
 
   /// 👩🏿‍✈️ woman pilot
   final FluentEmojiData _womanPilotDark = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'woman pilot',
     glyph: '👩🏿‍✈️',
     svgPath: 'assets/woman_pilot_color_dark.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.dark,
   );
 
   /// 🤾‍♀️ woman playing handball
@@ -19776,6 +21455,7 @@ class FluentEmojiPeopleAndBody {
   /// Medium Dark [_womanPlayingHandballMediumDark]
   /// Dark [_womanPlayingHandballDark]
   late final SkinToneFluentEmojiData womanPlayingHandball = SkinToneFluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'woman playing handball',
     glyph: '🤾‍♀️',
@@ -19789,47 +21469,52 @@ class FluentEmojiPeopleAndBody {
 
   /// 🤾🏻‍♀️ woman playing handball
   final FluentEmojiData _womanPlayingHandballLight = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'woman playing handball',
     glyph: '🤾🏻‍♀️',
     svgPath: 'assets/woman_playing_handball_color_light.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.light,
   );
 
   /// 🤾🏼‍♀️ woman playing handball
   final FluentEmojiData _womanPlayingHandballMediumLight = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'woman playing handball',
     glyph: '🤾🏼‍♀️',
     svgPath: 'assets/woman_playing_handball_color_medium-light.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.mediumLight,
   );
 
   /// 🤾🏽‍♀️ woman playing handball
   final FluentEmojiData _womanPlayingHandballMedium = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'woman playing handball',
     glyph: '🤾🏽‍♀️',
     svgPath: 'assets/woman_playing_handball_color_medium.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.medium,
   );
 
   /// 🤾🏾‍♀️ woman playing handball
   final FluentEmojiData _womanPlayingHandballMediumDark = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'woman playing handball',
     glyph: '🤾🏾‍♀️',
     svgPath: 'assets/woman_playing_handball_color_medium-dark.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.mediumDark,
   );
 
   /// 🤾🏿‍♀️ woman playing handball
   final FluentEmojiData _womanPlayingHandballDark = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'woman playing handball',
     glyph: '🤾🏿‍♀️',
     svgPath: 'assets/woman_playing_handball_color_dark.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.dark,
   );
 
   /// 🤽‍♀️ woman playing water polo
@@ -19840,6 +21525,7 @@ class FluentEmojiPeopleAndBody {
   /// Medium Dark [_womanPlayingWaterPoloMediumDark]
   /// Dark [_womanPlayingWaterPoloDark]
   late final SkinToneFluentEmojiData womanPlayingWaterPolo = SkinToneFluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'woman playing water polo',
     glyph: '🤽‍♀️',
@@ -19853,47 +21539,52 @@ class FluentEmojiPeopleAndBody {
 
   /// 🤽🏻‍♀️ woman playing water polo
   final FluentEmojiData _womanPlayingWaterPoloLight = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'woman playing water polo',
     glyph: '🤽🏻‍♀️',
     svgPath: 'assets/woman_playing_water_polo_color_light.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.light,
   );
 
   /// 🤽🏼‍♀️ woman playing water polo
   final FluentEmojiData _womanPlayingWaterPoloMediumLight = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'woman playing water polo',
     glyph: '🤽🏼‍♀️',
     svgPath: 'assets/woman_playing_water_polo_color_medium-light.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.mediumLight,
   );
 
   /// 🤽🏽‍♀️ woman playing water polo
   final FluentEmojiData _womanPlayingWaterPoloMedium = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'woman playing water polo',
     glyph: '🤽🏽‍♀️',
     svgPath: 'assets/woman_playing_water_polo_color_medium.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.medium,
   );
 
   /// 🤽🏾‍♀️ woman playing water polo
   final FluentEmojiData _womanPlayingWaterPoloMediumDark = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'woman playing water polo',
     glyph: '🤽🏾‍♀️',
     svgPath: 'assets/woman_playing_water_polo_color_medium-dark.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.mediumDark,
   );
 
   /// 🤽🏿‍♀️ woman playing water polo
   final FluentEmojiData _womanPlayingWaterPoloDark = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'woman playing water polo',
     glyph: '🤽🏿‍♀️',
     svgPath: 'assets/woman_playing_water_polo_color_dark.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.dark,
   );
 
   /// 👮‍♀️ woman police officer
@@ -19904,6 +21595,7 @@ class FluentEmojiPeopleAndBody {
   /// Medium Dark [_womanPoliceOfficerMediumDark]
   /// Dark [_womanPoliceOfficerDark]
   late final SkinToneFluentEmojiData womanPoliceOfficer = SkinToneFluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'woman police officer',
     glyph: '👮‍♀️',
@@ -19917,47 +21609,52 @@ class FluentEmojiPeopleAndBody {
 
   /// 👮🏻‍♀️ woman police officer
   final FluentEmojiData _womanPoliceOfficerLight = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'woman police officer',
     glyph: '👮🏻‍♀️',
     svgPath: 'assets/woman_police_officer_color_light.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.light,
   );
 
   /// 👮🏼‍♀️ woman police officer
   final FluentEmojiData _womanPoliceOfficerMediumLight = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'woman police officer',
     glyph: '👮🏼‍♀️',
     svgPath: 'assets/woman_police_officer_color_medium-light.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.mediumLight,
   );
 
   /// 👮🏽‍♀️ woman police officer
   final FluentEmojiData _womanPoliceOfficerMedium = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'woman police officer',
     glyph: '👮🏽‍♀️',
     svgPath: 'assets/woman_police_officer_color_medium.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.medium,
   );
 
   /// 👮🏾‍♀️ woman police officer
   final FluentEmojiData _womanPoliceOfficerMediumDark = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'woman police officer',
     glyph: '👮🏾‍♀️',
     svgPath: 'assets/woman_police_officer_color_medium-dark.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.mediumDark,
   );
 
   /// 👮🏿‍♀️ woman police officer
   final FluentEmojiData _womanPoliceOfficerDark = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'woman police officer',
     glyph: '👮🏿‍♀️',
     svgPath: 'assets/woman_police_officer_color_dark.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.dark,
   );
 
   /// 🙎‍♀️ woman pouting
@@ -19968,6 +21665,7 @@ class FluentEmojiPeopleAndBody {
   /// Medium Dark [_womanPoutingMediumDark]
   /// Dark [_womanPoutingDark]
   late final SkinToneFluentEmojiData womanPouting = SkinToneFluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'woman pouting',
     glyph: '🙎‍♀️',
@@ -19981,47 +21679,52 @@ class FluentEmojiPeopleAndBody {
 
   /// 🙎🏻‍♀️ woman pouting
   final FluentEmojiData _womanPoutingLight = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'woman pouting',
     glyph: '🙎🏻‍♀️',
     svgPath: 'assets/woman_pouting_color_light.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.light,
   );
 
   /// 🙎🏼‍♀️ woman pouting
   final FluentEmojiData _womanPoutingMediumLight = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'woman pouting',
     glyph: '🙎🏼‍♀️',
     svgPath: 'assets/woman_pouting_color_medium-light.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.mediumLight,
   );
 
   /// 🙎🏽‍♀️ woman pouting
   final FluentEmojiData _womanPoutingMedium = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'woman pouting',
     glyph: '🙎🏽‍♀️',
     svgPath: 'assets/woman_pouting_color_medium.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.medium,
   );
 
   /// 🙎🏾‍♀️ woman pouting
   final FluentEmojiData _womanPoutingMediumDark = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'woman pouting',
     glyph: '🙎🏾‍♀️',
     svgPath: 'assets/woman_pouting_color_medium-dark.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.mediumDark,
   );
 
   /// 🙎🏿‍♀️ woman pouting
   final FluentEmojiData _womanPoutingDark = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'woman pouting',
     glyph: '🙎🏿‍♀️',
     svgPath: 'assets/woman_pouting_color_dark.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.dark,
   );
 
   /// 🙋‍♀️ woman raising hand
@@ -20032,6 +21735,7 @@ class FluentEmojiPeopleAndBody {
   /// Medium Dark [_womanRaisingHandMediumDark]
   /// Dark [_womanRaisingHandDark]
   late final SkinToneFluentEmojiData womanRaisingHand = SkinToneFluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'woman raising hand',
     glyph: '🙋‍♀️',
@@ -20045,47 +21749,52 @@ class FluentEmojiPeopleAndBody {
 
   /// 🙋🏻‍♀️ woman raising hand
   final FluentEmojiData _womanRaisingHandLight = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'woman raising hand',
     glyph: '🙋🏻‍♀️',
     svgPath: 'assets/woman_raising_hand_color_light.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.light,
   );
 
   /// 🙋🏼‍♀️ woman raising hand
   final FluentEmojiData _womanRaisingHandMediumLight = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'woman raising hand',
     glyph: '🙋🏼‍♀️',
     svgPath: 'assets/woman_raising_hand_color_medium-light.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.mediumLight,
   );
 
   /// 🙋🏽‍♀️ woman raising hand
   final FluentEmojiData _womanRaisingHandMedium = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'woman raising hand',
     glyph: '🙋🏽‍♀️',
     svgPath: 'assets/woman_raising_hand_color_medium.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.medium,
   );
 
   /// 🙋🏾‍♀️ woman raising hand
   final FluentEmojiData _womanRaisingHandMediumDark = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'woman raising hand',
     glyph: '🙋🏾‍♀️',
     svgPath: 'assets/woman_raising_hand_color_medium-dark.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.mediumDark,
   );
 
   /// 🙋🏿‍♀️ woman raising hand
   final FluentEmojiData _womanRaisingHandDark = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'woman raising hand',
     glyph: '🙋🏿‍♀️',
     svgPath: 'assets/woman_raising_hand_color_dark.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.dark,
   );
 
   /// 🚣‍♀️ woman rowing boat
@@ -20096,6 +21805,7 @@ class FluentEmojiPeopleAndBody {
   /// Medium Dark [_womanRowingBoatMediumDark]
   /// Dark [_womanRowingBoatDark]
   late final SkinToneFluentEmojiData womanRowingBoat = SkinToneFluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'woman rowing boat',
     glyph: '🚣‍♀️',
@@ -20109,47 +21819,52 @@ class FluentEmojiPeopleAndBody {
 
   /// 🚣🏻‍♀️ woman rowing boat
   final FluentEmojiData _womanRowingBoatLight = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'woman rowing boat',
     glyph: '🚣🏻‍♀️',
     svgPath: 'assets/woman_rowing_boat_color_light.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.light,
   );
 
   /// 🚣🏼‍♀️ woman rowing boat
   final FluentEmojiData _womanRowingBoatMediumLight = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'woman rowing boat',
     glyph: '🚣🏼‍♀️',
     svgPath: 'assets/woman_rowing_boat_color_medium-light.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.mediumLight,
   );
 
   /// 🚣🏽‍♀️ woman rowing boat
   final FluentEmojiData _womanRowingBoatMedium = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'woman rowing boat',
     glyph: '🚣🏽‍♀️',
     svgPath: 'assets/woman_rowing_boat_color_medium.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.medium,
   );
 
   /// 🚣🏾‍♀️ woman rowing boat
   final FluentEmojiData _womanRowingBoatMediumDark = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'woman rowing boat',
     glyph: '🚣🏾‍♀️',
     svgPath: 'assets/woman_rowing_boat_color_medium-dark.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.mediumDark,
   );
 
   /// 🚣🏿‍♀️ woman rowing boat
   final FluentEmojiData _womanRowingBoatDark = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'woman rowing boat',
     glyph: '🚣🏿‍♀️',
     svgPath: 'assets/woman_rowing_boat_color_dark.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.dark,
   );
 
   /// 🏃‍♀️ woman running
@@ -20160,6 +21875,7 @@ class FluentEmojiPeopleAndBody {
   /// Medium Dark [_womanRunningMediumDark]
   /// Dark [_womanRunningDark]
   late final SkinToneFluentEmojiData womanRunning = SkinToneFluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'woman running',
     glyph: '🏃‍♀️',
@@ -20173,47 +21889,52 @@ class FluentEmojiPeopleAndBody {
 
   /// 🏃🏻‍♀️ woman running
   final FluentEmojiData _womanRunningLight = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'woman running',
     glyph: '🏃🏻‍♀️',
     svgPath: 'assets/woman_running_color_light.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.light,
   );
 
   /// 🏃🏼‍♀️ woman running
   final FluentEmojiData _womanRunningMediumLight = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'woman running',
     glyph: '🏃🏼‍♀️',
     svgPath: 'assets/woman_running_color_medium-light.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.mediumLight,
   );
 
   /// 🏃🏽‍♀️ woman running
   final FluentEmojiData _womanRunningMedium = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'woman running',
     glyph: '🏃🏽‍♀️',
     svgPath: 'assets/woman_running_color_medium.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.medium,
   );
 
   /// 🏃🏾‍♀️ woman running
   final FluentEmojiData _womanRunningMediumDark = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'woman running',
     glyph: '🏃🏾‍♀️',
     svgPath: 'assets/woman_running_color_medium-dark.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.mediumDark,
   );
 
   /// 🏃🏿‍♀️ woman running
   final FluentEmojiData _womanRunningDark = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'woman running',
     glyph: '🏃🏿‍♀️',
     svgPath: 'assets/woman_running_color_dark.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.dark,
   );
 
   /// 🏃‍♀️‍➡️ woman running facing right
@@ -20224,6 +21945,7 @@ class FluentEmojiPeopleAndBody {
   /// Medium Dark [_womanRunningFacingRightMediumDark]
   /// Dark [_womanRunningFacingRightDark]
   late final SkinToneFluentEmojiData womanRunningFacingRight = SkinToneFluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'woman running facing right',
     glyph: '🏃‍♀️‍➡️',
@@ -20237,47 +21959,52 @@ class FluentEmojiPeopleAndBody {
 
   /// 🏃🏻‍♀️‍➡️ woman running facing right
   final FluentEmojiData _womanRunningFacingRightLight = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'woman running facing right',
     glyph: '🏃🏻‍♀️‍➡️',
     svgPath: 'assets/woman_running_facing_right_color_light.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.light,
   );
 
   /// 🏃🏼‍♀️‍➡️ woman running facing right
   final FluentEmojiData _womanRunningFacingRightMediumLight = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'woman running facing right',
     glyph: '🏃🏼‍♀️‍➡️',
     svgPath: 'assets/woman_running_facing_right_color_medium-light.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.mediumLight,
   );
 
   /// 🏃🏽‍♀️‍➡️ woman running facing right
   final FluentEmojiData _womanRunningFacingRightMedium = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'woman running facing right',
     glyph: '🏃🏽‍♀️‍➡️',
     svgPath: 'assets/woman_running_facing_right_color_medium.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.medium,
   );
 
   /// 🏃🏾‍♀️‍➡️ woman running facing right
   final FluentEmojiData _womanRunningFacingRightMediumDark = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'woman running facing right',
     glyph: '🏃🏾‍♀️‍➡️',
     svgPath: 'assets/woman_running_facing_right_color_medium-dark.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.mediumDark,
   );
 
   /// 🏃🏿‍♀️‍➡️ woman running facing right
   final FluentEmojiData _womanRunningFacingRightDark = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'woman running facing right',
     glyph: '🏃🏿‍♀️‍➡️',
     svgPath: 'assets/woman_running_facing_right_color_dark.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.dark,
   );
 
   /// 👩‍🔬 woman scientist
@@ -20288,6 +22015,7 @@ class FluentEmojiPeopleAndBody {
   /// Medium Dark [_womanScientistMediumDark]
   /// Dark [_womanScientistDark]
   late final SkinToneFluentEmojiData womanScientist = SkinToneFluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'woman scientist',
     glyph: '👩‍🔬',
@@ -20301,47 +22029,52 @@ class FluentEmojiPeopleAndBody {
 
   /// 👩🏻‍🔬 woman scientist
   final FluentEmojiData _womanScientistLight = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'woman scientist',
     glyph: '👩🏻‍🔬',
     svgPath: 'assets/woman_scientist_color_light.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.light,
   );
 
   /// 👩🏼‍🔬 woman scientist
   final FluentEmojiData _womanScientistMediumLight = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'woman scientist',
     glyph: '👩🏼‍🔬',
     svgPath: 'assets/woman_scientist_color_medium-light.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.mediumLight,
   );
 
   /// 👩🏽‍🔬 woman scientist
   final FluentEmojiData _womanScientistMedium = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'woman scientist',
     glyph: '👩🏽‍🔬',
     svgPath: 'assets/woman_scientist_color_medium.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.medium,
   );
 
   /// 👩🏾‍🔬 woman scientist
   final FluentEmojiData _womanScientistMediumDark = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'woman scientist',
     glyph: '👩🏾‍🔬',
     svgPath: 'assets/woman_scientist_color_medium-dark.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.mediumDark,
   );
 
   /// 👩🏿‍🔬 woman scientist
   final FluentEmojiData _womanScientistDark = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'woman scientist',
     glyph: '👩🏿‍🔬',
     svgPath: 'assets/woman_scientist_color_dark.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.dark,
   );
 
   /// 🤷‍♀️ woman shrugging
@@ -20352,6 +22085,7 @@ class FluentEmojiPeopleAndBody {
   /// Medium Dark [_womanShruggingMediumDark]
   /// Dark [_womanShruggingDark]
   late final SkinToneFluentEmojiData womanShrugging = SkinToneFluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'woman shrugging',
     glyph: '🤷‍♀️',
@@ -20365,47 +22099,52 @@ class FluentEmojiPeopleAndBody {
 
   /// 🤷🏻‍♀️ woman shrugging
   final FluentEmojiData _womanShruggingLight = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'woman shrugging',
     glyph: '🤷🏻‍♀️',
     svgPath: 'assets/woman_shrugging_color_light.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.light,
   );
 
   /// 🤷🏼‍♀️ woman shrugging
   final FluentEmojiData _womanShruggingMediumLight = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'woman shrugging',
     glyph: '🤷🏼‍♀️',
     svgPath: 'assets/woman_shrugging_color_medium-light.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.mediumLight,
   );
 
   /// 🤷🏽‍♀️ woman shrugging
   final FluentEmojiData _womanShruggingMedium = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'woman shrugging',
     glyph: '🤷🏽‍♀️',
     svgPath: 'assets/woman_shrugging_color_medium.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.medium,
   );
 
   /// 🤷🏾‍♀️ woman shrugging
   final FluentEmojiData _womanShruggingMediumDark = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'woman shrugging',
     glyph: '🤷🏾‍♀️',
     svgPath: 'assets/woman_shrugging_color_medium-dark.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.mediumDark,
   );
 
   /// 🤷🏿‍♀️ woman shrugging
   final FluentEmojiData _womanShruggingDark = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'woman shrugging',
     glyph: '🤷🏿‍♀️',
     svgPath: 'assets/woman_shrugging_color_dark.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.dark,
   );
 
   /// 👩‍🎤 woman singer
@@ -20416,6 +22155,7 @@ class FluentEmojiPeopleAndBody {
   /// Medium Dark [_womanSingerMediumDark]
   /// Dark [_womanSingerDark]
   late final SkinToneFluentEmojiData womanSinger = SkinToneFluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'woman singer',
     glyph: '👩‍🎤',
@@ -20429,47 +22169,52 @@ class FluentEmojiPeopleAndBody {
 
   /// 👩🏻‍🎤 woman singer
   final FluentEmojiData _womanSingerLight = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'woman singer',
     glyph: '👩🏻‍🎤',
     svgPath: 'assets/woman_singer_color_light.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.light,
   );
 
   /// 👩🏼‍🎤 woman singer
   final FluentEmojiData _womanSingerMediumLight = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'woman singer',
     glyph: '👩🏼‍🎤',
     svgPath: 'assets/woman_singer_color_medium-light.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.mediumLight,
   );
 
   /// 👩🏽‍🎤 woman singer
   final FluentEmojiData _womanSingerMedium = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'woman singer',
     glyph: '👩🏽‍🎤',
     svgPath: 'assets/woman_singer_color_medium.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.medium,
   );
 
   /// 👩🏾‍🎤 woman singer
   final FluentEmojiData _womanSingerMediumDark = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'woman singer',
     glyph: '👩🏾‍🎤',
     svgPath: 'assets/woman_singer_color_medium-dark.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.mediumDark,
   );
 
   /// 👩🏿‍🎤 woman singer
   final FluentEmojiData _womanSingerDark = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'woman singer',
     glyph: '👩🏿‍🎤',
     svgPath: 'assets/woman_singer_color_dark.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.dark,
   );
 
   /// 🧍‍♀️ woman standing
@@ -20480,6 +22225,7 @@ class FluentEmojiPeopleAndBody {
   /// Medium Dark [_womanStandingMediumDark]
   /// Dark [_womanStandingDark]
   late final SkinToneFluentEmojiData womanStanding = SkinToneFluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'woman standing',
     glyph: '🧍‍♀️',
@@ -20493,47 +22239,52 @@ class FluentEmojiPeopleAndBody {
 
   /// 🧍🏻‍♀️ woman standing
   final FluentEmojiData _womanStandingLight = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'woman standing',
     glyph: '🧍🏻‍♀️',
     svgPath: 'assets/woman_standing_color_light.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.light,
   );
 
   /// 🧍🏼‍♀️ woman standing
   final FluentEmojiData _womanStandingMediumLight = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'woman standing',
     glyph: '🧍🏼‍♀️',
     svgPath: 'assets/woman_standing_color_medium-light.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.mediumLight,
   );
 
   /// 🧍🏽‍♀️ woman standing
   final FluentEmojiData _womanStandingMedium = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'woman standing',
     glyph: '🧍🏽‍♀️',
     svgPath: 'assets/woman_standing_color_medium.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.medium,
   );
 
   /// 🧍🏾‍♀️ woman standing
   final FluentEmojiData _womanStandingMediumDark = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'woman standing',
     glyph: '🧍🏾‍♀️',
     svgPath: 'assets/woman_standing_color_medium-dark.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.mediumDark,
   );
 
   /// 🧍🏿‍♀️ woman standing
   final FluentEmojiData _womanStandingDark = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'woman standing',
     glyph: '🧍🏿‍♀️',
     svgPath: 'assets/woman_standing_color_dark.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.dark,
   );
 
   /// 👩‍🎓 woman student
@@ -20544,6 +22295,7 @@ class FluentEmojiPeopleAndBody {
   /// Medium Dark [_womanStudentMediumDark]
   /// Dark [_womanStudentDark]
   late final SkinToneFluentEmojiData womanStudent = SkinToneFluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'woman student',
     glyph: '👩‍🎓',
@@ -20557,47 +22309,52 @@ class FluentEmojiPeopleAndBody {
 
   /// 👩🏻‍🎓 woman student
   final FluentEmojiData _womanStudentLight = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'woman student',
     glyph: '👩🏻‍🎓',
     svgPath: 'assets/woman_student_color_light.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.light,
   );
 
   /// 👩🏼‍🎓 woman student
   final FluentEmojiData _womanStudentMediumLight = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'woman student',
     glyph: '👩🏼‍🎓',
     svgPath: 'assets/woman_student_color_medium-light.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.mediumLight,
   );
 
   /// 👩🏽‍🎓 woman student
   final FluentEmojiData _womanStudentMedium = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'woman student',
     glyph: '👩🏽‍🎓',
     svgPath: 'assets/woman_student_color_medium.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.medium,
   );
 
   /// 👩🏾‍🎓 woman student
   final FluentEmojiData _womanStudentMediumDark = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'woman student',
     glyph: '👩🏾‍🎓',
     svgPath: 'assets/woman_student_color_medium-dark.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.mediumDark,
   );
 
   /// 👩🏿‍🎓 woman student
   final FluentEmojiData _womanStudentDark = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'woman student',
     glyph: '👩🏿‍🎓',
     svgPath: 'assets/woman_student_color_dark.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.dark,
   );
 
   /// 🦸‍♀️ woman superhero
@@ -20608,6 +22365,7 @@ class FluentEmojiPeopleAndBody {
   /// Medium Dark [_womanSuperheroMediumDark]
   /// Dark [_womanSuperheroDark]
   late final SkinToneFluentEmojiData womanSuperhero = SkinToneFluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'woman superhero',
     glyph: '🦸‍♀️',
@@ -20621,47 +22379,52 @@ class FluentEmojiPeopleAndBody {
 
   /// 🦸🏻‍♀️ woman superhero
   final FluentEmojiData _womanSuperheroLight = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'woman superhero',
     glyph: '🦸🏻‍♀️',
     svgPath: 'assets/woman_superhero_color_light.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.light,
   );
 
   /// 🦸🏼‍♀️ woman superhero
   final FluentEmojiData _womanSuperheroMediumLight = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'woman superhero',
     glyph: '🦸🏼‍♀️',
     svgPath: 'assets/woman_superhero_color_medium-light.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.mediumLight,
   );
 
   /// 🦸🏽‍♀️ woman superhero
   final FluentEmojiData _womanSuperheroMedium = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'woman superhero',
     glyph: '🦸🏽‍♀️',
     svgPath: 'assets/woman_superhero_color_medium.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.medium,
   );
 
   /// 🦸🏾‍♀️ woman superhero
   final FluentEmojiData _womanSuperheroMediumDark = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'woman superhero',
     glyph: '🦸🏾‍♀️',
     svgPath: 'assets/woman_superhero_color_medium-dark.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.mediumDark,
   );
 
   /// 🦸🏿‍♀️ woman superhero
   final FluentEmojiData _womanSuperheroDark = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'woman superhero',
     glyph: '🦸🏿‍♀️',
     svgPath: 'assets/woman_superhero_color_dark.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.dark,
   );
 
   /// 🦹‍♀️ woman supervillain
@@ -20672,6 +22435,7 @@ class FluentEmojiPeopleAndBody {
   /// Medium Dark [_womanSupervillainMediumDark]
   /// Dark [_womanSupervillainDark]
   late final SkinToneFluentEmojiData womanSupervillain = SkinToneFluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'woman supervillain',
     glyph: '🦹‍♀️',
@@ -20685,47 +22449,52 @@ class FluentEmojiPeopleAndBody {
 
   /// 🦹🏻‍♀️ woman supervillain
   final FluentEmojiData _womanSupervillainLight = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'woman supervillain',
     glyph: '🦹🏻‍♀️',
     svgPath: 'assets/woman_supervillain_color_light.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.light,
   );
 
   /// 🦹🏼‍♀️ woman supervillain
   final FluentEmojiData _womanSupervillainMediumLight = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'woman supervillain',
     glyph: '🦹🏼‍♀️',
     svgPath: 'assets/woman_supervillain_color_medium-light.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.mediumLight,
   );
 
   /// 🦹🏽‍♀️ woman supervillain
   final FluentEmojiData _womanSupervillainMedium = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'woman supervillain',
     glyph: '🦹🏽‍♀️',
     svgPath: 'assets/woman_supervillain_color_medium.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.medium,
   );
 
   /// 🦹🏾‍♀️ woman supervillain
   final FluentEmojiData _womanSupervillainMediumDark = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'woman supervillain',
     glyph: '🦹🏾‍♀️',
     svgPath: 'assets/woman_supervillain_color_medium-dark.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.mediumDark,
   );
 
   /// 🦹🏿‍♀️ woman supervillain
   final FluentEmojiData _womanSupervillainDark = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'woman supervillain',
     glyph: '🦹🏿‍♀️',
     svgPath: 'assets/woman_supervillain_color_dark.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.dark,
   );
 
   /// 🏄‍♀️ woman surfing
@@ -20736,6 +22505,7 @@ class FluentEmojiPeopleAndBody {
   /// Medium Dark [_womanSurfingMediumDark]
   /// Dark [_womanSurfingDark]
   late final SkinToneFluentEmojiData womanSurfing = SkinToneFluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'woman surfing',
     glyph: '🏄‍♀️',
@@ -20749,47 +22519,52 @@ class FluentEmojiPeopleAndBody {
 
   /// 🏄🏻‍♀️ woman surfing
   final FluentEmojiData _womanSurfingLight = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'woman surfing',
     glyph: '🏄🏻‍♀️',
     svgPath: 'assets/woman_surfing_color_light.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.light,
   );
 
   /// 🏄🏼‍♀️ woman surfing
   final FluentEmojiData _womanSurfingMediumLight = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'woman surfing',
     glyph: '🏄🏼‍♀️',
     svgPath: 'assets/woman_surfing_color_medium-light.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.mediumLight,
   );
 
   /// 🏄🏽‍♀️ woman surfing
   final FluentEmojiData _womanSurfingMedium = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'woman surfing',
     glyph: '🏄🏽‍♀️',
     svgPath: 'assets/woman_surfing_color_medium.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.medium,
   );
 
   /// 🏄🏾‍♀️ woman surfing
   final FluentEmojiData _womanSurfingMediumDark = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'woman surfing',
     glyph: '🏄🏾‍♀️',
     svgPath: 'assets/woman_surfing_color_medium-dark.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.mediumDark,
   );
 
   /// 🏄🏿‍♀️ woman surfing
   final FluentEmojiData _womanSurfingDark = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'woman surfing',
     glyph: '🏄🏿‍♀️',
     svgPath: 'assets/woman_surfing_color_dark.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.dark,
   );
 
   /// 🏊‍♀️ woman swimming
@@ -20800,6 +22575,7 @@ class FluentEmojiPeopleAndBody {
   /// Medium Dark [_womanSwimmingMediumDark]
   /// Dark [_womanSwimmingDark]
   late final SkinToneFluentEmojiData womanSwimming = SkinToneFluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'woman swimming',
     glyph: '🏊‍♀️',
@@ -20813,47 +22589,52 @@ class FluentEmojiPeopleAndBody {
 
   /// 🏊🏻‍♀️ woman swimming
   final FluentEmojiData _womanSwimmingLight = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'woman swimming',
     glyph: '🏊🏻‍♀️',
     svgPath: 'assets/woman_swimming_color_light.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.light,
   );
 
   /// 🏊🏼‍♀️ woman swimming
   final FluentEmojiData _womanSwimmingMediumLight = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'woman swimming',
     glyph: '🏊🏼‍♀️',
     svgPath: 'assets/woman_swimming_color_medium-light.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.mediumLight,
   );
 
   /// 🏊🏽‍♀️ woman swimming
   final FluentEmojiData _womanSwimmingMedium = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'woman swimming',
     glyph: '🏊🏽‍♀️',
     svgPath: 'assets/woman_swimming_color_medium.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.medium,
   );
 
   /// 🏊🏾‍♀️ woman swimming
   final FluentEmojiData _womanSwimmingMediumDark = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'woman swimming',
     glyph: '🏊🏾‍♀️',
     svgPath: 'assets/woman_swimming_color_medium-dark.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.mediumDark,
   );
 
   /// 🏊🏿‍♀️ woman swimming
   final FluentEmojiData _womanSwimmingDark = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'woman swimming',
     glyph: '🏊🏿‍♀️',
     svgPath: 'assets/woman_swimming_color_dark.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.dark,
   );
 
   /// 👩‍🏫 woman teacher
@@ -20864,6 +22645,7 @@ class FluentEmojiPeopleAndBody {
   /// Medium Dark [_womanTeacherMediumDark]
   /// Dark [_womanTeacherDark]
   late final SkinToneFluentEmojiData womanTeacher = SkinToneFluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'woman teacher',
     glyph: '👩‍🏫',
@@ -20877,47 +22659,52 @@ class FluentEmojiPeopleAndBody {
 
   /// 👩🏻‍🏫 woman teacher
   final FluentEmojiData _womanTeacherLight = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'woman teacher',
     glyph: '👩🏻‍🏫',
     svgPath: 'assets/woman_teacher_color_light.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.light,
   );
 
   /// 👩🏼‍🏫 woman teacher
   final FluentEmojiData _womanTeacherMediumLight = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'woman teacher',
     glyph: '👩🏼‍🏫',
     svgPath: 'assets/woman_teacher_color_medium-light.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.mediumLight,
   );
 
   /// 👩🏽‍🏫 woman teacher
   final FluentEmojiData _womanTeacherMedium = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'woman teacher',
     glyph: '👩🏽‍🏫',
     svgPath: 'assets/woman_teacher_color_medium.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.medium,
   );
 
   /// 👩🏾‍🏫 woman teacher
   final FluentEmojiData _womanTeacherMediumDark = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'woman teacher',
     glyph: '👩🏾‍🏫',
     svgPath: 'assets/woman_teacher_color_medium-dark.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.mediumDark,
   );
 
   /// 👩🏿‍🏫 woman teacher
   final FluentEmojiData _womanTeacherDark = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'woman teacher',
     glyph: '👩🏿‍🏫',
     svgPath: 'assets/woman_teacher_color_dark.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.dark,
   );
 
   /// 👩‍💻 woman technologist
@@ -20928,6 +22715,7 @@ class FluentEmojiPeopleAndBody {
   /// Medium Dark [_womanTechnologistMediumDark]
   /// Dark [_womanTechnologistDark]
   late final SkinToneFluentEmojiData womanTechnologist = SkinToneFluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'woman technologist',
     glyph: '👩‍💻',
@@ -20941,47 +22729,52 @@ class FluentEmojiPeopleAndBody {
 
   /// 👩🏻‍💻 woman technologist
   final FluentEmojiData _womanTechnologistLight = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'woman technologist',
     glyph: '👩🏻‍💻',
     svgPath: 'assets/woman_technologist_color_light.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.light,
   );
 
   /// 👩🏼‍💻 woman technologist
   final FluentEmojiData _womanTechnologistMediumLight = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'woman technologist',
     glyph: '👩🏼‍💻',
     svgPath: 'assets/woman_technologist_color_medium-light.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.mediumLight,
   );
 
   /// 👩🏽‍💻 woman technologist
   final FluentEmojiData _womanTechnologistMedium = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'woman technologist',
     glyph: '👩🏽‍💻',
     svgPath: 'assets/woman_technologist_color_medium.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.medium,
   );
 
   /// 👩🏾‍💻 woman technologist
   final FluentEmojiData _womanTechnologistMediumDark = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'woman technologist',
     glyph: '👩🏾‍💻',
     svgPath: 'assets/woman_technologist_color_medium-dark.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.mediumDark,
   );
 
   /// 👩🏿‍💻 woman technologist
   final FluentEmojiData _womanTechnologistDark = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'woman technologist',
     glyph: '👩🏿‍💻',
     svgPath: 'assets/woman_technologist_color_dark.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.dark,
   );
 
   /// 💁‍♀️ woman tipping hand
@@ -20992,6 +22785,7 @@ class FluentEmojiPeopleAndBody {
   /// Medium Dark [_womanTippingHandMediumDark]
   /// Dark [_womanTippingHandDark]
   late final SkinToneFluentEmojiData womanTippingHand = SkinToneFluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'woman tipping hand',
     glyph: '💁‍♀️',
@@ -21005,47 +22799,52 @@ class FluentEmojiPeopleAndBody {
 
   /// 💁🏻‍♀️ woman tipping hand
   final FluentEmojiData _womanTippingHandLight = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'woman tipping hand',
     glyph: '💁🏻‍♀️',
     svgPath: 'assets/woman_tipping_hand_color_light.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.light,
   );
 
   /// 💁🏼‍♀️ woman tipping hand
   final FluentEmojiData _womanTippingHandMediumLight = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'woman tipping hand',
     glyph: '💁🏼‍♀️',
     svgPath: 'assets/woman_tipping_hand_color_medium-light.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.mediumLight,
   );
 
   /// 💁🏽‍♀️ woman tipping hand
   final FluentEmojiData _womanTippingHandMedium = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'woman tipping hand',
     glyph: '💁🏽‍♀️',
     svgPath: 'assets/woman_tipping_hand_color_medium.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.medium,
   );
 
   /// 💁🏾‍♀️ woman tipping hand
   final FluentEmojiData _womanTippingHandMediumDark = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'woman tipping hand',
     glyph: '💁🏾‍♀️',
     svgPath: 'assets/woman_tipping_hand_color_medium-dark.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.mediumDark,
   );
 
   /// 💁🏿‍♀️ woman tipping hand
   final FluentEmojiData _womanTippingHandDark = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'woman tipping hand',
     glyph: '💁🏿‍♀️',
     svgPath: 'assets/woman_tipping_hand_color_dark.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.dark,
   );
 
   /// 🧛‍♀️ woman vampire
@@ -21056,6 +22855,7 @@ class FluentEmojiPeopleAndBody {
   /// Medium Dark [_womanVampireMediumDark]
   /// Dark [_womanVampireDark]
   late final SkinToneFluentEmojiData womanVampire = SkinToneFluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'woman vampire',
     glyph: '🧛‍♀️',
@@ -21069,47 +22869,52 @@ class FluentEmojiPeopleAndBody {
 
   /// 🧛🏻‍♀️ woman vampire
   final FluentEmojiData _womanVampireLight = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'woman vampire',
     glyph: '🧛🏻‍♀️',
     svgPath: 'assets/woman_vampire_color_light.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.light,
   );
 
   /// 🧛🏼‍♀️ woman vampire
   final FluentEmojiData _womanVampireMediumLight = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'woman vampire',
     glyph: '🧛🏼‍♀️',
     svgPath: 'assets/woman_vampire_color_medium-light.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.mediumLight,
   );
 
   /// 🧛🏽‍♀️ woman vampire
   final FluentEmojiData _womanVampireMedium = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'woman vampire',
     glyph: '🧛🏽‍♀️',
     svgPath: 'assets/woman_vampire_color_medium.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.medium,
   );
 
   /// 🧛🏾‍♀️ woman vampire
   final FluentEmojiData _womanVampireMediumDark = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'woman vampire',
     glyph: '🧛🏾‍♀️',
     svgPath: 'assets/woman_vampire_color_medium-dark.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.mediumDark,
   );
 
   /// 🧛🏿‍♀️ woman vampire
   final FluentEmojiData _womanVampireDark = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'woman vampire',
     glyph: '🧛🏿‍♀️',
     svgPath: 'assets/woman_vampire_color_dark.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.dark,
   );
 
   /// 🚶‍♀️ woman walking
@@ -21120,6 +22925,7 @@ class FluentEmojiPeopleAndBody {
   /// Medium Dark [_womanWalkingMediumDark]
   /// Dark [_womanWalkingDark]
   late final SkinToneFluentEmojiData womanWalking = SkinToneFluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'woman walking',
     glyph: '🚶‍♀️',
@@ -21133,47 +22939,52 @@ class FluentEmojiPeopleAndBody {
 
   /// 🚶🏻‍♀️ woman walking
   final FluentEmojiData _womanWalkingLight = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'woman walking',
     glyph: '🚶🏻‍♀️',
     svgPath: 'assets/woman_walking_color_light.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.light,
   );
 
   /// 🚶🏼‍♀️ woman walking
   final FluentEmojiData _womanWalkingMediumLight = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'woman walking',
     glyph: '🚶🏼‍♀️',
     svgPath: 'assets/woman_walking_color_medium-light.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.mediumLight,
   );
 
   /// 🚶🏽‍♀️ woman walking
   final FluentEmojiData _womanWalkingMedium = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'woman walking',
     glyph: '🚶🏽‍♀️',
     svgPath: 'assets/woman_walking_color_medium.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.medium,
   );
 
   /// 🚶🏾‍♀️ woman walking
   final FluentEmojiData _womanWalkingMediumDark = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'woman walking',
     glyph: '🚶🏾‍♀️',
     svgPath: 'assets/woman_walking_color_medium-dark.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.mediumDark,
   );
 
   /// 🚶🏿‍♀️ woman walking
   final FluentEmojiData _womanWalkingDark = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'woman walking',
     glyph: '🚶🏿‍♀️',
     svgPath: 'assets/woman_walking_color_dark.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.dark,
   );
 
   /// 🚶‍♀️‍➡️ woman walking facing right
@@ -21184,6 +22995,7 @@ class FluentEmojiPeopleAndBody {
   /// Medium Dark [_womanWalkingFacingRightMediumDark]
   /// Dark [_womanWalkingFacingRightDark]
   late final SkinToneFluentEmojiData womanWalkingFacingRight = SkinToneFluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'woman walking facing right',
     glyph: '🚶‍♀️‍➡️',
@@ -21197,47 +23009,52 @@ class FluentEmojiPeopleAndBody {
 
   /// 🚶🏻‍♀️‍➡️ woman walking facing right
   final FluentEmojiData _womanWalkingFacingRightLight = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'woman walking facing right',
     glyph: '🚶🏻‍♀️‍➡️',
     svgPath: 'assets/woman_walking_facing_right_color_light.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.light,
   );
 
   /// 🚶🏼‍♀️‍➡️ woman walking facing right
   final FluentEmojiData _womanWalkingFacingRightMediumLight = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'woman walking facing right',
     glyph: '🚶🏼‍♀️‍➡️',
     svgPath: 'assets/woman_walking_facing_right_color_medium-light.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.mediumLight,
   );
 
   /// 🚶🏽‍♀️‍➡️ woman walking facing right
   final FluentEmojiData _womanWalkingFacingRightMedium = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'woman walking facing right',
     glyph: '🚶🏽‍♀️‍➡️',
     svgPath: 'assets/woman_walking_facing_right_color_medium.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.medium,
   );
 
   /// 🚶🏾‍♀️‍➡️ woman walking facing right
   final FluentEmojiData _womanWalkingFacingRightMediumDark = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'woman walking facing right',
     glyph: '🚶🏾‍♀️‍➡️',
     svgPath: 'assets/woman_walking_facing_right_color_medium-dark.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.mediumDark,
   );
 
   /// 🚶🏿‍♀️‍➡️ woman walking facing right
   final FluentEmojiData _womanWalkingFacingRightDark = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'woman walking facing right',
     glyph: '🚶🏿‍♀️‍➡️',
     svgPath: 'assets/woman_walking_facing_right_color_dark.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.dark,
   );
 
   /// 👳‍♀️ woman wearing turban
@@ -21248,6 +23065,7 @@ class FluentEmojiPeopleAndBody {
   /// Medium Dark [_womanWearingTurbanMediumDark]
   /// Dark [_womanWearingTurbanDark]
   late final SkinToneFluentEmojiData womanWearingTurban = SkinToneFluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'woman wearing turban',
     glyph: '👳‍♀️',
@@ -21261,47 +23079,52 @@ class FluentEmojiPeopleAndBody {
 
   /// 👳🏻‍♀️ woman wearing turban
   final FluentEmojiData _womanWearingTurbanLight = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'woman wearing turban',
     glyph: '👳🏻‍♀️',
     svgPath: 'assets/woman_wearing_turban_color_light.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.light,
   );
 
   /// 👳🏼‍♀️ woman wearing turban
   final FluentEmojiData _womanWearingTurbanMediumLight = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'woman wearing turban',
     glyph: '👳🏼‍♀️',
     svgPath: 'assets/woman_wearing_turban_color_medium-light.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.mediumLight,
   );
 
   /// 👳🏽‍♀️ woman wearing turban
   final FluentEmojiData _womanWearingTurbanMedium = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'woman wearing turban',
     glyph: '👳🏽‍♀️',
     svgPath: 'assets/woman_wearing_turban_color_medium.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.medium,
   );
 
   /// 👳🏾‍♀️ woman wearing turban
   final FluentEmojiData _womanWearingTurbanMediumDark = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'woman wearing turban',
     glyph: '👳🏾‍♀️',
     svgPath: 'assets/woman_wearing_turban_color_medium-dark.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.mediumDark,
   );
 
   /// 👳🏿‍♀️ woman wearing turban
   final FluentEmojiData _womanWearingTurbanDark = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'woman wearing turban',
     glyph: '👳🏿‍♀️',
     svgPath: 'assets/woman_wearing_turban_color_dark.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.dark,
   );
 
   /// 🧕 woman with headscarf
@@ -21312,6 +23135,7 @@ class FluentEmojiPeopleAndBody {
   /// Medium Dark [_womanWithHeadscarfMediumDark]
   /// Dark [_womanWithHeadscarfDark]
   late final SkinToneFluentEmojiData womanWithHeadscarf = SkinToneFluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'woman with headscarf',
     glyph: '🧕',
@@ -21325,47 +23149,52 @@ class FluentEmojiPeopleAndBody {
 
   /// 🧕🏻 woman with headscarf
   final FluentEmojiData _womanWithHeadscarfLight = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'woman with headscarf',
     glyph: '🧕🏻',
     svgPath: 'assets/woman_with_headscarf_color_light.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.light,
   );
 
   /// 🧕🏼 woman with headscarf
   final FluentEmojiData _womanWithHeadscarfMediumLight = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'woman with headscarf',
     glyph: '🧕🏼',
     svgPath: 'assets/woman_with_headscarf_color_medium-light.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.mediumLight,
   );
 
   /// 🧕🏽 woman with headscarf
   final FluentEmojiData _womanWithHeadscarfMedium = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'woman with headscarf',
     glyph: '🧕🏽',
     svgPath: 'assets/woman_with_headscarf_color_medium.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.medium,
   );
 
   /// 🧕🏾 woman with headscarf
   final FluentEmojiData _womanWithHeadscarfMediumDark = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'woman with headscarf',
     glyph: '🧕🏾',
     svgPath: 'assets/woman_with_headscarf_color_medium-dark.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.mediumDark,
   );
 
   /// 🧕🏿 woman with headscarf
   final FluentEmojiData _womanWithHeadscarfDark = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'woman with headscarf',
     glyph: '🧕🏿',
     svgPath: 'assets/woman_with_headscarf_color_dark.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.dark,
   );
 
   /// 👰‍♀️ woman with veil
@@ -21376,6 +23205,7 @@ class FluentEmojiPeopleAndBody {
   /// Medium Dark [_womanWithVeilMediumDark]
   /// Dark [_womanWithVeilDark]
   late final SkinToneFluentEmojiData womanWithVeil = SkinToneFluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'woman with veil',
     glyph: '👰‍♀️',
@@ -21389,47 +23219,52 @@ class FluentEmojiPeopleAndBody {
 
   /// 👰🏻‍♀️ woman with veil
   final FluentEmojiData _womanWithVeilLight = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'woman with veil',
     glyph: '👰🏻‍♀️',
     svgPath: 'assets/woman_with_veil_color_light.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.light,
   );
 
   /// 👰🏼‍♀️ woman with veil
   final FluentEmojiData _womanWithVeilMediumLight = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'woman with veil',
     glyph: '👰🏼‍♀️',
     svgPath: 'assets/woman_with_veil_color_medium-light.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.mediumLight,
   );
 
   /// 👰🏽‍♀️ woman with veil
   final FluentEmojiData _womanWithVeilMedium = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'woman with veil',
     glyph: '👰🏽‍♀️',
     svgPath: 'assets/woman_with_veil_color_medium.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.medium,
   );
 
   /// 👰🏾‍♀️ woman with veil
   final FluentEmojiData _womanWithVeilMediumDark = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'woman with veil',
     glyph: '👰🏾‍♀️',
     svgPath: 'assets/woman_with_veil_color_medium-dark.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.mediumDark,
   );
 
   /// 👰🏿‍♀️ woman with veil
   final FluentEmojiData _womanWithVeilDark = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'woman with veil',
     glyph: '👰🏿‍♀️',
     svgPath: 'assets/woman_with_veil_color_dark.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.dark,
   );
 
   /// 👩‍🦯 woman with white cane
@@ -21440,6 +23275,7 @@ class FluentEmojiPeopleAndBody {
   /// Medium Dark [_womanWithWhiteCaneMediumDark]
   /// Dark [_womanWithWhiteCaneDark]
   late final SkinToneFluentEmojiData womanWithWhiteCane = SkinToneFluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'woman with white cane',
     glyph: '👩‍🦯',
@@ -21453,47 +23289,52 @@ class FluentEmojiPeopleAndBody {
 
   /// 👩🏻‍🦯 woman with white cane
   final FluentEmojiData _womanWithWhiteCaneLight = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'woman with white cane',
     glyph: '👩🏻‍🦯',
     svgPath: 'assets/woman_with_white_cane_color_light.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.light,
   );
 
   /// 👩🏼‍🦯 woman with white cane
   final FluentEmojiData _womanWithWhiteCaneMediumLight = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'woman with white cane',
     glyph: '👩🏼‍🦯',
     svgPath: 'assets/woman_with_white_cane_color_medium-light.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.mediumLight,
   );
 
   /// 👩🏽‍🦯 woman with white cane
   final FluentEmojiData _womanWithWhiteCaneMedium = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'woman with white cane',
     glyph: '👩🏽‍🦯',
     svgPath: 'assets/woman_with_white_cane_color_medium.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.medium,
   );
 
   /// 👩🏾‍🦯 woman with white cane
   final FluentEmojiData _womanWithWhiteCaneMediumDark = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'woman with white cane',
     glyph: '👩🏾‍🦯',
     svgPath: 'assets/woman_with_white_cane_color_medium-dark.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.mediumDark,
   );
 
   /// 👩🏿‍🦯 woman with white cane
   final FluentEmojiData _womanWithWhiteCaneDark = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'woman with white cane',
     glyph: '👩🏿‍🦯',
     svgPath: 'assets/woman_with_white_cane_color_dark.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.dark,
   );
 
   /// 👩‍🦯‍➡️ woman with white cane facing right
@@ -21504,6 +23345,7 @@ class FluentEmojiPeopleAndBody {
   /// Medium Dark [_womanWithWhiteCaneFacingRightMediumDark]
   /// Dark [_womanWithWhiteCaneFacingRightDark]
   late final SkinToneFluentEmojiData womanWithWhiteCaneFacingRight = SkinToneFluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'woman with white cane facing right',
     glyph: '👩‍🦯‍➡️',
@@ -21517,56 +23359,62 @@ class FluentEmojiPeopleAndBody {
 
   /// 👩🏻‍🦯‍➡️ woman with white cane facing right
   final FluentEmojiData _womanWithWhiteCaneFacingRightLight = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'woman with white cane facing right',
     glyph: '👩🏻‍🦯‍➡️',
     svgPath: 'assets/woman_with_white_cane_facing_right_color_light.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.light,
   );
 
   /// 👩🏼‍🦯‍➡️ woman with white cane facing right
   final FluentEmojiData _womanWithWhiteCaneFacingRightMediumLight = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'woman with white cane facing right',
     glyph: '👩🏼‍🦯‍➡️',
     svgPath: 'assets/woman_with_white_cane_facing_right_color_medium-light.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.mediumLight,
   );
 
   /// 👩🏽‍🦯‍➡️ woman with white cane facing right
   final FluentEmojiData _womanWithWhiteCaneFacingRightMedium = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'woman with white cane facing right',
     glyph: '👩🏽‍🦯‍➡️',
     svgPath: 'assets/woman_with_white_cane_facing_right_color_medium.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.medium,
   );
 
   /// 👩🏾‍🦯‍➡️ woman with white cane facing right
   final FluentEmojiData _womanWithWhiteCaneFacingRightMediumDark = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'woman with white cane facing right',
     glyph: '👩🏾‍🦯‍➡️',
     svgPath: 'assets/woman_with_white_cane_facing_right_color_medium-dark.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.mediumDark,
   );
 
   /// 👩🏿‍🦯‍➡️ woman with white cane facing right
   final FluentEmojiData _womanWithWhiteCaneFacingRightDark = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'woman with white cane facing right',
     glyph: '👩🏿‍🦯‍➡️',
     svgPath: 'assets/woman_with_white_cane_facing_right_color_dark.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.dark,
   );
 
   /// 🧟‍♀️ woman zombie
   final FluentEmojiData womanZombie = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'woman zombie',
     glyph: '🧟‍♀️',
     svgPath: 'assets/woman_zombie_color.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.standard,
   );
 
   /// 👩‍🦲 woman: bald
@@ -21577,6 +23425,7 @@ class FluentEmojiPeopleAndBody {
   /// Medium Dark [_womanBaldMediumDark]
   /// Dark [_womanBaldDark]
   late final SkinToneFluentEmojiData womanBald = SkinToneFluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'woman: bald',
     glyph: '👩‍🦲',
@@ -21590,47 +23439,52 @@ class FluentEmojiPeopleAndBody {
 
   /// 👩🏻‍🦲 woman: bald
   final FluentEmojiData _womanBaldLight = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'woman: bald',
     glyph: '👩🏻‍🦲',
     svgPath: 'assets/woman_bald_color_light.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.light,
   );
 
   /// 👩🏼‍🦲 woman: bald
   final FluentEmojiData _womanBaldMediumLight = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'woman: bald',
     glyph: '👩🏼‍🦲',
     svgPath: 'assets/woman_bald_color_medium-light.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.mediumLight,
   );
 
   /// 👩🏽‍🦲 woman: bald
   final FluentEmojiData _womanBaldMedium = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'woman: bald',
     glyph: '👩🏽‍🦲',
     svgPath: 'assets/woman_bald_color_medium.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.medium,
   );
 
   /// 👩🏾‍🦲 woman: bald
   final FluentEmojiData _womanBaldMediumDark = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'woman: bald',
     glyph: '👩🏾‍🦲',
     svgPath: 'assets/woman_bald_color_medium-dark.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.mediumDark,
   );
 
   /// 👩🏿‍🦲 woman: bald
   final FluentEmojiData _womanBaldDark = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'woman: bald',
     glyph: '👩🏿‍🦲',
     svgPath: 'assets/woman_bald_color_dark.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.dark,
   );
 
   /// 🧔‍♀️ woman: beard
@@ -21641,6 +23495,7 @@ class FluentEmojiPeopleAndBody {
   /// Medium Dark [_womanBeardMediumDark]
   /// Dark [_womanBeardDark]
   late final SkinToneFluentEmojiData womanBeard = SkinToneFluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'woman: beard',
     glyph: '🧔‍♀️',
@@ -21654,47 +23509,52 @@ class FluentEmojiPeopleAndBody {
 
   /// 🧔🏻‍♀️ woman: beard
   final FluentEmojiData _womanBeardLight = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'woman: beard',
     glyph: '🧔🏻‍♀️',
     svgPath: 'assets/woman_beard_color_light.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.light,
   );
 
   /// 🧔🏼‍♀️ woman: beard
   final FluentEmojiData _womanBeardMediumLight = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'woman: beard',
     glyph: '🧔🏼‍♀️',
     svgPath: 'assets/woman_beard_color_medium-light.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.mediumLight,
   );
 
   /// 🧔🏽‍♀️ woman: beard
   final FluentEmojiData _womanBeardMedium = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'woman: beard',
     glyph: '🧔🏽‍♀️',
     svgPath: 'assets/woman_beard_color_medium.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.medium,
   );
 
   /// 🧔🏾‍♀️ woman: beard
   final FluentEmojiData _womanBeardMediumDark = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'woman: beard',
     glyph: '🧔🏾‍♀️',
     svgPath: 'assets/woman_beard_color_medium-dark.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.mediumDark,
   );
 
   /// 🧔🏿‍♀️ woman: beard
   final FluentEmojiData _womanBeardDark = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'woman: beard',
     glyph: '🧔🏿‍♀️',
     svgPath: 'assets/woman_beard_color_dark.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.dark,
   );
 
   /// 👱‍♀️ woman: blond hair
@@ -21705,6 +23565,7 @@ class FluentEmojiPeopleAndBody {
   /// Medium Dark [_womanBlondHairMediumDark]
   /// Dark [_womanBlondHairDark]
   late final SkinToneFluentEmojiData womanBlondHair = SkinToneFluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'woman: blond hair',
     glyph: '👱‍♀️',
@@ -21718,47 +23579,52 @@ class FluentEmojiPeopleAndBody {
 
   /// 👱🏻‍♀️ woman: blond hair
   final FluentEmojiData _womanBlondHairLight = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'woman: blond hair',
     glyph: '👱🏻‍♀️',
     svgPath: 'assets/woman_blonde_hair_color_light.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.light,
   );
 
   /// 👱🏼‍♀️ woman: blond hair
   final FluentEmojiData _womanBlondHairMediumLight = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'woman: blond hair',
     glyph: '👱🏼‍♀️',
     svgPath: 'assets/woman_blonde_hair_color_medium-light.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.mediumLight,
   );
 
   /// 👱🏽‍♀️ woman: blond hair
   final FluentEmojiData _womanBlondHairMedium = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'woman: blond hair',
     glyph: '👱🏽‍♀️',
     svgPath: 'assets/woman_blonde_hair_color_medium.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.medium,
   );
 
   /// 👱🏾‍♀️ woman: blond hair
   final FluentEmojiData _womanBlondHairMediumDark = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'woman: blond hair',
     glyph: '👱🏾‍♀️',
     svgPath: 'assets/woman_blonde_hair_color_medium-dark.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.mediumDark,
   );
 
   /// 👱🏿‍♀️ woman: blond hair
   final FluentEmojiData _womanBlondHairDark = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'woman: blond hair',
     glyph: '👱🏿‍♀️',
     svgPath: 'assets/woman_blonde_hair_color_dark.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.dark,
   );
 
   /// 👩‍🦱 woman: curly hair
@@ -21769,6 +23635,7 @@ class FluentEmojiPeopleAndBody {
   /// Medium Dark [_womanCurlyHairMediumDark]
   /// Dark [_womanCurlyHairDark]
   late final SkinToneFluentEmojiData womanCurlyHair = SkinToneFluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'woman: curly hair',
     glyph: '👩‍🦱',
@@ -21782,47 +23649,52 @@ class FluentEmojiPeopleAndBody {
 
   /// 👩🏻‍🦱 woman: curly hair
   final FluentEmojiData _womanCurlyHairLight = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'woman: curly hair',
     glyph: '👩🏻‍🦱',
     svgPath: 'assets/woman_curly_hair_color_light.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.light,
   );
 
   /// 👩🏼‍🦱 woman: curly hair
   final FluentEmojiData _womanCurlyHairMediumLight = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'woman: curly hair',
     glyph: '👩🏼‍🦱',
     svgPath: 'assets/woman_curly_hair_color_medium-light.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.mediumLight,
   );
 
   /// 👩🏽‍🦱 woman: curly hair
   final FluentEmojiData _womanCurlyHairMedium = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'woman: curly hair',
     glyph: '👩🏽‍🦱',
     svgPath: 'assets/woman_curly_hair_color_medium.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.medium,
   );
 
   /// 👩🏾‍🦱 woman: curly hair
   final FluentEmojiData _womanCurlyHairMediumDark = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'woman: curly hair',
     glyph: '👩🏾‍🦱',
     svgPath: 'assets/woman_curly_hair_color_medium-dark.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.mediumDark,
   );
 
   /// 👩🏿‍🦱 woman: curly hair
   final FluentEmojiData _womanCurlyHairDark = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'woman: curly hair',
     glyph: '👩🏿‍🦱',
     svgPath: 'assets/woman_curly_hair_color_dark.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.dark,
   );
 
   /// 👩‍🦰 woman: red hair
@@ -21833,6 +23705,7 @@ class FluentEmojiPeopleAndBody {
   /// Medium Dark [_womanRedHairMediumDark]
   /// Dark [_womanRedHairDark]
   late final SkinToneFluentEmojiData womanRedHair = SkinToneFluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'woman: red hair',
     glyph: '👩‍🦰',
@@ -21846,47 +23719,52 @@ class FluentEmojiPeopleAndBody {
 
   /// 👩🏻‍🦰 woman: red hair
   final FluentEmojiData _womanRedHairLight = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'woman: red hair',
     glyph: '👩🏻‍🦰',
     svgPath: 'assets/woman_red_hair_color_light.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.light,
   );
 
   /// 👩🏼‍🦰 woman: red hair
   final FluentEmojiData _womanRedHairMediumLight = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'woman: red hair',
     glyph: '👩🏼‍🦰',
     svgPath: 'assets/woman_red_hair_color_medium-light.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.mediumLight,
   );
 
   /// 👩🏽‍🦰 woman: red hair
   final FluentEmojiData _womanRedHairMedium = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'woman: red hair',
     glyph: '👩🏽‍🦰',
     svgPath: 'assets/woman_red_hair_color_medium.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.medium,
   );
 
   /// 👩🏾‍🦰 woman: red hair
   final FluentEmojiData _womanRedHairMediumDark = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'woman: red hair',
     glyph: '👩🏾‍🦰',
     svgPath: 'assets/woman_red_hair_color_medium-dark.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.mediumDark,
   );
 
   /// 👩🏿‍🦰 woman: red hair
   final FluentEmojiData _womanRedHairDark = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'woman: red hair',
     glyph: '👩🏿‍🦰',
     svgPath: 'assets/woman_red_hair_color_dark.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.dark,
   );
 
   /// 👩‍🦳 woman: white hair
@@ -21897,6 +23775,7 @@ class FluentEmojiPeopleAndBody {
   /// Medium Dark [_womanWhiteHairMediumDark]
   /// Dark [_womanWhiteHairDark]
   late final SkinToneFluentEmojiData womanWhiteHair = SkinToneFluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'woman: white hair',
     glyph: '👩‍🦳',
@@ -21910,65 +23789,72 @@ class FluentEmojiPeopleAndBody {
 
   /// 👩🏻‍🦳 woman: white hair
   final FluentEmojiData _womanWhiteHairLight = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'woman: white hair',
     glyph: '👩🏻‍🦳',
     svgPath: 'assets/woman_white_hair_color_light.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.light,
   );
 
   /// 👩🏼‍🦳 woman: white hair
   final FluentEmojiData _womanWhiteHairMediumLight = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'woman: white hair',
     glyph: '👩🏼‍🦳',
     svgPath: 'assets/woman_white_hair_color_medium-light.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.mediumLight,
   );
 
   /// 👩🏽‍🦳 woman: white hair
   final FluentEmojiData _womanWhiteHairMedium = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'woman: white hair',
     glyph: '👩🏽‍🦳',
     svgPath: 'assets/woman_white_hair_color_medium.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.medium,
   );
 
   /// 👩🏾‍🦳 woman: white hair
   final FluentEmojiData _womanWhiteHairMediumDark = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'woman: white hair',
     glyph: '👩🏾‍🦳',
     svgPath: 'assets/woman_white_hair_color_medium-dark.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.mediumDark,
   );
 
   /// 👩🏿‍🦳 woman: white hair
   final FluentEmojiData _womanWhiteHairDark = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'woman: white hair',
     glyph: '👩🏿‍🦳',
     svgPath: 'assets/woman_white_hair_color_dark.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.dark,
   );
 
   /// 👯‍♀️ women with bunny ears
   final FluentEmojiData womenWithBunnyEars = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'women with bunny ears',
     glyph: '👯‍♀️',
     svgPath: 'assets/woman_with_bunny_ears_color.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.standard,
   );
 
   /// 🤼‍♀️ women wrestling
   final FluentEmojiData womenWrestling = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'women wrestling',
     glyph: '🤼‍♀️',
     svgPath: 'assets/woman_wrestling_color.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.standard,
   );
 
   /// ✍️ writing hand
@@ -21979,6 +23865,7 @@ class FluentEmojiPeopleAndBody {
   /// Medium Dark [_writingHandMediumDark]
   /// Dark [_writingHandDark]
   late final SkinToneFluentEmojiData writingHand = SkinToneFluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'writing hand',
     glyph: '✍️',
@@ -21992,55 +23879,61 @@ class FluentEmojiPeopleAndBody {
 
   /// ✍🏻 writing hand
   final FluentEmojiData _writingHandLight = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'writing hand',
     glyph: '✍🏻',
     svgPath: 'assets/writing_hand_color_light.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.light,
   );
 
   /// ✍🏼 writing hand
   final FluentEmojiData _writingHandMediumLight = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'writing hand',
     glyph: '✍🏼',
     svgPath: 'assets/writing_hand_color_medium-light.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.mediumLight,
   );
 
   /// ✍🏽 writing hand
   final FluentEmojiData _writingHandMedium = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'writing hand',
     glyph: '✍🏽',
     svgPath: 'assets/writing_hand_color_medium.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.medium,
   );
 
   /// ✍🏾 writing hand
   final FluentEmojiData _writingHandMediumDark = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'writing hand',
     glyph: '✍🏾',
     svgPath: 'assets/writing_hand_color_medium-dark.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.mediumDark,
   );
 
   /// ✍🏿 writing hand
   final FluentEmojiData _writingHandDark = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'writing hand',
     glyph: '✍🏿',
     svgPath: 'assets/writing_hand_color_dark.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.dark,
   );
 
   /// 🧟 zombie
   final FluentEmojiData zombie = const FluentEmojiData(
+    package: 'fluent_emoji_people_and_body',
     group: 'People & Body',
     name: 'zombie',
     glyph: '🧟',
     svgPath: 'assets/person_zombie_color.svg',
-    skinTone: FluentEmojiSkinTone.defalut,
+    skinTone: FluentEmojiSkinTone.standard,
   );
 }

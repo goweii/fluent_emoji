@@ -1,6 +1,7 @@
 import 'package:fluent_emoji_base/fluent_emoji_skin_tone.dart';
 
 class FluentEmojiData {
+  final String package;
   final String group;
   final String name;
   final String glyph;
@@ -9,6 +10,7 @@ class FluentEmojiData {
   final FluentEmojiSkinTone skinTone;
 
   const FluentEmojiData({
+    required this.package,
     required this.group,
     required this.name,
     required this.glyph,
@@ -19,6 +21,7 @@ class FluentEmojiData {
 
 class SkinToneFluentEmojiData extends FluentEmojiData {
   SkinToneFluentEmojiData({
+    required super.package,
     required super.group,
     required super.name,
     required super.glyph,
@@ -33,7 +36,7 @@ class SkinToneFluentEmojiData extends FluentEmojiData {
        assert(skinToneMedium.skinTone == FluentEmojiSkinTone.medium),
        assert(skinToneMediumDark.skinTone == FluentEmojiSkinTone.mediumDark),
        assert(skinToneDark.skinTone == FluentEmojiSkinTone.dark),
-       super(skinTone: FluentEmojiSkinTone.defalut);
+       super(skinTone: FluentEmojiSkinTone.standard);
 
   FluentEmojiData get skinToneDefault => this;
   final FluentEmojiData skinToneLight;

@@ -119,10 +119,7 @@ class FluentEmojiParser {
     SingleFluentEmoji getColorEmoji(String dirPath, String unicode) {
       final colorDirPaht = path.join(dirPath, 'Color');
       final colorDir = Directory(colorDirPaht);
-      final svgFile = colorDir
-          .listSync()
-          .whereType<File>()
-          .firstWhere((e) => e.path.endsWith('.svg'));
+      final svgFile = colorDir.listSync().whereType<File>().firstWhere((e) => e.path.endsWith('.svg'));
 
       return SingleFluentEmoji(
         group: metadata.group,
@@ -133,8 +130,7 @@ class FluentEmojiParser {
     }
 
     final FluentEmoji emoji;
-    if (metadata.unicodeSkintones == null ||
-        metadata.unicodeSkintones!.isEmpty) {
+    if (metadata.unicodeSkintones == null || metadata.unicodeSkintones!.isEmpty) {
       emoji = getColorEmoji(dir.path, metadata.unicode);
     } else {
       // ：默认。Default

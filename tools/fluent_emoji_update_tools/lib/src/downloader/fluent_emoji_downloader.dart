@@ -1,7 +1,6 @@
 import 'dart:io';
 
-const _kZipUrl =
-    'https://github.com/microsoft/fluentui-emoji/archive/refs/heads/main.zip';
+const _kZipUrl = 'https://github.com/microsoft/fluentui-emoji/archive/refs/heads/main.zip';
 
 class FluentEmojiDownloader {
   const FluentEmojiDownloader({
@@ -66,8 +65,7 @@ class FluentEmojiDownloader {
         await file.writeAsBytes(e, mode: FileMode.append);
         receivedLength += e.length;
         final now = DateTime.now();
-        if (receivedLength == totalLength ||
-            now.difference(lastUpdate) > updateDelay) {
+        if (receivedLength == totalLength || now.difference(lastUpdate) > updateDelay) {
           lastUpdate = now;
           final l = receivedLength - lastLenght;
           lastLenght = receivedLength;

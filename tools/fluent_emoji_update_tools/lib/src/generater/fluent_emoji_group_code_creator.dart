@@ -2,19 +2,20 @@
 
 import 'dart:io';
 
+import 'package:fluent_emoji_update_tools/src/utils/string_ext.dart';
 import 'package:path/path.dart' as path;
 
 import 'fluent_emoji.dart';
 
 class FluentEmojiGroupCodeCreator {
-  const FluentEmojiGroupCodeCreator({required this.packageDirPath, required this.emojiGroup});
+  FluentEmojiGroupCodeCreator({required this.packageDirPath, required this.emojiGroup});
 
   final String packageDirPath;
   final FluentEmojiGroup emojiGroup;
 
-  Future<void> create() async {
-    final packageName = path.basename(packageDirPath);
+  late final String packageName = path.basename(packageDirPath);
 
+  Future<void> create() async {
     print('[$packageName] Create dart code');
 
     final libDirPath = path.join(packageDirPath, 'lib');
@@ -103,15 +104,21 @@ class FluentEmojiGroupCodeCreator {
         fieldName += subfix;
       }
 
+      String skinTone = 'standard';
+      if (subfix != null) {
+        skinTone = subfix.toLowerCaseName();
+      }
+
       final assetsPath = 'assets/${path.basename(emoji.svg)}';
 
       buffer.writeln('  /// ${emoji.glyph} ${emoji.name}');
       buffer.writeln("  final FluentEmojiData $fieldName = const FluentEmojiData(");
+      buffer.writeln("    package: '${packageName}',");
       buffer.writeln("    group: '${emoji.group}',");
       buffer.writeln("    name: '${emoji.name}',");
       buffer.writeln("    glyph: '${emoji.glyph}',");
       buffer.writeln("    svgPath: '$assetsPath',");
-      buffer.writeln('    skinTone: FluentEmojiSkinTone.defalut,');
+      buffer.writeln('    skinTone: FluentEmojiSkinTone.${skinTone},');
       buffer.writeln("  );");
     }
 
@@ -126,6 +133,7 @@ class FluentEmojiGroupCodeCreator {
       buffer.writeln('  /// Medium Dark [_${emoji.mediumDark.nameLowerCase}MediumDark]');
       buffer.writeln('  /// Dark [_${emoji.dark.nameLowerCase}Dark]');
       buffer.writeln("  late final SkinToneFluentEmojiData ${emoji.normal.nameLowerCase} = SkinToneFluentEmojiData(");
+      buffer.writeln("    package: '${packageName}',");
       buffer.writeln("    group: '${emoji.normal.group}',");
       buffer.writeln("    name: '${emoji.normal.name}',");
       buffer.writeln("    glyph: '${emoji.normal.glyph}',");

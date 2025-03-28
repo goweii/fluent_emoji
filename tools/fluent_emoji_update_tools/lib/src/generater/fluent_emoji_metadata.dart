@@ -19,9 +19,7 @@ class FluentEmojiMetadata {
       glyph: json['glyph'],
       group: json['group'],
       unicode: json['unicode'],
-      unicodeSkintones: json['unicodeSkintones'] == null
-          ? null
-          : List<String>.from(json['unicodeSkintones']),
+      unicodeSkintones: json['unicodeSkintones'] == null ? null : List<String>.from(json['unicodeSkintones']),
     );
   }
 }

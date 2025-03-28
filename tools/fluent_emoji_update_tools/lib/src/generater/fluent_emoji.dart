@@ -1,3 +1,5 @@
+import 'package:fluent_emoji_update_tools/src/utils/string_ext.dart';
+
 class FluentEmojiGroup {
   FluentEmojiGroup({
     required this.name,
@@ -18,18 +20,15 @@ class FluentEmojiGroup {
   }();
 
   late String nameSnakeCase = () {
-    return nameFragments.join('_');
+    return nameFragments.joinToSnakeCaseName();
   }();
 
   late String nameLowerCase = () {
-    return [
-      nameFragments.first,
-      ...nameFragments.skip(1).map((e) => e[0].toUpperCase() + e.substring(1))
-    ].join();
+    return nameFragments.joinToLowerCaseName();
   }();
 
   late String nameCamelCase = () {
-    return nameFragments.map((e) => e[0].toUpperCase() + e.substring(1)).join();
+    return nameFragments.joinToCamelCaseName();
   }();
 }
 
@@ -55,18 +54,15 @@ sealed class FluentEmoji {
   }();
 
   late String nameSnakeCase = () {
-    return nameFragments.join('_');
+    return nameFragments.joinToSnakeCaseName();
   }();
 
   late String nameLowerCase = () {
-    return [
-      nameFragments.first,
-      ...nameFragments.skip(1).map((e) => e[0].toUpperCase() + e.substring(1))
-    ].join();
+    return nameFragments.joinToLowerCaseName();
   }();
 
   late String nameCamelCase = () {
-    return nameFragments.map((e) => e[0].toUpperCase() + e.substring(1)).join();
+    return nameFragments.joinToCamelCaseName();
   }();
 }
 
@@ -113,8 +109,7 @@ class SingleFluentEmoji extends FluentEmoji {
   final String svg;
 
   late String glyph = () {
-    final emojiCode =
-        unicode.split(' ').map((e) => int.parse(e, radix: 16)).toList();
+    final emojiCode = unicode.split(' ').map((e) => int.parse(e, radix: 16)).toList();
     final emoji = String.fromCharCodes(emojiCode);
     return emoji;
   }();

@@ -1,5 +1,5 @@
 enum FluentEmojiSkinTone {
-  defalut,
+  standard, // default
   light,
   mediumLight,
   medium,

@@ -29,6 +29,11 @@ class FluentEmojiAllCodeCreator {
     final buffer = StringBuffer();
 
     buffer.writeln("export '$dartFileName.dart';");
+    buffer.writeln("export 'package:fluent_emoji_base/fluent_emoji_base.dart';");
+    for (var emojiGroup in emojiGroupList) {
+      final packageName = 'fluent_emoji_${emojiGroup.nameSnakeCase}';
+      buffer.writeln("export 'package:$packageName/$packageName.dart';");
+    }
     buffer.writeln();
     buffer.writeln("import 'package:fluent_emoji_base/fluent_emoji_base.dart';");
     for (var emojiGroup in emojiGroupList) {

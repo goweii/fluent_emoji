@@ -69,8 +69,7 @@ class FluentEmojiUnzipper {
       currentCount++;
 
       final now = DateTime.now();
-      if (currentCount == totalCount ||
-          now.difference(lastUpdate) > updateDelay) {
+      if (currentCount == totalCount || now.difference(lastUpdate) > updateDelay) {
         lastUpdate = now;
         print('\rUnzipping: $currentCount/$totalCount');
       }
