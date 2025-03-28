@@ -29,12 +29,16 @@ dependencies:
 
 ```dart
 import 'package:fluent_emoji/fluent_emoji.dart';
+import 'package:fluent_emoji_widget/fluent_emoji_widget.dart';
 
 class MyWidget extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return Center(
-      child: Svg(FluentEmoji.smile),
+      child: FluentEmojiWidget(
+        FluentEmojis.peopleAndBody.clappingHands,
+        skinTone: FluentEmojiSkinTone.standard,
+      ),
     );
   }
 }

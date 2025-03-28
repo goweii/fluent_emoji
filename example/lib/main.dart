@@ -84,6 +84,7 @@ class _MyHomePageState extends State<MyHomePage> {
                           return LayoutBuilder(
                             builder: (context, constraints) {
                               final size = constraints.biggest.width;
+                              
                               return FluentEmojiWidget(data, width: size, height: size);
                             },
                           );
