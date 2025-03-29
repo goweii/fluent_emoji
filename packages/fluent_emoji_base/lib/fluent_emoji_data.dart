@@ -7,6 +7,13 @@ class FluentEmojiData {
   final String glyph;
   final String svgPath;
 
+  final String tts;
+  final String fromVersion;
+
+  final List<String>? glyphAsUtfInEmoticons;
+  final List<String>? keywords;
+  final List<String>? mappedToEmoticons;
+
   final FluentEmojiSkinTone skinTone;
 
   const FluentEmojiData({
@@ -15,6 +22,11 @@ class FluentEmojiData {
     required this.name,
     required this.glyph,
     required this.svgPath,
+    required this.tts,
+    required this.fromVersion,
+    required this.glyphAsUtfInEmoticons,
+    required this.keywords,
+    required this.mappedToEmoticons,
     required this.skinTone,
   });
 }
@@ -26,6 +38,11 @@ class SkinToneFluentEmojiData extends FluentEmojiData {
     required super.name,
     required super.glyph,
     required super.svgPath,
+    required super.tts,
+    required super.fromVersion,
+    required super.glyphAsUtfInEmoticons,
+    required super.keywords,
+    required super.mappedToEmoticons,
     required this.skinToneLight,
     required this.skinToneMediumLight,
     required this.skinToneMedium,

@@ -24,7 +24,7 @@ class FluentEmojiAssetsCopier {
       assetsDir.createSync(recursive: true);
     }
 
-    Future<void> copySvg(SingleFluentEmoji emoji) async {
+    Future<void> copySvg(FluentEmoji emoji) async {
       final svgFile = File(emoji.svg);
       final svgFileName = path.basename(svgFile.path);
       final destSvgPath = path.join(assetsDirPath, svgFileName);
@@ -32,18 +32,15 @@ class FluentEmojiAssetsCopier {
     }
 
     for (var emoji in emojiGroup.emojis) {
-      switch (emoji) {
-        case SingleFluentEmoji():
-          await copySvg(emoji);
-          break;
-        case SkinToneFluentEmoji():
-          await copySvg(emoji.normal);
-          await copySvg(emoji.light);
-          await copySvg(emoji.mediumLight);
-          await copySvg(emoji.medium);
-          await copySvg(emoji.mediumDark);
-          await copySvg(emoji.dark);
-          break;
+      if (emoji is! SkinToneFluentEmoji) {
+        await copySvg(emoji);
+      } else {
+        await copySvg(emoji.normal);
+        await copySvg(emoji.light);
+        await copySvg(emoji.mediumLight);
+        await copySvg(emoji.medium);
+        await copySvg(emoji.mediumDark);
+        await copySvg(emoji.dark);
       }
     }
   }

@@ -116,16 +116,21 @@ class FluentEmojiParser {
       File(path.join(dir.path, 'metadata.json')).readAsStringSync(),
     ));
 
-    SingleFluentEmoji getColorEmoji(String dirPath, String unicode) {
+    FluentEmoji getColorEmoji(String dirPath, String unicode) {
       final colorDirPaht = path.join(dirPath, 'Color');
       final colorDir = Directory(colorDirPaht);
       final svgFile = colorDir.listSync().whereType<File>().firstWhere((e) => e.path.endsWith('.svg'));
 
-      return SingleFluentEmoji(
+      return FluentEmoji(
         group: metadata.group,
         name: metadata.cldr,
         unicode: unicode,
         svg: svgFile.path,
+        tts: metadata.tts ?? metadata.cldr,
+        fromVersion: metadata.fromVersion,
+        keywords: metadata.keywords,
+        mappedToEmoticons: metadata.mappedToEmoticons,
+        glyphAsUtfInEmoticons: metadata.glyphAsUtfInEmoticons,
       );
     }
 
@@ -139,13 +144,23 @@ class FluentEmojiParser {
       // 1f3fd：中等肤色。Medium
       // 1f3fe：中深肤色。Medium-Dark
       // 1f3ff：深肤色。Dark
+
+      final normal = getColorEmoji(
+        path.join(dir.path, 'Default'),
+        metadata.unicodeSkintones!.first,
+      );
+
       emoji = SkinToneFluentEmoji(
-        group: metadata.group,
-        name: metadata.cldr,
-        normal: getColorEmoji(
-          path.join(dir.path, 'Default'),
-          metadata.unicodeSkintones!.first,
-        ),
+        group: normal.group,
+        name: normal.name,
+        tts: normal.tts,
+        fromVersion: normal.fromVersion,
+        unicode: normal.unicode,
+        svg: normal.svg,
+        glyphAsUtfInEmoticons: normal.glyphAsUtfInEmoticons,
+        keywords: normal.keywords,
+        mappedToEmoticons: normal.mappedToEmoticons,
+        normal: normal,
         light: getColorEmoji(
           path.join(dir.path, 'Light'),
           metadata.unicodeSkintones!.firstWhere((e) => e.contains('1f3fb')),

@@ -27,4 +27,8 @@ extension StringListExt on List<String> {
   String joinToCamelCaseName() {
     return map((e) => e.toCamelCaseName()).join();
   }
+
+  String toDartCodeString() {
+    return '[${map((e) => "'$e'").join(', ')}]';
+  }
 }

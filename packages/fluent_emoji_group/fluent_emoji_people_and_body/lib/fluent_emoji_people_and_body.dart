@@ -1926,6 +1926,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'Mrs. Claus',
     glyph: '🤶',
     svgPath: 'assets/mrs_claus_color_default.svg',
+    tts: 'Mrs. Claus',
+    fromVersion: '3.0',
+    glyphAsUtfInEmoticons: ['mother_christmas'],
+    keywords: ['celebration', 'Christmas', 'claus', 'mother', 'Mrs.', 'Mrs. Claus'],
+    mappedToEmoticons: ['mother_christmas'],
     skinToneLight: _mrsClausLight,
     skinToneMediumLight: _mrsClausMediumLight,
     skinToneMedium: _mrsClausMedium,
@@ -1940,6 +1945,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'Mrs. Claus',
     glyph: '🤶🏻',
     svgPath: 'assets/mrs_claus_color_light.svg',
+    tts: 'Mrs. Claus',
+    fromVersion: '3.0',
+    glyphAsUtfInEmoticons: ['mother_christmas'],
+    keywords: ['celebration', 'Christmas', 'claus', 'mother', 'Mrs.', 'Mrs. Claus'],
+    mappedToEmoticons: ['mother_christmas'],
     skinTone: FluentEmojiSkinTone.light,
   );
 
@@ -1950,6 +1960,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'Mrs. Claus',
     glyph: '🤶🏼',
     svgPath: 'assets/mrs_claus_color_medium-light.svg',
+    tts: 'Mrs. Claus',
+    fromVersion: '3.0',
+    glyphAsUtfInEmoticons: ['mother_christmas'],
+    keywords: ['celebration', 'Christmas', 'claus', 'mother', 'Mrs.', 'Mrs. Claus'],
+    mappedToEmoticons: ['mother_christmas'],
     skinTone: FluentEmojiSkinTone.mediumLight,
   );
 
@@ -1960,6 +1975,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'Mrs. Claus',
     glyph: '🤶🏽',
     svgPath: 'assets/mrs_claus_color_medium.svg',
+    tts: 'Mrs. Claus',
+    fromVersion: '3.0',
+    glyphAsUtfInEmoticons: ['mother_christmas'],
+    keywords: ['celebration', 'Christmas', 'claus', 'mother', 'Mrs.', 'Mrs. Claus'],
+    mappedToEmoticons: ['mother_christmas'],
     skinTone: FluentEmojiSkinTone.medium,
   );
 
@@ -1970,6 +1990,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'Mrs. Claus',
     glyph: '🤶🏾',
     svgPath: 'assets/mrs_claus_color_medium-dark.svg',
+    tts: 'Mrs. Claus',
+    fromVersion: '3.0',
+    glyphAsUtfInEmoticons: ['mother_christmas'],
+    keywords: ['celebration', 'Christmas', 'claus', 'mother', 'Mrs.', 'Mrs. Claus'],
+    mappedToEmoticons: ['mother_christmas'],
     skinTone: FluentEmojiSkinTone.mediumDark,
   );
 
@@ -1980,6 +2005,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'Mrs. Claus',
     glyph: '🤶🏿',
     svgPath: 'assets/mrs_claus_color_dark.svg',
+    tts: 'Mrs. Claus',
+    fromVersion: '3.0',
+    glyphAsUtfInEmoticons: ['mother_christmas'],
+    keywords: ['celebration', 'Christmas', 'claus', 'mother', 'Mrs.', 'Mrs. Claus'],
+    mappedToEmoticons: ['mother_christmas'],
     skinTone: FluentEmojiSkinTone.dark,
   );
 
@@ -1996,6 +2026,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'OK hand',
     glyph: '👌',
     svgPath: 'assets/ok_hand_color_default.svg',
+    tts: 'OK hand',
+    fromVersion: '0.6',
+    glyphAsUtfInEmoticons: ['ok'],
+    keywords: ['hand', 'OK'],
+    mappedToEmoticons: ['ok'],
     skinToneLight: _okHandLight,
     skinToneMediumLight: _okHandMediumLight,
     skinToneMedium: _okHandMedium,
@@ -2010,6 +2045,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'OK hand',
     glyph: '👌🏻',
     svgPath: 'assets/ok_hand_color_light.svg',
+    tts: 'OK hand',
+    fromVersion: '0.6',
+    glyphAsUtfInEmoticons: ['ok'],
+    keywords: ['hand', 'OK'],
+    mappedToEmoticons: ['ok'],
     skinTone: FluentEmojiSkinTone.light,
   );
 
@@ -2020,6 +2060,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'OK hand',
     glyph: '👌🏼',
     svgPath: 'assets/ok_hand_color_medium-light.svg',
+    tts: 'OK hand',
+    fromVersion: '0.6',
+    glyphAsUtfInEmoticons: ['ok'],
+    keywords: ['hand', 'OK'],
+    mappedToEmoticons: ['ok'],
     skinTone: FluentEmojiSkinTone.mediumLight,
   );
 
@@ -2030,6 +2075,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'OK hand',
     glyph: '👌🏽',
     svgPath: 'assets/ok_hand_color_medium.svg',
+    tts: 'OK hand',
+    fromVersion: '0.6',
+    glyphAsUtfInEmoticons: ['ok'],
+    keywords: ['hand', 'OK'],
+    mappedToEmoticons: ['ok'],
     skinTone: FluentEmojiSkinTone.medium,
   );
 
@@ -2040,6 +2090,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'OK hand',
     glyph: '👌🏾',
     svgPath: 'assets/ok_hand_color_medium-dark.svg',
+    tts: 'OK hand',
+    fromVersion: '0.6',
+    glyphAsUtfInEmoticons: ['ok'],
+    keywords: ['hand', 'OK'],
+    mappedToEmoticons: ['ok'],
     skinTone: FluentEmojiSkinTone.mediumDark,
   );
 
@@ -2050,6 +2105,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'OK hand',
     glyph: '👌🏿',
     svgPath: 'assets/ok_hand_color_dark.svg',
+    tts: 'OK hand',
+    fromVersion: '0.6',
+    glyphAsUtfInEmoticons: ['ok'],
+    keywords: ['hand', 'OK'],
+    mappedToEmoticons: ['ok'],
     skinTone: FluentEmojiSkinTone.dark,
   );
 
@@ -2066,6 +2126,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'Santa Claus',
     glyph: '🎅',
     svgPath: 'assets/santa_claus_color_default.svg',
+    tts: 'Santa Claus',
+    fromVersion: '0.6',
+    glyphAsUtfInEmoticons: ['santa'],
+    keywords: ['celebration', 'Christmas', 'claus', 'father', 'santa', 'Santa Claus'],
+    mappedToEmoticons: ['santa'],
     skinToneLight: _santaClausLight,
     skinToneMediumLight: _santaClausMediumLight,
     skinToneMedium: _santaClausMedium,
@@ -2080,6 +2145,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'Santa Claus',
     glyph: '🎅🏻',
     svgPath: 'assets/santa_claus_color_light.svg',
+    tts: 'Santa Claus',
+    fromVersion: '0.6',
+    glyphAsUtfInEmoticons: ['santa'],
+    keywords: ['celebration', 'Christmas', 'claus', 'father', 'santa', 'Santa Claus'],
+    mappedToEmoticons: ['santa'],
     skinTone: FluentEmojiSkinTone.light,
   );
 
@@ -2090,6 +2160,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'Santa Claus',
     glyph: '🎅🏼',
     svgPath: 'assets/santa_claus_color_medium-light.svg',
+    tts: 'Santa Claus',
+    fromVersion: '0.6',
+    glyphAsUtfInEmoticons: ['santa'],
+    keywords: ['celebration', 'Christmas', 'claus', 'father', 'santa', 'Santa Claus'],
+    mappedToEmoticons: ['santa'],
     skinTone: FluentEmojiSkinTone.mediumLight,
   );
 
@@ -2100,6 +2175,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'Santa Claus',
     glyph: '🎅🏽',
     svgPath: 'assets/santa_claus_color_medium.svg',
+    tts: 'Santa Claus',
+    fromVersion: '0.6',
+    glyphAsUtfInEmoticons: ['santa'],
+    keywords: ['celebration', 'Christmas', 'claus', 'father', 'santa', 'Santa Claus'],
+    mappedToEmoticons: ['santa'],
     skinTone: FluentEmojiSkinTone.medium,
   );
 
@@ -2110,6 +2190,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'Santa Claus',
     glyph: '🎅🏾',
     svgPath: 'assets/santa_claus_color_medium-dark.svg',
+    tts: 'Santa Claus',
+    fromVersion: '0.6',
+    glyphAsUtfInEmoticons: ['santa'],
+    keywords: ['celebration', 'Christmas', 'claus', 'father', 'santa', 'Santa Claus'],
+    mappedToEmoticons: ['santa'],
     skinTone: FluentEmojiSkinTone.mediumDark,
   );
 
@@ -2120,6 +2205,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'Santa Claus',
     glyph: '🎅🏿',
     svgPath: 'assets/santa_claus_color_dark.svg',
+    tts: 'Santa Claus',
+    fromVersion: '0.6',
+    glyphAsUtfInEmoticons: ['santa'],
+    keywords: ['celebration', 'Christmas', 'claus', 'father', 'santa', 'Santa Claus'],
+    mappedToEmoticons: ['santa'],
     skinTone: FluentEmojiSkinTone.dark,
   );
 
@@ -2130,6 +2220,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'anatomical heart',
     glyph: '🫀',
     svgPath: 'assets/anatomical_heart_color.svg',
+    tts: 'anatomical heart',
+    fromVersion: '13.0',
+    glyphAsUtfInEmoticons: ['anatomicalheart'],
+    keywords: ['anatomical', 'cardiology', 'heart', 'organ', 'pulse'],
+    mappedToEmoticons: ['anatomicalheart'],
     skinTone: FluentEmojiSkinTone.standard,
   );
 
@@ -2146,6 +2241,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'artist',
     glyph: '🧑‍🎨',
     svgPath: 'assets/artist_color_default.svg',
+    tts: 'artist',
+    fromVersion: '12.1',
+    glyphAsUtfInEmoticons: null,
+    keywords: ['artist', 'palette'],
+    mappedToEmoticons: ['personartist'],
     skinToneLight: _artistLight,
     skinToneMediumLight: _artistMediumLight,
     skinToneMedium: _artistMedium,
@@ -2160,6 +2260,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'artist',
     glyph: '🧑🏻‍🎨',
     svgPath: 'assets/artist_color_light.svg',
+    tts: 'artist',
+    fromVersion: '12.1',
+    glyphAsUtfInEmoticons: null,
+    keywords: ['artist', 'palette'],
+    mappedToEmoticons: ['personartist'],
     skinTone: FluentEmojiSkinTone.light,
   );
 
@@ -2170,6 +2275,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'artist',
     glyph: '🧑🏼‍🎨',
     svgPath: 'assets/artist_color_medium-light.svg',
+    tts: 'artist',
+    fromVersion: '12.1',
+    glyphAsUtfInEmoticons: null,
+    keywords: ['artist', 'palette'],
+    mappedToEmoticons: ['personartist'],
     skinTone: FluentEmojiSkinTone.mediumLight,
   );
 
@@ -2180,6 +2290,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'artist',
     glyph: '🧑🏽‍🎨',
     svgPath: 'assets/artist_color_medium.svg',
+    tts: 'artist',
+    fromVersion: '12.1',
+    glyphAsUtfInEmoticons: null,
+    keywords: ['artist', 'palette'],
+    mappedToEmoticons: ['personartist'],
     skinTone: FluentEmojiSkinTone.medium,
   );
 
@@ -2190,6 +2305,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'artist',
     glyph: '🧑🏾‍🎨',
     svgPath: 'assets/artist_color_medium-dark.svg',
+    tts: 'artist',
+    fromVersion: '12.1',
+    glyphAsUtfInEmoticons: null,
+    keywords: ['artist', 'palette'],
+    mappedToEmoticons: ['personartist'],
     skinTone: FluentEmojiSkinTone.mediumDark,
   );
 
@@ -2200,6 +2320,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'artist',
     glyph: '🧑🏿‍🎨',
     svgPath: 'assets/artist_color_dark.svg',
+    tts: 'artist',
+    fromVersion: '12.1',
+    glyphAsUtfInEmoticons: null,
+    keywords: ['artist', 'palette'],
+    mappedToEmoticons: ['personartist'],
     skinTone: FluentEmojiSkinTone.dark,
   );
 
@@ -2216,6 +2341,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'astronaut',
     glyph: '🧑‍🚀',
     svgPath: 'assets/astronaut_color_default.svg',
+    tts: 'astronaut',
+    fromVersion: '12.1',
+    glyphAsUtfInEmoticons: null,
+    keywords: ['astronaut', 'rocket'],
+    mappedToEmoticons: ['personastronaut'],
     skinToneLight: _astronautLight,
     skinToneMediumLight: _astronautMediumLight,
     skinToneMedium: _astronautMedium,
@@ -2230,6 +2360,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'astronaut',
     glyph: '🧑🏻‍🚀',
     svgPath: 'assets/astronaut_color_light.svg',
+    tts: 'astronaut',
+    fromVersion: '12.1',
+    glyphAsUtfInEmoticons: null,
+    keywords: ['astronaut', 'rocket'],
+    mappedToEmoticons: ['personastronaut'],
     skinTone: FluentEmojiSkinTone.light,
   );
 
@@ -2240,6 +2375,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'astronaut',
     glyph: '🧑🏼‍🚀',
     svgPath: 'assets/astronaut_color_medium-light.svg',
+    tts: 'astronaut',
+    fromVersion: '12.1',
+    glyphAsUtfInEmoticons: null,
+    keywords: ['astronaut', 'rocket'],
+    mappedToEmoticons: ['personastronaut'],
     skinTone: FluentEmojiSkinTone.mediumLight,
   );
 
@@ -2250,6 +2390,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'astronaut',
     glyph: '🧑🏽‍🚀',
     svgPath: 'assets/astronaut_color_medium.svg',
+    tts: 'astronaut',
+    fromVersion: '12.1',
+    glyphAsUtfInEmoticons: null,
+    keywords: ['astronaut', 'rocket'],
+    mappedToEmoticons: ['personastronaut'],
     skinTone: FluentEmojiSkinTone.medium,
   );
 
@@ -2260,6 +2405,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'astronaut',
     glyph: '🧑🏾‍🚀',
     svgPath: 'assets/astronaut_color_medium-dark.svg',
+    tts: 'astronaut',
+    fromVersion: '12.1',
+    glyphAsUtfInEmoticons: null,
+    keywords: ['astronaut', 'rocket'],
+    mappedToEmoticons: ['personastronaut'],
     skinTone: FluentEmojiSkinTone.mediumDark,
   );
 
@@ -2270,6 +2420,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'astronaut',
     glyph: '🧑🏿‍🚀',
     svgPath: 'assets/astronaut_color_dark.svg',
+    tts: 'astronaut',
+    fromVersion: '12.1',
+    glyphAsUtfInEmoticons: null,
+    keywords: ['astronaut', 'rocket'],
+    mappedToEmoticons: ['personastronaut'],
     skinTone: FluentEmojiSkinTone.dark,
   );
 
@@ -2286,6 +2441,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'baby',
     glyph: '👶',
     svgPath: 'assets/baby_color_default.svg',
+    tts: 'baby',
+    fromVersion: '0.6',
+    glyphAsUtfInEmoticons: ['smilebaby'],
+    keywords: ['baby', 'young'],
+    mappedToEmoticons: ['smilebaby'],
     skinToneLight: _babyLight,
     skinToneMediumLight: _babyMediumLight,
     skinToneMedium: _babyMedium,
@@ -2300,6 +2460,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'baby',
     glyph: '👶🏻',
     svgPath: 'assets/baby_color_light.svg',
+    tts: 'baby',
+    fromVersion: '0.6',
+    glyphAsUtfInEmoticons: ['smilebaby'],
+    keywords: ['baby', 'young'],
+    mappedToEmoticons: ['smilebaby'],
     skinTone: FluentEmojiSkinTone.light,
   );
 
@@ -2310,6 +2475,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'baby',
     glyph: '👶🏼',
     svgPath: 'assets/baby_color_medium-light.svg',
+    tts: 'baby',
+    fromVersion: '0.6',
+    glyphAsUtfInEmoticons: ['smilebaby'],
+    keywords: ['baby', 'young'],
+    mappedToEmoticons: ['smilebaby'],
     skinTone: FluentEmojiSkinTone.mediumLight,
   );
 
@@ -2320,6 +2490,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'baby',
     glyph: '👶🏽',
     svgPath: 'assets/baby_color_medium.svg',
+    tts: 'baby',
+    fromVersion: '0.6',
+    glyphAsUtfInEmoticons: ['smilebaby'],
+    keywords: ['baby', 'young'],
+    mappedToEmoticons: ['smilebaby'],
     skinTone: FluentEmojiSkinTone.medium,
   );
 
@@ -2330,6 +2505,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'baby',
     glyph: '👶🏾',
     svgPath: 'assets/baby_color_medium-dark.svg',
+    tts: 'baby',
+    fromVersion: '0.6',
+    glyphAsUtfInEmoticons: ['smilebaby'],
+    keywords: ['baby', 'young'],
+    mappedToEmoticons: ['smilebaby'],
     skinTone: FluentEmojiSkinTone.mediumDark,
   );
 
@@ -2340,6 +2520,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'baby',
     glyph: '👶🏿',
     svgPath: 'assets/baby_color_dark.svg',
+    tts: 'baby',
+    fromVersion: '0.6',
+    glyphAsUtfInEmoticons: ['smilebaby'],
+    keywords: ['baby', 'young'],
+    mappedToEmoticons: ['smilebaby'],
     skinTone: FluentEmojiSkinTone.dark,
   );
 
@@ -2356,6 +2541,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'baby angel',
     glyph: '👼',
     svgPath: 'assets/baby_angel_color_default.svg',
+    tts: 'baby angel',
+    fromVersion: '0.6',
+    glyphAsUtfInEmoticons: ['1f47c_babyangel'],
+    keywords: ['angel', 'baby', 'face', 'fairy tale', 'fantasy'],
+    mappedToEmoticons: ['1f47c_babyangel'],
     skinToneLight: _babyAngelLight,
     skinToneMediumLight: _babyAngelMediumLight,
     skinToneMedium: _babyAngelMedium,
@@ -2370,6 +2560,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'baby angel',
     glyph: '👼🏻',
     svgPath: 'assets/baby_angel_color_light.svg',
+    tts: 'baby angel',
+    fromVersion: '0.6',
+    glyphAsUtfInEmoticons: ['1f47c_babyangel'],
+    keywords: ['angel', 'baby', 'face', 'fairy tale', 'fantasy'],
+    mappedToEmoticons: ['1f47c_babyangel'],
     skinTone: FluentEmojiSkinTone.light,
   );
 
@@ -2380,6 +2575,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'baby angel',
     glyph: '👼🏼',
     svgPath: 'assets/baby_angel_color_medium-light.svg',
+    tts: 'baby angel',
+    fromVersion: '0.6',
+    glyphAsUtfInEmoticons: ['1f47c_babyangel'],
+    keywords: ['angel', 'baby', 'face', 'fairy tale', 'fantasy'],
+    mappedToEmoticons: ['1f47c_babyangel'],
     skinTone: FluentEmojiSkinTone.mediumLight,
   );
 
@@ -2390,6 +2590,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'baby angel',
     glyph: '👼🏽',
     svgPath: 'assets/baby_angel_color_medium.svg',
+    tts: 'baby angel',
+    fromVersion: '0.6',
+    glyphAsUtfInEmoticons: ['1f47c_babyangel'],
+    keywords: ['angel', 'baby', 'face', 'fairy tale', 'fantasy'],
+    mappedToEmoticons: ['1f47c_babyangel'],
     skinTone: FluentEmojiSkinTone.medium,
   );
 
@@ -2400,6 +2605,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'baby angel',
     glyph: '👼🏾',
     svgPath: 'assets/baby_angel_color_medium-dark.svg',
+    tts: 'baby angel',
+    fromVersion: '0.6',
+    glyphAsUtfInEmoticons: ['1f47c_babyangel'],
+    keywords: ['angel', 'baby', 'face', 'fairy tale', 'fantasy'],
+    mappedToEmoticons: ['1f47c_babyangel'],
     skinTone: FluentEmojiSkinTone.mediumDark,
   );
 
@@ -2410,6 +2620,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'baby angel',
     glyph: '👼🏿',
     svgPath: 'assets/baby_angel_color_dark.svg',
+    tts: 'baby angel',
+    fromVersion: '0.6',
+    glyphAsUtfInEmoticons: ['1f47c_babyangel'],
+    keywords: ['angel', 'baby', 'face', 'fairy tale', 'fantasy'],
+    mappedToEmoticons: ['1f47c_babyangel'],
     skinTone: FluentEmojiSkinTone.dark,
   );
 
@@ -2426,6 +2641,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'backhand index pointing down',
     glyph: '👇',
     svgPath: 'assets/backhand_index_pointing_down_color_default.svg',
+    tts: 'backhand index pointing down',
+    fromVersion: '0.6',
+    glyphAsUtfInEmoticons: ['pointdownindex'],
+    keywords: ['backhand', 'backhand index pointing down', 'down', 'finger', 'hand', 'point'],
+    mappedToEmoticons: ['pointdownindex'],
     skinToneLight: _backhandIndexPointingDownLight,
     skinToneMediumLight: _backhandIndexPointingDownMediumLight,
     skinToneMedium: _backhandIndexPointingDownMedium,
@@ -2440,6 +2660,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'backhand index pointing down',
     glyph: '👇🏻',
     svgPath: 'assets/backhand_index_pointing_down_color_light.svg',
+    tts: 'backhand index pointing down',
+    fromVersion: '0.6',
+    glyphAsUtfInEmoticons: ['pointdownindex'],
+    keywords: ['backhand', 'backhand index pointing down', 'down', 'finger', 'hand', 'point'],
+    mappedToEmoticons: ['pointdownindex'],
     skinTone: FluentEmojiSkinTone.light,
   );
 
@@ -2450,6 +2675,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'backhand index pointing down',
     glyph: '👇🏼',
     svgPath: 'assets/backhand_index_pointing_down_color_medium-light.svg',
+    tts: 'backhand index pointing down',
+    fromVersion: '0.6',
+    glyphAsUtfInEmoticons: ['pointdownindex'],
+    keywords: ['backhand', 'backhand index pointing down', 'down', 'finger', 'hand', 'point'],
+    mappedToEmoticons: ['pointdownindex'],
     skinTone: FluentEmojiSkinTone.mediumLight,
   );
 
@@ -2460,6 +2690,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'backhand index pointing down',
     glyph: '👇🏽',
     svgPath: 'assets/backhand_index_pointing_down_color_medium.svg',
+    tts: 'backhand index pointing down',
+    fromVersion: '0.6',
+    glyphAsUtfInEmoticons: ['pointdownindex'],
+    keywords: ['backhand', 'backhand index pointing down', 'down', 'finger', 'hand', 'point'],
+    mappedToEmoticons: ['pointdownindex'],
     skinTone: FluentEmojiSkinTone.medium,
   );
 
@@ -2470,6 +2705,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'backhand index pointing down',
     glyph: '👇🏾',
     svgPath: 'assets/backhand_index_pointing_down_color_medium-dark.svg',
+    tts: 'backhand index pointing down',
+    fromVersion: '0.6',
+    glyphAsUtfInEmoticons: ['pointdownindex'],
+    keywords: ['backhand', 'backhand index pointing down', 'down', 'finger', 'hand', 'point'],
+    mappedToEmoticons: ['pointdownindex'],
     skinTone: FluentEmojiSkinTone.mediumDark,
   );
 
@@ -2480,6 +2720,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'backhand index pointing down',
     glyph: '👇🏿',
     svgPath: 'assets/backhand_index_pointing_down_color_dark.svg',
+    tts: 'backhand index pointing down',
+    fromVersion: '0.6',
+    glyphAsUtfInEmoticons: ['pointdownindex'],
+    keywords: ['backhand', 'backhand index pointing down', 'down', 'finger', 'hand', 'point'],
+    mappedToEmoticons: ['pointdownindex'],
     skinTone: FluentEmojiSkinTone.dark,
   );
 
@@ -2496,6 +2741,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'backhand index pointing left',
     glyph: '👈',
     svgPath: 'assets/backhand_index_pointing_left_color_default.svg',
+    tts: 'backhand index pointing left',
+    fromVersion: '0.6',
+    glyphAsUtfInEmoticons: ['pointleftindex'],
+    keywords: ['backhand', 'backhand index pointing left', 'finger', 'hand', 'index', 'point'],
+    mappedToEmoticons: ['pointleftindex'],
     skinToneLight: _backhandIndexPointingLeftLight,
     skinToneMediumLight: _backhandIndexPointingLeftMediumLight,
     skinToneMedium: _backhandIndexPointingLeftMedium,
@@ -2510,6 +2760,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'backhand index pointing left',
     glyph: '👈🏻',
     svgPath: 'assets/backhand_index_pointing_left_color_light.svg',
+    tts: 'backhand index pointing left',
+    fromVersion: '0.6',
+    glyphAsUtfInEmoticons: ['pointleftindex'],
+    keywords: ['backhand', 'backhand index pointing left', 'finger', 'hand', 'index', 'point'],
+    mappedToEmoticons: ['pointleftindex'],
     skinTone: FluentEmojiSkinTone.light,
   );
 
@@ -2520,6 +2775,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'backhand index pointing left',
     glyph: '👈🏼',
     svgPath: 'assets/backhand_index_pointing_left_color_medium-light.svg',
+    tts: 'backhand index pointing left',
+    fromVersion: '0.6',
+    glyphAsUtfInEmoticons: ['pointleftindex'],
+    keywords: ['backhand', 'backhand index pointing left', 'finger', 'hand', 'index', 'point'],
+    mappedToEmoticons: ['pointleftindex'],
     skinTone: FluentEmojiSkinTone.mediumLight,
   );
 
@@ -2530,6 +2790,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'backhand index pointing left',
     glyph: '👈🏽',
     svgPath: 'assets/backhand_index_pointing_left_color_medium.svg',
+    tts: 'backhand index pointing left',
+    fromVersion: '0.6',
+    glyphAsUtfInEmoticons: ['pointleftindex'],
+    keywords: ['backhand', 'backhand index pointing left', 'finger', 'hand', 'index', 'point'],
+    mappedToEmoticons: ['pointleftindex'],
     skinTone: FluentEmojiSkinTone.medium,
   );
 
@@ -2540,6 +2805,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'backhand index pointing left',
     glyph: '👈🏾',
     svgPath: 'assets/backhand_index_pointing_left_color_medium-dark.svg',
+    tts: 'backhand index pointing left',
+    fromVersion: '0.6',
+    glyphAsUtfInEmoticons: ['pointleftindex'],
+    keywords: ['backhand', 'backhand index pointing left', 'finger', 'hand', 'index', 'point'],
+    mappedToEmoticons: ['pointleftindex'],
     skinTone: FluentEmojiSkinTone.mediumDark,
   );
 
@@ -2550,6 +2820,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'backhand index pointing left',
     glyph: '👈🏿',
     svgPath: 'assets/backhand_index_pointing_left_color_dark.svg',
+    tts: 'backhand index pointing left',
+    fromVersion: '0.6',
+    glyphAsUtfInEmoticons: ['pointleftindex'],
+    keywords: ['backhand', 'backhand index pointing left', 'finger', 'hand', 'index', 'point'],
+    mappedToEmoticons: ['pointleftindex'],
     skinTone: FluentEmojiSkinTone.dark,
   );
 
@@ -2566,6 +2841,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'backhand index pointing right',
     glyph: '👉',
     svgPath: 'assets/backhand_index_pointing_right_color_default.svg',
+    tts: 'backhand index pointing right',
+    fromVersion: '0.6',
+    glyphAsUtfInEmoticons: ['pointrightindex'],
+    keywords: ['backhand', 'backhand index pointing right', 'finger', 'hand', 'index', 'point'],
+    mappedToEmoticons: ['pointrightindex'],
     skinToneLight: _backhandIndexPointingRightLight,
     skinToneMediumLight: _backhandIndexPointingRightMediumLight,
     skinToneMedium: _backhandIndexPointingRightMedium,
@@ -2580,6 +2860,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'backhand index pointing right',
     glyph: '👉🏻',
     svgPath: 'assets/backhand_index_pointing_right_color_light.svg',
+    tts: 'backhand index pointing right',
+    fromVersion: '0.6',
+    glyphAsUtfInEmoticons: ['pointrightindex'],
+    keywords: ['backhand', 'backhand index pointing right', 'finger', 'hand', 'index', 'point'],
+    mappedToEmoticons: ['pointrightindex'],
     skinTone: FluentEmojiSkinTone.light,
   );
 
@@ -2590,6 +2875,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'backhand index pointing right',
     glyph: '👉🏼',
     svgPath: 'assets/backhand_index_pointing_right_color_medium-light.svg',
+    tts: 'backhand index pointing right',
+    fromVersion: '0.6',
+    glyphAsUtfInEmoticons: ['pointrightindex'],
+    keywords: ['backhand', 'backhand index pointing right', 'finger', 'hand', 'index', 'point'],
+    mappedToEmoticons: ['pointrightindex'],
     skinTone: FluentEmojiSkinTone.mediumLight,
   );
 
@@ -2600,6 +2890,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'backhand index pointing right',
     glyph: '👉🏽',
     svgPath: 'assets/backhand_index_pointing_right_color_medium.svg',
+    tts: 'backhand index pointing right',
+    fromVersion: '0.6',
+    glyphAsUtfInEmoticons: ['pointrightindex'],
+    keywords: ['backhand', 'backhand index pointing right', 'finger', 'hand', 'index', 'point'],
+    mappedToEmoticons: ['pointrightindex'],
     skinTone: FluentEmojiSkinTone.medium,
   );
 
@@ -2610,6 +2905,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'backhand index pointing right',
     glyph: '👉🏾',
     svgPath: 'assets/backhand_index_pointing_right_color_medium-dark.svg',
+    tts: 'backhand index pointing right',
+    fromVersion: '0.6',
+    glyphAsUtfInEmoticons: ['pointrightindex'],
+    keywords: ['backhand', 'backhand index pointing right', 'finger', 'hand', 'index', 'point'],
+    mappedToEmoticons: ['pointrightindex'],
     skinTone: FluentEmojiSkinTone.mediumDark,
   );
 
@@ -2620,6 +2920,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'backhand index pointing right',
     glyph: '👉🏿',
     svgPath: 'assets/backhand_index_pointing_right_color_dark.svg',
+    tts: 'backhand index pointing right',
+    fromVersion: '0.6',
+    glyphAsUtfInEmoticons: ['pointrightindex'],
+    keywords: ['backhand', 'backhand index pointing right', 'finger', 'hand', 'index', 'point'],
+    mappedToEmoticons: ['pointrightindex'],
     skinTone: FluentEmojiSkinTone.dark,
   );
 
@@ -2636,6 +2941,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'backhand index pointing up',
     glyph: '👆',
     svgPath: 'assets/backhand_index_pointing_up_color_default.svg',
+    tts: 'backhand index pointing up',
+    fromVersion: '0.6',
+    glyphAsUtfInEmoticons: ['1f446_backhandindexpointingup'],
+    keywords: ['backhand', 'backhand index pointing up', 'finger', 'hand', 'point', 'up'],
+    mappedToEmoticons: ['1f446_backhandindexpointingup'],
     skinToneLight: _backhandIndexPointingUpLight,
     skinToneMediumLight: _backhandIndexPointingUpMediumLight,
     skinToneMedium: _backhandIndexPointingUpMedium,
@@ -2650,6 +2960,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'backhand index pointing up',
     glyph: '👆🏻',
     svgPath: 'assets/backhand_index_pointing_up_color_light.svg',
+    tts: 'backhand index pointing up',
+    fromVersion: '0.6',
+    glyphAsUtfInEmoticons: ['1f446_backhandindexpointingup'],
+    keywords: ['backhand', 'backhand index pointing up', 'finger', 'hand', 'point', 'up'],
+    mappedToEmoticons: ['1f446_backhandindexpointingup'],
     skinTone: FluentEmojiSkinTone.light,
   );
 
@@ -2660,6 +2975,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'backhand index pointing up',
     glyph: '👆🏼',
     svgPath: 'assets/backhand_index_pointing_up_color_medium-light.svg',
+    tts: 'backhand index pointing up',
+    fromVersion: '0.6',
+    glyphAsUtfInEmoticons: ['1f446_backhandindexpointingup'],
+    keywords: ['backhand', 'backhand index pointing up', 'finger', 'hand', 'point', 'up'],
+    mappedToEmoticons: ['1f446_backhandindexpointingup'],
     skinTone: FluentEmojiSkinTone.mediumLight,
   );
 
@@ -2670,6 +2990,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'backhand index pointing up',
     glyph: '👆🏽',
     svgPath: 'assets/backhand_index_pointing_up_color_medium.svg',
+    tts: 'backhand index pointing up',
+    fromVersion: '0.6',
+    glyphAsUtfInEmoticons: ['1f446_backhandindexpointingup'],
+    keywords: ['backhand', 'backhand index pointing up', 'finger', 'hand', 'point', 'up'],
+    mappedToEmoticons: ['1f446_backhandindexpointingup'],
     skinTone: FluentEmojiSkinTone.medium,
   );
 
@@ -2680,6 +3005,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'backhand index pointing up',
     glyph: '👆🏾',
     svgPath: 'assets/backhand_index_pointing_up_color_medium-dark.svg',
+    tts: 'backhand index pointing up',
+    fromVersion: '0.6',
+    glyphAsUtfInEmoticons: ['1f446_backhandindexpointingup'],
+    keywords: ['backhand', 'backhand index pointing up', 'finger', 'hand', 'point', 'up'],
+    mappedToEmoticons: ['1f446_backhandindexpointingup'],
     skinTone: FluentEmojiSkinTone.mediumDark,
   );
 
@@ -2690,6 +3020,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'backhand index pointing up',
     glyph: '👆🏿',
     svgPath: 'assets/backhand_index_pointing_up_color_dark.svg',
+    tts: 'backhand index pointing up',
+    fromVersion: '0.6',
+    glyphAsUtfInEmoticons: ['1f446_backhandindexpointingup'],
+    keywords: ['backhand', 'backhand index pointing up', 'finger', 'hand', 'point', 'up'],
+    mappedToEmoticons: ['1f446_backhandindexpointingup'],
     skinTone: FluentEmojiSkinTone.dark,
   );
 
@@ -2700,6 +3035,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'biting lip',
     glyph: '🫦',
     svgPath: 'assets/biting_lip_color.svg',
+    tts: 'biting lip',
+    fromVersion: '14.0',
+    glyphAsUtfInEmoticons: null,
+    keywords: ['anxious', 'biting lip', 'fear', 'flirting', 'nervous', 'uncomfortable', 'worried'],
+    mappedToEmoticons: null,
     skinTone: FluentEmojiSkinTone.standard,
   );
 
@@ -2710,6 +3050,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'bone',
     glyph: '🦴',
     svgPath: 'assets/bone_color.svg',
+    tts: 'bone',
+    fromVersion: '11.0',
+    glyphAsUtfInEmoticons: ['1f9b4_bone'],
+    keywords: ['bone', 'skeleton'],
+    mappedToEmoticons: ['1f9b4_bone'],
     skinTone: FluentEmojiSkinTone.standard,
   );
 
@@ -2726,6 +3071,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'boy',
     glyph: '👦',
     svgPath: 'assets/boy_color_default.svg',
+    tts: 'boy',
+    fromVersion: '0.6',
+    glyphAsUtfInEmoticons: ['smileboy'],
+    keywords: ['boy', 'young'],
+    mappedToEmoticons: ['smileboy'],
     skinToneLight: _boyLight,
     skinToneMediumLight: _boyMediumLight,
     skinToneMedium: _boyMedium,
@@ -2740,6 +3090,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'boy',
     glyph: '👦🏻',
     svgPath: 'assets/boy_color_light.svg',
+    tts: 'boy',
+    fromVersion: '0.6',
+    glyphAsUtfInEmoticons: ['smileboy'],
+    keywords: ['boy', 'young'],
+    mappedToEmoticons: ['smileboy'],
     skinTone: FluentEmojiSkinTone.light,
   );
 
@@ -2750,6 +3105,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'boy',
     glyph: '👦🏼',
     svgPath: 'assets/boy_color_medium-light.svg',
+    tts: 'boy',
+    fromVersion: '0.6',
+    glyphAsUtfInEmoticons: ['smileboy'],
+    keywords: ['boy', 'young'],
+    mappedToEmoticons: ['smileboy'],
     skinTone: FluentEmojiSkinTone.mediumLight,
   );
 
@@ -2760,6 +3120,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'boy',
     glyph: '👦🏽',
     svgPath: 'assets/boy_color_medium.svg',
+    tts: 'boy',
+    fromVersion: '0.6',
+    glyphAsUtfInEmoticons: ['smileboy'],
+    keywords: ['boy', 'young'],
+    mappedToEmoticons: ['smileboy'],
     skinTone: FluentEmojiSkinTone.medium,
   );
 
@@ -2770,6 +3135,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'boy',
     glyph: '👦🏾',
     svgPath: 'assets/boy_color_medium-dark.svg',
+    tts: 'boy',
+    fromVersion: '0.6',
+    glyphAsUtfInEmoticons: ['smileboy'],
+    keywords: ['boy', 'young'],
+    mappedToEmoticons: ['smileboy'],
     skinTone: FluentEmojiSkinTone.mediumDark,
   );
 
@@ -2780,6 +3150,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'boy',
     glyph: '👦🏿',
     svgPath: 'assets/boy_color_dark.svg',
+    tts: 'boy',
+    fromVersion: '0.6',
+    glyphAsUtfInEmoticons: ['smileboy'],
+    keywords: ['boy', 'young'],
+    mappedToEmoticons: ['smileboy'],
     skinTone: FluentEmojiSkinTone.dark,
   );
 
@@ -2790,6 +3165,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'brain',
     glyph: '🧠',
     svgPath: 'assets/brain_color.svg',
+    tts: 'brain',
+    fromVersion: '5.0',
+    glyphAsUtfInEmoticons: ['1f9e0_brain'],
+    keywords: ['brain', 'intelligent'],
+    mappedToEmoticons: ['1f9e0_brain'],
     skinTone: FluentEmojiSkinTone.standard,
   );
 
@@ -2806,6 +3186,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'breast-feeding',
     glyph: '🤱',
     svgPath: 'assets/breast_feeding_color_default.svg',
+    tts: 'breast-feeding',
+    fromVersion: '5.0',
+    glyphAsUtfInEmoticons: ['breastfeeding'],
+    keywords: ['baby', 'breast', 'breast-feeding', 'nursing'],
+    mappedToEmoticons: ['breastfeeding'],
     skinToneLight: _breastFeedingLight,
     skinToneMediumLight: _breastFeedingMediumLight,
     skinToneMedium: _breastFeedingMedium,
@@ -2820,6 +3205,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'breast-feeding',
     glyph: '🤱🏻',
     svgPath: 'assets/breast_feeding_color_light.svg',
+    tts: 'breast-feeding',
+    fromVersion: '5.0',
+    glyphAsUtfInEmoticons: ['breastfeeding'],
+    keywords: ['baby', 'breast', 'breast-feeding', 'nursing'],
+    mappedToEmoticons: ['breastfeeding'],
     skinTone: FluentEmojiSkinTone.light,
   );
 
@@ -2830,6 +3220,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'breast-feeding',
     glyph: '🤱🏼',
     svgPath: 'assets/breast_feeding_color_medium-light.svg',
+    tts: 'breast-feeding',
+    fromVersion: '5.0',
+    glyphAsUtfInEmoticons: ['breastfeeding'],
+    keywords: ['baby', 'breast', 'breast-feeding', 'nursing'],
+    mappedToEmoticons: ['breastfeeding'],
     skinTone: FluentEmojiSkinTone.mediumLight,
   );
 
@@ -2840,6 +3235,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'breast-feeding',
     glyph: '🤱🏽',
     svgPath: 'assets/breast_feeding_color_medium.svg',
+    tts: 'breast-feeding',
+    fromVersion: '5.0',
+    glyphAsUtfInEmoticons: ['breastfeeding'],
+    keywords: ['baby', 'breast', 'breast-feeding', 'nursing'],
+    mappedToEmoticons: ['breastfeeding'],
     skinTone: FluentEmojiSkinTone.medium,
   );
 
@@ -2850,6 +3250,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'breast-feeding',
     glyph: '🤱🏾',
     svgPath: 'assets/breast_feeding_color_medium-dark.svg',
+    tts: 'breast-feeding',
+    fromVersion: '5.0',
+    glyphAsUtfInEmoticons: ['breastfeeding'],
+    keywords: ['baby', 'breast', 'breast-feeding', 'nursing'],
+    mappedToEmoticons: ['breastfeeding'],
     skinTone: FluentEmojiSkinTone.mediumDark,
   );
 
@@ -2860,6 +3265,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'breast-feeding',
     glyph: '🤱🏿',
     svgPath: 'assets/breast_feeding_color_dark.svg',
+    tts: 'breast-feeding',
+    fromVersion: '5.0',
+    glyphAsUtfInEmoticons: ['breastfeeding'],
+    keywords: ['baby', 'breast', 'breast-feeding', 'nursing'],
+    mappedToEmoticons: ['breastfeeding'],
     skinTone: FluentEmojiSkinTone.dark,
   );
 
@@ -2870,6 +3280,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'bust in silhouette',
     glyph: '👤',
     svgPath: 'assets/bust_in_silhouette_color.svg',
+    tts: 'bust in silhouette',
+    fromVersion: '0.6',
+    glyphAsUtfInEmoticons: ['1f464_bustinsilhouette'],
+    keywords: ['bust', 'bust in silhouette', 'silhouette'],
+    mappedToEmoticons: ['1f464_bustinsilhouette'],
     skinTone: FluentEmojiSkinTone.standard,
   );
 
@@ -2880,6 +3295,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'busts in silhouette',
     glyph: '👥',
     svgPath: 'assets/busts_in_silhouette_color.svg',
+    tts: 'busts in silhouette',
+    fromVersion: '1.0',
+    glyphAsUtfInEmoticons: ['1f465_bustsinsilhouette'],
+    keywords: ['bust', 'busts in silhouette', 'silhouette'],
+    mappedToEmoticons: ['1f465_bustsinsilhouette'],
     skinTone: FluentEmojiSkinTone.standard,
   );
 
@@ -2896,6 +3316,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'call me hand',
     glyph: '🤙',
     svgPath: 'assets/call_me_hand_color_default.svg',
+    tts: 'call me hand',
+    fromVersion: '3.0',
+    glyphAsUtfInEmoticons: ['1f919_callmehand'],
+    keywords: ['call', 'call me hand', 'hand'],
+    mappedToEmoticons: ['1f919_callmehand'],
     skinToneLight: _callMeHandLight,
     skinToneMediumLight: _callMeHandMediumLight,
     skinToneMedium: _callMeHandMedium,
@@ -2910,6 +3335,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'call me hand',
     glyph: '🤙🏻',
     svgPath: 'assets/call_me_hand_color_light.svg',
+    tts: 'call me hand',
+    fromVersion: '3.0',
+    glyphAsUtfInEmoticons: ['1f919_callmehand'],
+    keywords: ['call', 'call me hand', 'hand'],
+    mappedToEmoticons: ['1f919_callmehand'],
     skinTone: FluentEmojiSkinTone.light,
   );
 
@@ -2920,6 +3350,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'call me hand',
     glyph: '🤙🏼',
     svgPath: 'assets/call_me_hand_color_medium-light.svg',
+    tts: 'call me hand',
+    fromVersion: '3.0',
+    glyphAsUtfInEmoticons: ['1f919_callmehand'],
+    keywords: ['call', 'call me hand', 'hand'],
+    mappedToEmoticons: ['1f919_callmehand'],
     skinTone: FluentEmojiSkinTone.mediumLight,
   );
 
@@ -2930,6 +3365,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'call me hand',
     glyph: '🤙🏽',
     svgPath: 'assets/call_me_hand_color_medium.svg',
+    tts: 'call me hand',
+    fromVersion: '3.0',
+    glyphAsUtfInEmoticons: ['1f919_callmehand'],
+    keywords: ['call', 'call me hand', 'hand'],
+    mappedToEmoticons: ['1f919_callmehand'],
     skinTone: FluentEmojiSkinTone.medium,
   );
 
@@ -2940,6 +3380,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'call me hand',
     glyph: '🤙🏾',
     svgPath: 'assets/call_me_hand_color_medium-dark.svg',
+    tts: 'call me hand',
+    fromVersion: '3.0',
+    glyphAsUtfInEmoticons: ['1f919_callmehand'],
+    keywords: ['call', 'call me hand', 'hand'],
+    mappedToEmoticons: ['1f919_callmehand'],
     skinTone: FluentEmojiSkinTone.mediumDark,
   );
 
@@ -2950,6 +3395,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'call me hand',
     glyph: '🤙🏿',
     svgPath: 'assets/call_me_hand_color_dark.svg',
+    tts: 'call me hand',
+    fromVersion: '3.0',
+    glyphAsUtfInEmoticons: ['1f919_callmehand'],
+    keywords: ['call', 'call me hand', 'hand'],
+    mappedToEmoticons: ['1f919_callmehand'],
     skinTone: FluentEmojiSkinTone.dark,
   );
 
@@ -2966,6 +3416,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'child',
     glyph: '🧒',
     svgPath: 'assets/child_color_default.svg',
+    tts: 'child',
+    fromVersion: '5.0',
+    glyphAsUtfInEmoticons: ['1f9d2_child'],
+    keywords: ['child', 'gender-neutral', 'unspecified gender', 'young'],
+    mappedToEmoticons: ['1f9d2_child'],
     skinToneLight: _childLight,
     skinToneMediumLight: _childMediumLight,
     skinToneMedium: _childMedium,
@@ -2980,6 +3435,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'child',
     glyph: '🧒🏻',
     svgPath: 'assets/child_color_light.svg',
+    tts: 'child',
+    fromVersion: '5.0',
+    glyphAsUtfInEmoticons: ['1f9d2_child'],
+    keywords: ['child', 'gender-neutral', 'unspecified gender', 'young'],
+    mappedToEmoticons: ['1f9d2_child'],
     skinTone: FluentEmojiSkinTone.light,
   );
 
@@ -2990,6 +3450,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'child',
     glyph: '🧒🏼',
     svgPath: 'assets/child_color_medium-light.svg',
+    tts: 'child',
+    fromVersion: '5.0',
+    glyphAsUtfInEmoticons: ['1f9d2_child'],
+    keywords: ['child', 'gender-neutral', 'unspecified gender', 'young'],
+    mappedToEmoticons: ['1f9d2_child'],
     skinTone: FluentEmojiSkinTone.mediumLight,
   );
 
@@ -3000,6 +3465,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'child',
     glyph: '🧒🏽',
     svgPath: 'assets/child_color_medium.svg',
+    tts: 'child',
+    fromVersion: '5.0',
+    glyphAsUtfInEmoticons: ['1f9d2_child'],
+    keywords: ['child', 'gender-neutral', 'unspecified gender', 'young'],
+    mappedToEmoticons: ['1f9d2_child'],
     skinTone: FluentEmojiSkinTone.medium,
   );
 
@@ -3010,6 +3480,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'child',
     glyph: '🧒🏾',
     svgPath: 'assets/child_color_medium-dark.svg',
+    tts: 'child',
+    fromVersion: '5.0',
+    glyphAsUtfInEmoticons: ['1f9d2_child'],
+    keywords: ['child', 'gender-neutral', 'unspecified gender', 'young'],
+    mappedToEmoticons: ['1f9d2_child'],
     skinTone: FluentEmojiSkinTone.mediumDark,
   );
 
@@ -3020,6 +3495,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'child',
     glyph: '🧒🏿',
     svgPath: 'assets/child_color_dark.svg',
+    tts: 'child',
+    fromVersion: '5.0',
+    glyphAsUtfInEmoticons: ['1f9d2_child'],
+    keywords: ['child', 'gender-neutral', 'unspecified gender', 'young'],
+    mappedToEmoticons: ['1f9d2_child'],
     skinTone: FluentEmojiSkinTone.dark,
   );
 
@@ -3036,6 +3516,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'clapping hands',
     glyph: '👏',
     svgPath: 'assets/clapping_hands_color_default.svg',
+    tts: 'clapping hands',
+    fromVersion: '0.6',
+    glyphAsUtfInEmoticons: ['clap'],
+    keywords: ['clap', 'clapping hands', 'hand'],
+    mappedToEmoticons: ['clappinghands', 'clappinghandsskype'],
     skinToneLight: _clappingHandsLight,
     skinToneMediumLight: _clappingHandsMediumLight,
     skinToneMedium: _clappingHandsMedium,
@@ -3050,6 +3535,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'clapping hands',
     glyph: '👏🏻',
     svgPath: 'assets/clapping_hands_color_light.svg',
+    tts: 'clapping hands',
+    fromVersion: '0.6',
+    glyphAsUtfInEmoticons: ['clap'],
+    keywords: ['clap', 'clapping hands', 'hand'],
+    mappedToEmoticons: ['clappinghands', 'clappinghandsskype'],
     skinTone: FluentEmojiSkinTone.light,
   );
 
@@ -3060,6 +3550,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'clapping hands',
     glyph: '👏🏼',
     svgPath: 'assets/clapping_hands_color_medium-light.svg',
+    tts: 'clapping hands',
+    fromVersion: '0.6',
+    glyphAsUtfInEmoticons: ['clap'],
+    keywords: ['clap', 'clapping hands', 'hand'],
+    mappedToEmoticons: ['clappinghands', 'clappinghandsskype'],
     skinTone: FluentEmojiSkinTone.mediumLight,
   );
 
@@ -3070,6 +3565,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'clapping hands',
     glyph: '👏🏽',
     svgPath: 'assets/clapping_hands_color_medium.svg',
+    tts: 'clapping hands',
+    fromVersion: '0.6',
+    glyphAsUtfInEmoticons: ['clap'],
+    keywords: ['clap', 'clapping hands', 'hand'],
+    mappedToEmoticons: ['clappinghands', 'clappinghandsskype'],
     skinTone: FluentEmojiSkinTone.medium,
   );
 
@@ -3080,6 +3580,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'clapping hands',
     glyph: '👏🏾',
     svgPath: 'assets/clapping_hands_color_medium-dark.svg',
+    tts: 'clapping hands',
+    fromVersion: '0.6',
+    glyphAsUtfInEmoticons: ['clap'],
+    keywords: ['clap', 'clapping hands', 'hand'],
+    mappedToEmoticons: ['clappinghands', 'clappinghandsskype'],
     skinTone: FluentEmojiSkinTone.mediumDark,
   );
 
@@ -3090,6 +3595,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'clapping hands',
     glyph: '👏🏿',
     svgPath: 'assets/clapping_hands_color_dark.svg',
+    tts: 'clapping hands',
+    fromVersion: '0.6',
+    glyphAsUtfInEmoticons: ['clap'],
+    keywords: ['clap', 'clapping hands', 'hand'],
+    mappedToEmoticons: ['clappinghands', 'clappinghandsskype'],
     skinTone: FluentEmojiSkinTone.dark,
   );
 
@@ -3106,6 +3616,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'construction worker',
     glyph: '👷',
     svgPath: 'assets/construction_worker_color_default.svg',
+    tts: 'construction worker',
+    fromVersion: '0.6',
+    glyphAsUtfInEmoticons: ['construction_worker'],
+    keywords: ['construction', 'hat', 'worker'],
+    mappedToEmoticons: ['construction_worker'],
     skinToneLight: _constructionWorkerLight,
     skinToneMediumLight: _constructionWorkerMediumLight,
     skinToneMedium: _constructionWorkerMedium,
@@ -3120,6 +3635,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'construction worker',
     glyph: '👷🏻',
     svgPath: 'assets/construction_worker_color_light.svg',
+    tts: 'construction worker',
+    fromVersion: '0.6',
+    glyphAsUtfInEmoticons: ['construction_worker'],
+    keywords: ['construction', 'hat', 'worker'],
+    mappedToEmoticons: ['construction_worker'],
     skinTone: FluentEmojiSkinTone.light,
   );
 
@@ -3130,6 +3650,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'construction worker',
     glyph: '👷🏼',
     svgPath: 'assets/construction_worker_color_medium-light.svg',
+    tts: 'construction worker',
+    fromVersion: '0.6',
+    glyphAsUtfInEmoticons: ['construction_worker'],
+    keywords: ['construction', 'hat', 'worker'],
+    mappedToEmoticons: ['construction_worker'],
     skinTone: FluentEmojiSkinTone.mediumLight,
   );
 
@@ -3140,6 +3665,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'construction worker',
     glyph: '👷🏽',
     svgPath: 'assets/construction_worker_color_medium.svg',
+    tts: 'construction worker',
+    fromVersion: '0.6',
+    glyphAsUtfInEmoticons: ['construction_worker'],
+    keywords: ['construction', 'hat', 'worker'],
+    mappedToEmoticons: ['construction_worker'],
     skinTone: FluentEmojiSkinTone.medium,
   );
 
@@ -3150,6 +3680,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'construction worker',
     glyph: '👷🏾',
     svgPath: 'assets/construction_worker_color_medium-dark.svg',
+    tts: 'construction worker',
+    fromVersion: '0.6',
+    glyphAsUtfInEmoticons: ['construction_worker'],
+    keywords: ['construction', 'hat', 'worker'],
+    mappedToEmoticons: ['construction_worker'],
     skinTone: FluentEmojiSkinTone.mediumDark,
   );
 
@@ -3160,6 +3695,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'construction worker',
     glyph: '👷🏿',
     svgPath: 'assets/construction_worker_color_dark.svg',
+    tts: 'construction worker',
+    fromVersion: '0.6',
+    glyphAsUtfInEmoticons: ['construction_worker'],
+    keywords: ['construction', 'hat', 'worker'],
+    mappedToEmoticons: ['construction_worker'],
     skinTone: FluentEmojiSkinTone.dark,
   );
 
@@ -3176,6 +3716,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'cook',
     glyph: '🧑‍🍳',
     svgPath: 'assets/cook_color_default.svg',
+    tts: 'cook',
+    fromVersion: '12.1',
+    glyphAsUtfInEmoticons: null,
+    keywords: ['chef', 'cook'],
+    mappedToEmoticons: ['personchef'],
     skinToneLight: _cookLight,
     skinToneMediumLight: _cookMediumLight,
     skinToneMedium: _cookMedium,
@@ -3190,6 +3735,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'cook',
     glyph: '🧑🏻‍🍳',
     svgPath: 'assets/cook_color_light.svg',
+    tts: 'cook',
+    fromVersion: '12.1',
+    glyphAsUtfInEmoticons: null,
+    keywords: ['chef', 'cook'],
+    mappedToEmoticons: ['personchef'],
     skinTone: FluentEmojiSkinTone.light,
   );
 
@@ -3200,6 +3750,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'cook',
     glyph: '🧑🏼‍🍳',
     svgPath: 'assets/cook_color_medium-light.svg',
+    tts: 'cook',
+    fromVersion: '12.1',
+    glyphAsUtfInEmoticons: null,
+    keywords: ['chef', 'cook'],
+    mappedToEmoticons: ['personchef'],
     skinTone: FluentEmojiSkinTone.mediumLight,
   );
 
@@ -3210,6 +3765,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'cook',
     glyph: '🧑🏽‍🍳',
     svgPath: 'assets/cook_color_medium.svg',
+    tts: 'cook',
+    fromVersion: '12.1',
+    glyphAsUtfInEmoticons: null,
+    keywords: ['chef', 'cook'],
+    mappedToEmoticons: ['personchef'],
     skinTone: FluentEmojiSkinTone.medium,
   );
 
@@ -3220,6 +3780,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'cook',
     glyph: '🧑🏾‍🍳',
     svgPath: 'assets/cook_color_medium-dark.svg',
+    tts: 'cook',
+    fromVersion: '12.1',
+    glyphAsUtfInEmoticons: null,
+    keywords: ['chef', 'cook'],
+    mappedToEmoticons: ['personchef'],
     skinTone: FluentEmojiSkinTone.mediumDark,
   );
 
@@ -3230,6 +3795,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'cook',
     glyph: '🧑🏿‍🍳',
     svgPath: 'assets/cook_color_dark.svg',
+    tts: 'cook',
+    fromVersion: '12.1',
+    glyphAsUtfInEmoticons: null,
+    keywords: ['chef', 'cook'],
+    mappedToEmoticons: ['personchef'],
     skinTone: FluentEmojiSkinTone.dark,
   );
 
@@ -3246,6 +3816,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'crossed fingers',
     glyph: '🤞',
     svgPath: 'assets/crossed_fingers_color_default.svg',
+    tts: 'crossed fingers',
+    fromVersion: '3.0',
+    glyphAsUtfInEmoticons: ['fingerscrossed'],
+    keywords: ['cross', 'crossed fingers', 'finger', 'hand', 'luck'],
+    mappedToEmoticons: ['crossedfingers'],
     skinToneLight: _crossedFingersLight,
     skinToneMediumLight: _crossedFingersMediumLight,
     skinToneMedium: _crossedFingersMedium,
@@ -3260,6 +3835,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'crossed fingers',
     glyph: '🤞🏻',
     svgPath: 'assets/crossed_fingers_color_light.svg',
+    tts: 'crossed fingers',
+    fromVersion: '3.0',
+    glyphAsUtfInEmoticons: ['fingerscrossed'],
+    keywords: ['cross', 'crossed fingers', 'finger', 'hand', 'luck'],
+    mappedToEmoticons: ['crossedfingers'],
     skinTone: FluentEmojiSkinTone.light,
   );
 
@@ -3270,6 +3850,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'crossed fingers',
     glyph: '🤞🏼',
     svgPath: 'assets/crossed_fingers_color_medium-light.svg',
+    tts: 'crossed fingers',
+    fromVersion: '3.0',
+    glyphAsUtfInEmoticons: ['fingerscrossed'],
+    keywords: ['cross', 'crossed fingers', 'finger', 'hand', 'luck'],
+    mappedToEmoticons: ['crossedfingers'],
     skinTone: FluentEmojiSkinTone.mediumLight,
   );
 
@@ -3280,6 +3865,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'crossed fingers',
     glyph: '🤞🏽',
     svgPath: 'assets/crossed_fingers_color_medium.svg',
+    tts: 'crossed fingers',
+    fromVersion: '3.0',
+    glyphAsUtfInEmoticons: ['fingerscrossed'],
+    keywords: ['cross', 'crossed fingers', 'finger', 'hand', 'luck'],
+    mappedToEmoticons: ['crossedfingers'],
     skinTone: FluentEmojiSkinTone.medium,
   );
 
@@ -3290,6 +3880,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'crossed fingers',
     glyph: '🤞🏾',
     svgPath: 'assets/crossed_fingers_color_medium-dark.svg',
+    tts: 'crossed fingers',
+    fromVersion: '3.0',
+    glyphAsUtfInEmoticons: ['fingerscrossed'],
+    keywords: ['cross', 'crossed fingers', 'finger', 'hand', 'luck'],
+    mappedToEmoticons: ['crossedfingers'],
     skinTone: FluentEmojiSkinTone.mediumDark,
   );
 
@@ -3300,6 +3895,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'crossed fingers',
     glyph: '🤞🏿',
     svgPath: 'assets/crossed_fingers_color_dark.svg',
+    tts: 'crossed fingers',
+    fromVersion: '3.0',
+    glyphAsUtfInEmoticons: ['fingerscrossed'],
+    keywords: ['cross', 'crossed fingers', 'finger', 'hand', 'luck'],
+    mappedToEmoticons: ['crossedfingers'],
     skinTone: FluentEmojiSkinTone.dark,
   );
 
@@ -3316,6 +3916,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'deaf man',
     glyph: '🧏‍♂️',
     svgPath: 'assets/man_deaf_color_default.svg',
+    tts: 'deaf man',
+    fromVersion: '12.0',
+    glyphAsUtfInEmoticons: ['man_deaf'],
+    keywords: ['deaf', 'man'],
+    mappedToEmoticons: ['man_deaf'],
     skinToneLight: _deafManLight,
     skinToneMediumLight: _deafManMediumLight,
     skinToneMedium: _deafManMedium,
@@ -3330,6 +3935,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'deaf man',
     glyph: '🧏🏻‍♂️',
     svgPath: 'assets/man_deaf_color_light.svg',
+    tts: 'deaf man',
+    fromVersion: '12.0',
+    glyphAsUtfInEmoticons: ['man_deaf'],
+    keywords: ['deaf', 'man'],
+    mappedToEmoticons: ['man_deaf'],
     skinTone: FluentEmojiSkinTone.light,
   );
 
@@ -3340,6 +3950,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'deaf man',
     glyph: '🧏🏼‍♂️',
     svgPath: 'assets/man_deaf_color_medium-light.svg',
+    tts: 'deaf man',
+    fromVersion: '12.0',
+    glyphAsUtfInEmoticons: ['man_deaf'],
+    keywords: ['deaf', 'man'],
+    mappedToEmoticons: ['man_deaf'],
     skinTone: FluentEmojiSkinTone.mediumLight,
   );
 
@@ -3350,6 +3965,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'deaf man',
     glyph: '🧏🏽‍♂️',
     svgPath: 'assets/man_deaf_color_medium.svg',
+    tts: 'deaf man',
+    fromVersion: '12.0',
+    glyphAsUtfInEmoticons: ['man_deaf'],
+    keywords: ['deaf', 'man'],
+    mappedToEmoticons: ['man_deaf'],
     skinTone: FluentEmojiSkinTone.medium,
   );
 
@@ -3360,6 +3980,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'deaf man',
     glyph: '🧏🏾‍♂️',
     svgPath: 'assets/man_deaf_color_medium-dark.svg',
+    tts: 'deaf man',
+    fromVersion: '12.0',
+    glyphAsUtfInEmoticons: ['man_deaf'],
+    keywords: ['deaf', 'man'],
+    mappedToEmoticons: ['man_deaf'],
     skinTone: FluentEmojiSkinTone.mediumDark,
   );
 
@@ -3370,6 +3995,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'deaf man',
     glyph: '🧏🏿‍♂️',
     svgPath: 'assets/man_deaf_color_dark.svg',
+    tts: 'deaf man',
+    fromVersion: '12.0',
+    glyphAsUtfInEmoticons: ['man_deaf'],
+    keywords: ['deaf', 'man'],
+    mappedToEmoticons: ['man_deaf'],
     skinTone: FluentEmojiSkinTone.dark,
   );
 
@@ -3386,6 +4016,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'deaf person',
     glyph: '🧏',
     svgPath: 'assets/person_deaf_color_default.svg',
+    tts: 'deaf person',
+    fromVersion: '12.0',
+    glyphAsUtfInEmoticons: ['person_deaf'],
+    keywords: ['accessibility', 'deaf', 'deaf person', 'ear', 'hear'],
+    mappedToEmoticons: ['person_deaf'],
     skinToneLight: _deafPersonLight,
     skinToneMediumLight: _deafPersonMediumLight,
     skinToneMedium: _deafPersonMedium,
@@ -3400,6 +4035,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'deaf person',
     glyph: '🧏🏻',
     svgPath: 'assets/person_deaf_color_light.svg',
+    tts: 'deaf person',
+    fromVersion: '12.0',
+    glyphAsUtfInEmoticons: ['person_deaf'],
+    keywords: ['accessibility', 'deaf', 'deaf person', 'ear', 'hear'],
+    mappedToEmoticons: ['person_deaf'],
     skinTone: FluentEmojiSkinTone.light,
   );
 
@@ -3410,6 +4050,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'deaf person',
     glyph: '🧏🏼',
     svgPath: 'assets/person_deaf_color_medium-light.svg',
+    tts: 'deaf person',
+    fromVersion: '12.0',
+    glyphAsUtfInEmoticons: ['person_deaf'],
+    keywords: ['accessibility', 'deaf', 'deaf person', 'ear', 'hear'],
+    mappedToEmoticons: ['person_deaf'],
     skinTone: FluentEmojiSkinTone.mediumLight,
   );
 
@@ -3420,6 +4065,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'deaf person',
     glyph: '🧏🏽',
     svgPath: 'assets/person_deaf_color_medium.svg',
+    tts: 'deaf person',
+    fromVersion: '12.0',
+    glyphAsUtfInEmoticons: ['person_deaf'],
+    keywords: ['accessibility', 'deaf', 'deaf person', 'ear', 'hear'],
+    mappedToEmoticons: ['person_deaf'],
     skinTone: FluentEmojiSkinTone.medium,
   );
 
@@ -3430,6 +4080,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'deaf person',
     glyph: '🧏🏾',
     svgPath: 'assets/person_deaf_color_medium-dark.svg',
+    tts: 'deaf person',
+    fromVersion: '12.0',
+    glyphAsUtfInEmoticons: ['person_deaf'],
+    keywords: ['accessibility', 'deaf', 'deaf person', 'ear', 'hear'],
+    mappedToEmoticons: ['person_deaf'],
     skinTone: FluentEmojiSkinTone.mediumDark,
   );
 
@@ -3440,6 +4095,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'deaf person',
     glyph: '🧏🏿',
     svgPath: 'assets/person_deaf_color_dark.svg',
+    tts: 'deaf person',
+    fromVersion: '12.0',
+    glyphAsUtfInEmoticons: ['person_deaf'],
+    keywords: ['accessibility', 'deaf', 'deaf person', 'ear', 'hear'],
+    mappedToEmoticons: ['person_deaf'],
     skinTone: FluentEmojiSkinTone.dark,
   );
 
@@ -3456,6 +4116,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'deaf woman',
     glyph: '🧏‍♀️',
     svgPath: 'assets/woman_deaf_color_default.svg',
+    tts: 'deaf woman',
+    fromVersion: '12.0',
+    glyphAsUtfInEmoticons: ['woman_deaf'],
+    keywords: ['deaf', 'woman'],
+    mappedToEmoticons: ['woman_deaf'],
     skinToneLight: _deafWomanLight,
     skinToneMediumLight: _deafWomanMediumLight,
     skinToneMedium: _deafWomanMedium,
@@ -3470,6 +4135,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'deaf woman',
     glyph: '🧏🏻‍♀️',
     svgPath: 'assets/woman_deaf_color_light.svg',
+    tts: 'deaf woman',
+    fromVersion: '12.0',
+    glyphAsUtfInEmoticons: ['woman_deaf'],
+    keywords: ['deaf', 'woman'],
+    mappedToEmoticons: ['woman_deaf'],
     skinTone: FluentEmojiSkinTone.light,
   );
 
@@ -3480,6 +4150,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'deaf woman',
     glyph: '🧏🏼‍♀️',
     svgPath: 'assets/woman_deaf_color_medium-light.svg',
+    tts: 'deaf woman',
+    fromVersion: '12.0',
+    glyphAsUtfInEmoticons: ['woman_deaf'],
+    keywords: ['deaf', 'woman'],
+    mappedToEmoticons: ['woman_deaf'],
     skinTone: FluentEmojiSkinTone.mediumLight,
   );
 
@@ -3490,6 +4165,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'deaf woman',
     glyph: '🧏🏽‍♀️',
     svgPath: 'assets/woman_deaf_color_medium.svg',
+    tts: 'deaf woman',
+    fromVersion: '12.0',
+    glyphAsUtfInEmoticons: ['woman_deaf'],
+    keywords: ['deaf', 'woman'],
+    mappedToEmoticons: ['woman_deaf'],
     skinTone: FluentEmojiSkinTone.medium,
   );
 
@@ -3500,6 +4180,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'deaf woman',
     glyph: '🧏🏾‍♀️',
     svgPath: 'assets/woman_deaf_color_medium-dark.svg',
+    tts: 'deaf woman',
+    fromVersion: '12.0',
+    glyphAsUtfInEmoticons: ['woman_deaf'],
+    keywords: ['deaf', 'woman'],
+    mappedToEmoticons: ['woman_deaf'],
     skinTone: FluentEmojiSkinTone.mediumDark,
   );
 
@@ -3510,6 +4195,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'deaf woman',
     glyph: '🧏🏿‍♀️',
     svgPath: 'assets/woman_deaf_color_dark.svg',
+    tts: 'deaf woman',
+    fromVersion: '12.0',
+    glyphAsUtfInEmoticons: ['woman_deaf'],
+    keywords: ['deaf', 'woman'],
+    mappedToEmoticons: ['woman_deaf'],
     skinTone: FluentEmojiSkinTone.dark,
   );
 
@@ -3526,6 +4216,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'detective',
     glyph: '🕵️',
     svgPath: 'assets/detective_color_default.svg',
+    tts: 'detective',
+    fromVersion: '0.7',
+    glyphAsUtfInEmoticons: ['detective'],
+    keywords: ['detective', 'sleuth', 'spy'],
+    mappedToEmoticons: ['detective'],
     skinToneLight: _detectiveLight,
     skinToneMediumLight: _detectiveMediumLight,
     skinToneMedium: _detectiveMedium,
@@ -3540,6 +4235,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'detective',
     glyph: '🕵🏻',
     svgPath: 'assets/detective_color_light.svg',
+    tts: 'detective',
+    fromVersion: '0.7',
+    glyphAsUtfInEmoticons: ['detective'],
+    keywords: ['detective', 'sleuth', 'spy'],
+    mappedToEmoticons: ['detective'],
     skinTone: FluentEmojiSkinTone.light,
   );
 
@@ -3550,6 +4250,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'detective',
     glyph: '🕵🏼',
     svgPath: 'assets/detective_color_medium-light.svg',
+    tts: 'detective',
+    fromVersion: '0.7',
+    glyphAsUtfInEmoticons: ['detective'],
+    keywords: ['detective', 'sleuth', 'spy'],
+    mappedToEmoticons: ['detective'],
     skinTone: FluentEmojiSkinTone.mediumLight,
   );
 
@@ -3560,6 +4265,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'detective',
     glyph: '🕵🏽',
     svgPath: 'assets/detective_color_medium.svg',
+    tts: 'detective',
+    fromVersion: '0.7',
+    glyphAsUtfInEmoticons: ['detective'],
+    keywords: ['detective', 'sleuth', 'spy'],
+    mappedToEmoticons: ['detective'],
     skinTone: FluentEmojiSkinTone.medium,
   );
 
@@ -3570,6 +4280,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'detective',
     glyph: '🕵🏾',
     svgPath: 'assets/detective_color_medium-dark.svg',
+    tts: 'detective',
+    fromVersion: '0.7',
+    glyphAsUtfInEmoticons: ['detective'],
+    keywords: ['detective', 'sleuth', 'spy'],
+    mappedToEmoticons: ['detective'],
     skinTone: FluentEmojiSkinTone.mediumDark,
   );
 
@@ -3580,6 +4295,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'detective',
     glyph: '🕵🏿',
     svgPath: 'assets/detective_color_dark.svg',
+    tts: 'detective',
+    fromVersion: '0.7',
+    glyphAsUtfInEmoticons: ['detective'],
+    keywords: ['detective', 'sleuth', 'spy'],
+    mappedToEmoticons: ['detective'],
     skinTone: FluentEmojiSkinTone.dark,
   );
 
@@ -3596,6 +4316,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'ear',
     glyph: '👂',
     svgPath: 'assets/ear_color_default.svg',
+    tts: 'ear',
+    fromVersion: '0.6',
+    glyphAsUtfInEmoticons: ['1f442_ear'],
+    keywords: ['body', 'ear'],
+    mappedToEmoticons: ['1f442_ear'],
     skinToneLight: _earLight,
     skinToneMediumLight: _earMediumLight,
     skinToneMedium: _earMedium,
@@ -3610,6 +4335,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'ear',
     glyph: '👂🏻',
     svgPath: 'assets/ear_color_light.svg',
+    tts: 'ear',
+    fromVersion: '0.6',
+    glyphAsUtfInEmoticons: ['1f442_ear'],
+    keywords: ['body', 'ear'],
+    mappedToEmoticons: ['1f442_ear'],
     skinTone: FluentEmojiSkinTone.light,
   );
 
@@ -3620,6 +4350,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'ear',
     glyph: '👂🏼',
     svgPath: 'assets/ear_color_medium-light.svg',
+    tts: 'ear',
+    fromVersion: '0.6',
+    glyphAsUtfInEmoticons: ['1f442_ear'],
+    keywords: ['body', 'ear'],
+    mappedToEmoticons: ['1f442_ear'],
     skinTone: FluentEmojiSkinTone.mediumLight,
   );
 
@@ -3630,6 +4365,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'ear',
     glyph: '👂🏽',
     svgPath: 'assets/ear_color_medium.svg',
+    tts: 'ear',
+    fromVersion: '0.6',
+    glyphAsUtfInEmoticons: ['1f442_ear'],
+    keywords: ['body', 'ear'],
+    mappedToEmoticons: ['1f442_ear'],
     skinTone: FluentEmojiSkinTone.medium,
   );
 
@@ -3640,6 +4380,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'ear',
     glyph: '👂🏾',
     svgPath: 'assets/ear_color_medium-dark.svg',
+    tts: 'ear',
+    fromVersion: '0.6',
+    glyphAsUtfInEmoticons: ['1f442_ear'],
+    keywords: ['body', 'ear'],
+    mappedToEmoticons: ['1f442_ear'],
     skinTone: FluentEmojiSkinTone.mediumDark,
   );
 
@@ -3650,6 +4395,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'ear',
     glyph: '👂🏿',
     svgPath: 'assets/ear_color_dark.svg',
+    tts: 'ear',
+    fromVersion: '0.6',
+    glyphAsUtfInEmoticons: ['1f442_ear'],
+    keywords: ['body', 'ear'],
+    mappedToEmoticons: ['1f442_ear'],
     skinTone: FluentEmojiSkinTone.dark,
   );
 
@@ -3666,6 +4416,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'ear with hearing aid',
     glyph: '🦻',
     svgPath: 'assets/ear_with_hearing_aid_color_default.svg',
+    tts: 'ear with hearing aid',
+    fromVersion: '12.0',
+    glyphAsUtfInEmoticons: ['1f9bb_earwithhearingaid'],
+    keywords: ['accessibility', 'ear with hearing aid', 'hard of hearing'],
+    mappedToEmoticons: ['1f9bb_earwithhearingaid'],
     skinToneLight: _earWithHearingAidLight,
     skinToneMediumLight: _earWithHearingAidMediumLight,
     skinToneMedium: _earWithHearingAidMedium,
@@ -3680,6 +4435,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'ear with hearing aid',
     glyph: '🦻🏻',
     svgPath: 'assets/ear_with_hearing_aid_color_light.svg',
+    tts: 'ear with hearing aid',
+    fromVersion: '12.0',
+    glyphAsUtfInEmoticons: ['1f9bb_earwithhearingaid'],
+    keywords: ['accessibility', 'ear with hearing aid', 'hard of hearing'],
+    mappedToEmoticons: ['1f9bb_earwithhearingaid'],
     skinTone: FluentEmojiSkinTone.light,
   );
 
@@ -3690,6 +4450,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'ear with hearing aid',
     glyph: '🦻🏼',
     svgPath: 'assets/ear_with_hearing_aid_color_medium-light.svg',
+    tts: 'ear with hearing aid',
+    fromVersion: '12.0',
+    glyphAsUtfInEmoticons: ['1f9bb_earwithhearingaid'],
+    keywords: ['accessibility', 'ear with hearing aid', 'hard of hearing'],
+    mappedToEmoticons: ['1f9bb_earwithhearingaid'],
     skinTone: FluentEmojiSkinTone.mediumLight,
   );
 
@@ -3700,6 +4465,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'ear with hearing aid',
     glyph: '🦻🏽',
     svgPath: 'assets/ear_with_hearing_aid_color_medium.svg',
+    tts: 'ear with hearing aid',
+    fromVersion: '12.0',
+    glyphAsUtfInEmoticons: ['1f9bb_earwithhearingaid'],
+    keywords: ['accessibility', 'ear with hearing aid', 'hard of hearing'],
+    mappedToEmoticons: ['1f9bb_earwithhearingaid'],
     skinTone: FluentEmojiSkinTone.medium,
   );
 
@@ -3710,6 +4480,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'ear with hearing aid',
     glyph: '🦻🏾',
     svgPath: 'assets/ear_with_hearing_aid_color_medium-dark.svg',
+    tts: 'ear with hearing aid',
+    fromVersion: '12.0',
+    glyphAsUtfInEmoticons: ['1f9bb_earwithhearingaid'],
+    keywords: ['accessibility', 'ear with hearing aid', 'hard of hearing'],
+    mappedToEmoticons: ['1f9bb_earwithhearingaid'],
     skinTone: FluentEmojiSkinTone.mediumDark,
   );
 
@@ -3720,6 +4495,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'ear with hearing aid',
     glyph: '🦻🏿',
     svgPath: 'assets/ear_with_hearing_aid_color_dark.svg',
+    tts: 'ear with hearing aid',
+    fromVersion: '12.0',
+    glyphAsUtfInEmoticons: ['1f9bb_earwithhearingaid'],
+    keywords: ['accessibility', 'ear with hearing aid', 'hard of hearing'],
+    mappedToEmoticons: ['1f9bb_earwithhearingaid'],
     skinTone: FluentEmojiSkinTone.dark,
   );
 
@@ -3736,6 +4516,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'elf',
     glyph: '🧝',
     svgPath: 'assets/person_elf_color_default.svg',
+    tts: 'elf',
+    fromVersion: '5.0',
+    glyphAsUtfInEmoticons: ['elf'],
+    keywords: ['elf', 'magical'],
+    mappedToEmoticons: ['elf'],
     skinToneLight: _elfLight,
     skinToneMediumLight: _elfMediumLight,
     skinToneMedium: _elfMedium,
@@ -3750,6 +4535,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'elf',
     glyph: '🧝🏻',
     svgPath: 'assets/person_elf_color_light.svg',
+    tts: 'elf',
+    fromVersion: '5.0',
+    glyphAsUtfInEmoticons: ['elf'],
+    keywords: ['elf', 'magical'],
+    mappedToEmoticons: ['elf'],
     skinTone: FluentEmojiSkinTone.light,
   );
 
@@ -3760,6 +4550,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'elf',
     glyph: '🧝🏼',
     svgPath: 'assets/person_elf_color_medium-light.svg',
+    tts: 'elf',
+    fromVersion: '5.0',
+    glyphAsUtfInEmoticons: ['elf'],
+    keywords: ['elf', 'magical'],
+    mappedToEmoticons: ['elf'],
     skinTone: FluentEmojiSkinTone.mediumLight,
   );
 
@@ -3770,6 +4565,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'elf',
     glyph: '🧝🏽',
     svgPath: 'assets/person_elf_color_medium.svg',
+    tts: 'elf',
+    fromVersion: '5.0',
+    glyphAsUtfInEmoticons: ['elf'],
+    keywords: ['elf', 'magical'],
+    mappedToEmoticons: ['elf'],
     skinTone: FluentEmojiSkinTone.medium,
   );
 
@@ -3780,6 +4580,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'elf',
     glyph: '🧝🏾',
     svgPath: 'assets/person_elf_color_medium-dark.svg',
+    tts: 'elf',
+    fromVersion: '5.0',
+    glyphAsUtfInEmoticons: ['elf'],
+    keywords: ['elf', 'magical'],
+    mappedToEmoticons: ['elf'],
     skinTone: FluentEmojiSkinTone.mediumDark,
   );
 
@@ -3790,6 +4595,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'elf',
     glyph: '🧝🏿',
     svgPath: 'assets/person_elf_color_dark.svg',
+    tts: 'elf',
+    fromVersion: '5.0',
+    glyphAsUtfInEmoticons: ['elf'],
+    keywords: ['elf', 'magical'],
+    mappedToEmoticons: ['elf'],
     skinTone: FluentEmojiSkinTone.dark,
   );
 
@@ -3800,6 +4610,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'eye',
     glyph: '👁️',
     svgPath: 'assets/eye_color.svg',
+    tts: 'eye',
+    fromVersion: '0.7',
+    glyphAsUtfInEmoticons: null,
+    keywords: ['body', 'eye'],
+    mappedToEmoticons: ['1f441_eye'],
     skinTone: FluentEmojiSkinTone.standard,
   );
 
@@ -3810,6 +4625,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'eyes',
     glyph: '👀',
     svgPath: 'assets/eyes_color.svg',
+    tts: 'eyes',
+    fromVersion: '0.6',
+    glyphAsUtfInEmoticons: ['1f440_eyes'],
+    keywords: ['eye', 'eyes', 'face'],
+    mappedToEmoticons: ['1f440_eyes'],
     skinTone: FluentEmojiSkinTone.standard,
   );
 
@@ -3826,6 +4646,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'factory worker',
     glyph: '🧑‍🏭',
     svgPath: 'assets/factory_worker_color_default.svg',
+    tts: 'factory worker',
+    fromVersion: '12.1',
+    glyphAsUtfInEmoticons: null,
+    keywords: ['assembly', 'factory', 'industrial', 'worker'],
+    mappedToEmoticons: ['personwelder'],
     skinToneLight: _factoryWorkerLight,
     skinToneMediumLight: _factoryWorkerMediumLight,
     skinToneMedium: _factoryWorkerMedium,
@@ -3840,6 +4665,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'factory worker',
     glyph: '🧑🏻‍🏭',
     svgPath: 'assets/factory_worker_color_light.svg',
+    tts: 'factory worker',
+    fromVersion: '12.1',
+    glyphAsUtfInEmoticons: null,
+    keywords: ['assembly', 'factory', 'industrial', 'worker'],
+    mappedToEmoticons: ['personwelder'],
     skinTone: FluentEmojiSkinTone.light,
   );
 
@@ -3850,6 +4680,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'factory worker',
     glyph: '🧑🏼‍🏭',
     svgPath: 'assets/factory_worker_color_medium-light.svg',
+    tts: 'factory worker',
+    fromVersion: '12.1',
+    glyphAsUtfInEmoticons: null,
+    keywords: ['assembly', 'factory', 'industrial', 'worker'],
+    mappedToEmoticons: ['personwelder'],
     skinTone: FluentEmojiSkinTone.mediumLight,
   );
 
@@ -3860,6 +4695,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'factory worker',
     glyph: '🧑🏽‍🏭',
     svgPath: 'assets/factory_worker_color_medium.svg',
+    tts: 'factory worker',
+    fromVersion: '12.1',
+    glyphAsUtfInEmoticons: null,
+    keywords: ['assembly', 'factory', 'industrial', 'worker'],
+    mappedToEmoticons: ['personwelder'],
     skinTone: FluentEmojiSkinTone.medium,
   );
 
@@ -3870,6 +4710,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'factory worker',
     glyph: '🧑🏾‍🏭',
     svgPath: 'assets/factory_worker_color_medium-dark.svg',
+    tts: 'factory worker',
+    fromVersion: '12.1',
+    glyphAsUtfInEmoticons: null,
+    keywords: ['assembly', 'factory', 'industrial', 'worker'],
+    mappedToEmoticons: ['personwelder'],
     skinTone: FluentEmojiSkinTone.mediumDark,
   );
 
@@ -3880,6 +4725,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'factory worker',
     glyph: '🧑🏿‍🏭',
     svgPath: 'assets/factory_worker_color_dark.svg',
+    tts: 'factory worker',
+    fromVersion: '12.1',
+    glyphAsUtfInEmoticons: null,
+    keywords: ['assembly', 'factory', 'industrial', 'worker'],
+    mappedToEmoticons: ['personwelder'],
     skinTone: FluentEmojiSkinTone.dark,
   );
 
@@ -3896,6 +4746,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'fairy',
     glyph: '🧚',
     svgPath: 'assets/person_fairy_color_default.svg',
+    tts: 'fairy',
+    fromVersion: '5.0',
+    glyphAsUtfInEmoticons: ['fairy'],
+    keywords: ['fairy', 'Oberon', 'Puck', 'Titania'],
+    mappedToEmoticons: ['fairy'],
     skinToneLight: _fairyLight,
     skinToneMediumLight: _fairyMediumLight,
     skinToneMedium: _fairyMedium,
@@ -3910,6 +4765,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'fairy',
     glyph: '🧚🏻',
     svgPath: 'assets/person_fairy_color_light.svg',
+    tts: 'fairy',
+    fromVersion: '5.0',
+    glyphAsUtfInEmoticons: ['fairy'],
+    keywords: ['fairy', 'Oberon', 'Puck', 'Titania'],
+    mappedToEmoticons: ['fairy'],
     skinTone: FluentEmojiSkinTone.light,
   );
 
@@ -3920,6 +4780,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'fairy',
     glyph: '🧚🏼',
     svgPath: 'assets/person_fairy_color_medium-light.svg',
+    tts: 'fairy',
+    fromVersion: '5.0',
+    glyphAsUtfInEmoticons: ['fairy'],
+    keywords: ['fairy', 'Oberon', 'Puck', 'Titania'],
+    mappedToEmoticons: ['fairy'],
     skinTone: FluentEmojiSkinTone.mediumLight,
   );
 
@@ -3930,6 +4795,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'fairy',
     glyph: '🧚🏽',
     svgPath: 'assets/person_fairy_color_medium.svg',
+    tts: 'fairy',
+    fromVersion: '5.0',
+    glyphAsUtfInEmoticons: ['fairy'],
+    keywords: ['fairy', 'Oberon', 'Puck', 'Titania'],
+    mappedToEmoticons: ['fairy'],
     skinTone: FluentEmojiSkinTone.medium,
   );
 
@@ -3940,6 +4810,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'fairy',
     glyph: '🧚🏾',
     svgPath: 'assets/person_fairy_color_medium-dark.svg',
+    tts: 'fairy',
+    fromVersion: '5.0',
+    glyphAsUtfInEmoticons: ['fairy'],
+    keywords: ['fairy', 'Oberon', 'Puck', 'Titania'],
+    mappedToEmoticons: ['fairy'],
     skinTone: FluentEmojiSkinTone.mediumDark,
   );
 
@@ -3950,6 +4825,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'fairy',
     glyph: '🧚🏿',
     svgPath: 'assets/person_fairy_color_dark.svg',
+    tts: 'fairy',
+    fromVersion: '5.0',
+    glyphAsUtfInEmoticons: ['fairy'],
+    keywords: ['fairy', 'Oberon', 'Puck', 'Titania'],
+    mappedToEmoticons: ['fairy'],
     skinTone: FluentEmojiSkinTone.dark,
   );
 
@@ -3966,6 +4846,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'farmer',
     glyph: '🧑‍🌾',
     svgPath: 'assets/farmer_color_default.svg',
+    tts: 'farmer',
+    fromVersion: '12.1',
+    glyphAsUtfInEmoticons: null,
+    keywords: ['farmer', 'gardener', 'rancher'],
+    mappedToEmoticons: ['personfarmer'],
     skinToneLight: _farmerLight,
     skinToneMediumLight: _farmerMediumLight,
     skinToneMedium: _farmerMedium,
@@ -3980,6 +4865,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'farmer',
     glyph: '🧑🏻‍🌾',
     svgPath: 'assets/farmer_color_light.svg',
+    tts: 'farmer',
+    fromVersion: '12.1',
+    glyphAsUtfInEmoticons: null,
+    keywords: ['farmer', 'gardener', 'rancher'],
+    mappedToEmoticons: ['personfarmer'],
     skinTone: FluentEmojiSkinTone.light,
   );
 
@@ -3990,6 +4880,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'farmer',
     glyph: '🧑🏼‍🌾',
     svgPath: 'assets/farmer_color_medium-light.svg',
+    tts: 'farmer',
+    fromVersion: '12.1',
+    glyphAsUtfInEmoticons: null,
+    keywords: ['farmer', 'gardener', 'rancher'],
+    mappedToEmoticons: ['personfarmer'],
     skinTone: FluentEmojiSkinTone.mediumLight,
   );
 
@@ -4000,6 +4895,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'farmer',
     glyph: '🧑🏽‍🌾',
     svgPath: 'assets/farmer_color_medium.svg',
+    tts: 'farmer',
+    fromVersion: '12.1',
+    glyphAsUtfInEmoticons: null,
+    keywords: ['farmer', 'gardener', 'rancher'],
+    mappedToEmoticons: ['personfarmer'],
     skinTone: FluentEmojiSkinTone.medium,
   );
 
@@ -4010,6 +4910,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'farmer',
     glyph: '🧑🏾‍🌾',
     svgPath: 'assets/farmer_color_medium-dark.svg',
+    tts: 'farmer',
+    fromVersion: '12.1',
+    glyphAsUtfInEmoticons: null,
+    keywords: ['farmer', 'gardener', 'rancher'],
+    mappedToEmoticons: ['personfarmer'],
     skinTone: FluentEmojiSkinTone.mediumDark,
   );
 
@@ -4020,6 +4925,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'farmer',
     glyph: '🧑🏿‍🌾',
     svgPath: 'assets/farmer_color_dark.svg',
+    tts: 'farmer',
+    fromVersion: '12.1',
+    glyphAsUtfInEmoticons: null,
+    keywords: ['farmer', 'gardener', 'rancher'],
+    mappedToEmoticons: ['personfarmer'],
     skinTone: FluentEmojiSkinTone.dark,
   );
 
@@ -4036,6 +4946,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'firefighter',
     glyph: '🧑‍🚒',
     svgPath: 'assets/firefighter_color_default.svg',
+    tts: 'firefighter',
+    fromVersion: '12.1',
+    glyphAsUtfInEmoticons: null,
+    keywords: ['firefighter', 'firetruck'],
+    mappedToEmoticons: ['personfirefighter'],
     skinToneLight: _firefighterLight,
     skinToneMediumLight: _firefighterMediumLight,
     skinToneMedium: _firefighterMedium,
@@ -4050,6 +4965,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'firefighter',
     glyph: '🧑🏻‍🚒',
     svgPath: 'assets/firefighter_color_light.svg',
+    tts: 'firefighter',
+    fromVersion: '12.1',
+    glyphAsUtfInEmoticons: null,
+    keywords: ['firefighter', 'firetruck'],
+    mappedToEmoticons: ['personfirefighter'],
     skinTone: FluentEmojiSkinTone.light,
   );
 
@@ -4060,6 +4980,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'firefighter',
     glyph: '🧑🏼‍🚒',
     svgPath: 'assets/firefighter_color_medium-light.svg',
+    tts: 'firefighter',
+    fromVersion: '12.1',
+    glyphAsUtfInEmoticons: null,
+    keywords: ['firefighter', 'firetruck'],
+    mappedToEmoticons: ['personfirefighter'],
     skinTone: FluentEmojiSkinTone.mediumLight,
   );
 
@@ -4070,6 +4995,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'firefighter',
     glyph: '🧑🏽‍🚒',
     svgPath: 'assets/firefighter_color_medium.svg',
+    tts: 'firefighter',
+    fromVersion: '12.1',
+    glyphAsUtfInEmoticons: null,
+    keywords: ['firefighter', 'firetruck'],
+    mappedToEmoticons: ['personfirefighter'],
     skinTone: FluentEmojiSkinTone.medium,
   );
 
@@ -4080,6 +5010,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'firefighter',
     glyph: '🧑🏾‍🚒',
     svgPath: 'assets/firefighter_color_medium-dark.svg',
+    tts: 'firefighter',
+    fromVersion: '12.1',
+    glyphAsUtfInEmoticons: null,
+    keywords: ['firefighter', 'firetruck'],
+    mappedToEmoticons: ['personfirefighter'],
     skinTone: FluentEmojiSkinTone.mediumDark,
   );
 
@@ -4090,6 +5025,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'firefighter',
     glyph: '🧑🏿‍🚒',
     svgPath: 'assets/firefighter_color_dark.svg',
+    tts: 'firefighter',
+    fromVersion: '12.1',
+    glyphAsUtfInEmoticons: null,
+    keywords: ['firefighter', 'firetruck'],
+    mappedToEmoticons: ['personfirefighter'],
     skinTone: FluentEmojiSkinTone.dark,
   );
 
@@ -4106,6 +5046,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'flexed biceps',
     glyph: '💪',
     svgPath: 'assets/flexed_biceps_color_default.svg',
+    tts: 'flexed biceps',
+    fromVersion: '0.6',
+    glyphAsUtfInEmoticons: ['muscle'],
+    keywords: ['biceps', 'comic', 'flex', 'flexed biceps', 'muscle'],
+    mappedToEmoticons: ['muscle'],
     skinToneLight: _flexedBicepsLight,
     skinToneMediumLight: _flexedBicepsMediumLight,
     skinToneMedium: _flexedBicepsMedium,
@@ -4120,6 +5065,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'flexed biceps',
     glyph: '💪🏻',
     svgPath: 'assets/flexed_biceps_color_light.svg',
+    tts: 'flexed biceps',
+    fromVersion: '0.6',
+    glyphAsUtfInEmoticons: ['muscle'],
+    keywords: ['biceps', 'comic', 'flex', 'flexed biceps', 'muscle'],
+    mappedToEmoticons: ['muscle'],
     skinTone: FluentEmojiSkinTone.light,
   );
 
@@ -4130,6 +5080,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'flexed biceps',
     glyph: '💪🏼',
     svgPath: 'assets/flexed_biceps_color_medium-light.svg',
+    tts: 'flexed biceps',
+    fromVersion: '0.6',
+    glyphAsUtfInEmoticons: ['muscle'],
+    keywords: ['biceps', 'comic', 'flex', 'flexed biceps', 'muscle'],
+    mappedToEmoticons: ['muscle'],
     skinTone: FluentEmojiSkinTone.mediumLight,
   );
 
@@ -4140,6 +5095,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'flexed biceps',
     glyph: '💪🏽',
     svgPath: 'assets/flexed_biceps_color_medium.svg',
+    tts: 'flexed biceps',
+    fromVersion: '0.6',
+    glyphAsUtfInEmoticons: ['muscle'],
+    keywords: ['biceps', 'comic', 'flex', 'flexed biceps', 'muscle'],
+    mappedToEmoticons: ['muscle'],
     skinTone: FluentEmojiSkinTone.medium,
   );
 
@@ -4150,6 +5110,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'flexed biceps',
     glyph: '💪🏾',
     svgPath: 'assets/flexed_biceps_color_medium-dark.svg',
+    tts: 'flexed biceps',
+    fromVersion: '0.6',
+    glyphAsUtfInEmoticons: ['muscle'],
+    keywords: ['biceps', 'comic', 'flex', 'flexed biceps', 'muscle'],
+    mappedToEmoticons: ['muscle'],
     skinTone: FluentEmojiSkinTone.mediumDark,
   );
 
@@ -4160,6 +5125,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'flexed biceps',
     glyph: '💪🏿',
     svgPath: 'assets/flexed_biceps_color_dark.svg',
+    tts: 'flexed biceps',
+    fromVersion: '0.6',
+    glyphAsUtfInEmoticons: ['muscle'],
+    keywords: ['biceps', 'comic', 'flex', 'flexed biceps', 'muscle'],
+    mappedToEmoticons: ['muscle'],
     skinTone: FluentEmojiSkinTone.dark,
   );
 
@@ -4176,6 +5146,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'folded hands',
     glyph: '🙏',
     svgPath: 'assets/folded_hands_color_default.svg',
+    tts: 'folded hands',
+    fromVersion: '0.6',
+    glyphAsUtfInEmoticons: ['praying'],
+    keywords: ['ask', 'folded hands', 'hand', 'high 5', 'high five', 'please', 'pray', 'thanks'],
+    mappedToEmoticons: ['praying'],
     skinToneLight: _foldedHandsLight,
     skinToneMediumLight: _foldedHandsMediumLight,
     skinToneMedium: _foldedHandsMedium,
@@ -4190,6 +5165,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'folded hands',
     glyph: '🙏🏻',
     svgPath: 'assets/folded_hands_color_light.svg',
+    tts: 'folded hands',
+    fromVersion: '0.6',
+    glyphAsUtfInEmoticons: ['praying'],
+    keywords: ['ask', 'folded hands', 'hand', 'high 5', 'high five', 'please', 'pray', 'thanks'],
+    mappedToEmoticons: ['praying'],
     skinTone: FluentEmojiSkinTone.light,
   );
 
@@ -4200,6 +5180,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'folded hands',
     glyph: '🙏🏼',
     svgPath: 'assets/folded_hands_color_medium-light.svg',
+    tts: 'folded hands',
+    fromVersion: '0.6',
+    glyphAsUtfInEmoticons: ['praying'],
+    keywords: ['ask', 'folded hands', 'hand', 'high 5', 'high five', 'please', 'pray', 'thanks'],
+    mappedToEmoticons: ['praying'],
     skinTone: FluentEmojiSkinTone.mediumLight,
   );
 
@@ -4210,6 +5195,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'folded hands',
     glyph: '🙏🏽',
     svgPath: 'assets/folded_hands_color_medium.svg',
+    tts: 'folded hands',
+    fromVersion: '0.6',
+    glyphAsUtfInEmoticons: ['praying'],
+    keywords: ['ask', 'folded hands', 'hand', 'high 5', 'high five', 'please', 'pray', 'thanks'],
+    mappedToEmoticons: ['praying'],
     skinTone: FluentEmojiSkinTone.medium,
   );
 
@@ -4220,6 +5210,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'folded hands',
     glyph: '🙏🏾',
     svgPath: 'assets/folded_hands_color_medium-dark.svg',
+    tts: 'folded hands',
+    fromVersion: '0.6',
+    glyphAsUtfInEmoticons: ['praying'],
+    keywords: ['ask', 'folded hands', 'hand', 'high 5', 'high five', 'please', 'pray', 'thanks'],
+    mappedToEmoticons: ['praying'],
     skinTone: FluentEmojiSkinTone.mediumDark,
   );
 
@@ -4230,6 +5225,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'folded hands',
     glyph: '🙏🏿',
     svgPath: 'assets/folded_hands_color_dark.svg',
+    tts: 'folded hands',
+    fromVersion: '0.6',
+    glyphAsUtfInEmoticons: ['praying'],
+    keywords: ['ask', 'folded hands', 'hand', 'high 5', 'high five', 'please', 'pray', 'thanks'],
+    mappedToEmoticons: ['praying'],
     skinTone: FluentEmojiSkinTone.dark,
   );
 
@@ -4246,6 +5246,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'foot',
     glyph: '🦶',
     svgPath: 'assets/foot_color_default.svg',
+    tts: 'foot',
+    fromVersion: '11.0',
+    glyphAsUtfInEmoticons: ['1f9b6_foot'],
+    keywords: ['foot', 'kick', 'stomp'],
+    mappedToEmoticons: ['1f9b6_foot'],
     skinToneLight: _footLight,
     skinToneMediumLight: _footMediumLight,
     skinToneMedium: _footMedium,
@@ -4260,6 +5265,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'foot',
     glyph: '🦶🏻',
     svgPath: 'assets/foot_color_light.svg',
+    tts: 'foot',
+    fromVersion: '11.0',
+    glyphAsUtfInEmoticons: ['1f9b6_foot'],
+    keywords: ['foot', 'kick', 'stomp'],
+    mappedToEmoticons: ['1f9b6_foot'],
     skinTone: FluentEmojiSkinTone.light,
   );
 
@@ -4270,6 +5280,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'foot',
     glyph: '🦶🏼',
     svgPath: 'assets/foot_color_medium-light.svg',
+    tts: 'foot',
+    fromVersion: '11.0',
+    glyphAsUtfInEmoticons: ['1f9b6_foot'],
+    keywords: ['foot', 'kick', 'stomp'],
+    mappedToEmoticons: ['1f9b6_foot'],
     skinTone: FluentEmojiSkinTone.mediumLight,
   );
 
@@ -4280,6 +5295,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'foot',
     glyph: '🦶🏽',
     svgPath: 'assets/foot_color_medium.svg',
+    tts: 'foot',
+    fromVersion: '11.0',
+    glyphAsUtfInEmoticons: ['1f9b6_foot'],
+    keywords: ['foot', 'kick', 'stomp'],
+    mappedToEmoticons: ['1f9b6_foot'],
     skinTone: FluentEmojiSkinTone.medium,
   );
 
@@ -4290,6 +5310,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'foot',
     glyph: '🦶🏾',
     svgPath: 'assets/foot_color_medium-dark.svg',
+    tts: 'foot',
+    fromVersion: '11.0',
+    glyphAsUtfInEmoticons: ['1f9b6_foot'],
+    keywords: ['foot', 'kick', 'stomp'],
+    mappedToEmoticons: ['1f9b6_foot'],
     skinTone: FluentEmojiSkinTone.mediumDark,
   );
 
@@ -4300,6 +5325,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'foot',
     glyph: '🦶🏿',
     svgPath: 'assets/foot_color_dark.svg',
+    tts: 'foot',
+    fromVersion: '11.0',
+    glyphAsUtfInEmoticons: ['1f9b6_foot'],
+    keywords: ['foot', 'kick', 'stomp'],
+    mappedToEmoticons: ['1f9b6_foot'],
     skinTone: FluentEmojiSkinTone.dark,
   );
 
@@ -4310,6 +5340,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'footprints',
     glyph: '👣',
     svgPath: 'assets/footprints_color.svg',
+    tts: 'footprints',
+    fromVersion: '0.6',
+    glyphAsUtfInEmoticons: ['1f463_footprints'],
+    keywords: ['clothing', 'footprint', 'footprints', 'print'],
+    mappedToEmoticons: ['1f463_footprints'],
     skinTone: FluentEmojiSkinTone.standard,
   );
 
@@ -4320,6 +5355,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'genie',
     glyph: '🧞',
     svgPath: 'assets/person_genie_color.svg',
+    tts: 'genie',
+    fromVersion: '5.0',
+    glyphAsUtfInEmoticons: ['1f9de_genie'],
+    keywords: ['djinn', 'genie'],
+    mappedToEmoticons: ['1f9de_genie'],
     skinTone: FluentEmojiSkinTone.standard,
   );
 
@@ -4336,6 +5376,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'girl',
     glyph: '👧',
     svgPath: 'assets/girl_color_default.svg',
+    tts: 'girl',
+    fromVersion: '0.6',
+    glyphAsUtfInEmoticons: ['smilegirl'],
+    keywords: ['girl', 'Virgo', 'young', 'zodiac'],
+    mappedToEmoticons: ['smilegirl'],
     skinToneLight: _girlLight,
     skinToneMediumLight: _girlMediumLight,
     skinToneMedium: _girlMedium,
@@ -4350,6 +5395,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'girl',
     glyph: '👧🏻',
     svgPath: 'assets/girl_color_light.svg',
+    tts: 'girl',
+    fromVersion: '0.6',
+    glyphAsUtfInEmoticons: ['smilegirl'],
+    keywords: ['girl', 'Virgo', 'young', 'zodiac'],
+    mappedToEmoticons: ['smilegirl'],
     skinTone: FluentEmojiSkinTone.light,
   );
 
@@ -4360,6 +5410,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'girl',
     glyph: '👧🏼',
     svgPath: 'assets/girl_color_medium-light.svg',
+    tts: 'girl',
+    fromVersion: '0.6',
+    glyphAsUtfInEmoticons: ['smilegirl'],
+    keywords: ['girl', 'Virgo', 'young', 'zodiac'],
+    mappedToEmoticons: ['smilegirl'],
     skinTone: FluentEmojiSkinTone.mediumLight,
   );
 
@@ -4370,6 +5425,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'girl',
     glyph: '👧🏽',
     svgPath: 'assets/girl_color_medium.svg',
+    tts: 'girl',
+    fromVersion: '0.6',
+    glyphAsUtfInEmoticons: ['smilegirl'],
+    keywords: ['girl', 'Virgo', 'young', 'zodiac'],
+    mappedToEmoticons: ['smilegirl'],
     skinTone: FluentEmojiSkinTone.medium,
   );
 
@@ -4380,6 +5440,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'girl',
     glyph: '👧🏾',
     svgPath: 'assets/girl_color_medium-dark.svg',
+    tts: 'girl',
+    fromVersion: '0.6',
+    glyphAsUtfInEmoticons: ['smilegirl'],
+    keywords: ['girl', 'Virgo', 'young', 'zodiac'],
+    mappedToEmoticons: ['smilegirl'],
     skinTone: FluentEmojiSkinTone.mediumDark,
   );
 
@@ -4390,6 +5455,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'girl',
     glyph: '👧🏿',
     svgPath: 'assets/girl_color_dark.svg',
+    tts: 'girl',
+    fromVersion: '0.6',
+    glyphAsUtfInEmoticons: ['smilegirl'],
+    keywords: ['girl', 'Virgo', 'young', 'zodiac'],
+    mappedToEmoticons: ['smilegirl'],
     skinTone: FluentEmojiSkinTone.dark,
   );
 
@@ -4406,6 +5476,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'guard',
     glyph: '💂',
     svgPath: 'assets/guard_color_default.svg',
+    tts: 'guard',
+    fromVersion: '0.6',
+    glyphAsUtfInEmoticons: ['guard'],
+    keywords: ['guard'],
+    mappedToEmoticons: ['guard'],
     skinToneLight: _guardLight,
     skinToneMediumLight: _guardMediumLight,
     skinToneMedium: _guardMedium,
@@ -4420,6 +5495,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'guard',
     glyph: '💂🏻',
     svgPath: 'assets/guard_color_light.svg',
+    tts: 'guard',
+    fromVersion: '0.6',
+    glyphAsUtfInEmoticons: ['guard'],
+    keywords: ['guard'],
+    mappedToEmoticons: ['guard'],
     skinTone: FluentEmojiSkinTone.light,
   );
 
@@ -4430,6 +5510,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'guard',
     glyph: '💂🏼',
     svgPath: 'assets/guard_color_medium-light.svg',
+    tts: 'guard',
+    fromVersion: '0.6',
+    glyphAsUtfInEmoticons: ['guard'],
+    keywords: ['guard'],
+    mappedToEmoticons: ['guard'],
     skinTone: FluentEmojiSkinTone.mediumLight,
   );
 
@@ -4440,6 +5525,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'guard',
     glyph: '💂🏽',
     svgPath: 'assets/guard_color_medium.svg',
+    tts: 'guard',
+    fromVersion: '0.6',
+    glyphAsUtfInEmoticons: ['guard'],
+    keywords: ['guard'],
+    mappedToEmoticons: ['guard'],
     skinTone: FluentEmojiSkinTone.medium,
   );
 
@@ -4450,6 +5540,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'guard',
     glyph: '💂🏾',
     svgPath: 'assets/guard_color_medium-dark.svg',
+    tts: 'guard',
+    fromVersion: '0.6',
+    glyphAsUtfInEmoticons: ['guard'],
+    keywords: ['guard'],
+    mappedToEmoticons: ['guard'],
     skinTone: FluentEmojiSkinTone.mediumDark,
   );
 
@@ -4460,6 +5555,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'guard',
     glyph: '💂🏿',
     svgPath: 'assets/guard_color_dark.svg',
+    tts: 'guard',
+    fromVersion: '0.6',
+    glyphAsUtfInEmoticons: ['guard'],
+    keywords: ['guard'],
+    mappedToEmoticons: ['guard'],
     skinTone: FluentEmojiSkinTone.dark,
   );
 
@@ -4476,6 +5576,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'hand with fingers splayed',
     glyph: '🖐️',
     svgPath: 'assets/hand_with_fingers_splayed_color_default.svg',
+    tts: 'hand with fingers splayed',
+    fromVersion: '0.7',
+    glyphAsUtfInEmoticons: null,
+    keywords: ['finger', 'hand', 'hand with fingers splayed', 'splayed'],
+    mappedToEmoticons: ['1f590_handwithfingerssplayed'],
     skinToneLight: _handWithFingersSplayedLight,
     skinToneMediumLight: _handWithFingersSplayedMediumLight,
     skinToneMedium: _handWithFingersSplayedMedium,
@@ -4490,6 +5595,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'hand with fingers splayed',
     glyph: '🖐🏻',
     svgPath: 'assets/hand_with_fingers_splayed_color_light.svg',
+    tts: 'hand with fingers splayed',
+    fromVersion: '0.7',
+    glyphAsUtfInEmoticons: null,
+    keywords: ['finger', 'hand', 'hand with fingers splayed', 'splayed'],
+    mappedToEmoticons: ['1f590_handwithfingerssplayed'],
     skinTone: FluentEmojiSkinTone.light,
   );
 
@@ -4500,6 +5610,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'hand with fingers splayed',
     glyph: '🖐🏼',
     svgPath: 'assets/hand_with_fingers_splayed_color_medium-light.svg',
+    tts: 'hand with fingers splayed',
+    fromVersion: '0.7',
+    glyphAsUtfInEmoticons: null,
+    keywords: ['finger', 'hand', 'hand with fingers splayed', 'splayed'],
+    mappedToEmoticons: ['1f590_handwithfingerssplayed'],
     skinTone: FluentEmojiSkinTone.mediumLight,
   );
 
@@ -4510,6 +5625,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'hand with fingers splayed',
     glyph: '🖐🏽',
     svgPath: 'assets/hand_with_fingers_splayed_color_medium.svg',
+    tts: 'hand with fingers splayed',
+    fromVersion: '0.7',
+    glyphAsUtfInEmoticons: null,
+    keywords: ['finger', 'hand', 'hand with fingers splayed', 'splayed'],
+    mappedToEmoticons: ['1f590_handwithfingerssplayed'],
     skinTone: FluentEmojiSkinTone.medium,
   );
 
@@ -4520,6 +5640,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'hand with fingers splayed',
     glyph: '🖐🏾',
     svgPath: 'assets/hand_with_fingers_splayed_color_medium-dark.svg',
+    tts: 'hand with fingers splayed',
+    fromVersion: '0.7',
+    glyphAsUtfInEmoticons: null,
+    keywords: ['finger', 'hand', 'hand with fingers splayed', 'splayed'],
+    mappedToEmoticons: ['1f590_handwithfingerssplayed'],
     skinTone: FluentEmojiSkinTone.mediumDark,
   );
 
@@ -4530,6 +5655,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'hand with fingers splayed',
     glyph: '🖐🏿',
     svgPath: 'assets/hand_with_fingers_splayed_color_dark.svg',
+    tts: 'hand with fingers splayed',
+    fromVersion: '0.7',
+    glyphAsUtfInEmoticons: null,
+    keywords: ['finger', 'hand', 'hand with fingers splayed', 'splayed'],
+    mappedToEmoticons: ['1f590_handwithfingerssplayed'],
     skinTone: FluentEmojiSkinTone.dark,
   );
 
@@ -4546,6 +5676,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'hand with index finger and thumb crossed',
     glyph: '🫰',
     svgPath: 'assets/hand_with_index_finger_and_thumb_crossed_color_default.svg',
+    tts: 'hand with index finger and thumb crossed',
+    fromVersion: '14.0',
+    glyphAsUtfInEmoticons: null,
+    keywords: ['expensive', 'hand with index finger and thumb crossed', 'heart', 'love', 'money', 'snap'],
+    mappedToEmoticons: null,
     skinToneLight: _handWithIndexFingerAndThumbCrossedLight,
     skinToneMediumLight: _handWithIndexFingerAndThumbCrossedMediumLight,
     skinToneMedium: _handWithIndexFingerAndThumbCrossedMedium,
@@ -4560,6 +5695,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'hand with index finger and thumb crossed',
     glyph: '🫰🏻',
     svgPath: 'assets/hand_with_index_finger_and_thumb_crossed_color_light.svg',
+    tts: 'hand with index finger and thumb crossed',
+    fromVersion: '14.0',
+    glyphAsUtfInEmoticons: null,
+    keywords: ['expensive', 'hand with index finger and thumb crossed', 'heart', 'love', 'money', 'snap'],
+    mappedToEmoticons: null,
     skinTone: FluentEmojiSkinTone.light,
   );
 
@@ -4570,6 +5710,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'hand with index finger and thumb crossed',
     glyph: '🫰🏼',
     svgPath: 'assets/hand_with_index_finger_and_thumb_crossed_color_medium-light.svg',
+    tts: 'hand with index finger and thumb crossed',
+    fromVersion: '14.0',
+    glyphAsUtfInEmoticons: null,
+    keywords: ['expensive', 'hand with index finger and thumb crossed', 'heart', 'love', 'money', 'snap'],
+    mappedToEmoticons: null,
     skinTone: FluentEmojiSkinTone.mediumLight,
   );
 
@@ -4580,6 +5725,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'hand with index finger and thumb crossed',
     glyph: '🫰🏽',
     svgPath: 'assets/hand_with_index_finger_and_thumb_crossed_color_medium.svg',
+    tts: 'hand with index finger and thumb crossed',
+    fromVersion: '14.0',
+    glyphAsUtfInEmoticons: null,
+    keywords: ['expensive', 'hand with index finger and thumb crossed', 'heart', 'love', 'money', 'snap'],
+    mappedToEmoticons: null,
     skinTone: FluentEmojiSkinTone.medium,
   );
 
@@ -4590,6 +5740,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'hand with index finger and thumb crossed',
     glyph: '🫰🏾',
     svgPath: 'assets/hand_with_index_finger_and_thumb_crossed_color_medium-dark.svg',
+    tts: 'hand with index finger and thumb crossed',
+    fromVersion: '14.0',
+    glyphAsUtfInEmoticons: null,
+    keywords: ['expensive', 'hand with index finger and thumb crossed', 'heart', 'love', 'money', 'snap'],
+    mappedToEmoticons: null,
     skinTone: FluentEmojiSkinTone.mediumDark,
   );
 
@@ -4600,6 +5755,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'hand with index finger and thumb crossed',
     glyph: '🫰🏿',
     svgPath: 'assets/hand_with_index_finger_and_thumb_crossed_color_dark.svg',
+    tts: 'hand with index finger and thumb crossed',
+    fromVersion: '14.0',
+    glyphAsUtfInEmoticons: null,
+    keywords: ['expensive', 'hand with index finger and thumb crossed', 'heart', 'love', 'money', 'snap'],
+    mappedToEmoticons: null,
     skinTone: FluentEmojiSkinTone.dark,
   );
 
@@ -4610,6 +5770,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'handshake',
     glyph: '🤝',
     svgPath: 'assets/handshake_color.svg',
+    tts: 'handshake',
+    fromVersion: '3.0',
+    glyphAsUtfInEmoticons: ['handshake'],
+    keywords: ['agreement', 'hand', 'handshake', 'meeting', 'shake'],
+    mappedToEmoticons: ['handshake'],
     skinTone: FluentEmojiSkinTone.standard,
   );
 
@@ -4626,6 +5791,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'health worker',
     glyph: '🧑‍⚕️',
     svgPath: 'assets/health_worker_color_default.svg',
+    tts: 'health worker',
+    fromVersion: '12.1',
+    glyphAsUtfInEmoticons: null,
+    keywords: ['doctor', 'health worker', 'healthcare', 'nurse', 'therapist'],
+    mappedToEmoticons: ['personhealthworker'],
     skinToneLight: _healthWorkerLight,
     skinToneMediumLight: _healthWorkerMediumLight,
     skinToneMedium: _healthWorkerMedium,
@@ -4640,6 +5810,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'health worker',
     glyph: '🧑🏻‍⚕️',
     svgPath: 'assets/health_worker_color_light.svg',
+    tts: 'health worker',
+    fromVersion: '12.1',
+    glyphAsUtfInEmoticons: null,
+    keywords: ['doctor', 'health worker', 'healthcare', 'nurse', 'therapist'],
+    mappedToEmoticons: ['personhealthworker'],
     skinTone: FluentEmojiSkinTone.light,
   );
 
@@ -4650,6 +5825,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'health worker',
     glyph: '🧑🏼‍⚕️',
     svgPath: 'assets/health_worker_color_medium-light.svg',
+    tts: 'health worker',
+    fromVersion: '12.1',
+    glyphAsUtfInEmoticons: null,
+    keywords: ['doctor', 'health worker', 'healthcare', 'nurse', 'therapist'],
+    mappedToEmoticons: ['personhealthworker'],
     skinTone: FluentEmojiSkinTone.mediumLight,
   );
 
@@ -4660,6 +5840,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'health worker',
     glyph: '🧑🏽‍⚕️',
     svgPath: 'assets/health_worker_color_medium.svg',
+    tts: 'health worker',
+    fromVersion: '12.1',
+    glyphAsUtfInEmoticons: null,
+    keywords: ['doctor', 'health worker', 'healthcare', 'nurse', 'therapist'],
+    mappedToEmoticons: ['personhealthworker'],
     skinTone: FluentEmojiSkinTone.medium,
   );
 
@@ -4670,6 +5855,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'health worker',
     glyph: '🧑🏾‍⚕️',
     svgPath: 'assets/health_worker_color_medium-dark.svg',
+    tts: 'health worker',
+    fromVersion: '12.1',
+    glyphAsUtfInEmoticons: null,
+    keywords: ['doctor', 'health worker', 'healthcare', 'nurse', 'therapist'],
+    mappedToEmoticons: ['personhealthworker'],
     skinTone: FluentEmojiSkinTone.mediumDark,
   );
 
@@ -4680,6 +5870,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'health worker',
     glyph: '🧑🏿‍⚕️',
     svgPath: 'assets/health_worker_color_dark.svg',
+    tts: 'health worker',
+    fromVersion: '12.1',
+    glyphAsUtfInEmoticons: null,
+    keywords: ['doctor', 'health worker', 'healthcare', 'nurse', 'therapist'],
+    mappedToEmoticons: ['personhealthworker'],
     skinTone: FluentEmojiSkinTone.dark,
   );
 
@@ -4696,6 +5891,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'heart hands',
     glyph: '🫶',
     svgPath: 'assets/heart_hands_color_default.svg',
+    tts: 'heart hands',
+    fromVersion: '14.0',
+    glyphAsUtfInEmoticons: ['hearthands'],
+    keywords: ['heart hands', 'love'],
+    mappedToEmoticons: ['hearthands'],
     skinToneLight: _heartHandsLight,
     skinToneMediumLight: _heartHandsMediumLight,
     skinToneMedium: _heartHandsMedium,
@@ -4710,6 +5910,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'heart hands',
     glyph: '🫶🏻',
     svgPath: 'assets/heart_hands_color_light.svg',
+    tts: 'heart hands',
+    fromVersion: '14.0',
+    glyphAsUtfInEmoticons: ['hearthands'],
+    keywords: ['heart hands', 'love'],
+    mappedToEmoticons: ['hearthands'],
     skinTone: FluentEmojiSkinTone.light,
   );
 
@@ -4720,6 +5925,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'heart hands',
     glyph: '🫶🏼',
     svgPath: 'assets/heart_hands_color_medium-light.svg',
+    tts: 'heart hands',
+    fromVersion: '14.0',
+    glyphAsUtfInEmoticons: ['hearthands'],
+    keywords: ['heart hands', 'love'],
+    mappedToEmoticons: ['hearthands'],
     skinTone: FluentEmojiSkinTone.mediumLight,
   );
 
@@ -4730,6 +5940,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'heart hands',
     glyph: '🫶🏽',
     svgPath: 'assets/heart_hands_color_medium.svg',
+    tts: 'heart hands',
+    fromVersion: '14.0',
+    glyphAsUtfInEmoticons: ['hearthands'],
+    keywords: ['heart hands', 'love'],
+    mappedToEmoticons: ['hearthands'],
     skinTone: FluentEmojiSkinTone.medium,
   );
 
@@ -4740,6 +5955,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'heart hands',
     glyph: '🫶🏾',
     svgPath: 'assets/heart_hands_color_medium-dark.svg',
+    tts: 'heart hands',
+    fromVersion: '14.0',
+    glyphAsUtfInEmoticons: ['hearthands'],
+    keywords: ['heart hands', 'love'],
+    mappedToEmoticons: ['hearthands'],
     skinTone: FluentEmojiSkinTone.mediumDark,
   );
 
@@ -4750,6 +5970,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'heart hands',
     glyph: '🫶🏿',
     svgPath: 'assets/heart_hands_color_dark.svg',
+    tts: 'heart hands',
+    fromVersion: '14.0',
+    glyphAsUtfInEmoticons: ['hearthands'],
+    keywords: ['heart hands', 'love'],
+    mappedToEmoticons: ['hearthands'],
     skinTone: FluentEmojiSkinTone.dark,
   );
 
@@ -4766,6 +5991,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'horse racing',
     glyph: '🏇',
     svgPath: 'assets/horse_racing_color_default.svg',
+    tts: 'horse racing',
+    fromVersion: '1.0',
+    glyphAsUtfInEmoticons: ['horse_racing'],
+    keywords: ['horse', 'jockey', 'racehorse', 'racing'],
+    mappedToEmoticons: ['horse_racing'],
     skinToneLight: _horseRacingLight,
     skinToneMediumLight: _horseRacingMediumLight,
     skinToneMedium: _horseRacingMedium,
@@ -4780,6 +6010,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'horse racing',
     glyph: '🏇🏻',
     svgPath: 'assets/horse_racing_color_light.svg',
+    tts: 'horse racing',
+    fromVersion: '1.0',
+    glyphAsUtfInEmoticons: ['horse_racing'],
+    keywords: ['horse', 'jockey', 'racehorse', 'racing'],
+    mappedToEmoticons: ['horse_racing'],
     skinTone: FluentEmojiSkinTone.light,
   );
 
@@ -4790,6 +6025,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'horse racing',
     glyph: '🏇🏼',
     svgPath: 'assets/horse_racing_color_medium-light.svg',
+    tts: 'horse racing',
+    fromVersion: '1.0',
+    glyphAsUtfInEmoticons: ['horse_racing'],
+    keywords: ['horse', 'jockey', 'racehorse', 'racing'],
+    mappedToEmoticons: ['horse_racing'],
     skinTone: FluentEmojiSkinTone.mediumLight,
   );
 
@@ -4800,6 +6040,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'horse racing',
     glyph: '🏇🏽',
     svgPath: 'assets/horse_racing_color_medium.svg',
+    tts: 'horse racing',
+    fromVersion: '1.0',
+    glyphAsUtfInEmoticons: ['horse_racing'],
+    keywords: ['horse', 'jockey', 'racehorse', 'racing'],
+    mappedToEmoticons: ['horse_racing'],
     skinTone: FluentEmojiSkinTone.medium,
   );
 
@@ -4810,6 +6055,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'horse racing',
     glyph: '🏇🏾',
     svgPath: 'assets/horse_racing_color_medium-dark.svg',
+    tts: 'horse racing',
+    fromVersion: '1.0',
+    glyphAsUtfInEmoticons: ['horse_racing'],
+    keywords: ['horse', 'jockey', 'racehorse', 'racing'],
+    mappedToEmoticons: ['horse_racing'],
     skinTone: FluentEmojiSkinTone.mediumDark,
   );
 
@@ -4820,6 +6070,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'horse racing',
     glyph: '🏇🏿',
     svgPath: 'assets/horse_racing_color_dark.svg',
+    tts: 'horse racing',
+    fromVersion: '1.0',
+    glyphAsUtfInEmoticons: ['horse_racing'],
+    keywords: ['horse', 'jockey', 'racehorse', 'racing'],
+    mappedToEmoticons: ['horse_racing'],
     skinTone: FluentEmojiSkinTone.dark,
   );
 
@@ -4836,6 +6091,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'index pointing at the viewer',
     glyph: '🫵',
     svgPath: 'assets/index_pointing_at_the_viewer_color_default.svg',
+    tts: 'index pointing at the viewer',
+    fromVersion: '14.0',
+    glyphAsUtfInEmoticons: null,
+    keywords: ['index pointing at the viewer', 'point', 'you'],
+    mappedToEmoticons: null,
     skinToneLight: _indexPointingAtTheViewerLight,
     skinToneMediumLight: _indexPointingAtTheViewerMediumLight,
     skinToneMedium: _indexPointingAtTheViewerMedium,
@@ -4850,6 +6110,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'index pointing at the viewer',
     glyph: '🫵🏻',
     svgPath: 'assets/index_pointing_at_the_viewer_color_light.svg',
+    tts: 'index pointing at the viewer',
+    fromVersion: '14.0',
+    glyphAsUtfInEmoticons: null,
+    keywords: ['index pointing at the viewer', 'point', 'you'],
+    mappedToEmoticons: null,
     skinTone: FluentEmojiSkinTone.light,
   );
 
@@ -4860,6 +6125,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'index pointing at the viewer',
     glyph: '🫵🏼',
     svgPath: 'assets/index_pointing_at_the_viewer_color_medium-light.svg',
+    tts: 'index pointing at the viewer',
+    fromVersion: '14.0',
+    glyphAsUtfInEmoticons: null,
+    keywords: ['index pointing at the viewer', 'point', 'you'],
+    mappedToEmoticons: null,
     skinTone: FluentEmojiSkinTone.mediumLight,
   );
 
@@ -4870,6 +6140,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'index pointing at the viewer',
     glyph: '🫵🏽',
     svgPath: 'assets/index_pointing_at_the_viewer_color_medium.svg',
+    tts: 'index pointing at the viewer',
+    fromVersion: '14.0',
+    glyphAsUtfInEmoticons: null,
+    keywords: ['index pointing at the viewer', 'point', 'you'],
+    mappedToEmoticons: null,
     skinTone: FluentEmojiSkinTone.medium,
   );
 
@@ -4880,6 +6155,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'index pointing at the viewer',
     glyph: '🫵🏾',
     svgPath: 'assets/index_pointing_at_the_viewer_color_medium-dark.svg',
+    tts: 'index pointing at the viewer',
+    fromVersion: '14.0',
+    glyphAsUtfInEmoticons: null,
+    keywords: ['index pointing at the viewer', 'point', 'you'],
+    mappedToEmoticons: null,
     skinTone: FluentEmojiSkinTone.mediumDark,
   );
 
@@ -4890,6 +6170,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'index pointing at the viewer',
     glyph: '🫵🏿',
     svgPath: 'assets/index_pointing_at_the_viewer_color_dark.svg',
+    tts: 'index pointing at the viewer',
+    fromVersion: '14.0',
+    glyphAsUtfInEmoticons: null,
+    keywords: ['index pointing at the viewer', 'point', 'you'],
+    mappedToEmoticons: null,
     skinTone: FluentEmojiSkinTone.dark,
   );
 
@@ -4906,6 +6191,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'index pointing up',
     glyph: '☝️',
     svgPath: 'assets/index_pointing_up_color_default.svg',
+    tts: 'index pointing up',
+    fromVersion: '0.6',
+    glyphAsUtfInEmoticons: ['pointupindex'],
+    keywords: ['finger', 'hand', 'index', 'index pointing up', 'point', 'up'],
+    mappedToEmoticons: ['pointupindex'],
     skinToneLight: _indexPointingUpLight,
     skinToneMediumLight: _indexPointingUpMediumLight,
     skinToneMedium: _indexPointingUpMedium,
@@ -4920,6 +6210,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'index pointing up',
     glyph: '☝🏻',
     svgPath: 'assets/index_pointing_up_color_light.svg',
+    tts: 'index pointing up',
+    fromVersion: '0.6',
+    glyphAsUtfInEmoticons: ['pointupindex'],
+    keywords: ['finger', 'hand', 'index', 'index pointing up', 'point', 'up'],
+    mappedToEmoticons: ['pointupindex'],
     skinTone: FluentEmojiSkinTone.light,
   );
 
@@ -4930,6 +6225,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'index pointing up',
     glyph: '☝🏼',
     svgPath: 'assets/index_pointing_up_color_medium-light.svg',
+    tts: 'index pointing up',
+    fromVersion: '0.6',
+    glyphAsUtfInEmoticons: ['pointupindex'],
+    keywords: ['finger', 'hand', 'index', 'index pointing up', 'point', 'up'],
+    mappedToEmoticons: ['pointupindex'],
     skinTone: FluentEmojiSkinTone.mediumLight,
   );
 
@@ -4940,6 +6240,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'index pointing up',
     glyph: '☝🏽',
     svgPath: 'assets/index_pointing_up_color_medium.svg',
+    tts: 'index pointing up',
+    fromVersion: '0.6',
+    glyphAsUtfInEmoticons: ['pointupindex'],
+    keywords: ['finger', 'hand', 'index', 'index pointing up', 'point', 'up'],
+    mappedToEmoticons: ['pointupindex'],
     skinTone: FluentEmojiSkinTone.medium,
   );
 
@@ -4950,6 +6255,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'index pointing up',
     glyph: '☝🏾',
     svgPath: 'assets/index_pointing_up_color_medium-dark.svg',
+    tts: 'index pointing up',
+    fromVersion: '0.6',
+    glyphAsUtfInEmoticons: ['pointupindex'],
+    keywords: ['finger', 'hand', 'index', 'index pointing up', 'point', 'up'],
+    mappedToEmoticons: ['pointupindex'],
     skinTone: FluentEmojiSkinTone.mediumDark,
   );
 
@@ -4960,6 +6270,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'index pointing up',
     glyph: '☝🏿',
     svgPath: 'assets/index_pointing_up_color_dark.svg',
+    tts: 'index pointing up',
+    fromVersion: '0.6',
+    glyphAsUtfInEmoticons: ['pointupindex'],
+    keywords: ['finger', 'hand', 'index', 'index pointing up', 'point', 'up'],
+    mappedToEmoticons: ['pointupindex'],
     skinTone: FluentEmojiSkinTone.dark,
   );
 
@@ -4976,6 +6291,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'judge',
     glyph: '🧑‍⚖️',
     svgPath: 'assets/judge_color_default.svg',
+    tts: 'judge',
+    fromVersion: '12.1',
+    glyphAsUtfInEmoticons: null,
+    keywords: ['judge', 'justice', 'scales'],
+    mappedToEmoticons: ['personjudge'],
     skinToneLight: _judgeLight,
     skinToneMediumLight: _judgeMediumLight,
     skinToneMedium: _judgeMedium,
@@ -4990,6 +6310,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'judge',
     glyph: '🧑🏻‍⚖️',
     svgPath: 'assets/judge_color_light.svg',
+    tts: 'judge',
+    fromVersion: '12.1',
+    glyphAsUtfInEmoticons: null,
+    keywords: ['judge', 'justice', 'scales'],
+    mappedToEmoticons: ['personjudge'],
     skinTone: FluentEmojiSkinTone.light,
   );
 
@@ -5000,6 +6325,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'judge',
     glyph: '🧑🏼‍⚖️',
     svgPath: 'assets/judge_color_medium-light.svg',
+    tts: 'judge',
+    fromVersion: '12.1',
+    glyphAsUtfInEmoticons: null,
+    keywords: ['judge', 'justice', 'scales'],
+    mappedToEmoticons: ['personjudge'],
     skinTone: FluentEmojiSkinTone.mediumLight,
   );
 
@@ -5010,6 +6340,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'judge',
     glyph: '🧑🏽‍⚖️',
     svgPath: 'assets/judge_color_medium.svg',
+    tts: 'judge',
+    fromVersion: '12.1',
+    glyphAsUtfInEmoticons: null,
+    keywords: ['judge', 'justice', 'scales'],
+    mappedToEmoticons: ['personjudge'],
     skinTone: FluentEmojiSkinTone.medium,
   );
 
@@ -5020,6 +6355,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'judge',
     glyph: '🧑🏾‍⚖️',
     svgPath: 'assets/judge_color_medium-dark.svg',
+    tts: 'judge',
+    fromVersion: '12.1',
+    glyphAsUtfInEmoticons: null,
+    keywords: ['judge', 'justice', 'scales'],
+    mappedToEmoticons: ['personjudge'],
     skinTone: FluentEmojiSkinTone.mediumDark,
   );
 
@@ -5030,6 +6370,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'judge',
     glyph: '🧑🏿‍⚖️',
     svgPath: 'assets/judge_color_dark.svg',
+    tts: 'judge',
+    fromVersion: '12.1',
+    glyphAsUtfInEmoticons: null,
+    keywords: ['judge', 'justice', 'scales'],
+    mappedToEmoticons: ['personjudge'],
     skinTone: FluentEmojiSkinTone.dark,
   );
 
@@ -5046,6 +6391,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'left-facing fist',
     glyph: '🤛',
     svgPath: 'assets/left-facing_fist_color_default.svg',
+    tts: 'left-facing fist',
+    fromVersion: '3.0',
+    glyphAsUtfInEmoticons: ['1f91b_leftfacingfist'],
+    keywords: ['fist', 'left-facing fist', 'leftwards'],
+    mappedToEmoticons: ['1f91b_leftfacingfist'],
     skinToneLight: _leftFacingFistLight,
     skinToneMediumLight: _leftFacingFistMediumLight,
     skinToneMedium: _leftFacingFistMedium,
@@ -5060,6 +6410,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'left-facing fist',
     glyph: '🤛🏻',
     svgPath: 'assets/left-facing_fist_color_light.svg',
+    tts: 'left-facing fist',
+    fromVersion: '3.0',
+    glyphAsUtfInEmoticons: ['1f91b_leftfacingfist'],
+    keywords: ['fist', 'left-facing fist', 'leftwards'],
+    mappedToEmoticons: ['1f91b_leftfacingfist'],
     skinTone: FluentEmojiSkinTone.light,
   );
 
@@ -5070,6 +6425,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'left-facing fist',
     glyph: '🤛🏼',
     svgPath: 'assets/left-facing_fist_color_medium-light.svg',
+    tts: 'left-facing fist',
+    fromVersion: '3.0',
+    glyphAsUtfInEmoticons: ['1f91b_leftfacingfist'],
+    keywords: ['fist', 'left-facing fist', 'leftwards'],
+    mappedToEmoticons: ['1f91b_leftfacingfist'],
     skinTone: FluentEmojiSkinTone.mediumLight,
   );
 
@@ -5080,6 +6440,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'left-facing fist',
     glyph: '🤛🏽',
     svgPath: 'assets/left-facing_fist_color_medium.svg',
+    tts: 'left-facing fist',
+    fromVersion: '3.0',
+    glyphAsUtfInEmoticons: ['1f91b_leftfacingfist'],
+    keywords: ['fist', 'left-facing fist', 'leftwards'],
+    mappedToEmoticons: ['1f91b_leftfacingfist'],
     skinTone: FluentEmojiSkinTone.medium,
   );
 
@@ -5090,6 +6455,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'left-facing fist',
     glyph: '🤛🏾',
     svgPath: 'assets/left-facing_fist_color_medium-dark.svg',
+    tts: 'left-facing fist',
+    fromVersion: '3.0',
+    glyphAsUtfInEmoticons: ['1f91b_leftfacingfist'],
+    keywords: ['fist', 'left-facing fist', 'leftwards'],
+    mappedToEmoticons: ['1f91b_leftfacingfist'],
     skinTone: FluentEmojiSkinTone.mediumDark,
   );
 
@@ -5100,6 +6470,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'left-facing fist',
     glyph: '🤛🏿',
     svgPath: 'assets/left-facing_fist_color_dark.svg',
+    tts: 'left-facing fist',
+    fromVersion: '3.0',
+    glyphAsUtfInEmoticons: ['1f91b_leftfacingfist'],
+    keywords: ['fist', 'left-facing fist', 'leftwards'],
+    mappedToEmoticons: ['1f91b_leftfacingfist'],
     skinTone: FluentEmojiSkinTone.dark,
   );
 
@@ -5116,6 +6491,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'leftwards hand',
     glyph: '🫲',
     svgPath: 'assets/leftwards_hand_color_default.svg',
+    tts: 'leftwards hand',
+    fromVersion: '14.0',
+    glyphAsUtfInEmoticons: ['leftwardshand'],
+    keywords: ['hand', 'left', 'leftward', 'leftwards hand'],
+    mappedToEmoticons: ['leftwardshand'],
     skinToneLight: _leftwardsHandLight,
     skinToneMediumLight: _leftwardsHandMediumLight,
     skinToneMedium: _leftwardsHandMedium,
@@ -5130,6 +6510,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'leftwards hand',
     glyph: '🫲🏻',
     svgPath: 'assets/leftwards_hand_color_light.svg',
+    tts: 'leftwards hand',
+    fromVersion: '14.0',
+    glyphAsUtfInEmoticons: ['leftwardshand'],
+    keywords: ['hand', 'left', 'leftward', 'leftwards hand'],
+    mappedToEmoticons: ['leftwardshand'],
     skinTone: FluentEmojiSkinTone.light,
   );
 
@@ -5140,6 +6525,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'leftwards hand',
     glyph: '🫲🏼',
     svgPath: 'assets/leftwards_hand_color_medium-light.svg',
+    tts: 'leftwards hand',
+    fromVersion: '14.0',
+    glyphAsUtfInEmoticons: ['leftwardshand'],
+    keywords: ['hand', 'left', 'leftward', 'leftwards hand'],
+    mappedToEmoticons: ['leftwardshand'],
     skinTone: FluentEmojiSkinTone.mediumLight,
   );
 
@@ -5150,6 +6540,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'leftwards hand',
     glyph: '🫲🏽',
     svgPath: 'assets/leftwards_hand_color_medium.svg',
+    tts: 'leftwards hand',
+    fromVersion: '14.0',
+    glyphAsUtfInEmoticons: ['leftwardshand'],
+    keywords: ['hand', 'left', 'leftward', 'leftwards hand'],
+    mappedToEmoticons: ['leftwardshand'],
     skinTone: FluentEmojiSkinTone.medium,
   );
 
@@ -5160,6 +6555,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'leftwards hand',
     glyph: '🫲🏾',
     svgPath: 'assets/leftwards_hand_color_medium-dark.svg',
+    tts: 'leftwards hand',
+    fromVersion: '14.0',
+    glyphAsUtfInEmoticons: ['leftwardshand'],
+    keywords: ['hand', 'left', 'leftward', 'leftwards hand'],
+    mappedToEmoticons: ['leftwardshand'],
     skinTone: FluentEmojiSkinTone.mediumDark,
   );
 
@@ -5170,6 +6570,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'leftwards hand',
     glyph: '🫲🏿',
     svgPath: 'assets/leftwards_hand_color_dark.svg',
+    tts: 'leftwards hand',
+    fromVersion: '14.0',
+    glyphAsUtfInEmoticons: ['leftwardshand'],
+    keywords: ['hand', 'left', 'leftward', 'leftwards hand'],
+    mappedToEmoticons: ['leftwardshand'],
     skinTone: FluentEmojiSkinTone.dark,
   );
 
@@ -5186,6 +6591,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'leftwards pushing hand',
     glyph: '🫷',
     svgPath: 'assets/leftwards_pushing_hand_color_default.svg',
+    tts: 'leftwards pushing hand',
+    fromVersion: '15.0',
+    glyphAsUtfInEmoticons: ['pushleft'],
+    keywords: ['high five', 'leftward', 'leftwards pushing hand', 'push', 'refuse', 'stop', 'wait'],
+    mappedToEmoticons: ['pushleft'],
     skinToneLight: _leftwardsPushingHandLight,
     skinToneMediumLight: _leftwardsPushingHandMediumLight,
     skinToneMedium: _leftwardsPushingHandMedium,
@@ -5200,6 +6610,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'leftwards pushing hand',
     glyph: '🫷🏻',
     svgPath: 'assets/leftwards_pushing_hand_color_light.svg',
+    tts: 'leftwards pushing hand',
+    fromVersion: '15.0',
+    glyphAsUtfInEmoticons: ['pushleft'],
+    keywords: ['high five', 'leftward', 'leftwards pushing hand', 'push', 'refuse', 'stop', 'wait'],
+    mappedToEmoticons: ['pushleft'],
     skinTone: FluentEmojiSkinTone.light,
   );
 
@@ -5210,6 +6625,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'leftwards pushing hand',
     glyph: '🫷🏼',
     svgPath: 'assets/leftwards_pushing_hand_color_medium-light.svg',
+    tts: 'leftwards pushing hand',
+    fromVersion: '15.0',
+    glyphAsUtfInEmoticons: ['pushleft'],
+    keywords: ['high five', 'leftward', 'leftwards pushing hand', 'push', 'refuse', 'stop', 'wait'],
+    mappedToEmoticons: ['pushleft'],
     skinTone: FluentEmojiSkinTone.mediumLight,
   );
 
@@ -5220,6 +6640,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'leftwards pushing hand',
     glyph: '🫷🏽',
     svgPath: 'assets/leftwards_pushing_hand_color_medium.svg',
+    tts: 'leftwards pushing hand',
+    fromVersion: '15.0',
+    glyphAsUtfInEmoticons: ['pushleft'],
+    keywords: ['high five', 'leftward', 'leftwards pushing hand', 'push', 'refuse', 'stop', 'wait'],
+    mappedToEmoticons: ['pushleft'],
     skinTone: FluentEmojiSkinTone.medium,
   );
 
@@ -5230,6 +6655,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'leftwards pushing hand',
     glyph: '🫷🏾',
     svgPath: 'assets/leftwards_pushing_hand_color_medium-dark.svg',
+    tts: 'leftwards pushing hand',
+    fromVersion: '15.0',
+    glyphAsUtfInEmoticons: ['pushleft'],
+    keywords: ['high five', 'leftward', 'leftwards pushing hand', 'push', 'refuse', 'stop', 'wait'],
+    mappedToEmoticons: ['pushleft'],
     skinTone: FluentEmojiSkinTone.mediumDark,
   );
 
@@ -5240,6 +6670,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'leftwards pushing hand',
     glyph: '🫷🏿',
     svgPath: 'assets/leftwards_pushing_hand_color_dark.svg',
+    tts: 'leftwards pushing hand',
+    fromVersion: '15.0',
+    glyphAsUtfInEmoticons: ['pushleft'],
+    keywords: ['high five', 'leftward', 'leftwards pushing hand', 'push', 'refuse', 'stop', 'wait'],
+    mappedToEmoticons: ['pushleft'],
     skinTone: FluentEmojiSkinTone.dark,
   );
 
@@ -5256,6 +6691,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'leg',
     glyph: '🦵',
     svgPath: 'assets/leg_color_default.svg',
+    tts: 'leg',
+    fromVersion: '11.0',
+    glyphAsUtfInEmoticons: ['1f9b5_leg'],
+    keywords: ['kick', 'leg', 'limb'],
+    mappedToEmoticons: ['1f9b5_leg'],
     skinToneLight: _legLight,
     skinToneMediumLight: _legMediumLight,
     skinToneMedium: _legMedium,
@@ -5270,6 +6710,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'leg',
     glyph: '🦵🏻',
     svgPath: 'assets/leg_color_light.svg',
+    tts: 'leg',
+    fromVersion: '11.0',
+    glyphAsUtfInEmoticons: ['1f9b5_leg'],
+    keywords: ['kick', 'leg', 'limb'],
+    mappedToEmoticons: ['1f9b5_leg'],
     skinTone: FluentEmojiSkinTone.light,
   );
 
@@ -5280,6 +6725,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'leg',
     glyph: '🦵🏼',
     svgPath: 'assets/leg_color_medium-light.svg',
+    tts: 'leg',
+    fromVersion: '11.0',
+    glyphAsUtfInEmoticons: ['1f9b5_leg'],
+    keywords: ['kick', 'leg', 'limb'],
+    mappedToEmoticons: ['1f9b5_leg'],
     skinTone: FluentEmojiSkinTone.mediumLight,
   );
 
@@ -5290,6 +6740,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'leg',
     glyph: '🦵🏽',
     svgPath: 'assets/leg_color_medium.svg',
+    tts: 'leg',
+    fromVersion: '11.0',
+    glyphAsUtfInEmoticons: ['1f9b5_leg'],
+    keywords: ['kick', 'leg', 'limb'],
+    mappedToEmoticons: ['1f9b5_leg'],
     skinTone: FluentEmojiSkinTone.medium,
   );
 
@@ -5300,6 +6755,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'leg',
     glyph: '🦵🏾',
     svgPath: 'assets/leg_color_medium-dark.svg',
+    tts: 'leg',
+    fromVersion: '11.0',
+    glyphAsUtfInEmoticons: ['1f9b5_leg'],
+    keywords: ['kick', 'leg', 'limb'],
+    mappedToEmoticons: ['1f9b5_leg'],
     skinTone: FluentEmojiSkinTone.mediumDark,
   );
 
@@ -5310,6 +6770,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'leg',
     glyph: '🦵🏿',
     svgPath: 'assets/leg_color_dark.svg',
+    tts: 'leg',
+    fromVersion: '11.0',
+    glyphAsUtfInEmoticons: ['1f9b5_leg'],
+    keywords: ['kick', 'leg', 'limb'],
+    mappedToEmoticons: ['1f9b5_leg'],
     skinTone: FluentEmojiSkinTone.dark,
   );
 
@@ -5326,6 +6791,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'love-you gesture',
     glyph: '🤟',
     svgPath: 'assets/love-you_gesture_color_default.svg',
+    tts: 'love-you gesture',
+    fromVersion: '5.0',
+    glyphAsUtfInEmoticons: ['1f91f_loveyougesture', 'hearthands'],
+    keywords: ['hand', 'ILY', 'love-you gesture'],
+    mappedToEmoticons: ['1f91f_loveyougesture'],
     skinToneLight: _loveYouGestureLight,
     skinToneMediumLight: _loveYouGestureMediumLight,
     skinToneMedium: _loveYouGestureMedium,
@@ -5340,6 +6810,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'love-you gesture',
     glyph: '🤟🏻',
     svgPath: 'assets/love-you_gesture_color_light.svg',
+    tts: 'love-you gesture',
+    fromVersion: '5.0',
+    glyphAsUtfInEmoticons: ['1f91f_loveyougesture', 'hearthands'],
+    keywords: ['hand', 'ILY', 'love-you gesture'],
+    mappedToEmoticons: ['1f91f_loveyougesture'],
     skinTone: FluentEmojiSkinTone.light,
   );
 
@@ -5350,6 +6825,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'love-you gesture',
     glyph: '🤟🏼',
     svgPath: 'assets/love-you_gesture_color_medium-light.svg',
+    tts: 'love-you gesture',
+    fromVersion: '5.0',
+    glyphAsUtfInEmoticons: ['1f91f_loveyougesture', 'hearthands'],
+    keywords: ['hand', 'ILY', 'love-you gesture'],
+    mappedToEmoticons: ['1f91f_loveyougesture'],
     skinTone: FluentEmojiSkinTone.mediumLight,
   );
 
@@ -5360,6 +6840,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'love-you gesture',
     glyph: '🤟🏽',
     svgPath: 'assets/love-you_gesture_color_medium.svg',
+    tts: 'love-you gesture',
+    fromVersion: '5.0',
+    glyphAsUtfInEmoticons: ['1f91f_loveyougesture', 'hearthands'],
+    keywords: ['hand', 'ILY', 'love-you gesture'],
+    mappedToEmoticons: ['1f91f_loveyougesture'],
     skinTone: FluentEmojiSkinTone.medium,
   );
 
@@ -5370,6 +6855,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'love-you gesture',
     glyph: '🤟🏾',
     svgPath: 'assets/love-you_gesture_color_medium-dark.svg',
+    tts: 'love-you gesture',
+    fromVersion: '5.0',
+    glyphAsUtfInEmoticons: ['1f91f_loveyougesture', 'hearthands'],
+    keywords: ['hand', 'ILY', 'love-you gesture'],
+    mappedToEmoticons: ['1f91f_loveyougesture'],
     skinTone: FluentEmojiSkinTone.mediumDark,
   );
 
@@ -5380,6 +6870,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'love-you gesture',
     glyph: '🤟🏿',
     svgPath: 'assets/love-you_gesture_color_dark.svg',
+    tts: 'love-you gesture',
+    fromVersion: '5.0',
+    glyphAsUtfInEmoticons: ['1f91f_loveyougesture', 'hearthands'],
+    keywords: ['hand', 'ILY', 'love-you gesture'],
+    mappedToEmoticons: ['1f91f_loveyougesture'],
     skinTone: FluentEmojiSkinTone.dark,
   );
 
@@ -5390,6 +6885,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'lungs',
     glyph: '🫁',
     svgPath: 'assets/lungs_color.svg',
+    tts: 'lungs',
+    fromVersion: '13.0',
+    glyphAsUtfInEmoticons: ['lungs'],
+    keywords: ['breath', 'exhalation', 'inhalation', 'lungs', 'organ', 'respiration'],
+    mappedToEmoticons: ['lungs'],
     skinTone: FluentEmojiSkinTone.standard,
   );
 
@@ -5406,6 +6906,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'mage',
     glyph: '🧙',
     svgPath: 'assets/person_mage_color_default.svg',
+    tts: 'mage',
+    fromVersion: '5.0',
+    glyphAsUtfInEmoticons: ['wizard'],
+    keywords: ['mage', 'sorcerer', 'sorceress', 'witch', 'wizard'],
+    mappedToEmoticons: ['mage'],
     skinToneLight: _mageLight,
     skinToneMediumLight: _mageMediumLight,
     skinToneMedium: _mageMedium,
@@ -5420,6 +6925,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'mage',
     glyph: '🧙🏻',
     svgPath: 'assets/person_mage_color_light.svg',
+    tts: 'mage',
+    fromVersion: '5.0',
+    glyphAsUtfInEmoticons: ['wizard'],
+    keywords: ['mage', 'sorcerer', 'sorceress', 'witch', 'wizard'],
+    mappedToEmoticons: ['mage'],
     skinTone: FluentEmojiSkinTone.light,
   );
 
@@ -5430,6 +6940,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'mage',
     glyph: '🧙🏼',
     svgPath: 'assets/person_mage_color_medium-light.svg',
+    tts: 'mage',
+    fromVersion: '5.0',
+    glyphAsUtfInEmoticons: ['wizard'],
+    keywords: ['mage', 'sorcerer', 'sorceress', 'witch', 'wizard'],
+    mappedToEmoticons: ['mage'],
     skinTone: FluentEmojiSkinTone.mediumLight,
   );
 
@@ -5440,6 +6955,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'mage',
     glyph: '🧙🏽',
     svgPath: 'assets/person_mage_color_medium.svg',
+    tts: 'mage',
+    fromVersion: '5.0',
+    glyphAsUtfInEmoticons: ['wizard'],
+    keywords: ['mage', 'sorcerer', 'sorceress', 'witch', 'wizard'],
+    mappedToEmoticons: ['mage'],
     skinTone: FluentEmojiSkinTone.medium,
   );
 
@@ -5450,6 +6970,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'mage',
     glyph: '🧙🏾',
     svgPath: 'assets/person_mage_color_medium-dark.svg',
+    tts: 'mage',
+    fromVersion: '5.0',
+    glyphAsUtfInEmoticons: ['wizard'],
+    keywords: ['mage', 'sorcerer', 'sorceress', 'witch', 'wizard'],
+    mappedToEmoticons: ['mage'],
     skinTone: FluentEmojiSkinTone.mediumDark,
   );
 
@@ -5460,6 +6985,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'mage',
     glyph: '🧙🏿',
     svgPath: 'assets/person_mage_color_dark.svg',
+    tts: 'mage',
+    fromVersion: '5.0',
+    glyphAsUtfInEmoticons: ['wizard'],
+    keywords: ['mage', 'sorcerer', 'sorceress', 'witch', 'wizard'],
+    mappedToEmoticons: ['mage'],
     skinTone: FluentEmojiSkinTone.dark,
   );
 
@@ -5476,6 +7006,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'man',
     glyph: '👨',
     svgPath: 'assets/man_color_default.svg',
+    tts: 'man',
+    fromVersion: '0.6',
+    glyphAsUtfInEmoticons: ['man', 'man_student', 'manstudent', 'smileman'],
+    keywords: ['adult', 'man'],
+    mappedToEmoticons: ['smileman'],
     skinToneLight: _manLight,
     skinToneMediumLight: _manMediumLight,
     skinToneMedium: _manMedium,
@@ -5490,6 +7025,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'man',
     glyph: '👨🏻',
     svgPath: 'assets/man_color_light.svg',
+    tts: 'man',
+    fromVersion: '0.6',
+    glyphAsUtfInEmoticons: ['man', 'man_student', 'manstudent', 'smileman'],
+    keywords: ['adult', 'man'],
+    mappedToEmoticons: ['smileman'],
     skinTone: FluentEmojiSkinTone.light,
   );
 
@@ -5500,6 +7040,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'man',
     glyph: '👨🏼',
     svgPath: 'assets/man_color_medium-light.svg',
+    tts: 'man',
+    fromVersion: '0.6',
+    glyphAsUtfInEmoticons: ['man', 'man_student', 'manstudent', 'smileman'],
+    keywords: ['adult', 'man'],
+    mappedToEmoticons: ['smileman'],
     skinTone: FluentEmojiSkinTone.mediumLight,
   );
 
@@ -5510,6 +7055,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'man',
     glyph: '👨🏽',
     svgPath: 'assets/man_color_medium.svg',
+    tts: 'man',
+    fromVersion: '0.6',
+    glyphAsUtfInEmoticons: ['man', 'man_student', 'manstudent', 'smileman'],
+    keywords: ['adult', 'man'],
+    mappedToEmoticons: ['smileman'],
     skinTone: FluentEmojiSkinTone.medium,
   );
 
@@ -5520,6 +7070,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'man',
     glyph: '👨🏾',
     svgPath: 'assets/man_color_medium-dark.svg',
+    tts: 'man',
+    fromVersion: '0.6',
+    glyphAsUtfInEmoticons: ['man', 'man_student', 'manstudent', 'smileman'],
+    keywords: ['adult', 'man'],
+    mappedToEmoticons: ['smileman'],
     skinTone: FluentEmojiSkinTone.mediumDark,
   );
 
@@ -5530,6 +7085,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'man',
     glyph: '👨🏿',
     svgPath: 'assets/man_color_dark.svg',
+    tts: 'man',
+    fromVersion: '0.6',
+    glyphAsUtfInEmoticons: ['man', 'man_student', 'manstudent', 'smileman'],
+    keywords: ['adult', 'man'],
+    mappedToEmoticons: ['smileman'],
     skinTone: FluentEmojiSkinTone.dark,
   );
 
@@ -5546,6 +7106,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'man artist',
     glyph: '👨‍🎨',
     svgPath: 'assets/man_artist_color_default.svg',
+    tts: 'man artist',
+    fromVersion: '4.0',
+    glyphAsUtfInEmoticons: ['manartist'],
+    keywords: ['artist', 'man', 'palette'],
+    mappedToEmoticons: ['manartist'],
     skinToneLight: _manArtistLight,
     skinToneMediumLight: _manArtistMediumLight,
     skinToneMedium: _manArtistMedium,
@@ -5560,6 +7125,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'man artist',
     glyph: '👨🏻‍🎨',
     svgPath: 'assets/man_artist_color_light.svg',
+    tts: 'man artist',
+    fromVersion: '4.0',
+    glyphAsUtfInEmoticons: ['manartist'],
+    keywords: ['artist', 'man', 'palette'],
+    mappedToEmoticons: ['manartist'],
     skinTone: FluentEmojiSkinTone.light,
   );
 
@@ -5570,6 +7140,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'man artist',
     glyph: '👨🏼‍🎨',
     svgPath: 'assets/man_artist_color_medium-light.svg',
+    tts: 'man artist',
+    fromVersion: '4.0',
+    glyphAsUtfInEmoticons: ['manartist'],
+    keywords: ['artist', 'man', 'palette'],
+    mappedToEmoticons: ['manartist'],
     skinTone: FluentEmojiSkinTone.mediumLight,
   );
 
@@ -5580,6 +7155,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'man artist',
     glyph: '👨🏽‍🎨',
     svgPath: 'assets/man_artist_color_medium.svg',
+    tts: 'man artist',
+    fromVersion: '4.0',
+    glyphAsUtfInEmoticons: ['manartist'],
+    keywords: ['artist', 'man', 'palette'],
+    mappedToEmoticons: ['manartist'],
     skinTone: FluentEmojiSkinTone.medium,
   );
 
@@ -5590,6 +7170,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'man artist',
     glyph: '👨🏾‍🎨',
     svgPath: 'assets/man_artist_color_medium-dark.svg',
+    tts: 'man artist',
+    fromVersion: '4.0',
+    glyphAsUtfInEmoticons: ['manartist'],
+    keywords: ['artist', 'man', 'palette'],
+    mappedToEmoticons: ['manartist'],
     skinTone: FluentEmojiSkinTone.mediumDark,
   );
 
@@ -5600,6 +7185,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'man artist',
     glyph: '👨🏿‍🎨',
     svgPath: 'assets/man_artist_color_dark.svg',
+    tts: 'man artist',
+    fromVersion: '4.0',
+    glyphAsUtfInEmoticons: ['manartist'],
+    keywords: ['artist', 'man', 'palette'],
+    mappedToEmoticons: ['manartist'],
     skinTone: FluentEmojiSkinTone.dark,
   );
 
@@ -5616,6 +7206,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'man astronaut',
     glyph: '👨‍🚀',
     svgPath: 'assets/man_astronaut_color_default.svg',
+    tts: 'man astronaut',
+    fromVersion: '4.0',
+    glyphAsUtfInEmoticons: ['manastronaut'],
+    keywords: ['astronaut', 'man', 'rocket'],
+    mappedToEmoticons: ['manastronaut'],
     skinToneLight: _manAstronautLight,
     skinToneMediumLight: _manAstronautMediumLight,
     skinToneMedium: _manAstronautMedium,
@@ -5630,6 +7225,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'man astronaut',
     glyph: '👨🏻‍🚀',
     svgPath: 'assets/man_astronaut_color_light.svg',
+    tts: 'man astronaut',
+    fromVersion: '4.0',
+    glyphAsUtfInEmoticons: ['manastronaut'],
+    keywords: ['astronaut', 'man', 'rocket'],
+    mappedToEmoticons: ['manastronaut'],
     skinTone: FluentEmojiSkinTone.light,
   );
 
@@ -5640,6 +7240,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'man astronaut',
     glyph: '👨🏼‍🚀',
     svgPath: 'assets/man_astronaut_color_medium-light.svg',
+    tts: 'man astronaut',
+    fromVersion: '4.0',
+    glyphAsUtfInEmoticons: ['manastronaut'],
+    keywords: ['astronaut', 'man', 'rocket'],
+    mappedToEmoticons: ['manastronaut'],
     skinTone: FluentEmojiSkinTone.mediumLight,
   );
 
@@ -5650,6 +7255,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'man astronaut',
     glyph: '👨🏽‍🚀',
     svgPath: 'assets/man_astronaut_color_medium.svg',
+    tts: 'man astronaut',
+    fromVersion: '4.0',
+    glyphAsUtfInEmoticons: ['manastronaut'],
+    keywords: ['astronaut', 'man', 'rocket'],
+    mappedToEmoticons: ['manastronaut'],
     skinTone: FluentEmojiSkinTone.medium,
   );
 
@@ -5660,6 +7270,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'man astronaut',
     glyph: '👨🏾‍🚀',
     svgPath: 'assets/man_astronaut_color_medium-dark.svg',
+    tts: 'man astronaut',
+    fromVersion: '4.0',
+    glyphAsUtfInEmoticons: ['manastronaut'],
+    keywords: ['astronaut', 'man', 'rocket'],
+    mappedToEmoticons: ['manastronaut'],
     skinTone: FluentEmojiSkinTone.mediumDark,
   );
 
@@ -5670,6 +7285,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'man astronaut',
     glyph: '👨🏿‍🚀',
     svgPath: 'assets/man_astronaut_color_dark.svg',
+    tts: 'man astronaut',
+    fromVersion: '4.0',
+    glyphAsUtfInEmoticons: ['manastronaut'],
+    keywords: ['astronaut', 'man', 'rocket'],
+    mappedToEmoticons: ['manastronaut'],
     skinTone: FluentEmojiSkinTone.dark,
   );
 
@@ -5686,6 +7306,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'man biking',
     glyph: '🚴‍♂️',
     svgPath: 'assets/man_biking_color_default.svg',
+    tts: 'man biking',
+    fromVersion: '4.0',
+    glyphAsUtfInEmoticons: ['bike'],
+    keywords: ['bicycle', 'biking', 'cyclist', 'man'],
+    mappedToEmoticons: ['bike'],
     skinToneLight: _manBikingLight,
     skinToneMediumLight: _manBikingMediumLight,
     skinToneMedium: _manBikingMedium,
@@ -5700,6 +7325,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'man biking',
     glyph: '🚴🏻‍♂️',
     svgPath: 'assets/man_biking_color_light.svg',
+    tts: 'man biking',
+    fromVersion: '4.0',
+    glyphAsUtfInEmoticons: ['bike'],
+    keywords: ['bicycle', 'biking', 'cyclist', 'man'],
+    mappedToEmoticons: ['bike'],
     skinTone: FluentEmojiSkinTone.light,
   );
 
@@ -5710,6 +7340,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'man biking',
     glyph: '🚴🏼‍♂️',
     svgPath: 'assets/man_biking_color_medium-light.svg',
+    tts: 'man biking',
+    fromVersion: '4.0',
+    glyphAsUtfInEmoticons: ['bike'],
+    keywords: ['bicycle', 'biking', 'cyclist', 'man'],
+    mappedToEmoticons: ['bike'],
     skinTone: FluentEmojiSkinTone.mediumLight,
   );
 
@@ -5720,6 +7355,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'man biking',
     glyph: '🚴🏽‍♂️',
     svgPath: 'assets/man_biking_color_medium.svg',
+    tts: 'man biking',
+    fromVersion: '4.0',
+    glyphAsUtfInEmoticons: ['bike'],
+    keywords: ['bicycle', 'biking', 'cyclist', 'man'],
+    mappedToEmoticons: ['bike'],
     skinTone: FluentEmojiSkinTone.medium,
   );
 
@@ -5730,6 +7370,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'man biking',
     glyph: '🚴🏾‍♂️',
     svgPath: 'assets/man_biking_color_medium-dark.svg',
+    tts: 'man biking',
+    fromVersion: '4.0',
+    glyphAsUtfInEmoticons: ['bike'],
+    keywords: ['bicycle', 'biking', 'cyclist', 'man'],
+    mappedToEmoticons: ['bike'],
     skinTone: FluentEmojiSkinTone.mediumDark,
   );
 
@@ -5740,6 +7385,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'man biking',
     glyph: '🚴🏿‍♂️',
     svgPath: 'assets/man_biking_color_dark.svg',
+    tts: 'man biking',
+    fromVersion: '4.0',
+    glyphAsUtfInEmoticons: ['bike'],
+    keywords: ['bicycle', 'biking', 'cyclist', 'man'],
+    mappedToEmoticons: ['bike'],
     skinTone: FluentEmojiSkinTone.dark,
   );
 
@@ -5756,6 +7406,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'man bouncing ball',
     glyph: '⛹️‍♂️',
     svgPath: 'assets/man_bouncing_ball_color_default.svg',
+    tts: 'man bouncing ball',
+    fromVersion: '4.0',
+    glyphAsUtfInEmoticons: ['man_bouncing_ball'],
+    keywords: ['ball', 'man', 'man bouncing ball'],
+    mappedToEmoticons: ['man_bouncing_ball'],
     skinToneLight: _manBouncingBallLight,
     skinToneMediumLight: _manBouncingBallMediumLight,
     skinToneMedium: _manBouncingBallMedium,
@@ -5770,6 +7425,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'man bouncing ball',
     glyph: '⛹🏻‍♂️',
     svgPath: 'assets/man_bouncing_ball_color_light.svg',
+    tts: 'man bouncing ball',
+    fromVersion: '4.0',
+    glyphAsUtfInEmoticons: ['man_bouncing_ball'],
+    keywords: ['ball', 'man', 'man bouncing ball'],
+    mappedToEmoticons: ['man_bouncing_ball'],
     skinTone: FluentEmojiSkinTone.light,
   );
 
@@ -5780,6 +7440,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'man bouncing ball',
     glyph: '⛹🏼‍♂️',
     svgPath: 'assets/man_bouncing_ball_color_medium-light.svg',
+    tts: 'man bouncing ball',
+    fromVersion: '4.0',
+    glyphAsUtfInEmoticons: ['man_bouncing_ball'],
+    keywords: ['ball', 'man', 'man bouncing ball'],
+    mappedToEmoticons: ['man_bouncing_ball'],
     skinTone: FluentEmojiSkinTone.mediumLight,
   );
 
@@ -5790,6 +7455,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'man bouncing ball',
     glyph: '⛹🏽‍♂️',
     svgPath: 'assets/man_bouncing_ball_color_medium.svg',
+    tts: 'man bouncing ball',
+    fromVersion: '4.0',
+    glyphAsUtfInEmoticons: ['man_bouncing_ball'],
+    keywords: ['ball', 'man', 'man bouncing ball'],
+    mappedToEmoticons: ['man_bouncing_ball'],
     skinTone: FluentEmojiSkinTone.medium,
   );
 
@@ -5800,6 +7470,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'man bouncing ball',
     glyph: '⛹🏾‍♂️',
     svgPath: 'assets/man_bouncing_ball_color_medium-dark.svg',
+    tts: 'man bouncing ball',
+    fromVersion: '4.0',
+    glyphAsUtfInEmoticons: ['man_bouncing_ball'],
+    keywords: ['ball', 'man', 'man bouncing ball'],
+    mappedToEmoticons: ['man_bouncing_ball'],
     skinTone: FluentEmojiSkinTone.mediumDark,
   );
 
@@ -5810,6 +7485,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'man bouncing ball',
     glyph: '⛹🏿‍♂️',
     svgPath: 'assets/man_bouncing_ball_color_dark.svg',
+    tts: 'man bouncing ball',
+    fromVersion: '4.0',
+    glyphAsUtfInEmoticons: ['man_bouncing_ball'],
+    keywords: ['ball', 'man', 'man bouncing ball'],
+    mappedToEmoticons: ['man_bouncing_ball'],
     skinTone: FluentEmojiSkinTone.dark,
   );
 
@@ -5826,6 +7506,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'man bowing',
     glyph: '🙇‍♂️',
     svgPath: 'assets/man_bowing_color_default.svg',
+    tts: 'man bowing',
+    fromVersion: '4.0',
+    glyphAsUtfInEmoticons: ['bow'],
+    keywords: ['apology', 'bowing', 'favor', 'gesture', 'man', 'sorry'],
+    mappedToEmoticons: ['bow'],
     skinToneLight: _manBowingLight,
     skinToneMediumLight: _manBowingMediumLight,
     skinToneMedium: _manBowingMedium,
@@ -5840,6 +7525,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'man bowing',
     glyph: '🙇🏻‍♂️',
     svgPath: 'assets/man_bowing_color_light.svg',
+    tts: 'man bowing',
+    fromVersion: '4.0',
+    glyphAsUtfInEmoticons: ['bow'],
+    keywords: ['apology', 'bowing', 'favor', 'gesture', 'man', 'sorry'],
+    mappedToEmoticons: ['bow'],
     skinTone: FluentEmojiSkinTone.light,
   );
 
@@ -5850,6 +7540,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'man bowing',
     glyph: '🙇🏼‍♂️',
     svgPath: 'assets/man_bowing_color_medium-light.svg',
+    tts: 'man bowing',
+    fromVersion: '4.0',
+    glyphAsUtfInEmoticons: ['bow'],
+    keywords: ['apology', 'bowing', 'favor', 'gesture', 'man', 'sorry'],
+    mappedToEmoticons: ['bow'],
     skinTone: FluentEmojiSkinTone.mediumLight,
   );
 
@@ -5860,6 +7555,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'man bowing',
     glyph: '🙇🏽‍♂️',
     svgPath: 'assets/man_bowing_color_medium.svg',
+    tts: 'man bowing',
+    fromVersion: '4.0',
+    glyphAsUtfInEmoticons: ['bow'],
+    keywords: ['apology', 'bowing', 'favor', 'gesture', 'man', 'sorry'],
+    mappedToEmoticons: ['bow'],
     skinTone: FluentEmojiSkinTone.medium,
   );
 
@@ -5870,6 +7570,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'man bowing',
     glyph: '🙇🏾‍♂️',
     svgPath: 'assets/man_bowing_color_medium-dark.svg',
+    tts: 'man bowing',
+    fromVersion: '4.0',
+    glyphAsUtfInEmoticons: ['bow'],
+    keywords: ['apology', 'bowing', 'favor', 'gesture', 'man', 'sorry'],
+    mappedToEmoticons: ['bow'],
     skinTone: FluentEmojiSkinTone.mediumDark,
   );
 
@@ -5880,6 +7585,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'man bowing',
     glyph: '🙇🏿‍♂️',
     svgPath: 'assets/man_bowing_color_dark.svg',
+    tts: 'man bowing',
+    fromVersion: '4.0',
+    glyphAsUtfInEmoticons: ['bow'],
+    keywords: ['apology', 'bowing', 'favor', 'gesture', 'man', 'sorry'],
+    mappedToEmoticons: ['bow'],
     skinTone: FluentEmojiSkinTone.dark,
   );
 
@@ -5896,6 +7606,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'man cartwheeling',
     glyph: '🤸‍♂️',
     svgPath: 'assets/man_cartwheeling_color_default.svg',
+    tts: 'man cartwheeling',
+    fromVersion: '4.0',
+    glyphAsUtfInEmoticons: ['man_cartwheeling'],
+    keywords: ['cartwheel', 'gymnastics', 'man', 'man cartwheeling'],
+    mappedToEmoticons: ['man_cartwheeling'],
     skinToneLight: _manCartwheelingLight,
     skinToneMediumLight: _manCartwheelingMediumLight,
     skinToneMedium: _manCartwheelingMedium,
@@ -5910,6 +7625,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'man cartwheeling',
     glyph: '🤸🏻‍♂️',
     svgPath: 'assets/man_cartwheeling_color_light.svg',
+    tts: 'man cartwheeling',
+    fromVersion: '4.0',
+    glyphAsUtfInEmoticons: ['man_cartwheeling'],
+    keywords: ['cartwheel', 'gymnastics', 'man', 'man cartwheeling'],
+    mappedToEmoticons: ['man_cartwheeling'],
     skinTone: FluentEmojiSkinTone.light,
   );
 
@@ -5920,6 +7640,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'man cartwheeling',
     glyph: '🤸🏼‍♂️',
     svgPath: 'assets/man_cartwheeling_color_medium-light.svg',
+    tts: 'man cartwheeling',
+    fromVersion: '4.0',
+    glyphAsUtfInEmoticons: ['man_cartwheeling'],
+    keywords: ['cartwheel', 'gymnastics', 'man', 'man cartwheeling'],
+    mappedToEmoticons: ['man_cartwheeling'],
     skinTone: FluentEmojiSkinTone.mediumLight,
   );
 
@@ -5930,6 +7655,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'man cartwheeling',
     glyph: '🤸🏽‍♂️',
     svgPath: 'assets/man_cartwheeling_color_medium.svg',
+    tts: 'man cartwheeling',
+    fromVersion: '4.0',
+    glyphAsUtfInEmoticons: ['man_cartwheeling'],
+    keywords: ['cartwheel', 'gymnastics', 'man', 'man cartwheeling'],
+    mappedToEmoticons: ['man_cartwheeling'],
     skinTone: FluentEmojiSkinTone.medium,
   );
 
@@ -5940,6 +7670,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'man cartwheeling',
     glyph: '🤸🏾‍♂️',
     svgPath: 'assets/man_cartwheeling_color_medium-dark.svg',
+    tts: 'man cartwheeling',
+    fromVersion: '4.0',
+    glyphAsUtfInEmoticons: ['man_cartwheeling'],
+    keywords: ['cartwheel', 'gymnastics', 'man', 'man cartwheeling'],
+    mappedToEmoticons: ['man_cartwheeling'],
     skinTone: FluentEmojiSkinTone.mediumDark,
   );
 
@@ -5950,6 +7685,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'man cartwheeling',
     glyph: '🤸🏿‍♂️',
     svgPath: 'assets/man_cartwheeling_color_dark.svg',
+    tts: 'man cartwheeling',
+    fromVersion: '4.0',
+    glyphAsUtfInEmoticons: ['man_cartwheeling'],
+    keywords: ['cartwheel', 'gymnastics', 'man', 'man cartwheeling'],
+    mappedToEmoticons: ['man_cartwheeling'],
     skinTone: FluentEmojiSkinTone.dark,
   );
 
@@ -5966,6 +7706,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'man climbing',
     glyph: '🧗‍♂️',
     svgPath: 'assets/man_climbing_color_default.svg',
+    tts: 'man climbing',
+    fromVersion: '5.0',
+    glyphAsUtfInEmoticons: ['man_climbing'],
+    keywords: ['climber', 'man climbing'],
+    mappedToEmoticons: ['man_climbing'],
     skinToneLight: _manClimbingLight,
     skinToneMediumLight: _manClimbingMediumLight,
     skinToneMedium: _manClimbingMedium,
@@ -5980,6 +7725,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'man climbing',
     glyph: '🧗🏻‍♂️',
     svgPath: 'assets/man_climbing_color_light.svg',
+    tts: 'man climbing',
+    fromVersion: '5.0',
+    glyphAsUtfInEmoticons: ['man_climbing'],
+    keywords: ['climber', 'man climbing'],
+    mappedToEmoticons: ['man_climbing'],
     skinTone: FluentEmojiSkinTone.light,
   );
 
@@ -5990,6 +7740,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'man climbing',
     glyph: '🧗🏼‍♂️',
     svgPath: 'assets/man_climbing_color_medium-light.svg',
+    tts: 'man climbing',
+    fromVersion: '5.0',
+    glyphAsUtfInEmoticons: ['man_climbing'],
+    keywords: ['climber', 'man climbing'],
+    mappedToEmoticons: ['man_climbing'],
     skinTone: FluentEmojiSkinTone.mediumLight,
   );
 
@@ -6000,6 +7755,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'man climbing',
     glyph: '🧗🏽‍♂️',
     svgPath: 'assets/man_climbing_color_medium.svg',
+    tts: 'man climbing',
+    fromVersion: '5.0',
+    glyphAsUtfInEmoticons: ['man_climbing'],
+    keywords: ['climber', 'man climbing'],
+    mappedToEmoticons: ['man_climbing'],
     skinTone: FluentEmojiSkinTone.medium,
   );
 
@@ -6010,6 +7770,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'man climbing',
     glyph: '🧗🏾‍♂️',
     svgPath: 'assets/man_climbing_color_medium-dark.svg',
+    tts: 'man climbing',
+    fromVersion: '5.0',
+    glyphAsUtfInEmoticons: ['man_climbing'],
+    keywords: ['climber', 'man climbing'],
+    mappedToEmoticons: ['man_climbing'],
     skinTone: FluentEmojiSkinTone.mediumDark,
   );
 
@@ -6020,6 +7785,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'man climbing',
     glyph: '🧗🏿‍♂️',
     svgPath: 'assets/man_climbing_color_dark.svg',
+    tts: 'man climbing',
+    fromVersion: '5.0',
+    glyphAsUtfInEmoticons: ['man_climbing'],
+    keywords: ['climber', 'man climbing'],
+    mappedToEmoticons: ['man_climbing'],
     skinTone: FluentEmojiSkinTone.dark,
   );
 
@@ -6036,6 +7806,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'man construction worker',
     glyph: '👷‍♂️',
     svgPath: 'assets/man_construction_worker_color_default.svg',
+    tts: 'man construction worker',
+    fromVersion: '4.0',
+    glyphAsUtfInEmoticons: ['man_construction_worker'],
+    keywords: ['construction', 'man', 'worker'],
+    mappedToEmoticons: ['man_construction_worker'],
     skinToneLight: _manConstructionWorkerLight,
     skinToneMediumLight: _manConstructionWorkerMediumLight,
     skinToneMedium: _manConstructionWorkerMedium,
@@ -6050,6 +7825,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'man construction worker',
     glyph: '👷🏻‍♂️',
     svgPath: 'assets/man_construction_worker_color_light.svg',
+    tts: 'man construction worker',
+    fromVersion: '4.0',
+    glyphAsUtfInEmoticons: ['man_construction_worker'],
+    keywords: ['construction', 'man', 'worker'],
+    mappedToEmoticons: ['man_construction_worker'],
     skinTone: FluentEmojiSkinTone.light,
   );
 
@@ -6060,6 +7840,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'man construction worker',
     glyph: '👷🏼‍♂️',
     svgPath: 'assets/man_construction_worker_color_medium-light.svg',
+    tts: 'man construction worker',
+    fromVersion: '4.0',
+    glyphAsUtfInEmoticons: ['man_construction_worker'],
+    keywords: ['construction', 'man', 'worker'],
+    mappedToEmoticons: ['man_construction_worker'],
     skinTone: FluentEmojiSkinTone.mediumLight,
   );
 
@@ -6070,6 +7855,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'man construction worker',
     glyph: '👷🏽‍♂️',
     svgPath: 'assets/man_construction_worker_color_medium.svg',
+    tts: 'man construction worker',
+    fromVersion: '4.0',
+    glyphAsUtfInEmoticons: ['man_construction_worker'],
+    keywords: ['construction', 'man', 'worker'],
+    mappedToEmoticons: ['man_construction_worker'],
     skinTone: FluentEmojiSkinTone.medium,
   );
 
@@ -6080,6 +7870,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'man construction worker',
     glyph: '👷🏾‍♂️',
     svgPath: 'assets/man_construction_worker_color_medium-dark.svg',
+    tts: 'man construction worker',
+    fromVersion: '4.0',
+    glyphAsUtfInEmoticons: ['man_construction_worker'],
+    keywords: ['construction', 'man', 'worker'],
+    mappedToEmoticons: ['man_construction_worker'],
     skinTone: FluentEmojiSkinTone.mediumDark,
   );
 
@@ -6090,6 +7885,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'man construction worker',
     glyph: '👷🏿‍♂️',
     svgPath: 'assets/man_construction_worker_color_dark.svg',
+    tts: 'man construction worker',
+    fromVersion: '4.0',
+    glyphAsUtfInEmoticons: ['man_construction_worker'],
+    keywords: ['construction', 'man', 'worker'],
+    mappedToEmoticons: ['man_construction_worker'],
     skinTone: FluentEmojiSkinTone.dark,
   );
 
@@ -6106,6 +7906,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'man cook',
     glyph: '👨‍🍳',
     svgPath: 'assets/man_cook_color_default.svg',
+    tts: 'man cook',
+    fromVersion: '4.0',
+    glyphAsUtfInEmoticons: ['manchef'],
+    keywords: ['chef', 'cook', 'man'],
+    mappedToEmoticons: ['manchef'],
     skinToneLight: _manCookLight,
     skinToneMediumLight: _manCookMediumLight,
     skinToneMedium: _manCookMedium,
@@ -6120,6 +7925,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'man cook',
     glyph: '👨🏻‍🍳',
     svgPath: 'assets/man_cook_color_light.svg',
+    tts: 'man cook',
+    fromVersion: '4.0',
+    glyphAsUtfInEmoticons: ['manchef'],
+    keywords: ['chef', 'cook', 'man'],
+    mappedToEmoticons: ['manchef'],
     skinTone: FluentEmojiSkinTone.light,
   );
 
@@ -6130,6 +7940,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'man cook',
     glyph: '👨🏼‍🍳',
     svgPath: 'assets/man_cook_color_medium-light.svg',
+    tts: 'man cook',
+    fromVersion: '4.0',
+    glyphAsUtfInEmoticons: ['manchef'],
+    keywords: ['chef', 'cook', 'man'],
+    mappedToEmoticons: ['manchef'],
     skinTone: FluentEmojiSkinTone.mediumLight,
   );
 
@@ -6140,6 +7955,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'man cook',
     glyph: '👨🏽‍🍳',
     svgPath: 'assets/man_cook_color_medium.svg',
+    tts: 'man cook',
+    fromVersion: '4.0',
+    glyphAsUtfInEmoticons: ['manchef'],
+    keywords: ['chef', 'cook', 'man'],
+    mappedToEmoticons: ['manchef'],
     skinTone: FluentEmojiSkinTone.medium,
   );
 
@@ -6150,6 +7970,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'man cook',
     glyph: '👨🏾‍🍳',
     svgPath: 'assets/man_cook_color_medium-dark.svg',
+    tts: 'man cook',
+    fromVersion: '4.0',
+    glyphAsUtfInEmoticons: ['manchef'],
+    keywords: ['chef', 'cook', 'man'],
+    mappedToEmoticons: ['manchef'],
     skinTone: FluentEmojiSkinTone.mediumDark,
   );
 
@@ -6160,6 +7985,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'man cook',
     glyph: '👨🏿‍🍳',
     svgPath: 'assets/man_cook_color_dark.svg',
+    tts: 'man cook',
+    fromVersion: '4.0',
+    glyphAsUtfInEmoticons: ['manchef'],
+    keywords: ['chef', 'cook', 'man'],
+    mappedToEmoticons: ['manchef'],
     skinTone: FluentEmojiSkinTone.dark,
   );
 
@@ -6176,6 +8006,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'man dancing',
     glyph: '🕺',
     svgPath: 'assets/man_dancing_color_default.svg',
+    tts: 'man dancing',
+    fromVersion: '3.0',
+    glyphAsUtfInEmoticons: ['dance'],
+    keywords: ['dance', 'dancing', 'man'],
+    mappedToEmoticons: ['dance'],
     skinToneLight: _manDancingLight,
     skinToneMediumLight: _manDancingMediumLight,
     skinToneMedium: _manDancingMedium,
@@ -6190,6 +8025,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'man dancing',
     glyph: '🕺🏻',
     svgPath: 'assets/man_dancing_color_light.svg',
+    tts: 'man dancing',
+    fromVersion: '3.0',
+    glyphAsUtfInEmoticons: ['dance'],
+    keywords: ['dance', 'dancing', 'man'],
+    mappedToEmoticons: ['dance'],
     skinTone: FluentEmojiSkinTone.light,
   );
 
@@ -6200,6 +8040,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'man dancing',
     glyph: '🕺🏼',
     svgPath: 'assets/man_dancing_color_medium-light.svg',
+    tts: 'man dancing',
+    fromVersion: '3.0',
+    glyphAsUtfInEmoticons: ['dance'],
+    keywords: ['dance', 'dancing', 'man'],
+    mappedToEmoticons: ['dance'],
     skinTone: FluentEmojiSkinTone.mediumLight,
   );
 
@@ -6210,6 +8055,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'man dancing',
     glyph: '🕺🏽',
     svgPath: 'assets/man_dancing_color_medium.svg',
+    tts: 'man dancing',
+    fromVersion: '3.0',
+    glyphAsUtfInEmoticons: ['dance'],
+    keywords: ['dance', 'dancing', 'man'],
+    mappedToEmoticons: ['dance'],
     skinTone: FluentEmojiSkinTone.medium,
   );
 
@@ -6220,6 +8070,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'man dancing',
     glyph: '🕺🏾',
     svgPath: 'assets/man_dancing_color_medium-dark.svg',
+    tts: 'man dancing',
+    fromVersion: '3.0',
+    glyphAsUtfInEmoticons: ['dance'],
+    keywords: ['dance', 'dancing', 'man'],
+    mappedToEmoticons: ['dance'],
     skinTone: FluentEmojiSkinTone.mediumDark,
   );
 
@@ -6230,6 +8085,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'man dancing',
     glyph: '🕺🏿',
     svgPath: 'assets/man_dancing_color_dark.svg',
+    tts: 'man dancing',
+    fromVersion: '3.0',
+    glyphAsUtfInEmoticons: ['dance'],
+    keywords: ['dance', 'dancing', 'man'],
+    mappedToEmoticons: ['dance'],
     skinTone: FluentEmojiSkinTone.dark,
   );
 
@@ -6246,6 +8106,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'man detective',
     glyph: '🕵️‍♂️',
     svgPath: 'assets/man_detective_color_default.svg',
+    tts: 'man detective',
+    fromVersion: '4.0',
+    glyphAsUtfInEmoticons: ['man_detective'],
+    keywords: ['detective', 'man', 'sleuth', 'spy'],
+    mappedToEmoticons: ['man_detective'],
     skinToneLight: _manDetectiveLight,
     skinToneMediumLight: _manDetectiveMediumLight,
     skinToneMedium: _manDetectiveMedium,
@@ -6260,6 +8125,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'man detective',
     glyph: '🕵🏻‍♂️',
     svgPath: 'assets/man_detective_color_light.svg',
+    tts: 'man detective',
+    fromVersion: '4.0',
+    glyphAsUtfInEmoticons: ['man_detective'],
+    keywords: ['detective', 'man', 'sleuth', 'spy'],
+    mappedToEmoticons: ['man_detective'],
     skinTone: FluentEmojiSkinTone.light,
   );
 
@@ -6270,6 +8140,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'man detective',
     glyph: '🕵🏼‍♂️',
     svgPath: 'assets/man_detective_color_medium-light.svg',
+    tts: 'man detective',
+    fromVersion: '4.0',
+    glyphAsUtfInEmoticons: ['man_detective'],
+    keywords: ['detective', 'man', 'sleuth', 'spy'],
+    mappedToEmoticons: ['man_detective'],
     skinTone: FluentEmojiSkinTone.mediumLight,
   );
 
@@ -6280,6 +8155,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'man detective',
     glyph: '🕵🏽‍♂️',
     svgPath: 'assets/man_detective_color_medium.svg',
+    tts: 'man detective',
+    fromVersion: '4.0',
+    glyphAsUtfInEmoticons: ['man_detective'],
+    keywords: ['detective', 'man', 'sleuth', 'spy'],
+    mappedToEmoticons: ['man_detective'],
     skinTone: FluentEmojiSkinTone.medium,
   );
 
@@ -6290,6 +8170,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'man detective',
     glyph: '🕵🏾‍♂️',
     svgPath: 'assets/man_detective_color_medium-dark.svg',
+    tts: 'man detective',
+    fromVersion: '4.0',
+    glyphAsUtfInEmoticons: ['man_detective'],
+    keywords: ['detective', 'man', 'sleuth', 'spy'],
+    mappedToEmoticons: ['man_detective'],
     skinTone: FluentEmojiSkinTone.mediumDark,
   );
 
@@ -6300,6 +8185,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'man detective',
     glyph: '🕵🏿‍♂️',
     svgPath: 'assets/man_detective_color_dark.svg',
+    tts: 'man detective',
+    fromVersion: '4.0',
+    glyphAsUtfInEmoticons: ['man_detective'],
+    keywords: ['detective', 'man', 'sleuth', 'spy'],
+    mappedToEmoticons: ['man_detective'],
     skinTone: FluentEmojiSkinTone.dark,
   );
 
@@ -6316,6 +8206,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'man elf',
     glyph: '🧝‍♂️',
     svgPath: 'assets/man_elf_color_default.svg',
+    tts: 'man elf',
+    fromVersion: '5.0',
+    glyphAsUtfInEmoticons: null,
+    keywords: ['magical', 'man elf'],
+    mappedToEmoticons: ['manelf'],
     skinToneLight: _manElfLight,
     skinToneMediumLight: _manElfMediumLight,
     skinToneMedium: _manElfMedium,
@@ -6330,6 +8225,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'man elf',
     glyph: '🧝🏻‍♂️',
     svgPath: 'assets/man_elf_color_light.svg',
+    tts: 'man elf',
+    fromVersion: '5.0',
+    glyphAsUtfInEmoticons: null,
+    keywords: ['magical', 'man elf'],
+    mappedToEmoticons: ['manelf'],
     skinTone: FluentEmojiSkinTone.light,
   );
 
@@ -6340,6 +8240,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'man elf',
     glyph: '🧝🏼‍♂️',
     svgPath: 'assets/man_elf_color_medium-light.svg',
+    tts: 'man elf',
+    fromVersion: '5.0',
+    glyphAsUtfInEmoticons: null,
+    keywords: ['magical', 'man elf'],
+    mappedToEmoticons: ['manelf'],
     skinTone: FluentEmojiSkinTone.mediumLight,
   );
 
@@ -6350,6 +8255,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'man elf',
     glyph: '🧝🏽‍♂️',
     svgPath: 'assets/man_elf_color_medium.svg',
+    tts: 'man elf',
+    fromVersion: '5.0',
+    glyphAsUtfInEmoticons: null,
+    keywords: ['magical', 'man elf'],
+    mappedToEmoticons: ['manelf'],
     skinTone: FluentEmojiSkinTone.medium,
   );
 
@@ -6360,6 +8270,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'man elf',
     glyph: '🧝🏾‍♂️',
     svgPath: 'assets/man_elf_color_medium-dark.svg',
+    tts: 'man elf',
+    fromVersion: '5.0',
+    glyphAsUtfInEmoticons: null,
+    keywords: ['magical', 'man elf'],
+    mappedToEmoticons: ['manelf'],
     skinTone: FluentEmojiSkinTone.mediumDark,
   );
 
@@ -6370,6 +8285,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'man elf',
     glyph: '🧝🏿‍♂️',
     svgPath: 'assets/man_elf_color_dark.svg',
+    tts: 'man elf',
+    fromVersion: '5.0',
+    glyphAsUtfInEmoticons: null,
+    keywords: ['magical', 'man elf'],
+    mappedToEmoticons: ['manelf'],
     skinTone: FluentEmojiSkinTone.dark,
   );
 
@@ -6386,6 +8306,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'man facepalming',
     glyph: '🤦‍♂️',
     svgPath: 'assets/man_facepalming_color_default.svg',
+    tts: 'man facepalming',
+    fromVersion: '4.0',
+    glyphAsUtfInEmoticons: ['manfacepalming'],
+    keywords: ['disbelief', 'exasperation', 'facepalm', 'man', 'man facepalming'],
+    mappedToEmoticons: ['manfacepalming'],
     skinToneLight: _manFacepalmingLight,
     skinToneMediumLight: _manFacepalmingMediumLight,
     skinToneMedium: _manFacepalmingMedium,
@@ -6400,6 +8325,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'man facepalming',
     glyph: '🤦🏻‍♂️',
     svgPath: 'assets/man_facepalming_color_light.svg',
+    tts: 'man facepalming',
+    fromVersion: '4.0',
+    glyphAsUtfInEmoticons: ['manfacepalming'],
+    keywords: ['disbelief', 'exasperation', 'facepalm', 'man', 'man facepalming'],
+    mappedToEmoticons: ['manfacepalming'],
     skinTone: FluentEmojiSkinTone.light,
   );
 
@@ -6410,6 +8340,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'man facepalming',
     glyph: '🤦🏼‍♂️',
     svgPath: 'assets/man_facepalming_color_medium-light.svg',
+    tts: 'man facepalming',
+    fromVersion: '4.0',
+    glyphAsUtfInEmoticons: ['manfacepalming'],
+    keywords: ['disbelief', 'exasperation', 'facepalm', 'man', 'man facepalming'],
+    mappedToEmoticons: ['manfacepalming'],
     skinTone: FluentEmojiSkinTone.mediumLight,
   );
 
@@ -6420,6 +8355,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'man facepalming',
     glyph: '🤦🏽‍♂️',
     svgPath: 'assets/man_facepalming_color_medium.svg',
+    tts: 'man facepalming',
+    fromVersion: '4.0',
+    glyphAsUtfInEmoticons: ['manfacepalming'],
+    keywords: ['disbelief', 'exasperation', 'facepalm', 'man', 'man facepalming'],
+    mappedToEmoticons: ['manfacepalming'],
     skinTone: FluentEmojiSkinTone.medium,
   );
 
@@ -6430,6 +8370,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'man facepalming',
     glyph: '🤦🏾‍♂️',
     svgPath: 'assets/man_facepalming_color_medium-dark.svg',
+    tts: 'man facepalming',
+    fromVersion: '4.0',
+    glyphAsUtfInEmoticons: ['manfacepalming'],
+    keywords: ['disbelief', 'exasperation', 'facepalm', 'man', 'man facepalming'],
+    mappedToEmoticons: ['manfacepalming'],
     skinTone: FluentEmojiSkinTone.mediumDark,
   );
 
@@ -6440,6 +8385,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'man facepalming',
     glyph: '🤦🏿‍♂️',
     svgPath: 'assets/man_facepalming_color_dark.svg',
+    tts: 'man facepalming',
+    fromVersion: '4.0',
+    glyphAsUtfInEmoticons: ['manfacepalming'],
+    keywords: ['disbelief', 'exasperation', 'facepalm', 'man', 'man facepalming'],
+    mappedToEmoticons: ['manfacepalming'],
     skinTone: FluentEmojiSkinTone.dark,
   );
 
@@ -6456,6 +8406,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'man factory worker',
     glyph: '👨‍🏭',
     svgPath: 'assets/man_factory_worker_color_default.svg',
+    tts: 'man factory worker',
+    fromVersion: '4.0',
+    glyphAsUtfInEmoticons: ['manwelder'],
+    keywords: ['assembly', 'factory', 'industrial', 'man', 'worker'],
+    mappedToEmoticons: ['manwelder'],
     skinToneLight: _manFactoryWorkerLight,
     skinToneMediumLight: _manFactoryWorkerMediumLight,
     skinToneMedium: _manFactoryWorkerMedium,
@@ -6470,6 +8425,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'man factory worker',
     glyph: '👨🏻‍🏭',
     svgPath: 'assets/man_factory_worker_color_light.svg',
+    tts: 'man factory worker',
+    fromVersion: '4.0',
+    glyphAsUtfInEmoticons: ['manwelder'],
+    keywords: ['assembly', 'factory', 'industrial', 'man', 'worker'],
+    mappedToEmoticons: ['manwelder'],
     skinTone: FluentEmojiSkinTone.light,
   );
 
@@ -6480,6 +8440,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'man factory worker',
     glyph: '👨🏼‍🏭',
     svgPath: 'assets/man_factory_worker_color_medium-light.svg',
+    tts: 'man factory worker',
+    fromVersion: '4.0',
+    glyphAsUtfInEmoticons: ['manwelder'],
+    keywords: ['assembly', 'factory', 'industrial', 'man', 'worker'],
+    mappedToEmoticons: ['manwelder'],
     skinTone: FluentEmojiSkinTone.mediumLight,
   );
 
@@ -6490,6 +8455,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'man factory worker',
     glyph: '👨🏽‍🏭',
     svgPath: 'assets/man_factory_worker_color_medium.svg',
+    tts: 'man factory worker',
+    fromVersion: '4.0',
+    glyphAsUtfInEmoticons: ['manwelder'],
+    keywords: ['assembly', 'factory', 'industrial', 'man', 'worker'],
+    mappedToEmoticons: ['manwelder'],
     skinTone: FluentEmojiSkinTone.medium,
   );
 
@@ -6500,6 +8470,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'man factory worker',
     glyph: '👨🏾‍🏭',
     svgPath: 'assets/man_factory_worker_color_medium-dark.svg',
+    tts: 'man factory worker',
+    fromVersion: '4.0',
+    glyphAsUtfInEmoticons: ['manwelder'],
+    keywords: ['assembly', 'factory', 'industrial', 'man', 'worker'],
+    mappedToEmoticons: ['manwelder'],
     skinTone: FluentEmojiSkinTone.mediumDark,
   );
 
@@ -6510,6 +8485,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'man factory worker',
     glyph: '👨🏿‍🏭',
     svgPath: 'assets/man_factory_worker_color_dark.svg',
+    tts: 'man factory worker',
+    fromVersion: '4.0',
+    glyphAsUtfInEmoticons: ['manwelder'],
+    keywords: ['assembly', 'factory', 'industrial', 'man', 'worker'],
+    mappedToEmoticons: ['manwelder'],
     skinTone: FluentEmojiSkinTone.dark,
   );
 
@@ -6526,6 +8506,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'man fairy',
     glyph: '🧚‍♂️',
     svgPath: 'assets/man_fairy_color_default.svg',
+    tts: 'man fairy',
+    fromVersion: '5.0',
+    glyphAsUtfInEmoticons: ['man_fairy'],
+    keywords: ['man fairy', 'Oberon', 'Puck'],
+    mappedToEmoticons: ['man_fairy'],
     skinToneLight: _manFairyLight,
     skinToneMediumLight: _manFairyMediumLight,
     skinToneMedium: _manFairyMedium,
@@ -6540,6 +8525,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'man fairy',
     glyph: '🧚🏻‍♂️',
     svgPath: 'assets/man_fairy_color_light.svg',
+    tts: 'man fairy',
+    fromVersion: '5.0',
+    glyphAsUtfInEmoticons: ['man_fairy'],
+    keywords: ['man fairy', 'Oberon', 'Puck'],
+    mappedToEmoticons: ['man_fairy'],
     skinTone: FluentEmojiSkinTone.light,
   );
 
@@ -6550,6 +8540,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'man fairy',
     glyph: '🧚🏼‍♂️',
     svgPath: 'assets/man_fairy_color_medium-light.svg',
+    tts: 'man fairy',
+    fromVersion: '5.0',
+    glyphAsUtfInEmoticons: ['man_fairy'],
+    keywords: ['man fairy', 'Oberon', 'Puck'],
+    mappedToEmoticons: ['man_fairy'],
     skinTone: FluentEmojiSkinTone.mediumLight,
   );
 
@@ -6560,6 +8555,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'man fairy',
     glyph: '🧚🏽‍♂️',
     svgPath: 'assets/man_fairy_color_medium.svg',
+    tts: 'man fairy',
+    fromVersion: '5.0',
+    glyphAsUtfInEmoticons: ['man_fairy'],
+    keywords: ['man fairy', 'Oberon', 'Puck'],
+    mappedToEmoticons: ['man_fairy'],
     skinTone: FluentEmojiSkinTone.medium,
   );
 
@@ -6570,6 +8570,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'man fairy',
     glyph: '🧚🏾‍♂️',
     svgPath: 'assets/man_fairy_color_medium-dark.svg',
+    tts: 'man fairy',
+    fromVersion: '5.0',
+    glyphAsUtfInEmoticons: ['man_fairy'],
+    keywords: ['man fairy', 'Oberon', 'Puck'],
+    mappedToEmoticons: ['man_fairy'],
     skinTone: FluentEmojiSkinTone.mediumDark,
   );
 
@@ -6580,6 +8585,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'man fairy',
     glyph: '🧚🏿‍♂️',
     svgPath: 'assets/man_fairy_color_dark.svg',
+    tts: 'man fairy',
+    fromVersion: '5.0',
+    glyphAsUtfInEmoticons: ['man_fairy'],
+    keywords: ['man fairy', 'Oberon', 'Puck'],
+    mappedToEmoticons: ['man_fairy'],
     skinTone: FluentEmojiSkinTone.dark,
   );
 
@@ -6596,6 +8606,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'man farmer',
     glyph: '👨‍🌾',
     svgPath: 'assets/man_farmer_color_default.svg',
+    tts: 'man farmer',
+    fromVersion: '4.0',
+    glyphAsUtfInEmoticons: ['manfarmer'],
+    keywords: ['farmer', 'gardener', 'man', 'rancher'],
+    mappedToEmoticons: ['manfarmer'],
     skinToneLight: _manFarmerLight,
     skinToneMediumLight: _manFarmerMediumLight,
     skinToneMedium: _manFarmerMedium,
@@ -6610,6 +8625,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'man farmer',
     glyph: '👨🏻‍🌾',
     svgPath: 'assets/man_farmer_color_light.svg',
+    tts: 'man farmer',
+    fromVersion: '4.0',
+    glyphAsUtfInEmoticons: ['manfarmer'],
+    keywords: ['farmer', 'gardener', 'man', 'rancher'],
+    mappedToEmoticons: ['manfarmer'],
     skinTone: FluentEmojiSkinTone.light,
   );
 
@@ -6620,6 +8640,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'man farmer',
     glyph: '👨🏼‍🌾',
     svgPath: 'assets/man_farmer_color_medium-light.svg',
+    tts: 'man farmer',
+    fromVersion: '4.0',
+    glyphAsUtfInEmoticons: ['manfarmer'],
+    keywords: ['farmer', 'gardener', 'man', 'rancher'],
+    mappedToEmoticons: ['manfarmer'],
     skinTone: FluentEmojiSkinTone.mediumLight,
   );
 
@@ -6630,6 +8655,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'man farmer',
     glyph: '👨🏽‍🌾',
     svgPath: 'assets/man_farmer_color_medium.svg',
+    tts: 'man farmer',
+    fromVersion: '4.0',
+    glyphAsUtfInEmoticons: ['manfarmer'],
+    keywords: ['farmer', 'gardener', 'man', 'rancher'],
+    mappedToEmoticons: ['manfarmer'],
     skinTone: FluentEmojiSkinTone.medium,
   );
 
@@ -6640,6 +8670,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'man farmer',
     glyph: '👨🏾‍🌾',
     svgPath: 'assets/man_farmer_color_medium-dark.svg',
+    tts: 'man farmer',
+    fromVersion: '4.0',
+    glyphAsUtfInEmoticons: ['manfarmer'],
+    keywords: ['farmer', 'gardener', 'man', 'rancher'],
+    mappedToEmoticons: ['manfarmer'],
     skinTone: FluentEmojiSkinTone.mediumDark,
   );
 
@@ -6650,6 +8685,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'man farmer',
     glyph: '👨🏿‍🌾',
     svgPath: 'assets/man_farmer_color_dark.svg',
+    tts: 'man farmer',
+    fromVersion: '4.0',
+    glyphAsUtfInEmoticons: ['manfarmer'],
+    keywords: ['farmer', 'gardener', 'man', 'rancher'],
+    mappedToEmoticons: ['manfarmer'],
     skinTone: FluentEmojiSkinTone.dark,
   );
 
@@ -6666,6 +8706,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'man feeding baby',
     glyph: '👨‍🍼',
     svgPath: 'assets/man_feeding_baby_color_default.svg',
+    tts: 'man feeding baby',
+    fromVersion: '13.0',
+    glyphAsUtfInEmoticons: null,
+    keywords: ['baby', 'feeding', 'man', 'nursing'],
+    mappedToEmoticons: ['manbottlefeeding'],
     skinToneLight: _manFeedingBabyLight,
     skinToneMediumLight: _manFeedingBabyMediumLight,
     skinToneMedium: _manFeedingBabyMedium,
@@ -6680,6 +8725,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'man feeding baby',
     glyph: '👨🏻‍🍼',
     svgPath: 'assets/man_feeding_baby_color_light.svg',
+    tts: 'man feeding baby',
+    fromVersion: '13.0',
+    glyphAsUtfInEmoticons: null,
+    keywords: ['baby', 'feeding', 'man', 'nursing'],
+    mappedToEmoticons: ['manbottlefeeding'],
     skinTone: FluentEmojiSkinTone.light,
   );
 
@@ -6690,6 +8740,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'man feeding baby',
     glyph: '👨🏼‍🍼',
     svgPath: 'assets/man_feeding_baby_color_medium-light.svg',
+    tts: 'man feeding baby',
+    fromVersion: '13.0',
+    glyphAsUtfInEmoticons: null,
+    keywords: ['baby', 'feeding', 'man', 'nursing'],
+    mappedToEmoticons: ['manbottlefeeding'],
     skinTone: FluentEmojiSkinTone.mediumLight,
   );
 
@@ -6700,6 +8755,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'man feeding baby',
     glyph: '👨🏽‍🍼',
     svgPath: 'assets/man_feeding_baby_color_medium.svg',
+    tts: 'man feeding baby',
+    fromVersion: '13.0',
+    glyphAsUtfInEmoticons: null,
+    keywords: ['baby', 'feeding', 'man', 'nursing'],
+    mappedToEmoticons: ['manbottlefeeding'],
     skinTone: FluentEmojiSkinTone.medium,
   );
 
@@ -6710,6 +8770,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'man feeding baby',
     glyph: '👨🏾‍🍼',
     svgPath: 'assets/man_feeding_baby_color_medium-dark.svg',
+    tts: 'man feeding baby',
+    fromVersion: '13.0',
+    glyphAsUtfInEmoticons: null,
+    keywords: ['baby', 'feeding', 'man', 'nursing'],
+    mappedToEmoticons: ['manbottlefeeding'],
     skinTone: FluentEmojiSkinTone.mediumDark,
   );
 
@@ -6720,6 +8785,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'man feeding baby',
     glyph: '👨🏿‍🍼',
     svgPath: 'assets/man_feeding_baby_color_dark.svg',
+    tts: 'man feeding baby',
+    fromVersion: '13.0',
+    glyphAsUtfInEmoticons: null,
+    keywords: ['baby', 'feeding', 'man', 'nursing'],
+    mappedToEmoticons: ['manbottlefeeding'],
     skinTone: FluentEmojiSkinTone.dark,
   );
 
@@ -6736,6 +8806,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'man firefighter',
     glyph: '👨‍🚒',
     svgPath: 'assets/man_firefighter_color_default.svg',
+    tts: 'man firefighter',
+    fromVersion: '4.0',
+    glyphAsUtfInEmoticons: ['manfirefighter'],
+    keywords: ['firefighter', 'firetruck', 'man'],
+    mappedToEmoticons: ['manfirefighter'],
     skinToneLight: _manFirefighterLight,
     skinToneMediumLight: _manFirefighterMediumLight,
     skinToneMedium: _manFirefighterMedium,
@@ -6750,6 +8825,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'man firefighter',
     glyph: '👨🏻‍🚒',
     svgPath: 'assets/man_firefighter_color_light.svg',
+    tts: 'man firefighter',
+    fromVersion: '4.0',
+    glyphAsUtfInEmoticons: ['manfirefighter'],
+    keywords: ['firefighter', 'firetruck', 'man'],
+    mappedToEmoticons: ['manfirefighter'],
     skinTone: FluentEmojiSkinTone.light,
   );
 
@@ -6760,6 +8840,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'man firefighter',
     glyph: '👨🏼‍🚒',
     svgPath: 'assets/man_firefighter_color_medium-light.svg',
+    tts: 'man firefighter',
+    fromVersion: '4.0',
+    glyphAsUtfInEmoticons: ['manfirefighter'],
+    keywords: ['firefighter', 'firetruck', 'man'],
+    mappedToEmoticons: ['manfirefighter'],
     skinTone: FluentEmojiSkinTone.mediumLight,
   );
 
@@ -6770,6 +8855,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'man firefighter',
     glyph: '👨🏽‍🚒',
     svgPath: 'assets/man_firefighter_color_medium.svg',
+    tts: 'man firefighter',
+    fromVersion: '4.0',
+    glyphAsUtfInEmoticons: ['manfirefighter'],
+    keywords: ['firefighter', 'firetruck', 'man'],
+    mappedToEmoticons: ['manfirefighter'],
     skinTone: FluentEmojiSkinTone.medium,
   );
 
@@ -6780,6 +8870,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'man firefighter',
     glyph: '👨🏾‍🚒',
     svgPath: 'assets/man_firefighter_color_medium-dark.svg',
+    tts: 'man firefighter',
+    fromVersion: '4.0',
+    glyphAsUtfInEmoticons: ['manfirefighter'],
+    keywords: ['firefighter', 'firetruck', 'man'],
+    mappedToEmoticons: ['manfirefighter'],
     skinTone: FluentEmojiSkinTone.mediumDark,
   );
 
@@ -6790,6 +8885,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'man firefighter',
     glyph: '👨🏿‍🚒',
     svgPath: 'assets/man_firefighter_color_dark.svg',
+    tts: 'man firefighter',
+    fromVersion: '4.0',
+    glyphAsUtfInEmoticons: ['manfirefighter'],
+    keywords: ['firefighter', 'firetruck', 'man'],
+    mappedToEmoticons: ['manfirefighter'],
     skinTone: FluentEmojiSkinTone.dark,
   );
 
@@ -6806,6 +8906,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'man frowning',
     glyph: '🙍‍♂️',
     svgPath: 'assets/man_frowning_color_default.svg',
+    tts: 'man frowning',
+    fromVersion: '4.0',
+    glyphAsUtfInEmoticons: ['man_frowning'],
+    keywords: ['frowning', 'gesture', 'man'],
+    mappedToEmoticons: ['man_frowning'],
     skinToneLight: _manFrowningLight,
     skinToneMediumLight: _manFrowningMediumLight,
     skinToneMedium: _manFrowningMedium,
@@ -6820,6 +8925,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'man frowning',
     glyph: '🙍🏻‍♂️',
     svgPath: 'assets/man_frowning_color_light.svg',
+    tts: 'man frowning',
+    fromVersion: '4.0',
+    glyphAsUtfInEmoticons: ['man_frowning'],
+    keywords: ['frowning', 'gesture', 'man'],
+    mappedToEmoticons: ['man_frowning'],
     skinTone: FluentEmojiSkinTone.light,
   );
 
@@ -6830,6 +8940,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'man frowning',
     glyph: '🙍🏼‍♂️',
     svgPath: 'assets/man_frowning_color_medium-light.svg',
+    tts: 'man frowning',
+    fromVersion: '4.0',
+    glyphAsUtfInEmoticons: ['man_frowning'],
+    keywords: ['frowning', 'gesture', 'man'],
+    mappedToEmoticons: ['man_frowning'],
     skinTone: FluentEmojiSkinTone.mediumLight,
   );
 
@@ -6840,6 +8955,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'man frowning',
     glyph: '🙍🏽‍♂️',
     svgPath: 'assets/man_frowning_color_medium.svg',
+    tts: 'man frowning',
+    fromVersion: '4.0',
+    glyphAsUtfInEmoticons: ['man_frowning'],
+    keywords: ['frowning', 'gesture', 'man'],
+    mappedToEmoticons: ['man_frowning'],
     skinTone: FluentEmojiSkinTone.medium,
   );
 
@@ -6850,6 +8970,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'man frowning',
     glyph: '🙍🏾‍♂️',
     svgPath: 'assets/man_frowning_color_medium-dark.svg',
+    tts: 'man frowning',
+    fromVersion: '4.0',
+    glyphAsUtfInEmoticons: ['man_frowning'],
+    keywords: ['frowning', 'gesture', 'man'],
+    mappedToEmoticons: ['man_frowning'],
     skinTone: FluentEmojiSkinTone.mediumDark,
   );
 
@@ -6860,6 +8985,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'man frowning',
     glyph: '🙍🏿‍♂️',
     svgPath: 'assets/man_frowning_color_dark.svg',
+    tts: 'man frowning',
+    fromVersion: '4.0',
+    glyphAsUtfInEmoticons: ['man_frowning'],
+    keywords: ['frowning', 'gesture', 'man'],
+    mappedToEmoticons: ['man_frowning'],
     skinTone: FluentEmojiSkinTone.dark,
   );
 
@@ -6870,6 +9000,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'man genie',
     glyph: '🧞‍♂️',
     svgPath: 'assets/man_genie_color.svg',
+    tts: 'man genie',
+    fromVersion: '5.0',
+    glyphAsUtfInEmoticons: ['mangenie'],
+    keywords: ['djinn', 'man genie'],
+    mappedToEmoticons: ['mangenie'],
     skinTone: FluentEmojiSkinTone.standard,
   );
 
@@ -6886,6 +9021,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'man gesturing NO',
     glyph: '🙅‍♂️',
     svgPath: 'assets/man_gesturing_no_color_default.svg',
+    tts: 'man gesturing NO',
+    fromVersion: '4.0',
+    glyphAsUtfInEmoticons: ['man_gesturing_not_ok'],
+    keywords: ['forbidden', 'gesture', 'hand', 'man', 'man gesturing NO', 'prohibited'],
+    mappedToEmoticons: ['man_gesturing_not_ok'],
     skinToneLight: _manGesturingNoLight,
     skinToneMediumLight: _manGesturingNoMediumLight,
     skinToneMedium: _manGesturingNoMedium,
@@ -6900,6 +9040,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'man gesturing NO',
     glyph: '🙅🏻‍♂️',
     svgPath: 'assets/man_gesturing_no_color_light.svg',
+    tts: 'man gesturing NO',
+    fromVersion: '4.0',
+    glyphAsUtfInEmoticons: ['man_gesturing_not_ok'],
+    keywords: ['forbidden', 'gesture', 'hand', 'man', 'man gesturing NO', 'prohibited'],
+    mappedToEmoticons: ['man_gesturing_not_ok'],
     skinTone: FluentEmojiSkinTone.light,
   );
 
@@ -6910,6 +9055,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'man gesturing NO',
     glyph: '🙅🏼‍♂️',
     svgPath: 'assets/man_gesturing_no_color_medium-light.svg',
+    tts: 'man gesturing NO',
+    fromVersion: '4.0',
+    glyphAsUtfInEmoticons: ['man_gesturing_not_ok'],
+    keywords: ['forbidden', 'gesture', 'hand', 'man', 'man gesturing NO', 'prohibited'],
+    mappedToEmoticons: ['man_gesturing_not_ok'],
     skinTone: FluentEmojiSkinTone.mediumLight,
   );
 
@@ -6920,6 +9070,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'man gesturing NO',
     glyph: '🙅🏽‍♂️',
     svgPath: 'assets/man_gesturing_no_color_medium.svg',
+    tts: 'man gesturing NO',
+    fromVersion: '4.0',
+    glyphAsUtfInEmoticons: ['man_gesturing_not_ok'],
+    keywords: ['forbidden', 'gesture', 'hand', 'man', 'man gesturing NO', 'prohibited'],
+    mappedToEmoticons: ['man_gesturing_not_ok'],
     skinTone: FluentEmojiSkinTone.medium,
   );
 
@@ -6930,6 +9085,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'man gesturing NO',
     glyph: '🙅🏾‍♂️',
     svgPath: 'assets/man_gesturing_no_color_medium-dark.svg',
+    tts: 'man gesturing NO',
+    fromVersion: '4.0',
+    glyphAsUtfInEmoticons: ['man_gesturing_not_ok'],
+    keywords: ['forbidden', 'gesture', 'hand', 'man', 'man gesturing NO', 'prohibited'],
+    mappedToEmoticons: ['man_gesturing_not_ok'],
     skinTone: FluentEmojiSkinTone.mediumDark,
   );
 
@@ -6940,6 +9100,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'man gesturing NO',
     glyph: '🙅🏿‍♂️',
     svgPath: 'assets/man_gesturing_no_color_dark.svg',
+    tts: 'man gesturing NO',
+    fromVersion: '4.0',
+    glyphAsUtfInEmoticons: ['man_gesturing_not_ok'],
+    keywords: ['forbidden', 'gesture', 'hand', 'man', 'man gesturing NO', 'prohibited'],
+    mappedToEmoticons: ['man_gesturing_not_ok'],
     skinTone: FluentEmojiSkinTone.dark,
   );
 
@@ -6956,6 +9121,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'man gesturing OK',
     glyph: '🙆‍♂️',
     svgPath: 'assets/man_gesturing_ok_color_default.svg',
+    tts: 'man gesturing OK',
+    fromVersion: '4.0',
+    glyphAsUtfInEmoticons: ['man_gesturing_ok'],
+    keywords: ['gesture', 'hand', 'man', 'man gesturing OK', 'OK'],
+    mappedToEmoticons: ['man_gesturing_ok'],
     skinToneLight: _manGesturingOkLight,
     skinToneMediumLight: _manGesturingOkMediumLight,
     skinToneMedium: _manGesturingOkMedium,
@@ -6970,6 +9140,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'man gesturing OK',
     glyph: '🙆🏻‍♂️',
     svgPath: 'assets/man_gesturing_ok_color_light.svg',
+    tts: 'man gesturing OK',
+    fromVersion: '4.0',
+    glyphAsUtfInEmoticons: ['man_gesturing_ok'],
+    keywords: ['gesture', 'hand', 'man', 'man gesturing OK', 'OK'],
+    mappedToEmoticons: ['man_gesturing_ok'],
     skinTone: FluentEmojiSkinTone.light,
   );
 
@@ -6980,6 +9155,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'man gesturing OK',
     glyph: '🙆🏼‍♂️',
     svgPath: 'assets/man_gesturing_ok_color_medium-light.svg',
+    tts: 'man gesturing OK',
+    fromVersion: '4.0',
+    glyphAsUtfInEmoticons: ['man_gesturing_ok'],
+    keywords: ['gesture', 'hand', 'man', 'man gesturing OK', 'OK'],
+    mappedToEmoticons: ['man_gesturing_ok'],
     skinTone: FluentEmojiSkinTone.mediumLight,
   );
 
@@ -6990,6 +9170,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'man gesturing OK',
     glyph: '🙆🏽‍♂️',
     svgPath: 'assets/man_gesturing_ok_color_medium.svg',
+    tts: 'man gesturing OK',
+    fromVersion: '4.0',
+    glyphAsUtfInEmoticons: ['man_gesturing_ok'],
+    keywords: ['gesture', 'hand', 'man', 'man gesturing OK', 'OK'],
+    mappedToEmoticons: ['man_gesturing_ok'],
     skinTone: FluentEmojiSkinTone.medium,
   );
 
@@ -7000,6 +9185,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'man gesturing OK',
     glyph: '🙆🏾‍♂️',
     svgPath: 'assets/man_gesturing_ok_color_medium-dark.svg',
+    tts: 'man gesturing OK',
+    fromVersion: '4.0',
+    glyphAsUtfInEmoticons: ['man_gesturing_ok'],
+    keywords: ['gesture', 'hand', 'man', 'man gesturing OK', 'OK'],
+    mappedToEmoticons: ['man_gesturing_ok'],
     skinTone: FluentEmojiSkinTone.mediumDark,
   );
 
@@ -7010,6 +9200,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'man gesturing OK',
     glyph: '🙆🏿‍♂️',
     svgPath: 'assets/man_gesturing_ok_color_dark.svg',
+    tts: 'man gesturing OK',
+    fromVersion: '4.0',
+    glyphAsUtfInEmoticons: ['man_gesturing_ok'],
+    keywords: ['gesture', 'hand', 'man', 'man gesturing OK', 'OK'],
+    mappedToEmoticons: ['man_gesturing_ok'],
     skinTone: FluentEmojiSkinTone.dark,
   );
 
@@ -7026,6 +9221,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'man getting haircut',
     glyph: '💇‍♂️',
     svgPath: 'assets/man_getting_haircut_color_default.svg',
+    tts: 'man getting haircut',
+    fromVersion: '4.0',
+    glyphAsUtfInEmoticons: ['man_getting_haircut'],
+    keywords: ['haircut', 'man', 'man getting haircut'],
+    mappedToEmoticons: ['man_getting_haircut'],
     skinToneLight: _manGettingHaircutLight,
     skinToneMediumLight: _manGettingHaircutMediumLight,
     skinToneMedium: _manGettingHaircutMedium,
@@ -7040,6 +9240,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'man getting haircut',
     glyph: '💇🏻‍♂️',
     svgPath: 'assets/man_getting_haircut_color_light.svg',
+    tts: 'man getting haircut',
+    fromVersion: '4.0',
+    glyphAsUtfInEmoticons: ['man_getting_haircut'],
+    keywords: ['haircut', 'man', 'man getting haircut'],
+    mappedToEmoticons: ['man_getting_haircut'],
     skinTone: FluentEmojiSkinTone.light,
   );
 
@@ -7050,6 +9255,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'man getting haircut',
     glyph: '💇🏼‍♂️',
     svgPath: 'assets/man_getting_haircut_color_medium-light.svg',
+    tts: 'man getting haircut',
+    fromVersion: '4.0',
+    glyphAsUtfInEmoticons: ['man_getting_haircut'],
+    keywords: ['haircut', 'man', 'man getting haircut'],
+    mappedToEmoticons: ['man_getting_haircut'],
     skinTone: FluentEmojiSkinTone.mediumLight,
   );
 
@@ -7060,6 +9270,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'man getting haircut',
     glyph: '💇🏽‍♂️',
     svgPath: 'assets/man_getting_haircut_color_medium.svg',
+    tts: 'man getting haircut',
+    fromVersion: '4.0',
+    glyphAsUtfInEmoticons: ['man_getting_haircut'],
+    keywords: ['haircut', 'man', 'man getting haircut'],
+    mappedToEmoticons: ['man_getting_haircut'],
     skinTone: FluentEmojiSkinTone.medium,
   );
 
@@ -7070,6 +9285,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'man getting haircut',
     glyph: '💇🏾‍♂️',
     svgPath: 'assets/man_getting_haircut_color_medium-dark.svg',
+    tts: 'man getting haircut',
+    fromVersion: '4.0',
+    glyphAsUtfInEmoticons: ['man_getting_haircut'],
+    keywords: ['haircut', 'man', 'man getting haircut'],
+    mappedToEmoticons: ['man_getting_haircut'],
     skinTone: FluentEmojiSkinTone.mediumDark,
   );
 
@@ -7080,6 +9300,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'man getting haircut',
     glyph: '💇🏿‍♂️',
     svgPath: 'assets/man_getting_haircut_color_dark.svg',
+    tts: 'man getting haircut',
+    fromVersion: '4.0',
+    glyphAsUtfInEmoticons: ['man_getting_haircut'],
+    keywords: ['haircut', 'man', 'man getting haircut'],
+    mappedToEmoticons: ['man_getting_haircut'],
     skinTone: FluentEmojiSkinTone.dark,
   );
 
@@ -7096,6 +9321,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'man getting massage',
     glyph: '💆‍♂️',
     svgPath: 'assets/man_getting_massage_color_default.svg',
+    tts: 'man getting massage',
+    fromVersion: '4.0',
+    glyphAsUtfInEmoticons: ['man_getting_face_massage'],
+    keywords: ['face', 'man', 'man getting massage', 'massage'],
+    mappedToEmoticons: ['man_getting_face_massage'],
     skinToneLight: _manGettingMassageLight,
     skinToneMediumLight: _manGettingMassageMediumLight,
     skinToneMedium: _manGettingMassageMedium,
@@ -7110,6 +9340,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'man getting massage',
     glyph: '💆🏻‍♂️',
     svgPath: 'assets/man_getting_massage_color_light.svg',
+    tts: 'man getting massage',
+    fromVersion: '4.0',
+    glyphAsUtfInEmoticons: ['man_getting_face_massage'],
+    keywords: ['face', 'man', 'man getting massage', 'massage'],
+    mappedToEmoticons: ['man_getting_face_massage'],
     skinTone: FluentEmojiSkinTone.light,
   );
 
@@ -7120,6 +9355,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'man getting massage',
     glyph: '💆🏼‍♂️',
     svgPath: 'assets/man_getting_massage_color_medium-light.svg',
+    tts: 'man getting massage',
+    fromVersion: '4.0',
+    glyphAsUtfInEmoticons: ['man_getting_face_massage'],
+    keywords: ['face', 'man', 'man getting massage', 'massage'],
+    mappedToEmoticons: ['man_getting_face_massage'],
     skinTone: FluentEmojiSkinTone.mediumLight,
   );
 
@@ -7130,6 +9370,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'man getting massage',
     glyph: '💆🏽‍♂️',
     svgPath: 'assets/man_getting_massage_color_medium.svg',
+    tts: 'man getting massage',
+    fromVersion: '4.0',
+    glyphAsUtfInEmoticons: ['man_getting_face_massage'],
+    keywords: ['face', 'man', 'man getting massage', 'massage'],
+    mappedToEmoticons: ['man_getting_face_massage'],
     skinTone: FluentEmojiSkinTone.medium,
   );
 
@@ -7140,6 +9385,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'man getting massage',
     glyph: '💆🏾‍♂️',
     svgPath: 'assets/man_getting_massage_color_medium-dark.svg',
+    tts: 'man getting massage',
+    fromVersion: '4.0',
+    glyphAsUtfInEmoticons: ['man_getting_face_massage'],
+    keywords: ['face', 'man', 'man getting massage', 'massage'],
+    mappedToEmoticons: ['man_getting_face_massage'],
     skinTone: FluentEmojiSkinTone.mediumDark,
   );
 
@@ -7150,6 +9400,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'man getting massage',
     glyph: '💆🏿‍♂️',
     svgPath: 'assets/man_getting_massage_color_dark.svg',
+    tts: 'man getting massage',
+    fromVersion: '4.0',
+    glyphAsUtfInEmoticons: ['man_getting_face_massage'],
+    keywords: ['face', 'man', 'man getting massage', 'massage'],
+    mappedToEmoticons: ['man_getting_face_massage'],
     skinTone: FluentEmojiSkinTone.dark,
   );
 
@@ -7166,6 +9421,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'man golfing',
     glyph: '🏌️‍♂️',
     svgPath: 'assets/man_golfing_color_default.svg',
+    tts: 'man golfing',
+    fromVersion: '4.0',
+    glyphAsUtfInEmoticons: ['mangolfing'],
+    keywords: ['golf', 'man', 'man golfing'],
+    mappedToEmoticons: ['mangolfing'],
     skinToneLight: _manGolfingLight,
     skinToneMediumLight: _manGolfingMediumLight,
     skinToneMedium: _manGolfingMedium,
@@ -7180,6 +9440,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'man golfing',
     glyph: '🏌🏻‍♂️',
     svgPath: 'assets/man_golfing_color_light.svg',
+    tts: 'man golfing',
+    fromVersion: '4.0',
+    glyphAsUtfInEmoticons: ['mangolfing'],
+    keywords: ['golf', 'man', 'man golfing'],
+    mappedToEmoticons: ['mangolfing'],
     skinTone: FluentEmojiSkinTone.light,
   );
 
@@ -7190,6 +9455,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'man golfing',
     glyph: '🏌🏼‍♂️',
     svgPath: 'assets/man_golfing_color_medium-light.svg',
+    tts: 'man golfing',
+    fromVersion: '4.0',
+    glyphAsUtfInEmoticons: ['mangolfing'],
+    keywords: ['golf', 'man', 'man golfing'],
+    mappedToEmoticons: ['mangolfing'],
     skinTone: FluentEmojiSkinTone.mediumLight,
   );
 
@@ -7200,6 +9470,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'man golfing',
     glyph: '🏌🏽‍♂️',
     svgPath: 'assets/man_golfing_color_medium.svg',
+    tts: 'man golfing',
+    fromVersion: '4.0',
+    glyphAsUtfInEmoticons: ['mangolfing'],
+    keywords: ['golf', 'man', 'man golfing'],
+    mappedToEmoticons: ['mangolfing'],
     skinTone: FluentEmojiSkinTone.medium,
   );
 
@@ -7210,6 +9485,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'man golfing',
     glyph: '🏌🏾‍♂️',
     svgPath: 'assets/man_golfing_color_medium-dark.svg',
+    tts: 'man golfing',
+    fromVersion: '4.0',
+    glyphAsUtfInEmoticons: ['mangolfing'],
+    keywords: ['golf', 'man', 'man golfing'],
+    mappedToEmoticons: ['mangolfing'],
     skinTone: FluentEmojiSkinTone.mediumDark,
   );
 
@@ -7220,6 +9500,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'man golfing',
     glyph: '🏌🏿‍♂️',
     svgPath: 'assets/man_golfing_color_dark.svg',
+    tts: 'man golfing',
+    fromVersion: '4.0',
+    glyphAsUtfInEmoticons: ['mangolfing'],
+    keywords: ['golf', 'man', 'man golfing'],
+    mappedToEmoticons: ['mangolfing'],
     skinTone: FluentEmojiSkinTone.dark,
   );
 
@@ -7236,6 +9521,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'man guard',
     glyph: '💂‍♂️',
     svgPath: 'assets/man_guard_color_default.svg',
+    tts: 'man guard',
+    fromVersion: '4.0',
+    glyphAsUtfInEmoticons: ['man_guard'],
+    keywords: ['guard', 'man'],
+    mappedToEmoticons: ['man_guard'],
     skinToneLight: _manGuardLight,
     skinToneMediumLight: _manGuardMediumLight,
     skinToneMedium: _manGuardMedium,
@@ -7250,6 +9540,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'man guard',
     glyph: '💂🏻‍♂️',
     svgPath: 'assets/man_guard_color_light.svg',
+    tts: 'man guard',
+    fromVersion: '4.0',
+    glyphAsUtfInEmoticons: ['man_guard'],
+    keywords: ['guard', 'man'],
+    mappedToEmoticons: ['man_guard'],
     skinTone: FluentEmojiSkinTone.light,
   );
 
@@ -7260,6 +9555,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'man guard',
     glyph: '💂🏼‍♂️',
     svgPath: 'assets/man_guard_color_medium-light.svg',
+    tts: 'man guard',
+    fromVersion: '4.0',
+    glyphAsUtfInEmoticons: ['man_guard'],
+    keywords: ['guard', 'man'],
+    mappedToEmoticons: ['man_guard'],
     skinTone: FluentEmojiSkinTone.mediumLight,
   );
 
@@ -7270,6 +9570,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'man guard',
     glyph: '💂🏽‍♂️',
     svgPath: 'assets/man_guard_color_medium.svg',
+    tts: 'man guard',
+    fromVersion: '4.0',
+    glyphAsUtfInEmoticons: ['man_guard'],
+    keywords: ['guard', 'man'],
+    mappedToEmoticons: ['man_guard'],
     skinTone: FluentEmojiSkinTone.medium,
   );
 
@@ -7280,6 +9585,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'man guard',
     glyph: '💂🏾‍♂️',
     svgPath: 'assets/man_guard_color_medium-dark.svg',
+    tts: 'man guard',
+    fromVersion: '4.0',
+    glyphAsUtfInEmoticons: ['man_guard'],
+    keywords: ['guard', 'man'],
+    mappedToEmoticons: ['man_guard'],
     skinTone: FluentEmojiSkinTone.mediumDark,
   );
 
@@ -7290,6 +9600,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'man guard',
     glyph: '💂🏿‍♂️',
     svgPath: 'assets/man_guard_color_dark.svg',
+    tts: 'man guard',
+    fromVersion: '4.0',
+    glyphAsUtfInEmoticons: ['man_guard'],
+    keywords: ['guard', 'man'],
+    mappedToEmoticons: ['man_guard'],
     skinTone: FluentEmojiSkinTone.dark,
   );
 
@@ -7306,6 +9621,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'man health worker',
     glyph: '👨‍⚕️',
     svgPath: 'assets/man_health_worker_color_default.svg',
+    tts: 'man health worker',
+    fromVersion: '4.0',
+    glyphAsUtfInEmoticons: ['manhealthworker'],
+    keywords: ['doctor', 'healthcare', 'man', 'man health worker', 'nurse', 'therapist'],
+    mappedToEmoticons: ['manhealthworker'],
     skinToneLight: _manHealthWorkerLight,
     skinToneMediumLight: _manHealthWorkerMediumLight,
     skinToneMedium: _manHealthWorkerMedium,
@@ -7320,6 +9640,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'man health worker',
     glyph: '👨🏻‍⚕️',
     svgPath: 'assets/man_health_worker_color_light.svg',
+    tts: 'man health worker',
+    fromVersion: '4.0',
+    glyphAsUtfInEmoticons: ['manhealthworker'],
+    keywords: ['doctor', 'healthcare', 'man', 'man health worker', 'nurse', 'therapist'],
+    mappedToEmoticons: ['manhealthworker'],
     skinTone: FluentEmojiSkinTone.light,
   );
 
@@ -7330,6 +9655,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'man health worker',
     glyph: '👨🏼‍⚕️',
     svgPath: 'assets/man_health_worker_color_medium-light.svg',
+    tts: 'man health worker',
+    fromVersion: '4.0',
+    glyphAsUtfInEmoticons: ['manhealthworker'],
+    keywords: ['doctor', 'healthcare', 'man', 'man health worker', 'nurse', 'therapist'],
+    mappedToEmoticons: ['manhealthworker'],
     skinTone: FluentEmojiSkinTone.mediumLight,
   );
 
@@ -7340,6 +9670,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'man health worker',
     glyph: '👨🏽‍⚕️',
     svgPath: 'assets/man_health_worker_color_medium.svg',
+    tts: 'man health worker',
+    fromVersion: '4.0',
+    glyphAsUtfInEmoticons: ['manhealthworker'],
+    keywords: ['doctor', 'healthcare', 'man', 'man health worker', 'nurse', 'therapist'],
+    mappedToEmoticons: ['manhealthworker'],
     skinTone: FluentEmojiSkinTone.medium,
   );
 
@@ -7350,6 +9685,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'man health worker',
     glyph: '👨🏾‍⚕️',
     svgPath: 'assets/man_health_worker_color_medium-dark.svg',
+    tts: 'man health worker',
+    fromVersion: '4.0',
+    glyphAsUtfInEmoticons: ['manhealthworker'],
+    keywords: ['doctor', 'healthcare', 'man', 'man health worker', 'nurse', 'therapist'],
+    mappedToEmoticons: ['manhealthworker'],
     skinTone: FluentEmojiSkinTone.mediumDark,
   );
 
@@ -7360,6 +9700,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'man health worker',
     glyph: '👨🏿‍⚕️',
     svgPath: 'assets/man_health_worker_color_dark.svg',
+    tts: 'man health worker',
+    fromVersion: '4.0',
+    glyphAsUtfInEmoticons: ['manhealthworker'],
+    keywords: ['doctor', 'healthcare', 'man', 'man health worker', 'nurse', 'therapist'],
+    mappedToEmoticons: ['manhealthworker'],
     skinTone: FluentEmojiSkinTone.dark,
   );
 
@@ -7376,6 +9721,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'man in lotus position',
     glyph: '🧘‍♂️',
     svgPath: 'assets/man_in_lotus_position_color_default.svg',
+    tts: 'man in lotus position',
+    fromVersion: '5.0',
+    glyphAsUtfInEmoticons: ['maninlotusposition'],
+    keywords: ['man in lotus position', 'meditation', 'yoga'],
+    mappedToEmoticons: ['maninlotusposition'],
     skinToneLight: _manInLotusPositionLight,
     skinToneMediumLight: _manInLotusPositionMediumLight,
     skinToneMedium: _manInLotusPositionMedium,
@@ -7390,6 +9740,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'man in lotus position',
     glyph: '🧘🏻‍♂️',
     svgPath: 'assets/man_in_lotus_position_color_light.svg',
+    tts: 'man in lotus position',
+    fromVersion: '5.0',
+    glyphAsUtfInEmoticons: ['maninlotusposition'],
+    keywords: ['man in lotus position', 'meditation', 'yoga'],
+    mappedToEmoticons: ['maninlotusposition'],
     skinTone: FluentEmojiSkinTone.light,
   );
 
@@ -7400,6 +9755,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'man in lotus position',
     glyph: '🧘🏼‍♂️',
     svgPath: 'assets/man_in_lotus_position_color_medium-light.svg',
+    tts: 'man in lotus position',
+    fromVersion: '5.0',
+    glyphAsUtfInEmoticons: ['maninlotusposition'],
+    keywords: ['man in lotus position', 'meditation', 'yoga'],
+    mappedToEmoticons: ['maninlotusposition'],
     skinTone: FluentEmojiSkinTone.mediumLight,
   );
 
@@ -7410,6 +9770,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'man in lotus position',
     glyph: '🧘🏽‍♂️',
     svgPath: 'assets/man_in_lotus_position_color_medium.svg',
+    tts: 'man in lotus position',
+    fromVersion: '5.0',
+    glyphAsUtfInEmoticons: ['maninlotusposition'],
+    keywords: ['man in lotus position', 'meditation', 'yoga'],
+    mappedToEmoticons: ['maninlotusposition'],
     skinTone: FluentEmojiSkinTone.medium,
   );
 
@@ -7420,6 +9785,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'man in lotus position',
     glyph: '🧘🏾‍♂️',
     svgPath: 'assets/man_in_lotus_position_color_medium-dark.svg',
+    tts: 'man in lotus position',
+    fromVersion: '5.0',
+    glyphAsUtfInEmoticons: ['maninlotusposition'],
+    keywords: ['man in lotus position', 'meditation', 'yoga'],
+    mappedToEmoticons: ['maninlotusposition'],
     skinTone: FluentEmojiSkinTone.mediumDark,
   );
 
@@ -7430,6 +9800,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'man in lotus position',
     glyph: '🧘🏿‍♂️',
     svgPath: 'assets/man_in_lotus_position_color_dark.svg',
+    tts: 'man in lotus position',
+    fromVersion: '5.0',
+    glyphAsUtfInEmoticons: ['maninlotusposition'],
+    keywords: ['man in lotus position', 'meditation', 'yoga'],
+    mappedToEmoticons: ['maninlotusposition'],
     skinTone: FluentEmojiSkinTone.dark,
   );
 
@@ -7446,6 +9821,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'man in manual wheelchair',
     glyph: '👨‍🦽',
     svgPath: 'assets/man_in_manual_wheelchair_color_default.svg',
+    tts: 'man in manual wheelchair',
+    fromVersion: '12.0',
+    glyphAsUtfInEmoticons: ['man_in_manual_wheelchair'],
+    keywords: ['accessibility', 'man', 'man in manual wheelchair', 'wheelchair'],
+    mappedToEmoticons: ['man_in_manual_wheelchair'],
     skinToneLight: _manInManualWheelchairLight,
     skinToneMediumLight: _manInManualWheelchairMediumLight,
     skinToneMedium: _manInManualWheelchairMedium,
@@ -7460,6 +9840,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'man in manual wheelchair',
     glyph: '👨🏻‍🦽',
     svgPath: 'assets/man_in_manual_wheelchair_color_light.svg',
+    tts: 'man in manual wheelchair',
+    fromVersion: '12.0',
+    glyphAsUtfInEmoticons: ['man_in_manual_wheelchair'],
+    keywords: ['accessibility', 'man', 'man in manual wheelchair', 'wheelchair'],
+    mappedToEmoticons: ['man_in_manual_wheelchair'],
     skinTone: FluentEmojiSkinTone.light,
   );
 
@@ -7470,6 +9855,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'man in manual wheelchair',
     glyph: '👨🏼‍🦽',
     svgPath: 'assets/man_in_manual_wheelchair_color_medium-light.svg',
+    tts: 'man in manual wheelchair',
+    fromVersion: '12.0',
+    glyphAsUtfInEmoticons: ['man_in_manual_wheelchair'],
+    keywords: ['accessibility', 'man', 'man in manual wheelchair', 'wheelchair'],
+    mappedToEmoticons: ['man_in_manual_wheelchair'],
     skinTone: FluentEmojiSkinTone.mediumLight,
   );
 
@@ -7480,6 +9870,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'man in manual wheelchair',
     glyph: '👨🏽‍🦽',
     svgPath: 'assets/man_in_manual_wheelchair_color_medium.svg',
+    tts: 'man in manual wheelchair',
+    fromVersion: '12.0',
+    glyphAsUtfInEmoticons: ['man_in_manual_wheelchair'],
+    keywords: ['accessibility', 'man', 'man in manual wheelchair', 'wheelchair'],
+    mappedToEmoticons: ['man_in_manual_wheelchair'],
     skinTone: FluentEmojiSkinTone.medium,
   );
 
@@ -7490,6 +9885,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'man in manual wheelchair',
     glyph: '👨🏾‍🦽',
     svgPath: 'assets/man_in_manual_wheelchair_color_medium-dark.svg',
+    tts: 'man in manual wheelchair',
+    fromVersion: '12.0',
+    glyphAsUtfInEmoticons: ['man_in_manual_wheelchair'],
+    keywords: ['accessibility', 'man', 'man in manual wheelchair', 'wheelchair'],
+    mappedToEmoticons: ['man_in_manual_wheelchair'],
     skinTone: FluentEmojiSkinTone.mediumDark,
   );
 
@@ -7500,6 +9900,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'man in manual wheelchair',
     glyph: '👨🏿‍🦽',
     svgPath: 'assets/man_in_manual_wheelchair_color_dark.svg',
+    tts: 'man in manual wheelchair',
+    fromVersion: '12.0',
+    glyphAsUtfInEmoticons: ['man_in_manual_wheelchair'],
+    keywords: ['accessibility', 'man', 'man in manual wheelchair', 'wheelchair'],
+    mappedToEmoticons: ['man_in_manual_wheelchair'],
     skinTone: FluentEmojiSkinTone.dark,
   );
 
@@ -7516,6 +9921,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'man in manual wheelchair facing right',
     glyph: '👨‍🦽‍➡️',
     svgPath: 'assets/man_in_manual_wheelchair_facing_right_color_default.svg',
+    tts: '',
+    fromVersion: '15.1',
+    glyphAsUtfInEmoticons: [],
+    keywords: ['accessibility', 'man', 'man in manual wheelchair', 'wheelchair'],
+    mappedToEmoticons: [],
     skinToneLight: _manInManualWheelchairFacingRightLight,
     skinToneMediumLight: _manInManualWheelchairFacingRightMediumLight,
     skinToneMedium: _manInManualWheelchairFacingRightMedium,
@@ -7530,6 +9940,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'man in manual wheelchair facing right',
     glyph: '👨🏻‍🦽‍➡️',
     svgPath: 'assets/man_in_manual_wheelchair_facing_right_color_light.svg',
+    tts: '',
+    fromVersion: '15.1',
+    glyphAsUtfInEmoticons: [],
+    keywords: ['accessibility', 'man', 'man in manual wheelchair', 'wheelchair'],
+    mappedToEmoticons: [],
     skinTone: FluentEmojiSkinTone.light,
   );
 
@@ -7540,6 +9955,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'man in manual wheelchair facing right',
     glyph: '👨🏼‍🦽‍➡️',
     svgPath: 'assets/man_in_manual_wheelchair_facing_right_color_medium-light.svg',
+    tts: '',
+    fromVersion: '15.1',
+    glyphAsUtfInEmoticons: [],
+    keywords: ['accessibility', 'man', 'man in manual wheelchair', 'wheelchair'],
+    mappedToEmoticons: [],
     skinTone: FluentEmojiSkinTone.mediumLight,
   );
 
@@ -7550,6 +9970,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'man in manual wheelchair facing right',
     glyph: '👨🏽‍🦽‍➡️',
     svgPath: 'assets/man_in_manual_wheelchair_facing_right_color_medium.svg',
+    tts: '',
+    fromVersion: '15.1',
+    glyphAsUtfInEmoticons: [],
+    keywords: ['accessibility', 'man', 'man in manual wheelchair', 'wheelchair'],
+    mappedToEmoticons: [],
     skinTone: FluentEmojiSkinTone.medium,
   );
 
@@ -7560,6 +9985,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'man in manual wheelchair facing right',
     glyph: '👨🏾‍🦽‍➡️',
     svgPath: 'assets/man_in_manual_wheelchair_facing_right_color_medium-dark.svg',
+    tts: '',
+    fromVersion: '15.1',
+    glyphAsUtfInEmoticons: [],
+    keywords: ['accessibility', 'man', 'man in manual wheelchair', 'wheelchair'],
+    mappedToEmoticons: [],
     skinTone: FluentEmojiSkinTone.mediumDark,
   );
 
@@ -7570,6 +10000,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'man in manual wheelchair facing right',
     glyph: '👨🏿‍🦽‍➡️',
     svgPath: 'assets/man_in_manual_wheelchair_facing_right_color_dark.svg',
+    tts: '',
+    fromVersion: '15.1',
+    glyphAsUtfInEmoticons: [],
+    keywords: ['accessibility', 'man', 'man in manual wheelchair', 'wheelchair'],
+    mappedToEmoticons: [],
     skinTone: FluentEmojiSkinTone.dark,
   );
 
@@ -7586,6 +10021,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'man in motorized wheelchair',
     glyph: '👨‍🦼',
     svgPath: 'assets/man_in_motorized_wheelchair_color_default.svg',
+    tts: 'man in motorized wheelchair',
+    fromVersion: '12.0',
+    glyphAsUtfInEmoticons: ['man_in_motorized_wheelchair'],
+    keywords: ['accessibility', 'man', 'man in motorized wheelchair', 'wheelchair'],
+    mappedToEmoticons: ['man_in_motorized_wheelchair'],
     skinToneLight: _manInMotorizedWheelchairLight,
     skinToneMediumLight: _manInMotorizedWheelchairMediumLight,
     skinToneMedium: _manInMotorizedWheelchairMedium,
@@ -7600,6 +10040,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'man in motorized wheelchair',
     glyph: '👨🏻‍🦼',
     svgPath: 'assets/man_in_motorized_wheelchair_color_light.svg',
+    tts: 'man in motorized wheelchair',
+    fromVersion: '12.0',
+    glyphAsUtfInEmoticons: ['man_in_motorized_wheelchair'],
+    keywords: ['accessibility', 'man', 'man in motorized wheelchair', 'wheelchair'],
+    mappedToEmoticons: ['man_in_motorized_wheelchair'],
     skinTone: FluentEmojiSkinTone.light,
   );
 
@@ -7610,6 +10055,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'man in motorized wheelchair',
     glyph: '👨🏼‍🦼',
     svgPath: 'assets/man_in_motorized_wheelchair_color_medium-light.svg',
+    tts: 'man in motorized wheelchair',
+    fromVersion: '12.0',
+    glyphAsUtfInEmoticons: ['man_in_motorized_wheelchair'],
+    keywords: ['accessibility', 'man', 'man in motorized wheelchair', 'wheelchair'],
+    mappedToEmoticons: ['man_in_motorized_wheelchair'],
     skinTone: FluentEmojiSkinTone.mediumLight,
   );
 
@@ -7620,6 +10070,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'man in motorized wheelchair',
     glyph: '👨🏽‍🦼',
     svgPath: 'assets/man_in_motorized_wheelchair_color_medium.svg',
+    tts: 'man in motorized wheelchair',
+    fromVersion: '12.0',
+    glyphAsUtfInEmoticons: ['man_in_motorized_wheelchair'],
+    keywords: ['accessibility', 'man', 'man in motorized wheelchair', 'wheelchair'],
+    mappedToEmoticons: ['man_in_motorized_wheelchair'],
     skinTone: FluentEmojiSkinTone.medium,
   );
 
@@ -7630,6 +10085,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'man in motorized wheelchair',
     glyph: '👨🏾‍🦼',
     svgPath: 'assets/man_in_motorized_wheelchair_color_medium-dark.svg',
+    tts: 'man in motorized wheelchair',
+    fromVersion: '12.0',
+    glyphAsUtfInEmoticons: ['man_in_motorized_wheelchair'],
+    keywords: ['accessibility', 'man', 'man in motorized wheelchair', 'wheelchair'],
+    mappedToEmoticons: ['man_in_motorized_wheelchair'],
     skinTone: FluentEmojiSkinTone.mediumDark,
   );
 
@@ -7640,6 +10100,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'man in motorized wheelchair',
     glyph: '👨🏿‍🦼',
     svgPath: 'assets/man_in_motorized_wheelchair_color_dark.svg',
+    tts: 'man in motorized wheelchair',
+    fromVersion: '12.0',
+    glyphAsUtfInEmoticons: ['man_in_motorized_wheelchair'],
+    keywords: ['accessibility', 'man', 'man in motorized wheelchair', 'wheelchair'],
+    mappedToEmoticons: ['man_in_motorized_wheelchair'],
     skinTone: FluentEmojiSkinTone.dark,
   );
 
@@ -7656,6 +10121,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'man in motorized wheelchair facing right',
     glyph: '👨‍🦼‍➡️',
     svgPath: 'assets/man_in_motorized_wheelchair_facing_right_color_default.svg',
+    tts: '',
+    fromVersion: '15.1',
+    glyphAsUtfInEmoticons: [],
+    keywords: ['accessibility', 'man', 'man in motorized wheelchair', 'wheelchair'],
+    mappedToEmoticons: [],
     skinToneLight: _manInMotorizedWheelchairFacingRightLight,
     skinToneMediumLight: _manInMotorizedWheelchairFacingRightMediumLight,
     skinToneMedium: _manInMotorizedWheelchairFacingRightMedium,
@@ -7670,6 +10140,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'man in motorized wheelchair facing right',
     glyph: '👨🏻‍🦼‍➡️',
     svgPath: 'assets/man_in_motorized_wheelchair_facing_right_color_light.svg',
+    tts: '',
+    fromVersion: '15.1',
+    glyphAsUtfInEmoticons: [],
+    keywords: ['accessibility', 'man', 'man in motorized wheelchair', 'wheelchair'],
+    mappedToEmoticons: [],
     skinTone: FluentEmojiSkinTone.light,
   );
 
@@ -7680,6 +10155,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'man in motorized wheelchair facing right',
     glyph: '👨🏼‍🦼‍➡️',
     svgPath: 'assets/man_in_motorized_wheelchair_facing_right_color_medium-light.svg',
+    tts: '',
+    fromVersion: '15.1',
+    glyphAsUtfInEmoticons: [],
+    keywords: ['accessibility', 'man', 'man in motorized wheelchair', 'wheelchair'],
+    mappedToEmoticons: [],
     skinTone: FluentEmojiSkinTone.mediumLight,
   );
 
@@ -7690,6 +10170,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'man in motorized wheelchair facing right',
     glyph: '👨🏽‍🦼‍➡️',
     svgPath: 'assets/man_in_motorized_wheelchair_facing_right_color_medium.svg',
+    tts: '',
+    fromVersion: '15.1',
+    glyphAsUtfInEmoticons: [],
+    keywords: ['accessibility', 'man', 'man in motorized wheelchair', 'wheelchair'],
+    mappedToEmoticons: [],
     skinTone: FluentEmojiSkinTone.medium,
   );
 
@@ -7700,6 +10185,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'man in motorized wheelchair facing right',
     glyph: '👨🏾‍🦼‍➡️',
     svgPath: 'assets/man_in_motorized_wheelchair_facing_right_color_medium-dark.svg',
+    tts: '',
+    fromVersion: '15.1',
+    glyphAsUtfInEmoticons: [],
+    keywords: ['accessibility', 'man', 'man in motorized wheelchair', 'wheelchair'],
+    mappedToEmoticons: [],
     skinTone: FluentEmojiSkinTone.mediumDark,
   );
 
@@ -7710,6 +10200,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'man in motorized wheelchair facing right',
     glyph: '👨🏿‍🦼‍➡️',
     svgPath: 'assets/man_in_motorized_wheelchair_facing_right_color_dark.svg',
+    tts: '',
+    fromVersion: '15.1',
+    glyphAsUtfInEmoticons: [],
+    keywords: ['accessibility', 'man', 'man in motorized wheelchair', 'wheelchair'],
+    mappedToEmoticons: [],
     skinTone: FluentEmojiSkinTone.dark,
   );
 
@@ -7726,6 +10221,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'man in steamy room',
     glyph: '🧖‍♂️',
     svgPath: 'assets/man_in_steamy_room_color_default.svg',
+    tts: 'man in steamy room',
+    fromVersion: '5.0',
+    glyphAsUtfInEmoticons: ['man_steam_room'],
+    keywords: ['man in steamy room', 'sauna', 'steam room'],
+    mappedToEmoticons: ['man_steam_room'],
     skinToneLight: _manInSteamyRoomLight,
     skinToneMediumLight: _manInSteamyRoomMediumLight,
     skinToneMedium: _manInSteamyRoomMedium,
@@ -7740,6 +10240,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'man in steamy room',
     glyph: '🧖🏻‍♂️',
     svgPath: 'assets/man_in_steamy_room_color_light.svg',
+    tts: 'man in steamy room',
+    fromVersion: '5.0',
+    glyphAsUtfInEmoticons: ['man_steam_room'],
+    keywords: ['man in steamy room', 'sauna', 'steam room'],
+    mappedToEmoticons: ['man_steam_room'],
     skinTone: FluentEmojiSkinTone.light,
   );
 
@@ -7750,6 +10255,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'man in steamy room',
     glyph: '🧖🏼‍♂️',
     svgPath: 'assets/man_in_steamy_room_color_medium-light.svg',
+    tts: 'man in steamy room',
+    fromVersion: '5.0',
+    glyphAsUtfInEmoticons: ['man_steam_room'],
+    keywords: ['man in steamy room', 'sauna', 'steam room'],
+    mappedToEmoticons: ['man_steam_room'],
     skinTone: FluentEmojiSkinTone.mediumLight,
   );
 
@@ -7760,6 +10270,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'man in steamy room',
     glyph: '🧖🏽‍♂️',
     svgPath: 'assets/man_in_steamy_room_color_medium.svg',
+    tts: 'man in steamy room',
+    fromVersion: '5.0',
+    glyphAsUtfInEmoticons: ['man_steam_room'],
+    keywords: ['man in steamy room', 'sauna', 'steam room'],
+    mappedToEmoticons: ['man_steam_room'],
     skinTone: FluentEmojiSkinTone.medium,
   );
 
@@ -7770,6 +10285,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'man in steamy room',
     glyph: '🧖🏾‍♂️',
     svgPath: 'assets/man_in_steamy_room_color_medium-dark.svg',
+    tts: 'man in steamy room',
+    fromVersion: '5.0',
+    glyphAsUtfInEmoticons: ['man_steam_room'],
+    keywords: ['man in steamy room', 'sauna', 'steam room'],
+    mappedToEmoticons: ['man_steam_room'],
     skinTone: FluentEmojiSkinTone.mediumDark,
   );
 
@@ -7780,6 +10300,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'man in steamy room',
     glyph: '🧖🏿‍♂️',
     svgPath: 'assets/man_in_steamy_room_color_dark.svg',
+    tts: 'man in steamy room',
+    fromVersion: '5.0',
+    glyphAsUtfInEmoticons: ['man_steam_room'],
+    keywords: ['man in steamy room', 'sauna', 'steam room'],
+    mappedToEmoticons: ['man_steam_room'],
     skinTone: FluentEmojiSkinTone.dark,
   );
 
@@ -7796,6 +10321,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'man in tuxedo',
     glyph: '🤵‍♂️',
     svgPath: 'assets/man_in_tuxedo_color_default.svg',
+    tts: 'man in tuxedo',
+    fromVersion: '13.0',
+    glyphAsUtfInEmoticons: ['manintuxedo'],
+    keywords: ['man', 'man in tuxedo', 'tuxedo'],
+    mappedToEmoticons: ['manintuxedo'],
     skinToneLight: _manInTuxedoLight,
     skinToneMediumLight: _manInTuxedoMediumLight,
     skinToneMedium: _manInTuxedoMedium,
@@ -7810,6 +10340,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'man in tuxedo',
     glyph: '🤵🏻‍♂️',
     svgPath: 'assets/man_in_tuxedo_color_light.svg',
+    tts: 'man in tuxedo',
+    fromVersion: '13.0',
+    glyphAsUtfInEmoticons: ['manintuxedo'],
+    keywords: ['man', 'man in tuxedo', 'tuxedo'],
+    mappedToEmoticons: ['manintuxedo'],
     skinTone: FluentEmojiSkinTone.light,
   );
 
@@ -7820,6 +10355,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'man in tuxedo',
     glyph: '🤵🏼‍♂️',
     svgPath: 'assets/man_in_tuxedo_color_medium-light.svg',
+    tts: 'man in tuxedo',
+    fromVersion: '13.0',
+    glyphAsUtfInEmoticons: ['manintuxedo'],
+    keywords: ['man', 'man in tuxedo', 'tuxedo'],
+    mappedToEmoticons: ['manintuxedo'],
     skinTone: FluentEmojiSkinTone.mediumLight,
   );
 
@@ -7830,6 +10370,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'man in tuxedo',
     glyph: '🤵🏽‍♂️',
     svgPath: 'assets/man_in_tuxedo_color_medium.svg',
+    tts: 'man in tuxedo',
+    fromVersion: '13.0',
+    glyphAsUtfInEmoticons: ['manintuxedo'],
+    keywords: ['man', 'man in tuxedo', 'tuxedo'],
+    mappedToEmoticons: ['manintuxedo'],
     skinTone: FluentEmojiSkinTone.medium,
   );
 
@@ -7840,6 +10385,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'man in tuxedo',
     glyph: '🤵🏾‍♂️',
     svgPath: 'assets/man_in_tuxedo_color_medium-dark.svg',
+    tts: 'man in tuxedo',
+    fromVersion: '13.0',
+    glyphAsUtfInEmoticons: ['manintuxedo'],
+    keywords: ['man', 'man in tuxedo', 'tuxedo'],
+    mappedToEmoticons: ['manintuxedo'],
     skinTone: FluentEmojiSkinTone.mediumDark,
   );
 
@@ -7850,6 +10400,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'man in tuxedo',
     glyph: '🤵🏿‍♂️',
     svgPath: 'assets/man_in_tuxedo_color_dark.svg',
+    tts: 'man in tuxedo',
+    fromVersion: '13.0',
+    glyphAsUtfInEmoticons: ['manintuxedo'],
+    keywords: ['man', 'man in tuxedo', 'tuxedo'],
+    mappedToEmoticons: ['manintuxedo'],
     skinTone: FluentEmojiSkinTone.dark,
   );
 
@@ -7866,6 +10421,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'man judge',
     glyph: '👨‍⚖️',
     svgPath: 'assets/man_judge_color_default.svg',
+    tts: 'man judge',
+    fromVersion: '4.0',
+    glyphAsUtfInEmoticons: ['manjudge'],
+    keywords: ['judge', 'justice', 'man', 'scales'],
+    mappedToEmoticons: ['manjudge'],
     skinToneLight: _manJudgeLight,
     skinToneMediumLight: _manJudgeMediumLight,
     skinToneMedium: _manJudgeMedium,
@@ -7880,6 +10440,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'man judge',
     glyph: '👨🏻‍⚖️',
     svgPath: 'assets/man_judge_color_light.svg',
+    tts: 'man judge',
+    fromVersion: '4.0',
+    glyphAsUtfInEmoticons: ['manjudge'],
+    keywords: ['judge', 'justice', 'man', 'scales'],
+    mappedToEmoticons: ['manjudge'],
     skinTone: FluentEmojiSkinTone.light,
   );
 
@@ -7890,6 +10455,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'man judge',
     glyph: '👨🏼‍⚖️',
     svgPath: 'assets/man_judge_color_medium-light.svg',
+    tts: 'man judge',
+    fromVersion: '4.0',
+    glyphAsUtfInEmoticons: ['manjudge'],
+    keywords: ['judge', 'justice', 'man', 'scales'],
+    mappedToEmoticons: ['manjudge'],
     skinTone: FluentEmojiSkinTone.mediumLight,
   );
 
@@ -7900,6 +10470,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'man judge',
     glyph: '👨🏽‍⚖️',
     svgPath: 'assets/man_judge_color_medium.svg',
+    tts: 'man judge',
+    fromVersion: '4.0',
+    glyphAsUtfInEmoticons: ['manjudge'],
+    keywords: ['judge', 'justice', 'man', 'scales'],
+    mappedToEmoticons: ['manjudge'],
     skinTone: FluentEmojiSkinTone.medium,
   );
 
@@ -7910,6 +10485,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'man judge',
     glyph: '👨🏾‍⚖️',
     svgPath: 'assets/man_judge_color_medium-dark.svg',
+    tts: 'man judge',
+    fromVersion: '4.0',
+    glyphAsUtfInEmoticons: ['manjudge'],
+    keywords: ['judge', 'justice', 'man', 'scales'],
+    mappedToEmoticons: ['manjudge'],
     skinTone: FluentEmojiSkinTone.mediumDark,
   );
 
@@ -7920,6 +10500,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'man judge',
     glyph: '👨🏿‍⚖️',
     svgPath: 'assets/man_judge_color_dark.svg',
+    tts: 'man judge',
+    fromVersion: '4.0',
+    glyphAsUtfInEmoticons: ['manjudge'],
+    keywords: ['judge', 'justice', 'man', 'scales'],
+    mappedToEmoticons: ['manjudge'],
     skinTone: FluentEmojiSkinTone.dark,
   );
 
@@ -7936,6 +10521,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'man juggling',
     glyph: '🤹‍♂️',
     svgPath: 'assets/man_juggling_color_default.svg',
+    tts: 'man juggling',
+    fromVersion: '4.0',
+    glyphAsUtfInEmoticons: null,
+    keywords: ['juggling', 'man', 'multitask'],
+    mappedToEmoticons: ['manjuggling'],
     skinToneLight: _manJugglingLight,
     skinToneMediumLight: _manJugglingMediumLight,
     skinToneMedium: _manJugglingMedium,
@@ -7950,6 +10540,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'man juggling',
     glyph: '🤹🏻‍♂️',
     svgPath: 'assets/man_juggling_color_light.svg',
+    tts: 'man juggling',
+    fromVersion: '4.0',
+    glyphAsUtfInEmoticons: null,
+    keywords: ['juggling', 'man', 'multitask'],
+    mappedToEmoticons: ['manjuggling'],
     skinTone: FluentEmojiSkinTone.light,
   );
 
@@ -7960,6 +10555,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'man juggling',
     glyph: '🤹🏼‍♂️',
     svgPath: 'assets/man_juggling_color_medium-light.svg',
+    tts: 'man juggling',
+    fromVersion: '4.0',
+    glyphAsUtfInEmoticons: null,
+    keywords: ['juggling', 'man', 'multitask'],
+    mappedToEmoticons: ['manjuggling'],
     skinTone: FluentEmojiSkinTone.mediumLight,
   );
 
@@ -7970,6 +10570,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'man juggling',
     glyph: '🤹🏽‍♂️',
     svgPath: 'assets/man_juggling_color_medium.svg',
+    tts: 'man juggling',
+    fromVersion: '4.0',
+    glyphAsUtfInEmoticons: null,
+    keywords: ['juggling', 'man', 'multitask'],
+    mappedToEmoticons: ['manjuggling'],
     skinTone: FluentEmojiSkinTone.medium,
   );
 
@@ -7980,6 +10585,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'man juggling',
     glyph: '🤹🏾‍♂️',
     svgPath: 'assets/man_juggling_color_medium-dark.svg',
+    tts: 'man juggling',
+    fromVersion: '4.0',
+    glyphAsUtfInEmoticons: null,
+    keywords: ['juggling', 'man', 'multitask'],
+    mappedToEmoticons: ['manjuggling'],
     skinTone: FluentEmojiSkinTone.mediumDark,
   );
 
@@ -7990,6 +10600,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'man juggling',
     glyph: '🤹🏿‍♂️',
     svgPath: 'assets/man_juggling_color_dark.svg',
+    tts: 'man juggling',
+    fromVersion: '4.0',
+    glyphAsUtfInEmoticons: null,
+    keywords: ['juggling', 'man', 'multitask'],
+    mappedToEmoticons: ['manjuggling'],
     skinTone: FluentEmojiSkinTone.dark,
   );
 
@@ -8006,6 +10621,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'man kneeling',
     glyph: '🧎‍♂️',
     svgPath: 'assets/man_kneeling_color_default.svg',
+    tts: 'man kneeling',
+    fromVersion: '12.0',
+    glyphAsUtfInEmoticons: ['man_kneeling'],
+    keywords: ['kneeling', 'man'],
+    mappedToEmoticons: ['man_kneeling'],
     skinToneLight: _manKneelingLight,
     skinToneMediumLight: _manKneelingMediumLight,
     skinToneMedium: _manKneelingMedium,
@@ -8020,6 +10640,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'man kneeling',
     glyph: '🧎🏻‍♂️',
     svgPath: 'assets/man_kneeling_color_light.svg',
+    tts: 'man kneeling',
+    fromVersion: '12.0',
+    glyphAsUtfInEmoticons: ['man_kneeling'],
+    keywords: ['kneeling', 'man'],
+    mappedToEmoticons: ['man_kneeling'],
     skinTone: FluentEmojiSkinTone.light,
   );
 
@@ -8030,6 +10655,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'man kneeling',
     glyph: '🧎🏼‍♂️',
     svgPath: 'assets/man_kneeling_color_medium-light.svg',
+    tts: 'man kneeling',
+    fromVersion: '12.0',
+    glyphAsUtfInEmoticons: ['man_kneeling'],
+    keywords: ['kneeling', 'man'],
+    mappedToEmoticons: ['man_kneeling'],
     skinTone: FluentEmojiSkinTone.mediumLight,
   );
 
@@ -8040,6 +10670,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'man kneeling',
     glyph: '🧎🏽‍♂️',
     svgPath: 'assets/man_kneeling_color_medium.svg',
+    tts: 'man kneeling',
+    fromVersion: '12.0',
+    glyphAsUtfInEmoticons: ['man_kneeling'],
+    keywords: ['kneeling', 'man'],
+    mappedToEmoticons: ['man_kneeling'],
     skinTone: FluentEmojiSkinTone.medium,
   );
 
@@ -8050,6 +10685,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'man kneeling',
     glyph: '🧎🏾‍♂️',
     svgPath: 'assets/man_kneeling_color_medium-dark.svg',
+    tts: 'man kneeling',
+    fromVersion: '12.0',
+    glyphAsUtfInEmoticons: ['man_kneeling'],
+    keywords: ['kneeling', 'man'],
+    mappedToEmoticons: ['man_kneeling'],
     skinTone: FluentEmojiSkinTone.mediumDark,
   );
 
@@ -8060,6 +10700,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'man kneeling',
     glyph: '🧎🏿‍♂️',
     svgPath: 'assets/man_kneeling_color_dark.svg',
+    tts: 'man kneeling',
+    fromVersion: '12.0',
+    glyphAsUtfInEmoticons: ['man_kneeling'],
+    keywords: ['kneeling', 'man'],
+    mappedToEmoticons: ['man_kneeling'],
     skinTone: FluentEmojiSkinTone.dark,
   );
 
@@ -8076,6 +10721,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'man kneeling facing right',
     glyph: '🧎‍♂️‍➡️',
     svgPath: 'assets/man_kneeling_facing_right_color_default.svg',
+    tts: '',
+    fromVersion: '15.1',
+    glyphAsUtfInEmoticons: [],
+    keywords: ['kneeling', 'man'],
+    mappedToEmoticons: [],
     skinToneLight: _manKneelingFacingRightLight,
     skinToneMediumLight: _manKneelingFacingRightMediumLight,
     skinToneMedium: _manKneelingFacingRightMedium,
@@ -8090,6 +10740,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'man kneeling facing right',
     glyph: '🧎🏻‍♂️‍➡️',
     svgPath: 'assets/man_kneeling_facing_right_color_light.svg',
+    tts: '',
+    fromVersion: '15.1',
+    glyphAsUtfInEmoticons: [],
+    keywords: ['kneeling', 'man'],
+    mappedToEmoticons: [],
     skinTone: FluentEmojiSkinTone.light,
   );
 
@@ -8100,6 +10755,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'man kneeling facing right',
     glyph: '🧎🏼‍♂️‍➡️',
     svgPath: 'assets/man_kneeling_facing_right_color_medium-light.svg',
+    tts: '',
+    fromVersion: '15.1',
+    glyphAsUtfInEmoticons: [],
+    keywords: ['kneeling', 'man'],
+    mappedToEmoticons: [],
     skinTone: FluentEmojiSkinTone.mediumLight,
   );
 
@@ -8110,6 +10770,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'man kneeling facing right',
     glyph: '🧎🏽‍♂️‍➡️',
     svgPath: 'assets/man_kneeling_facing_right_color_medium.svg',
+    tts: '',
+    fromVersion: '15.1',
+    glyphAsUtfInEmoticons: [],
+    keywords: ['kneeling', 'man'],
+    mappedToEmoticons: [],
     skinTone: FluentEmojiSkinTone.medium,
   );
 
@@ -8120,6 +10785,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'man kneeling facing right',
     glyph: '🧎🏾‍♂️‍➡️',
     svgPath: 'assets/man_kneeling_facing_right_color_medium-dark.svg',
+    tts: '',
+    fromVersion: '15.1',
+    glyphAsUtfInEmoticons: [],
+    keywords: ['kneeling', 'man'],
+    mappedToEmoticons: [],
     skinTone: FluentEmojiSkinTone.mediumDark,
   );
 
@@ -8130,6 +10800,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'man kneeling facing right',
     glyph: '🧎🏿‍♂️‍➡️',
     svgPath: 'assets/man_kneeling_facing_right_color_dark.svg',
+    tts: '',
+    fromVersion: '15.1',
+    glyphAsUtfInEmoticons: [],
+    keywords: ['kneeling', 'man'],
+    mappedToEmoticons: [],
     skinTone: FluentEmojiSkinTone.dark,
   );
 
@@ -8146,6 +10821,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'man lifting weights',
     glyph: '🏋️‍♂️',
     svgPath: 'assets/man_lifting_weights_color_default.svg',
+    tts: 'man lifting weights',
+    fromVersion: '4.0',
+    glyphAsUtfInEmoticons: ['manliftingweights'],
+    keywords: ['man', 'man lifting weights', 'weight lifter'],
+    mappedToEmoticons: ['manliftingweights'],
     skinToneLight: _manLiftingWeightsLight,
     skinToneMediumLight: _manLiftingWeightsMediumLight,
     skinToneMedium: _manLiftingWeightsMedium,
@@ -8160,6 +10840,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'man lifting weights',
     glyph: '🏋🏻‍♂️',
     svgPath: 'assets/man_lifting_weights_color_light.svg',
+    tts: 'man lifting weights',
+    fromVersion: '4.0',
+    glyphAsUtfInEmoticons: ['manliftingweights'],
+    keywords: ['man', 'man lifting weights', 'weight lifter'],
+    mappedToEmoticons: ['manliftingweights'],
     skinTone: FluentEmojiSkinTone.light,
   );
 
@@ -8170,6 +10855,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'man lifting weights',
     glyph: '🏋🏼‍♂️',
     svgPath: 'assets/man_lifting_weights_color_medium-light.svg',
+    tts: 'man lifting weights',
+    fromVersion: '4.0',
+    glyphAsUtfInEmoticons: ['manliftingweights'],
+    keywords: ['man', 'man lifting weights', 'weight lifter'],
+    mappedToEmoticons: ['manliftingweights'],
     skinTone: FluentEmojiSkinTone.mediumLight,
   );
 
@@ -8180,6 +10870,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'man lifting weights',
     glyph: '🏋🏽‍♂️',
     svgPath: 'assets/man_lifting_weights_color_medium.svg',
+    tts: 'man lifting weights',
+    fromVersion: '4.0',
+    glyphAsUtfInEmoticons: ['manliftingweights'],
+    keywords: ['man', 'man lifting weights', 'weight lifter'],
+    mappedToEmoticons: ['manliftingweights'],
     skinTone: FluentEmojiSkinTone.medium,
   );
 
@@ -8190,6 +10885,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'man lifting weights',
     glyph: '🏋🏾‍♂️',
     svgPath: 'assets/man_lifting_weights_color_medium-dark.svg',
+    tts: 'man lifting weights',
+    fromVersion: '4.0',
+    glyphAsUtfInEmoticons: ['manliftingweights'],
+    keywords: ['man', 'man lifting weights', 'weight lifter'],
+    mappedToEmoticons: ['manliftingweights'],
     skinTone: FluentEmojiSkinTone.mediumDark,
   );
 
@@ -8200,6 +10900,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'man lifting weights',
     glyph: '🏋🏿‍♂️',
     svgPath: 'assets/man_lifting_weights_color_dark.svg',
+    tts: 'man lifting weights',
+    fromVersion: '4.0',
+    glyphAsUtfInEmoticons: ['manliftingweights'],
+    keywords: ['man', 'man lifting weights', 'weight lifter'],
+    mappedToEmoticons: ['manliftingweights'],
     skinTone: FluentEmojiSkinTone.dark,
   );
 
@@ -8216,6 +10921,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'man mage',
     glyph: '🧙‍♂️',
     svgPath: 'assets/man_mage_color_default.svg',
+    tts: 'man mage',
+    fromVersion: '5.0',
+    glyphAsUtfInEmoticons: null,
+    keywords: ['man mage', 'sorcerer', 'wizard'],
+    mappedToEmoticons: ['wizard'],
     skinToneLight: _manMageLight,
     skinToneMediumLight: _manMageMediumLight,
     skinToneMedium: _manMageMedium,
@@ -8230,6 +10940,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'man mage',
     glyph: '🧙🏻‍♂️',
     svgPath: 'assets/man_mage_color_light.svg',
+    tts: 'man mage',
+    fromVersion: '5.0',
+    glyphAsUtfInEmoticons: null,
+    keywords: ['man mage', 'sorcerer', 'wizard'],
+    mappedToEmoticons: ['wizard'],
     skinTone: FluentEmojiSkinTone.light,
   );
 
@@ -8240,6 +10955,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'man mage',
     glyph: '🧙🏼‍♂️',
     svgPath: 'assets/man_mage_color_medium-light.svg',
+    tts: 'man mage',
+    fromVersion: '5.0',
+    glyphAsUtfInEmoticons: null,
+    keywords: ['man mage', 'sorcerer', 'wizard'],
+    mappedToEmoticons: ['wizard'],
     skinTone: FluentEmojiSkinTone.mediumLight,
   );
 
@@ -8250,6 +10970,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'man mage',
     glyph: '🧙🏽‍♂️',
     svgPath: 'assets/man_mage_color_medium.svg',
+    tts: 'man mage',
+    fromVersion: '5.0',
+    glyphAsUtfInEmoticons: null,
+    keywords: ['man mage', 'sorcerer', 'wizard'],
+    mappedToEmoticons: ['wizard'],
     skinTone: FluentEmojiSkinTone.medium,
   );
 
@@ -8260,6 +10985,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'man mage',
     glyph: '🧙🏾‍♂️',
     svgPath: 'assets/man_mage_color_medium-dark.svg',
+    tts: 'man mage',
+    fromVersion: '5.0',
+    glyphAsUtfInEmoticons: null,
+    keywords: ['man mage', 'sorcerer', 'wizard'],
+    mappedToEmoticons: ['wizard'],
     skinTone: FluentEmojiSkinTone.mediumDark,
   );
 
@@ -8270,6 +11000,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'man mage',
     glyph: '🧙🏿‍♂️',
     svgPath: 'assets/man_mage_color_dark.svg',
+    tts: 'man mage',
+    fromVersion: '5.0',
+    glyphAsUtfInEmoticons: null,
+    keywords: ['man mage', 'sorcerer', 'wizard'],
+    mappedToEmoticons: ['wizard'],
     skinTone: FluentEmojiSkinTone.dark,
   );
 
@@ -8286,6 +11021,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'man mechanic',
     glyph: '👨‍🔧',
     svgPath: 'assets/man_mechanic_color_default.svg',
+    tts: 'man mechanic',
+    fromVersion: '4.0',
+    glyphAsUtfInEmoticons: ['manmechanic'],
+    keywords: ['electrician', 'man', 'mechanic', 'plumber', 'tradesperson'],
+    mappedToEmoticons: ['manmechanic'],
     skinToneLight: _manMechanicLight,
     skinToneMediumLight: _manMechanicMediumLight,
     skinToneMedium: _manMechanicMedium,
@@ -8300,6 +11040,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'man mechanic',
     glyph: '👨🏻‍🔧',
     svgPath: 'assets/man_mechanic_color_light.svg',
+    tts: 'man mechanic',
+    fromVersion: '4.0',
+    glyphAsUtfInEmoticons: ['manmechanic'],
+    keywords: ['electrician', 'man', 'mechanic', 'plumber', 'tradesperson'],
+    mappedToEmoticons: ['manmechanic'],
     skinTone: FluentEmojiSkinTone.light,
   );
 
@@ -8310,6 +11055,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'man mechanic',
     glyph: '👨🏼‍🔧',
     svgPath: 'assets/man_mechanic_color_medium-light.svg',
+    tts: 'man mechanic',
+    fromVersion: '4.0',
+    glyphAsUtfInEmoticons: ['manmechanic'],
+    keywords: ['electrician', 'man', 'mechanic', 'plumber', 'tradesperson'],
+    mappedToEmoticons: ['manmechanic'],
     skinTone: FluentEmojiSkinTone.mediumLight,
   );
 
@@ -8320,6 +11070,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'man mechanic',
     glyph: '👨🏽‍🔧',
     svgPath: 'assets/man_mechanic_color_medium.svg',
+    tts: 'man mechanic',
+    fromVersion: '4.0',
+    glyphAsUtfInEmoticons: ['manmechanic'],
+    keywords: ['electrician', 'man', 'mechanic', 'plumber', 'tradesperson'],
+    mappedToEmoticons: ['manmechanic'],
     skinTone: FluentEmojiSkinTone.medium,
   );
 
@@ -8330,6 +11085,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'man mechanic',
     glyph: '👨🏾‍🔧',
     svgPath: 'assets/man_mechanic_color_medium-dark.svg',
+    tts: 'man mechanic',
+    fromVersion: '4.0',
+    glyphAsUtfInEmoticons: ['manmechanic'],
+    keywords: ['electrician', 'man', 'mechanic', 'plumber', 'tradesperson'],
+    mappedToEmoticons: ['manmechanic'],
     skinTone: FluentEmojiSkinTone.mediumDark,
   );
 
@@ -8340,6 +11100,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'man mechanic',
     glyph: '👨🏿‍🔧',
     svgPath: 'assets/man_mechanic_color_dark.svg',
+    tts: 'man mechanic',
+    fromVersion: '4.0',
+    glyphAsUtfInEmoticons: ['manmechanic'],
+    keywords: ['electrician', 'man', 'mechanic', 'plumber', 'tradesperson'],
+    mappedToEmoticons: ['manmechanic'],
     skinTone: FluentEmojiSkinTone.dark,
   );
 
@@ -8356,6 +11121,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'man mountain biking',
     glyph: '🚵‍♂️',
     svgPath: 'assets/man_mountain_biking_color_default.svg',
+    tts: 'man mountain biking',
+    fromVersion: '4.0',
+    glyphAsUtfInEmoticons: ['manmountainbiking'],
+    keywords: ['bicycle', 'bike', 'cyclist', 'man', 'man mountain biking', 'mountain'],
+    mappedToEmoticons: ['manmountainbiking'],
     skinToneLight: _manMountainBikingLight,
     skinToneMediumLight: _manMountainBikingMediumLight,
     skinToneMedium: _manMountainBikingMedium,
@@ -8370,6 +11140,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'man mountain biking',
     glyph: '🚵🏻‍♂️',
     svgPath: 'assets/man_mountain_biking_color_light.svg',
+    tts: 'man mountain biking',
+    fromVersion: '4.0',
+    glyphAsUtfInEmoticons: ['manmountainbiking'],
+    keywords: ['bicycle', 'bike', 'cyclist', 'man', 'man mountain biking', 'mountain'],
+    mappedToEmoticons: ['manmountainbiking'],
     skinTone: FluentEmojiSkinTone.light,
   );
 
@@ -8380,6 +11155,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'man mountain biking',
     glyph: '🚵🏼‍♂️',
     svgPath: 'assets/man_mountain_biking_color_medium-light.svg',
+    tts: 'man mountain biking',
+    fromVersion: '4.0',
+    glyphAsUtfInEmoticons: ['manmountainbiking'],
+    keywords: ['bicycle', 'bike', 'cyclist', 'man', 'man mountain biking', 'mountain'],
+    mappedToEmoticons: ['manmountainbiking'],
     skinTone: FluentEmojiSkinTone.mediumLight,
   );
 
@@ -8390,6 +11170,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'man mountain biking',
     glyph: '🚵🏽‍♂️',
     svgPath: 'assets/man_mountain_biking_color_medium.svg',
+    tts: 'man mountain biking',
+    fromVersion: '4.0',
+    glyphAsUtfInEmoticons: ['manmountainbiking'],
+    keywords: ['bicycle', 'bike', 'cyclist', 'man', 'man mountain biking', 'mountain'],
+    mappedToEmoticons: ['manmountainbiking'],
     skinTone: FluentEmojiSkinTone.medium,
   );
 
@@ -8400,6 +11185,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'man mountain biking',
     glyph: '🚵🏾‍♂️',
     svgPath: 'assets/man_mountain_biking_color_medium-dark.svg',
+    tts: 'man mountain biking',
+    fromVersion: '4.0',
+    glyphAsUtfInEmoticons: ['manmountainbiking'],
+    keywords: ['bicycle', 'bike', 'cyclist', 'man', 'man mountain biking', 'mountain'],
+    mappedToEmoticons: ['manmountainbiking'],
     skinTone: FluentEmojiSkinTone.mediumDark,
   );
 
@@ -8410,6 +11200,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'man mountain biking',
     glyph: '🚵🏿‍♂️',
     svgPath: 'assets/man_mountain_biking_color_dark.svg',
+    tts: 'man mountain biking',
+    fromVersion: '4.0',
+    glyphAsUtfInEmoticons: ['manmountainbiking'],
+    keywords: ['bicycle', 'bike', 'cyclist', 'man', 'man mountain biking', 'mountain'],
+    mappedToEmoticons: ['manmountainbiking'],
     skinTone: FluentEmojiSkinTone.dark,
   );
 
@@ -8426,6 +11221,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'man office worker',
     glyph: '👨‍💼',
     svgPath: 'assets/man_office_worker_color_default.svg',
+    tts: 'man office worker',
+    fromVersion: '4.0',
+    glyphAsUtfInEmoticons: ['officeworkermale'],
+    keywords: ['architect', 'business', 'man', 'man office worker', 'manager', 'white-collar'],
+    mappedToEmoticons: ['officeworkermale'],
     skinToneLight: _manOfficeWorkerLight,
     skinToneMediumLight: _manOfficeWorkerMediumLight,
     skinToneMedium: _manOfficeWorkerMedium,
@@ -8440,6 +11240,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'man office worker',
     glyph: '👨🏻‍💼',
     svgPath: 'assets/man_office_worker_color_light.svg',
+    tts: 'man office worker',
+    fromVersion: '4.0',
+    glyphAsUtfInEmoticons: ['officeworkermale'],
+    keywords: ['architect', 'business', 'man', 'man office worker', 'manager', 'white-collar'],
+    mappedToEmoticons: ['officeworkermale'],
     skinTone: FluentEmojiSkinTone.light,
   );
 
@@ -8450,6 +11255,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'man office worker',
     glyph: '👨🏼‍💼',
     svgPath: 'assets/man_office_worker_color_medium-light.svg',
+    tts: 'man office worker',
+    fromVersion: '4.0',
+    glyphAsUtfInEmoticons: ['officeworkermale'],
+    keywords: ['architect', 'business', 'man', 'man office worker', 'manager', 'white-collar'],
+    mappedToEmoticons: ['officeworkermale'],
     skinTone: FluentEmojiSkinTone.mediumLight,
   );
 
@@ -8460,6 +11270,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'man office worker',
     glyph: '👨🏽‍💼',
     svgPath: 'assets/man_office_worker_color_medium.svg',
+    tts: 'man office worker',
+    fromVersion: '4.0',
+    glyphAsUtfInEmoticons: ['officeworkermale'],
+    keywords: ['architect', 'business', 'man', 'man office worker', 'manager', 'white-collar'],
+    mappedToEmoticons: ['officeworkermale'],
     skinTone: FluentEmojiSkinTone.medium,
   );
 
@@ -8470,6 +11285,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'man office worker',
     glyph: '👨🏾‍💼',
     svgPath: 'assets/man_office_worker_color_medium-dark.svg',
+    tts: 'man office worker',
+    fromVersion: '4.0',
+    glyphAsUtfInEmoticons: ['officeworkermale'],
+    keywords: ['architect', 'business', 'man', 'man office worker', 'manager', 'white-collar'],
+    mappedToEmoticons: ['officeworkermale'],
     skinTone: FluentEmojiSkinTone.mediumDark,
   );
 
@@ -8480,6 +11300,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'man office worker',
     glyph: '👨🏿‍💼',
     svgPath: 'assets/man_office_worker_color_dark.svg',
+    tts: 'man office worker',
+    fromVersion: '4.0',
+    glyphAsUtfInEmoticons: ['officeworkermale'],
+    keywords: ['architect', 'business', 'man', 'man office worker', 'manager', 'white-collar'],
+    mappedToEmoticons: ['officeworkermale'],
     skinTone: FluentEmojiSkinTone.dark,
   );
 
@@ -8496,6 +11321,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'man pilot',
     glyph: '👨‍✈️',
     svgPath: 'assets/man_pilot_color_default.svg',
+    tts: 'man pilot',
+    fromVersion: '4.0',
+    glyphAsUtfInEmoticons: ['manpilot'],
+    keywords: ['man', 'pilot', 'plane'],
+    mappedToEmoticons: ['manpilot'],
     skinToneLight: _manPilotLight,
     skinToneMediumLight: _manPilotMediumLight,
     skinToneMedium: _manPilotMedium,
@@ -8510,6 +11340,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'man pilot',
     glyph: '👨🏻‍✈️',
     svgPath: 'assets/man_pilot_color_light.svg',
+    tts: 'man pilot',
+    fromVersion: '4.0',
+    glyphAsUtfInEmoticons: ['manpilot'],
+    keywords: ['man', 'pilot', 'plane'],
+    mappedToEmoticons: ['manpilot'],
     skinTone: FluentEmojiSkinTone.light,
   );
 
@@ -8520,6 +11355,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'man pilot',
     glyph: '👨🏼‍✈️',
     svgPath: 'assets/man_pilot_color_medium-light.svg',
+    tts: 'man pilot',
+    fromVersion: '4.0',
+    glyphAsUtfInEmoticons: ['manpilot'],
+    keywords: ['man', 'pilot', 'plane'],
+    mappedToEmoticons: ['manpilot'],
     skinTone: FluentEmojiSkinTone.mediumLight,
   );
 
@@ -8530,6 +11370,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'man pilot',
     glyph: '👨🏽‍✈️',
     svgPath: 'assets/man_pilot_color_medium.svg',
+    tts: 'man pilot',
+    fromVersion: '4.0',
+    glyphAsUtfInEmoticons: ['manpilot'],
+    keywords: ['man', 'pilot', 'plane'],
+    mappedToEmoticons: ['manpilot'],
     skinTone: FluentEmojiSkinTone.medium,
   );
 
@@ -8540,6 +11385,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'man pilot',
     glyph: '👨🏾‍✈️',
     svgPath: 'assets/man_pilot_color_medium-dark.svg',
+    tts: 'man pilot',
+    fromVersion: '4.0',
+    glyphAsUtfInEmoticons: ['manpilot'],
+    keywords: ['man', 'pilot', 'plane'],
+    mappedToEmoticons: ['manpilot'],
     skinTone: FluentEmojiSkinTone.mediumDark,
   );
 
@@ -8550,6 +11400,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'man pilot',
     glyph: '👨🏿‍✈️',
     svgPath: 'assets/man_pilot_color_dark.svg',
+    tts: 'man pilot',
+    fromVersion: '4.0',
+    glyphAsUtfInEmoticons: ['manpilot'],
+    keywords: ['man', 'pilot', 'plane'],
+    mappedToEmoticons: ['manpilot'],
     skinTone: FluentEmojiSkinTone.dark,
   );
 
@@ -8566,6 +11421,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'man playing handball',
     glyph: '🤾‍♂️',
     svgPath: 'assets/man_playing_handball_color_default.svg',
+    tts: 'man playing handball',
+    fromVersion: '4.0',
+    glyphAsUtfInEmoticons: ['manplayinghandball'],
+    keywords: ['handball', 'man', 'man playing handball'],
+    mappedToEmoticons: ['manplayinghandball'],
     skinToneLight: _manPlayingHandballLight,
     skinToneMediumLight: _manPlayingHandballMediumLight,
     skinToneMedium: _manPlayingHandballMedium,
@@ -8580,6 +11440,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'man playing handball',
     glyph: '🤾🏻‍♂️',
     svgPath: 'assets/man_playing_handball_color_light.svg',
+    tts: 'man playing handball',
+    fromVersion: '4.0',
+    glyphAsUtfInEmoticons: ['manplayinghandball'],
+    keywords: ['handball', 'man', 'man playing handball'],
+    mappedToEmoticons: ['manplayinghandball'],
     skinTone: FluentEmojiSkinTone.light,
   );
 
@@ -8590,6 +11455,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'man playing handball',
     glyph: '🤾🏼‍♂️',
     svgPath: 'assets/man_playing_handball_color_medium-light.svg',
+    tts: 'man playing handball',
+    fromVersion: '4.0',
+    glyphAsUtfInEmoticons: ['manplayinghandball'],
+    keywords: ['handball', 'man', 'man playing handball'],
+    mappedToEmoticons: ['manplayinghandball'],
     skinTone: FluentEmojiSkinTone.mediumLight,
   );
 
@@ -8600,6 +11470,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'man playing handball',
     glyph: '🤾🏽‍♂️',
     svgPath: 'assets/man_playing_handball_color_medium.svg',
+    tts: 'man playing handball',
+    fromVersion: '4.0',
+    glyphAsUtfInEmoticons: ['manplayinghandball'],
+    keywords: ['handball', 'man', 'man playing handball'],
+    mappedToEmoticons: ['manplayinghandball'],
     skinTone: FluentEmojiSkinTone.medium,
   );
 
@@ -8610,6 +11485,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'man playing handball',
     glyph: '🤾🏾‍♂️',
     svgPath: 'assets/man_playing_handball_color_medium-dark.svg',
+    tts: 'man playing handball',
+    fromVersion: '4.0',
+    glyphAsUtfInEmoticons: ['manplayinghandball'],
+    keywords: ['handball', 'man', 'man playing handball'],
+    mappedToEmoticons: ['manplayinghandball'],
     skinTone: FluentEmojiSkinTone.mediumDark,
   );
 
@@ -8620,6 +11500,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'man playing handball',
     glyph: '🤾🏿‍♂️',
     svgPath: 'assets/man_playing_handball_color_dark.svg',
+    tts: 'man playing handball',
+    fromVersion: '4.0',
+    glyphAsUtfInEmoticons: ['manplayinghandball'],
+    keywords: ['handball', 'man', 'man playing handball'],
+    mappedToEmoticons: ['manplayinghandball'],
     skinTone: FluentEmojiSkinTone.dark,
   );
 
@@ -8636,6 +11521,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'man playing water polo',
     glyph: '🤽‍♂️',
     svgPath: 'assets/man_playing_water_polo_color_default.svg',
+    tts: 'man playing water polo',
+    fromVersion: '4.0',
+    glyphAsUtfInEmoticons: null,
+    keywords: ['man', 'man playing water polo', 'water polo'],
+    mappedToEmoticons: ['manplayingwaterpolo'],
     skinToneLight: _manPlayingWaterPoloLight,
     skinToneMediumLight: _manPlayingWaterPoloMediumLight,
     skinToneMedium: _manPlayingWaterPoloMedium,
@@ -8650,6 +11540,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'man playing water polo',
     glyph: '🤽🏻‍♂️',
     svgPath: 'assets/man_playing_water_polo_color_light.svg',
+    tts: 'man playing water polo',
+    fromVersion: '4.0',
+    glyphAsUtfInEmoticons: null,
+    keywords: ['man', 'man playing water polo', 'water polo'],
+    mappedToEmoticons: ['manplayingwaterpolo'],
     skinTone: FluentEmojiSkinTone.light,
   );
 
@@ -8660,6 +11555,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'man playing water polo',
     glyph: '🤽🏼‍♂️',
     svgPath: 'assets/man_playing_water_polo_color_medium-light.svg',
+    tts: 'man playing water polo',
+    fromVersion: '4.0',
+    glyphAsUtfInEmoticons: null,
+    keywords: ['man', 'man playing water polo', 'water polo'],
+    mappedToEmoticons: ['manplayingwaterpolo'],
     skinTone: FluentEmojiSkinTone.mediumLight,
   );
 
@@ -8670,6 +11570,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'man playing water polo',
     glyph: '🤽🏽‍♂️',
     svgPath: 'assets/man_playing_water_polo_color_medium.svg',
+    tts: 'man playing water polo',
+    fromVersion: '4.0',
+    glyphAsUtfInEmoticons: null,
+    keywords: ['man', 'man playing water polo', 'water polo'],
+    mappedToEmoticons: ['manplayingwaterpolo'],
     skinTone: FluentEmojiSkinTone.medium,
   );
 
@@ -8680,6 +11585,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'man playing water polo',
     glyph: '🤽🏾‍♂️',
     svgPath: 'assets/man_playing_water_polo_color_medium-dark.svg',
+    tts: 'man playing water polo',
+    fromVersion: '4.0',
+    glyphAsUtfInEmoticons: null,
+    keywords: ['man', 'man playing water polo', 'water polo'],
+    mappedToEmoticons: ['manplayingwaterpolo'],
     skinTone: FluentEmojiSkinTone.mediumDark,
   );
 
@@ -8690,6 +11600,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'man playing water polo',
     glyph: '🤽🏿‍♂️',
     svgPath: 'assets/man_playing_water_polo_color_dark.svg',
+    tts: 'man playing water polo',
+    fromVersion: '4.0',
+    glyphAsUtfInEmoticons: null,
+    keywords: ['man', 'man playing water polo', 'water polo'],
+    mappedToEmoticons: ['manplayingwaterpolo'],
     skinTone: FluentEmojiSkinTone.dark,
   );
 
@@ -8706,6 +11621,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'man police officer',
     glyph: '👮‍♂️',
     svgPath: 'assets/man_police_officer_color_default.svg',
+    tts: 'man police officer',
+    fromVersion: '4.0',
+    glyphAsUtfInEmoticons: ['manpoliceofficer'],
+    keywords: ['cop', 'man', 'officer', 'police'],
+    mappedToEmoticons: ['manpoliceofficer'],
     skinToneLight: _manPoliceOfficerLight,
     skinToneMediumLight: _manPoliceOfficerMediumLight,
     skinToneMedium: _manPoliceOfficerMedium,
@@ -8720,6 +11640,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'man police officer',
     glyph: '👮🏻‍♂️',
     svgPath: 'assets/man_police_officer_color_light.svg',
+    tts: 'man police officer',
+    fromVersion: '4.0',
+    glyphAsUtfInEmoticons: ['manpoliceofficer'],
+    keywords: ['cop', 'man', 'officer', 'police'],
+    mappedToEmoticons: ['manpoliceofficer'],
     skinTone: FluentEmojiSkinTone.light,
   );
 
@@ -8730,6 +11655,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'man police officer',
     glyph: '👮🏼‍♂️',
     svgPath: 'assets/man_police_officer_color_medium-light.svg',
+    tts: 'man police officer',
+    fromVersion: '4.0',
+    glyphAsUtfInEmoticons: ['manpoliceofficer'],
+    keywords: ['cop', 'man', 'officer', 'police'],
+    mappedToEmoticons: ['manpoliceofficer'],
     skinTone: FluentEmojiSkinTone.mediumLight,
   );
 
@@ -8740,6 +11670,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'man police officer',
     glyph: '👮🏽‍♂️',
     svgPath: 'assets/man_police_officer_color_medium.svg',
+    tts: 'man police officer',
+    fromVersion: '4.0',
+    glyphAsUtfInEmoticons: ['manpoliceofficer'],
+    keywords: ['cop', 'man', 'officer', 'police'],
+    mappedToEmoticons: ['manpoliceofficer'],
     skinTone: FluentEmojiSkinTone.medium,
   );
 
@@ -8750,6 +11685,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'man police officer',
     glyph: '👮🏾‍♂️',
     svgPath: 'assets/man_police_officer_color_medium-dark.svg',
+    tts: 'man police officer',
+    fromVersion: '4.0',
+    glyphAsUtfInEmoticons: ['manpoliceofficer'],
+    keywords: ['cop', 'man', 'officer', 'police'],
+    mappedToEmoticons: ['manpoliceofficer'],
     skinTone: FluentEmojiSkinTone.mediumDark,
   );
 
@@ -8760,6 +11700,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'man police officer',
     glyph: '👮🏿‍♂️',
     svgPath: 'assets/man_police_officer_color_dark.svg',
+    tts: 'man police officer',
+    fromVersion: '4.0',
+    glyphAsUtfInEmoticons: ['manpoliceofficer'],
+    keywords: ['cop', 'man', 'officer', 'police'],
+    mappedToEmoticons: ['manpoliceofficer'],
     skinTone: FluentEmojiSkinTone.dark,
   );
 
@@ -8776,6 +11721,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'man pouting',
     glyph: '🙎‍♂️',
     svgPath: 'assets/man_pouting_color_default.svg',
+    tts: 'man pouting',
+    fromVersion: '4.0',
+    glyphAsUtfInEmoticons: ['man_pouting'],
+    keywords: ['gesture', 'man', 'pouting'],
+    mappedToEmoticons: ['man_pouting'],
     skinToneLight: _manPoutingLight,
     skinToneMediumLight: _manPoutingMediumLight,
     skinToneMedium: _manPoutingMedium,
@@ -8790,6 +11740,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'man pouting',
     glyph: '🙎🏻‍♂️',
     svgPath: 'assets/man_pouting_color_light.svg',
+    tts: 'man pouting',
+    fromVersion: '4.0',
+    glyphAsUtfInEmoticons: ['man_pouting'],
+    keywords: ['gesture', 'man', 'pouting'],
+    mappedToEmoticons: ['man_pouting'],
     skinTone: FluentEmojiSkinTone.light,
   );
 
@@ -8800,6 +11755,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'man pouting',
     glyph: '🙎🏼‍♂️',
     svgPath: 'assets/man_pouting_color_medium-light.svg',
+    tts: 'man pouting',
+    fromVersion: '4.0',
+    glyphAsUtfInEmoticons: ['man_pouting'],
+    keywords: ['gesture', 'man', 'pouting'],
+    mappedToEmoticons: ['man_pouting'],
     skinTone: FluentEmojiSkinTone.mediumLight,
   );
 
@@ -8810,6 +11770,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'man pouting',
     glyph: '🙎🏽‍♂️',
     svgPath: 'assets/man_pouting_color_medium.svg',
+    tts: 'man pouting',
+    fromVersion: '4.0',
+    glyphAsUtfInEmoticons: ['man_pouting'],
+    keywords: ['gesture', 'man', 'pouting'],
+    mappedToEmoticons: ['man_pouting'],
     skinTone: FluentEmojiSkinTone.medium,
   );
 
@@ -8820,6 +11785,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'man pouting',
     glyph: '🙎🏾‍♂️',
     svgPath: 'assets/man_pouting_color_medium-dark.svg',
+    tts: 'man pouting',
+    fromVersion: '4.0',
+    glyphAsUtfInEmoticons: ['man_pouting'],
+    keywords: ['gesture', 'man', 'pouting'],
+    mappedToEmoticons: ['man_pouting'],
     skinTone: FluentEmojiSkinTone.mediumDark,
   );
 
@@ -8830,6 +11800,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'man pouting',
     glyph: '🙎🏿‍♂️',
     svgPath: 'assets/man_pouting_color_dark.svg',
+    tts: 'man pouting',
+    fromVersion: '4.0',
+    glyphAsUtfInEmoticons: ['man_pouting'],
+    keywords: ['gesture', 'man', 'pouting'],
+    mappedToEmoticons: ['man_pouting'],
     skinTone: FluentEmojiSkinTone.dark,
   );
 
@@ -8846,6 +11821,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'man raising hand',
     glyph: '🙋‍♂️',
     svgPath: 'assets/man_raising_hand_color_default.svg',
+    tts: 'man raising hand',
+    fromVersion: '4.0',
+    glyphAsUtfInEmoticons: ['man_raising_hand'],
+    keywords: ['gesture', 'man', 'man raising hand', 'raising hand'],
+    mappedToEmoticons: ['man_raising_hand'],
     skinToneLight: _manRaisingHandLight,
     skinToneMediumLight: _manRaisingHandMediumLight,
     skinToneMedium: _manRaisingHandMedium,
@@ -8860,6 +11840,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'man raising hand',
     glyph: '🙋🏻‍♂️',
     svgPath: 'assets/man_raising_hand_color_light.svg',
+    tts: 'man raising hand',
+    fromVersion: '4.0',
+    glyphAsUtfInEmoticons: ['man_raising_hand'],
+    keywords: ['gesture', 'man', 'man raising hand', 'raising hand'],
+    mappedToEmoticons: ['man_raising_hand'],
     skinTone: FluentEmojiSkinTone.light,
   );
 
@@ -8870,6 +11855,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'man raising hand',
     glyph: '🙋🏼‍♂️',
     svgPath: 'assets/man_raising_hand_color_medium-light.svg',
+    tts: 'man raising hand',
+    fromVersion: '4.0',
+    glyphAsUtfInEmoticons: ['man_raising_hand'],
+    keywords: ['gesture', 'man', 'man raising hand', 'raising hand'],
+    mappedToEmoticons: ['man_raising_hand'],
     skinTone: FluentEmojiSkinTone.mediumLight,
   );
 
@@ -8880,6 +11870,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'man raising hand',
     glyph: '🙋🏽‍♂️',
     svgPath: 'assets/man_raising_hand_color_medium.svg',
+    tts: 'man raising hand',
+    fromVersion: '4.0',
+    glyphAsUtfInEmoticons: ['man_raising_hand'],
+    keywords: ['gesture', 'man', 'man raising hand', 'raising hand'],
+    mappedToEmoticons: ['man_raising_hand'],
     skinTone: FluentEmojiSkinTone.medium,
   );
 
@@ -8890,6 +11885,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'man raising hand',
     glyph: '🙋🏾‍♂️',
     svgPath: 'assets/man_raising_hand_color_medium-dark.svg',
+    tts: 'man raising hand',
+    fromVersion: '4.0',
+    glyphAsUtfInEmoticons: ['man_raising_hand'],
+    keywords: ['gesture', 'man', 'man raising hand', 'raising hand'],
+    mappedToEmoticons: ['man_raising_hand'],
     skinTone: FluentEmojiSkinTone.mediumDark,
   );
 
@@ -8900,6 +11900,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'man raising hand',
     glyph: '🙋🏿‍♂️',
     svgPath: 'assets/man_raising_hand_color_dark.svg',
+    tts: 'man raising hand',
+    fromVersion: '4.0',
+    glyphAsUtfInEmoticons: ['man_raising_hand'],
+    keywords: ['gesture', 'man', 'man raising hand', 'raising hand'],
+    mappedToEmoticons: ['man_raising_hand'],
     skinTone: FluentEmojiSkinTone.dark,
   );
 
@@ -8916,6 +11921,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'man rowing boat',
     glyph: '🚣‍♂️',
     svgPath: 'assets/man_rowing_boat_color_default.svg',
+    tts: 'man rowing boat',
+    fromVersion: '4.0',
+    glyphAsUtfInEmoticons: ['manrowingboat'],
+    keywords: ['boat', 'man', 'man rowing boat', 'rowboat'],
+    mappedToEmoticons: ['manrowingboat'],
     skinToneLight: _manRowingBoatLight,
     skinToneMediumLight: _manRowingBoatMediumLight,
     skinToneMedium: _manRowingBoatMedium,
@@ -8930,6 +11940,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'man rowing boat',
     glyph: '🚣🏻‍♂️',
     svgPath: 'assets/man_rowing_boat_color_light.svg',
+    tts: 'man rowing boat',
+    fromVersion: '4.0',
+    glyphAsUtfInEmoticons: ['manrowingboat'],
+    keywords: ['boat', 'man', 'man rowing boat', 'rowboat'],
+    mappedToEmoticons: ['manrowingboat'],
     skinTone: FluentEmojiSkinTone.light,
   );
 
@@ -8940,6 +11955,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'man rowing boat',
     glyph: '🚣🏼‍♂️',
     svgPath: 'assets/man_rowing_boat_color_medium-light.svg',
+    tts: 'man rowing boat',
+    fromVersion: '4.0',
+    glyphAsUtfInEmoticons: ['manrowingboat'],
+    keywords: ['boat', 'man', 'man rowing boat', 'rowboat'],
+    mappedToEmoticons: ['manrowingboat'],
     skinTone: FluentEmojiSkinTone.mediumLight,
   );
 
@@ -8950,6 +11970,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'man rowing boat',
     glyph: '🚣🏽‍♂️',
     svgPath: 'assets/man_rowing_boat_color_medium.svg',
+    tts: 'man rowing boat',
+    fromVersion: '4.0',
+    glyphAsUtfInEmoticons: ['manrowingboat'],
+    keywords: ['boat', 'man', 'man rowing boat', 'rowboat'],
+    mappedToEmoticons: ['manrowingboat'],
     skinTone: FluentEmojiSkinTone.medium,
   );
 
@@ -8960,6 +11985,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'man rowing boat',
     glyph: '🚣🏾‍♂️',
     svgPath: 'assets/man_rowing_boat_color_medium-dark.svg',
+    tts: 'man rowing boat',
+    fromVersion: '4.0',
+    glyphAsUtfInEmoticons: ['manrowingboat'],
+    keywords: ['boat', 'man', 'man rowing boat', 'rowboat'],
+    mappedToEmoticons: ['manrowingboat'],
     skinTone: FluentEmojiSkinTone.mediumDark,
   );
 
@@ -8970,6 +12000,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'man rowing boat',
     glyph: '🚣🏿‍♂️',
     svgPath: 'assets/man_rowing_boat_color_dark.svg',
+    tts: 'man rowing boat',
+    fromVersion: '4.0',
+    glyphAsUtfInEmoticons: ['manrowingboat'],
+    keywords: ['boat', 'man', 'man rowing boat', 'rowboat'],
+    mappedToEmoticons: ['manrowingboat'],
     skinTone: FluentEmojiSkinTone.dark,
   );
 
@@ -8986,6 +12021,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'man running',
     glyph: '🏃‍♂️',
     svgPath: 'assets/man_running_color_default.svg',
+    tts: 'man running',
+    fromVersion: '4.0',
+    glyphAsUtfInEmoticons: null,
+    keywords: ['man', 'marathon', 'racing', 'running'],
+    mappedToEmoticons: ['gottarun'],
     skinToneLight: _manRunningLight,
     skinToneMediumLight: _manRunningMediumLight,
     skinToneMedium: _manRunningMedium,
@@ -9000,6 +12040,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'man running',
     glyph: '🏃🏻‍♂️',
     svgPath: 'assets/man_running_color_light.svg',
+    tts: 'man running',
+    fromVersion: '4.0',
+    glyphAsUtfInEmoticons: null,
+    keywords: ['man', 'marathon', 'racing', 'running'],
+    mappedToEmoticons: ['gottarun'],
     skinTone: FluentEmojiSkinTone.light,
   );
 
@@ -9010,6 +12055,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'man running',
     glyph: '🏃🏼‍♂️',
     svgPath: 'assets/man_running_color_medium-light.svg',
+    tts: 'man running',
+    fromVersion: '4.0',
+    glyphAsUtfInEmoticons: null,
+    keywords: ['man', 'marathon', 'racing', 'running'],
+    mappedToEmoticons: ['gottarun'],
     skinTone: FluentEmojiSkinTone.mediumLight,
   );
 
@@ -9020,6 +12070,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'man running',
     glyph: '🏃🏽‍♂️',
     svgPath: 'assets/man_running_color_medium.svg',
+    tts: 'man running',
+    fromVersion: '4.0',
+    glyphAsUtfInEmoticons: null,
+    keywords: ['man', 'marathon', 'racing', 'running'],
+    mappedToEmoticons: ['gottarun'],
     skinTone: FluentEmojiSkinTone.medium,
   );
 
@@ -9030,6 +12085,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'man running',
     glyph: '🏃🏾‍♂️',
     svgPath: 'assets/man_running_color_medium-dark.svg',
+    tts: 'man running',
+    fromVersion: '4.0',
+    glyphAsUtfInEmoticons: null,
+    keywords: ['man', 'marathon', 'racing', 'running'],
+    mappedToEmoticons: ['gottarun'],
     skinTone: FluentEmojiSkinTone.mediumDark,
   );
 
@@ -9040,6 +12100,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'man running',
     glyph: '🏃🏿‍♂️',
     svgPath: 'assets/man_running_color_dark.svg',
+    tts: 'man running',
+    fromVersion: '4.0',
+    glyphAsUtfInEmoticons: null,
+    keywords: ['man', 'marathon', 'racing', 'running'],
+    mappedToEmoticons: ['gottarun'],
     skinTone: FluentEmojiSkinTone.dark,
   );
 
@@ -9056,6 +12121,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'man running facing right',
     glyph: '🏃‍♂️‍➡️',
     svgPath: 'assets/man_running_facing_right_color_default.svg',
+    tts: '',
+    fromVersion: '15.1',
+    glyphAsUtfInEmoticons: null,
+    keywords: ['man', 'marathon', 'racing', 'running'],
+    mappedToEmoticons: [],
     skinToneLight: _manRunningFacingRightLight,
     skinToneMediumLight: _manRunningFacingRightMediumLight,
     skinToneMedium: _manRunningFacingRightMedium,
@@ -9070,6 +12140,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'man running facing right',
     glyph: '🏃🏻‍♂️‍➡️',
     svgPath: 'assets/man_running_facing_right_color_light.svg',
+    tts: '',
+    fromVersion: '15.1',
+    glyphAsUtfInEmoticons: null,
+    keywords: ['man', 'marathon', 'racing', 'running'],
+    mappedToEmoticons: [],
     skinTone: FluentEmojiSkinTone.light,
   );
 
@@ -9080,6 +12155,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'man running facing right',
     glyph: '🏃🏼‍♂️‍➡️',
     svgPath: 'assets/man_running_facing_right_color_medium-light.svg',
+    tts: '',
+    fromVersion: '15.1',
+    glyphAsUtfInEmoticons: null,
+    keywords: ['man', 'marathon', 'racing', 'running'],
+    mappedToEmoticons: [],
     skinTone: FluentEmojiSkinTone.mediumLight,
   );
 
@@ -9090,6 +12170,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'man running facing right',
     glyph: '🏃🏽‍♂️‍➡️',
     svgPath: 'assets/man_running_facing_right_color_medium.svg',
+    tts: '',
+    fromVersion: '15.1',
+    glyphAsUtfInEmoticons: null,
+    keywords: ['man', 'marathon', 'racing', 'running'],
+    mappedToEmoticons: [],
     skinTone: FluentEmojiSkinTone.medium,
   );
 
@@ -9100,6 +12185,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'man running facing right',
     glyph: '🏃🏾‍♂️‍➡️',
     svgPath: 'assets/man_running_facing_right_color_medium-dark.svg',
+    tts: '',
+    fromVersion: '15.1',
+    glyphAsUtfInEmoticons: null,
+    keywords: ['man', 'marathon', 'racing', 'running'],
+    mappedToEmoticons: [],
     skinTone: FluentEmojiSkinTone.mediumDark,
   );
 
@@ -9110,6 +12200,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'man running facing right',
     glyph: '🏃🏿‍♂️‍➡️',
     svgPath: 'assets/man_running_facing_right_color_dark.svg',
+    tts: '',
+    fromVersion: '15.1',
+    glyphAsUtfInEmoticons: null,
+    keywords: ['man', 'marathon', 'racing', 'running'],
+    mappedToEmoticons: [],
     skinTone: FluentEmojiSkinTone.dark,
   );
 
@@ -9126,6 +12221,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'man scientist',
     glyph: '👨‍🔬',
     svgPath: 'assets/man_scientist_color_default.svg',
+    tts: 'man scientist',
+    fromVersion: '4.0',
+    glyphAsUtfInEmoticons: ['manscientist'],
+    keywords: ['biologist', 'chemist', 'engineer', 'man', 'physicist', 'scientist'],
+    mappedToEmoticons: ['manscientist'],
     skinToneLight: _manScientistLight,
     skinToneMediumLight: _manScientistMediumLight,
     skinToneMedium: _manScientistMedium,
@@ -9140,6 +12240,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'man scientist',
     glyph: '👨🏻‍🔬',
     svgPath: 'assets/man_scientist_color_light.svg',
+    tts: 'man scientist',
+    fromVersion: '4.0',
+    glyphAsUtfInEmoticons: ['manscientist'],
+    keywords: ['biologist', 'chemist', 'engineer', 'man', 'physicist', 'scientist'],
+    mappedToEmoticons: ['manscientist'],
     skinTone: FluentEmojiSkinTone.light,
   );
 
@@ -9150,6 +12255,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'man scientist',
     glyph: '👨🏼‍🔬',
     svgPath: 'assets/man_scientist_color_medium-light.svg',
+    tts: 'man scientist',
+    fromVersion: '4.0',
+    glyphAsUtfInEmoticons: ['manscientist'],
+    keywords: ['biologist', 'chemist', 'engineer', 'man', 'physicist', 'scientist'],
+    mappedToEmoticons: ['manscientist'],
     skinTone: FluentEmojiSkinTone.mediumLight,
   );
 
@@ -9160,6 +12270,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'man scientist',
     glyph: '👨🏽‍🔬',
     svgPath: 'assets/man_scientist_color_medium.svg',
+    tts: 'man scientist',
+    fromVersion: '4.0',
+    glyphAsUtfInEmoticons: ['manscientist'],
+    keywords: ['biologist', 'chemist', 'engineer', 'man', 'physicist', 'scientist'],
+    mappedToEmoticons: ['manscientist'],
     skinTone: FluentEmojiSkinTone.medium,
   );
 
@@ -9170,6 +12285,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'man scientist',
     glyph: '👨🏾‍🔬',
     svgPath: 'assets/man_scientist_color_medium-dark.svg',
+    tts: 'man scientist',
+    fromVersion: '4.0',
+    glyphAsUtfInEmoticons: ['manscientist'],
+    keywords: ['biologist', 'chemist', 'engineer', 'man', 'physicist', 'scientist'],
+    mappedToEmoticons: ['manscientist'],
     skinTone: FluentEmojiSkinTone.mediumDark,
   );
 
@@ -9180,6 +12300,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'man scientist',
     glyph: '👨🏿‍🔬',
     svgPath: 'assets/man_scientist_color_dark.svg',
+    tts: 'man scientist',
+    fromVersion: '4.0',
+    glyphAsUtfInEmoticons: ['manscientist'],
+    keywords: ['biologist', 'chemist', 'engineer', 'man', 'physicist', 'scientist'],
+    mappedToEmoticons: ['manscientist'],
     skinTone: FluentEmojiSkinTone.dark,
   );
 
@@ -9196,6 +12321,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'man shrugging',
     glyph: '🤷‍♂️',
     svgPath: 'assets/man_shrugging_color_default.svg',
+    tts: 'man shrugging',
+    fromVersion: '4.0',
+    glyphAsUtfInEmoticons: ['glassceiling'],
+    keywords: ['doubt', 'ignorance', 'indifference', 'man', 'man shrugging', 'shrug'],
+    mappedToEmoticons: ['manshrug'],
     skinToneLight: _manShruggingLight,
     skinToneMediumLight: _manShruggingMediumLight,
     skinToneMedium: _manShruggingMedium,
@@ -9210,6 +12340,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'man shrugging',
     glyph: '🤷🏻‍♂️',
     svgPath: 'assets/man_shrugging_color_light.svg',
+    tts: 'man shrugging',
+    fromVersion: '4.0',
+    glyphAsUtfInEmoticons: ['glassceiling'],
+    keywords: ['doubt', 'ignorance', 'indifference', 'man', 'man shrugging', 'shrug'],
+    mappedToEmoticons: ['manshrug'],
     skinTone: FluentEmojiSkinTone.light,
   );
 
@@ -9220,6 +12355,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'man shrugging',
     glyph: '🤷🏼‍♂️',
     svgPath: 'assets/man_shrugging_color_medium-light.svg',
+    tts: 'man shrugging',
+    fromVersion: '4.0',
+    glyphAsUtfInEmoticons: ['glassceiling'],
+    keywords: ['doubt', 'ignorance', 'indifference', 'man', 'man shrugging', 'shrug'],
+    mappedToEmoticons: ['manshrug'],
     skinTone: FluentEmojiSkinTone.mediumLight,
   );
 
@@ -9230,6 +12370,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'man shrugging',
     glyph: '🤷🏽‍♂️',
     svgPath: 'assets/man_shrugging_color_medium.svg',
+    tts: 'man shrugging',
+    fromVersion: '4.0',
+    glyphAsUtfInEmoticons: ['glassceiling'],
+    keywords: ['doubt', 'ignorance', 'indifference', 'man', 'man shrugging', 'shrug'],
+    mappedToEmoticons: ['manshrug'],
     skinTone: FluentEmojiSkinTone.medium,
   );
 
@@ -9240,6 +12385,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'man shrugging',
     glyph: '🤷🏾‍♂️',
     svgPath: 'assets/man_shrugging_color_medium-dark.svg',
+    tts: 'man shrugging',
+    fromVersion: '4.0',
+    glyphAsUtfInEmoticons: ['glassceiling'],
+    keywords: ['doubt', 'ignorance', 'indifference', 'man', 'man shrugging', 'shrug'],
+    mappedToEmoticons: ['manshrug'],
     skinTone: FluentEmojiSkinTone.mediumDark,
   );
 
@@ -9250,6 +12400,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'man shrugging',
     glyph: '🤷🏿‍♂️',
     svgPath: 'assets/man_shrugging_color_dark.svg',
+    tts: 'man shrugging',
+    fromVersion: '4.0',
+    glyphAsUtfInEmoticons: ['glassceiling'],
+    keywords: ['doubt', 'ignorance', 'indifference', 'man', 'man shrugging', 'shrug'],
+    mappedToEmoticons: ['manshrug'],
     skinTone: FluentEmojiSkinTone.dark,
   );
 
@@ -9266,6 +12421,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'man singer',
     glyph: '👨‍🎤',
     svgPath: 'assets/man_singer_color_default.svg',
+    tts: 'man singer',
+    fromVersion: '4.0',
+    glyphAsUtfInEmoticons: ['man_singer'],
+    keywords: ['actor', 'entertainer', 'man', 'rock', 'singer', 'star'],
+    mappedToEmoticons: ['man_singer'],
     skinToneLight: _manSingerLight,
     skinToneMediumLight: _manSingerMediumLight,
     skinToneMedium: _manSingerMedium,
@@ -9280,6 +12440,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'man singer',
     glyph: '👨🏻‍🎤',
     svgPath: 'assets/man_singer_color_light.svg',
+    tts: 'man singer',
+    fromVersion: '4.0',
+    glyphAsUtfInEmoticons: ['man_singer'],
+    keywords: ['actor', 'entertainer', 'man', 'rock', 'singer', 'star'],
+    mappedToEmoticons: ['man_singer'],
     skinTone: FluentEmojiSkinTone.light,
   );
 
@@ -9290,6 +12455,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'man singer',
     glyph: '👨🏼‍🎤',
     svgPath: 'assets/man_singer_color_medium-light.svg',
+    tts: 'man singer',
+    fromVersion: '4.0',
+    glyphAsUtfInEmoticons: ['man_singer'],
+    keywords: ['actor', 'entertainer', 'man', 'rock', 'singer', 'star'],
+    mappedToEmoticons: ['man_singer'],
     skinTone: FluentEmojiSkinTone.mediumLight,
   );
 
@@ -9300,6 +12470,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'man singer',
     glyph: '👨🏽‍🎤',
     svgPath: 'assets/man_singer_color_medium.svg',
+    tts: 'man singer',
+    fromVersion: '4.0',
+    glyphAsUtfInEmoticons: ['man_singer'],
+    keywords: ['actor', 'entertainer', 'man', 'rock', 'singer', 'star'],
+    mappedToEmoticons: ['man_singer'],
     skinTone: FluentEmojiSkinTone.medium,
   );
 
@@ -9310,6 +12485,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'man singer',
     glyph: '👨🏾‍🎤',
     svgPath: 'assets/man_singer_color_medium-dark.svg',
+    tts: 'man singer',
+    fromVersion: '4.0',
+    glyphAsUtfInEmoticons: ['man_singer'],
+    keywords: ['actor', 'entertainer', 'man', 'rock', 'singer', 'star'],
+    mappedToEmoticons: ['man_singer'],
     skinTone: FluentEmojiSkinTone.mediumDark,
   );
 
@@ -9320,6 +12500,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'man singer',
     glyph: '👨🏿‍🎤',
     svgPath: 'assets/man_singer_color_dark.svg',
+    tts: 'man singer',
+    fromVersion: '4.0',
+    glyphAsUtfInEmoticons: ['man_singer'],
+    keywords: ['actor', 'entertainer', 'man', 'rock', 'singer', 'star'],
+    mappedToEmoticons: ['man_singer'],
     skinTone: FluentEmojiSkinTone.dark,
   );
 
@@ -9336,6 +12521,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'man standing',
     glyph: '🧍‍♂️',
     svgPath: 'assets/man_standing_color_default.svg',
+    tts: 'man standing',
+    fromVersion: '12.0',
+    glyphAsUtfInEmoticons: ['manstanding'],
+    keywords: ['man', 'standing'],
+    mappedToEmoticons: ['manstanding'],
     skinToneLight: _manStandingLight,
     skinToneMediumLight: _manStandingMediumLight,
     skinToneMedium: _manStandingMedium,
@@ -9350,6 +12540,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'man standing',
     glyph: '🧍🏻‍♂️',
     svgPath: 'assets/man_standing_color_light.svg',
+    tts: 'man standing',
+    fromVersion: '12.0',
+    glyphAsUtfInEmoticons: ['manstanding'],
+    keywords: ['man', 'standing'],
+    mappedToEmoticons: ['manstanding'],
     skinTone: FluentEmojiSkinTone.light,
   );
 
@@ -9360,6 +12555,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'man standing',
     glyph: '🧍🏼‍♂️',
     svgPath: 'assets/man_standing_color_medium-light.svg',
+    tts: 'man standing',
+    fromVersion: '12.0',
+    glyphAsUtfInEmoticons: ['manstanding'],
+    keywords: ['man', 'standing'],
+    mappedToEmoticons: ['manstanding'],
     skinTone: FluentEmojiSkinTone.mediumLight,
   );
 
@@ -9370,6 +12570,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'man standing',
     glyph: '🧍🏽‍♂️',
     svgPath: 'assets/man_standing_color_medium.svg',
+    tts: 'man standing',
+    fromVersion: '12.0',
+    glyphAsUtfInEmoticons: ['manstanding'],
+    keywords: ['man', 'standing'],
+    mappedToEmoticons: ['manstanding'],
     skinTone: FluentEmojiSkinTone.medium,
   );
 
@@ -9380,6 +12585,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'man standing',
     glyph: '🧍🏾‍♂️',
     svgPath: 'assets/man_standing_color_medium-dark.svg',
+    tts: 'man standing',
+    fromVersion: '12.0',
+    glyphAsUtfInEmoticons: ['manstanding'],
+    keywords: ['man', 'standing'],
+    mappedToEmoticons: ['manstanding'],
     skinTone: FluentEmojiSkinTone.mediumDark,
   );
 
@@ -9390,6 +12600,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'man standing',
     glyph: '🧍🏿‍♂️',
     svgPath: 'assets/man_standing_color_dark.svg',
+    tts: 'man standing',
+    fromVersion: '12.0',
+    glyphAsUtfInEmoticons: ['manstanding'],
+    keywords: ['man', 'standing'],
+    mappedToEmoticons: ['manstanding'],
     skinTone: FluentEmojiSkinTone.dark,
   );
 
@@ -9406,6 +12621,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'man student',
     glyph: '👨‍🎓',
     svgPath: 'assets/man_student_color_default.svg',
+    tts: 'man student',
+    fromVersion: '4.0',
+    glyphAsUtfInEmoticons: ['mangraduate'],
+    keywords: ['graduate', 'man', 'student'],
+    mappedToEmoticons: ['manstudent'],
     skinToneLight: _manStudentLight,
     skinToneMediumLight: _manStudentMediumLight,
     skinToneMedium: _manStudentMedium,
@@ -9420,6 +12640,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'man student',
     glyph: '👨🏻‍🎓',
     svgPath: 'assets/man_student_color_light.svg',
+    tts: 'man student',
+    fromVersion: '4.0',
+    glyphAsUtfInEmoticons: ['mangraduate'],
+    keywords: ['graduate', 'man', 'student'],
+    mappedToEmoticons: ['manstudent'],
     skinTone: FluentEmojiSkinTone.light,
   );
 
@@ -9430,6 +12655,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'man student',
     glyph: '👨🏼‍🎓',
     svgPath: 'assets/man_student_color_medium-light.svg',
+    tts: 'man student',
+    fromVersion: '4.0',
+    glyphAsUtfInEmoticons: ['mangraduate'],
+    keywords: ['graduate', 'man', 'student'],
+    mappedToEmoticons: ['manstudent'],
     skinTone: FluentEmojiSkinTone.mediumLight,
   );
 
@@ -9440,6 +12670,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'man student',
     glyph: '👨🏽‍🎓',
     svgPath: 'assets/man_student_color_medium.svg',
+    tts: 'man student',
+    fromVersion: '4.0',
+    glyphAsUtfInEmoticons: ['mangraduate'],
+    keywords: ['graduate', 'man', 'student'],
+    mappedToEmoticons: ['manstudent'],
     skinTone: FluentEmojiSkinTone.medium,
   );
 
@@ -9450,6 +12685,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'man student',
     glyph: '👨🏾‍🎓',
     svgPath: 'assets/man_student_color_medium-dark.svg',
+    tts: 'man student',
+    fromVersion: '4.0',
+    glyphAsUtfInEmoticons: ['mangraduate'],
+    keywords: ['graduate', 'man', 'student'],
+    mappedToEmoticons: ['manstudent'],
     skinTone: FluentEmojiSkinTone.mediumDark,
   );
 
@@ -9460,6 +12700,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'man student',
     glyph: '👨🏿‍🎓',
     svgPath: 'assets/man_student_color_dark.svg',
+    tts: 'man student',
+    fromVersion: '4.0',
+    glyphAsUtfInEmoticons: ['mangraduate'],
+    keywords: ['graduate', 'man', 'student'],
+    mappedToEmoticons: ['manstudent'],
     skinTone: FluentEmojiSkinTone.dark,
   );
 
@@ -9476,6 +12721,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'man superhero',
     glyph: '🦸‍♂️',
     svgPath: 'assets/man_superhero_color_default.svg',
+    tts: 'man superhero',
+    fromVersion: '11.0',
+    glyphAsUtfInEmoticons: ['mansuperhero'],
+    keywords: ['good', 'hero', 'man', 'man superhero', 'superpower'],
+    mappedToEmoticons: ['mansuperhero'],
     skinToneLight: _manSuperheroLight,
     skinToneMediumLight: _manSuperheroMediumLight,
     skinToneMedium: _manSuperheroMedium,
@@ -9490,6 +12740,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'man superhero',
     glyph: '🦸🏻‍♂️',
     svgPath: 'assets/man_superhero_color_light.svg',
+    tts: 'man superhero',
+    fromVersion: '11.0',
+    glyphAsUtfInEmoticons: ['mansuperhero'],
+    keywords: ['good', 'hero', 'man', 'man superhero', 'superpower'],
+    mappedToEmoticons: ['mansuperhero'],
     skinTone: FluentEmojiSkinTone.light,
   );
 
@@ -9500,6 +12755,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'man superhero',
     glyph: '🦸🏼‍♂️',
     svgPath: 'assets/man_superhero_color_medium-light.svg',
+    tts: 'man superhero',
+    fromVersion: '11.0',
+    glyphAsUtfInEmoticons: ['mansuperhero'],
+    keywords: ['good', 'hero', 'man', 'man superhero', 'superpower'],
+    mappedToEmoticons: ['mansuperhero'],
     skinTone: FluentEmojiSkinTone.mediumLight,
   );
 
@@ -9510,6 +12770,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'man superhero',
     glyph: '🦸🏽‍♂️',
     svgPath: 'assets/man_superhero_color_medium.svg',
+    tts: 'man superhero',
+    fromVersion: '11.0',
+    glyphAsUtfInEmoticons: ['mansuperhero'],
+    keywords: ['good', 'hero', 'man', 'man superhero', 'superpower'],
+    mappedToEmoticons: ['mansuperhero'],
     skinTone: FluentEmojiSkinTone.medium,
   );
 
@@ -9520,6 +12785,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'man superhero',
     glyph: '🦸🏾‍♂️',
     svgPath: 'assets/man_superhero_color_medium-dark.svg',
+    tts: 'man superhero',
+    fromVersion: '11.0',
+    glyphAsUtfInEmoticons: ['mansuperhero'],
+    keywords: ['good', 'hero', 'man', 'man superhero', 'superpower'],
+    mappedToEmoticons: ['mansuperhero'],
     skinTone: FluentEmojiSkinTone.mediumDark,
   );
 
@@ -9530,6 +12800,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'man superhero',
     glyph: '🦸🏿‍♂️',
     svgPath: 'assets/man_superhero_color_dark.svg',
+    tts: 'man superhero',
+    fromVersion: '11.0',
+    glyphAsUtfInEmoticons: ['mansuperhero'],
+    keywords: ['good', 'hero', 'man', 'man superhero', 'superpower'],
+    mappedToEmoticons: ['mansuperhero'],
     skinTone: FluentEmojiSkinTone.dark,
   );
 
@@ -9546,6 +12821,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'man supervillain',
     glyph: '🦹‍♂️',
     svgPath: 'assets/man_supervillain_color_default.svg',
+    tts: 'man supervillain',
+    fromVersion: '11.0',
+    glyphAsUtfInEmoticons: ['man_super_villain'],
+    keywords: ['criminal', 'evil', 'man', 'man supervillain', 'superpower', 'villain'],
+    mappedToEmoticons: ['man_super_villain'],
     skinToneLight: _manSupervillainLight,
     skinToneMediumLight: _manSupervillainMediumLight,
     skinToneMedium: _manSupervillainMedium,
@@ -9560,6 +12840,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'man supervillain',
     glyph: '🦹🏻‍♂️',
     svgPath: 'assets/man_supervillain_color_light.svg',
+    tts: 'man supervillain',
+    fromVersion: '11.0',
+    glyphAsUtfInEmoticons: ['man_super_villain'],
+    keywords: ['criminal', 'evil', 'man', 'man supervillain', 'superpower', 'villain'],
+    mappedToEmoticons: ['man_super_villain'],
     skinTone: FluentEmojiSkinTone.light,
   );
 
@@ -9570,6 +12855,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'man supervillain',
     glyph: '🦹🏼‍♂️',
     svgPath: 'assets/man_supervillain_color_medium-light.svg',
+    tts: 'man supervillain',
+    fromVersion: '11.0',
+    glyphAsUtfInEmoticons: ['man_super_villain'],
+    keywords: ['criminal', 'evil', 'man', 'man supervillain', 'superpower', 'villain'],
+    mappedToEmoticons: ['man_super_villain'],
     skinTone: FluentEmojiSkinTone.mediumLight,
   );
 
@@ -9580,6 +12870,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'man supervillain',
     glyph: '🦹🏽‍♂️',
     svgPath: 'assets/man_supervillain_color_medium.svg',
+    tts: 'man supervillain',
+    fromVersion: '11.0',
+    glyphAsUtfInEmoticons: ['man_super_villain'],
+    keywords: ['criminal', 'evil', 'man', 'man supervillain', 'superpower', 'villain'],
+    mappedToEmoticons: ['man_super_villain'],
     skinTone: FluentEmojiSkinTone.medium,
   );
 
@@ -9590,6 +12885,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'man supervillain',
     glyph: '🦹🏾‍♂️',
     svgPath: 'assets/man_supervillain_color_medium-dark.svg',
+    tts: 'man supervillain',
+    fromVersion: '11.0',
+    glyphAsUtfInEmoticons: ['man_super_villain'],
+    keywords: ['criminal', 'evil', 'man', 'man supervillain', 'superpower', 'villain'],
+    mappedToEmoticons: ['man_super_villain'],
     skinTone: FluentEmojiSkinTone.mediumDark,
   );
 
@@ -9600,6 +12900,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'man supervillain',
     glyph: '🦹🏿‍♂️',
     svgPath: 'assets/man_supervillain_color_dark.svg',
+    tts: 'man supervillain',
+    fromVersion: '11.0',
+    glyphAsUtfInEmoticons: ['man_super_villain'],
+    keywords: ['criminal', 'evil', 'man', 'man supervillain', 'superpower', 'villain'],
+    mappedToEmoticons: ['man_super_villain'],
     skinTone: FluentEmojiSkinTone.dark,
   );
 
@@ -9616,6 +12921,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'man surfing',
     glyph: '🏄‍♂️',
     svgPath: 'assets/man_surfing_color_default.svg',
+    tts: 'man surfing',
+    fromVersion: '4.0',
+    glyphAsUtfInEmoticons: ['mansurfer'],
+    keywords: ['man', 'surfing'],
+    mappedToEmoticons: ['mansurfer'],
     skinToneLight: _manSurfingLight,
     skinToneMediumLight: _manSurfingMediumLight,
     skinToneMedium: _manSurfingMedium,
@@ -9630,6 +12940,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'man surfing',
     glyph: '🏄🏻‍♂️',
     svgPath: 'assets/man_surfing_color_light.svg',
+    tts: 'man surfing',
+    fromVersion: '4.0',
+    glyphAsUtfInEmoticons: ['mansurfer'],
+    keywords: ['man', 'surfing'],
+    mappedToEmoticons: ['mansurfer'],
     skinTone: FluentEmojiSkinTone.light,
   );
 
@@ -9640,6 +12955,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'man surfing',
     glyph: '🏄🏼‍♂️',
     svgPath: 'assets/man_surfing_color_medium-light.svg',
+    tts: 'man surfing',
+    fromVersion: '4.0',
+    glyphAsUtfInEmoticons: ['mansurfer'],
+    keywords: ['man', 'surfing'],
+    mappedToEmoticons: ['mansurfer'],
     skinTone: FluentEmojiSkinTone.mediumLight,
   );
 
@@ -9650,6 +12970,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'man surfing',
     glyph: '🏄🏽‍♂️',
     svgPath: 'assets/man_surfing_color_medium.svg',
+    tts: 'man surfing',
+    fromVersion: '4.0',
+    glyphAsUtfInEmoticons: ['mansurfer'],
+    keywords: ['man', 'surfing'],
+    mappedToEmoticons: ['mansurfer'],
     skinTone: FluentEmojiSkinTone.medium,
   );
 
@@ -9660,6 +12985,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'man surfing',
     glyph: '🏄🏾‍♂️',
     svgPath: 'assets/man_surfing_color_medium-dark.svg',
+    tts: 'man surfing',
+    fromVersion: '4.0',
+    glyphAsUtfInEmoticons: ['mansurfer'],
+    keywords: ['man', 'surfing'],
+    mappedToEmoticons: ['mansurfer'],
     skinTone: FluentEmojiSkinTone.mediumDark,
   );
 
@@ -9670,6 +13000,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'man surfing',
     glyph: '🏄🏿‍♂️',
     svgPath: 'assets/man_surfing_color_dark.svg',
+    tts: 'man surfing',
+    fromVersion: '4.0',
+    glyphAsUtfInEmoticons: ['mansurfer'],
+    keywords: ['man', 'surfing'],
+    mappedToEmoticons: ['mansurfer'],
     skinTone: FluentEmojiSkinTone.dark,
   );
 
@@ -9686,6 +13021,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'man swimming',
     glyph: '🏊‍♂️',
     svgPath: 'assets/man_swimming_color_default.svg',
+    tts: 'man swimming',
+    fromVersion: '4.0',
+    glyphAsUtfInEmoticons: ['manswimming'],
+    keywords: ['man', 'man swimming', 'swim'],
+    mappedToEmoticons: ['manswimming'],
     skinToneLight: _manSwimmingLight,
     skinToneMediumLight: _manSwimmingMediumLight,
     skinToneMedium: _manSwimmingMedium,
@@ -9700,6 +13040,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'man swimming',
     glyph: '🏊🏻‍♂️',
     svgPath: 'assets/man_swimming_color_light.svg',
+    tts: 'man swimming',
+    fromVersion: '4.0',
+    glyphAsUtfInEmoticons: ['manswimming'],
+    keywords: ['man', 'man swimming', 'swim'],
+    mappedToEmoticons: ['manswimming'],
     skinTone: FluentEmojiSkinTone.light,
   );
 
@@ -9710,6 +13055,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'man swimming',
     glyph: '🏊🏼‍♂️',
     svgPath: 'assets/man_swimming_color_medium-light.svg',
+    tts: 'man swimming',
+    fromVersion: '4.0',
+    glyphAsUtfInEmoticons: ['manswimming'],
+    keywords: ['man', 'man swimming', 'swim'],
+    mappedToEmoticons: ['manswimming'],
     skinTone: FluentEmojiSkinTone.mediumLight,
   );
 
@@ -9720,6 +13070,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'man swimming',
     glyph: '🏊🏽‍♂️',
     svgPath: 'assets/man_swimming_color_medium.svg',
+    tts: 'man swimming',
+    fromVersion: '4.0',
+    glyphAsUtfInEmoticons: ['manswimming'],
+    keywords: ['man', 'man swimming', 'swim'],
+    mappedToEmoticons: ['manswimming'],
     skinTone: FluentEmojiSkinTone.medium,
   );
 
@@ -9730,6 +13085,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'man swimming',
     glyph: '🏊🏾‍♂️',
     svgPath: 'assets/man_swimming_color_medium-dark.svg',
+    tts: 'man swimming',
+    fromVersion: '4.0',
+    glyphAsUtfInEmoticons: ['manswimming'],
+    keywords: ['man', 'man swimming', 'swim'],
+    mappedToEmoticons: ['manswimming'],
     skinTone: FluentEmojiSkinTone.mediumDark,
   );
 
@@ -9740,6 +13100,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'man swimming',
     glyph: '🏊🏿‍♂️',
     svgPath: 'assets/man_swimming_color_dark.svg',
+    tts: 'man swimming',
+    fromVersion: '4.0',
+    glyphAsUtfInEmoticons: ['manswimming'],
+    keywords: ['man', 'man swimming', 'swim'],
+    mappedToEmoticons: ['manswimming'],
     skinTone: FluentEmojiSkinTone.dark,
   );
 
@@ -9756,6 +13121,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'man teacher',
     glyph: '👨‍🏫',
     svgPath: 'assets/man_teacher_color_default.svg',
+    tts: 'man teacher',
+    fromVersion: '4.0',
+    glyphAsUtfInEmoticons: ['manteacher'],
+    keywords: ['instructor', 'man', 'professor', 'teacher'],
+    mappedToEmoticons: ['manteacher'],
     skinToneLight: _manTeacherLight,
     skinToneMediumLight: _manTeacherMediumLight,
     skinToneMedium: _manTeacherMedium,
@@ -9770,6 +13140,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'man teacher',
     glyph: '👨🏻‍🏫',
     svgPath: 'assets/man_teacher_color_light.svg',
+    tts: 'man teacher',
+    fromVersion: '4.0',
+    glyphAsUtfInEmoticons: ['manteacher'],
+    keywords: ['instructor', 'man', 'professor', 'teacher'],
+    mappedToEmoticons: ['manteacher'],
     skinTone: FluentEmojiSkinTone.light,
   );
 
@@ -9780,6 +13155,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'man teacher',
     glyph: '👨🏼‍🏫',
     svgPath: 'assets/man_teacher_color_medium-light.svg',
+    tts: 'man teacher',
+    fromVersion: '4.0',
+    glyphAsUtfInEmoticons: ['manteacher'],
+    keywords: ['instructor', 'man', 'professor', 'teacher'],
+    mappedToEmoticons: ['manteacher'],
     skinTone: FluentEmojiSkinTone.mediumLight,
   );
 
@@ -9790,6 +13170,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'man teacher',
     glyph: '👨🏽‍🏫',
     svgPath: 'assets/man_teacher_color_medium.svg',
+    tts: 'man teacher',
+    fromVersion: '4.0',
+    glyphAsUtfInEmoticons: ['manteacher'],
+    keywords: ['instructor', 'man', 'professor', 'teacher'],
+    mappedToEmoticons: ['manteacher'],
     skinTone: FluentEmojiSkinTone.medium,
   );
 
@@ -9800,6 +13185,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'man teacher',
     glyph: '👨🏾‍🏫',
     svgPath: 'assets/man_teacher_color_medium-dark.svg',
+    tts: 'man teacher',
+    fromVersion: '4.0',
+    glyphAsUtfInEmoticons: ['manteacher'],
+    keywords: ['instructor', 'man', 'professor', 'teacher'],
+    mappedToEmoticons: ['manteacher'],
     skinTone: FluentEmojiSkinTone.mediumDark,
   );
 
@@ -9810,6 +13200,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'man teacher',
     glyph: '👨🏿‍🏫',
     svgPath: 'assets/man_teacher_color_dark.svg',
+    tts: 'man teacher',
+    fromVersion: '4.0',
+    glyphAsUtfInEmoticons: ['manteacher'],
+    keywords: ['instructor', 'man', 'professor', 'teacher'],
+    mappedToEmoticons: ['manteacher'],
     skinTone: FluentEmojiSkinTone.dark,
   );
 
@@ -9826,6 +13221,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'man technologist',
     glyph: '👨‍💻',
     svgPath: 'assets/man_technologist_color_default.svg',
+    tts: 'man technologist',
+    fromVersion: '4.0',
+    glyphAsUtfInEmoticons: ['mantechie'],
+    keywords: ['coder', 'developer', 'inventor', 'man', 'software', 'technologist'],
+    mappedToEmoticons: ['mantechie'],
     skinToneLight: _manTechnologistLight,
     skinToneMediumLight: _manTechnologistMediumLight,
     skinToneMedium: _manTechnologistMedium,
@@ -9840,6 +13240,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'man technologist',
     glyph: '👨🏻‍💻',
     svgPath: 'assets/man_technologist_color_light.svg',
+    tts: 'man technologist',
+    fromVersion: '4.0',
+    glyphAsUtfInEmoticons: ['mantechie'],
+    keywords: ['coder', 'developer', 'inventor', 'man', 'software', 'technologist'],
+    mappedToEmoticons: ['mantechie'],
     skinTone: FluentEmojiSkinTone.light,
   );
 
@@ -9850,6 +13255,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'man technologist',
     glyph: '👨🏼‍💻',
     svgPath: 'assets/man_technologist_color_medium-light.svg',
+    tts: 'man technologist',
+    fromVersion: '4.0',
+    glyphAsUtfInEmoticons: ['mantechie'],
+    keywords: ['coder', 'developer', 'inventor', 'man', 'software', 'technologist'],
+    mappedToEmoticons: ['mantechie'],
     skinTone: FluentEmojiSkinTone.mediumLight,
   );
 
@@ -9860,6 +13270,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'man technologist',
     glyph: '👨🏽‍💻',
     svgPath: 'assets/man_technologist_color_medium.svg',
+    tts: 'man technologist',
+    fromVersion: '4.0',
+    glyphAsUtfInEmoticons: ['mantechie'],
+    keywords: ['coder', 'developer', 'inventor', 'man', 'software', 'technologist'],
+    mappedToEmoticons: ['mantechie'],
     skinTone: FluentEmojiSkinTone.medium,
   );
 
@@ -9870,6 +13285,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'man technologist',
     glyph: '👨🏾‍💻',
     svgPath: 'assets/man_technologist_color_medium-dark.svg',
+    tts: 'man technologist',
+    fromVersion: '4.0',
+    glyphAsUtfInEmoticons: ['mantechie'],
+    keywords: ['coder', 'developer', 'inventor', 'man', 'software', 'technologist'],
+    mappedToEmoticons: ['mantechie'],
     skinTone: FluentEmojiSkinTone.mediumDark,
   );
 
@@ -9880,6 +13300,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'man technologist',
     glyph: '👨🏿‍💻',
     svgPath: 'assets/man_technologist_color_dark.svg',
+    tts: 'man technologist',
+    fromVersion: '4.0',
+    glyphAsUtfInEmoticons: ['mantechie'],
+    keywords: ['coder', 'developer', 'inventor', 'man', 'software', 'technologist'],
+    mappedToEmoticons: ['mantechie'],
     skinTone: FluentEmojiSkinTone.dark,
   );
 
@@ -9896,6 +13321,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'man tipping hand',
     glyph: '💁‍♂️',
     svgPath: 'assets/man_tipping_hand_color_default.svg',
+    tts: 'man tipping hand',
+    fromVersion: '4.0',
+    glyphAsUtfInEmoticons: ['man_tipping_hand'],
+    keywords: ['man', 'man tipping hand', 'sassy', 'tipping hand'],
+    mappedToEmoticons: ['man_tipping_hand'],
     skinToneLight: _manTippingHandLight,
     skinToneMediumLight: _manTippingHandMediumLight,
     skinToneMedium: _manTippingHandMedium,
@@ -9910,6 +13340,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'man tipping hand',
     glyph: '💁🏻‍♂️',
     svgPath: 'assets/man_tipping_hand_color_light.svg',
+    tts: 'man tipping hand',
+    fromVersion: '4.0',
+    glyphAsUtfInEmoticons: ['man_tipping_hand'],
+    keywords: ['man', 'man tipping hand', 'sassy', 'tipping hand'],
+    mappedToEmoticons: ['man_tipping_hand'],
     skinTone: FluentEmojiSkinTone.light,
   );
 
@@ -9920,6 +13355,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'man tipping hand',
     glyph: '💁🏼‍♂️',
     svgPath: 'assets/man_tipping_hand_color_medium-light.svg',
+    tts: 'man tipping hand',
+    fromVersion: '4.0',
+    glyphAsUtfInEmoticons: ['man_tipping_hand'],
+    keywords: ['man', 'man tipping hand', 'sassy', 'tipping hand'],
+    mappedToEmoticons: ['man_tipping_hand'],
     skinTone: FluentEmojiSkinTone.mediumLight,
   );
 
@@ -9930,6 +13370,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'man tipping hand',
     glyph: '💁🏽‍♂️',
     svgPath: 'assets/man_tipping_hand_color_medium.svg',
+    tts: 'man tipping hand',
+    fromVersion: '4.0',
+    glyphAsUtfInEmoticons: ['man_tipping_hand'],
+    keywords: ['man', 'man tipping hand', 'sassy', 'tipping hand'],
+    mappedToEmoticons: ['man_tipping_hand'],
     skinTone: FluentEmojiSkinTone.medium,
   );
 
@@ -9940,6 +13385,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'man tipping hand',
     glyph: '💁🏾‍♂️',
     svgPath: 'assets/man_tipping_hand_color_medium-dark.svg',
+    tts: 'man tipping hand',
+    fromVersion: '4.0',
+    glyphAsUtfInEmoticons: ['man_tipping_hand'],
+    keywords: ['man', 'man tipping hand', 'sassy', 'tipping hand'],
+    mappedToEmoticons: ['man_tipping_hand'],
     skinTone: FluentEmojiSkinTone.mediumDark,
   );
 
@@ -9950,6 +13400,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'man tipping hand',
     glyph: '💁🏿‍♂️',
     svgPath: 'assets/man_tipping_hand_color_dark.svg',
+    tts: 'man tipping hand',
+    fromVersion: '4.0',
+    glyphAsUtfInEmoticons: ['man_tipping_hand'],
+    keywords: ['man', 'man tipping hand', 'sassy', 'tipping hand'],
+    mappedToEmoticons: ['man_tipping_hand'],
     skinTone: FluentEmojiSkinTone.dark,
   );
 
@@ -9966,6 +13421,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'man vampire',
     glyph: '🧛‍♂️',
     svgPath: 'assets/man_vampire_color_default.svg',
+    tts: 'man vampire',
+    fromVersion: '5.0',
+    glyphAsUtfInEmoticons: ['dracula', 'vampire'],
+    keywords: ['Dracula', 'man vampire', 'undead'],
+    mappedToEmoticons: ['dracula'],
     skinToneLight: _manVampireLight,
     skinToneMediumLight: _manVampireMediumLight,
     skinToneMedium: _manVampireMedium,
@@ -9980,6 +13440,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'man vampire',
     glyph: '🧛🏻‍♂️',
     svgPath: 'assets/man_vampire_color_light.svg',
+    tts: 'man vampire',
+    fromVersion: '5.0',
+    glyphAsUtfInEmoticons: ['dracula', 'vampire'],
+    keywords: ['Dracula', 'man vampire', 'undead'],
+    mappedToEmoticons: ['dracula'],
     skinTone: FluentEmojiSkinTone.light,
   );
 
@@ -9990,6 +13455,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'man vampire',
     glyph: '🧛🏼‍♂️',
     svgPath: 'assets/man_vampire_color_medium-light.svg',
+    tts: 'man vampire',
+    fromVersion: '5.0',
+    glyphAsUtfInEmoticons: ['dracula', 'vampire'],
+    keywords: ['Dracula', 'man vampire', 'undead'],
+    mappedToEmoticons: ['dracula'],
     skinTone: FluentEmojiSkinTone.mediumLight,
   );
 
@@ -10000,6 +13470,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'man vampire',
     glyph: '🧛🏽‍♂️',
     svgPath: 'assets/man_vampire_color_medium.svg',
+    tts: 'man vampire',
+    fromVersion: '5.0',
+    glyphAsUtfInEmoticons: ['dracula', 'vampire'],
+    keywords: ['Dracula', 'man vampire', 'undead'],
+    mappedToEmoticons: ['dracula'],
     skinTone: FluentEmojiSkinTone.medium,
   );
 
@@ -10010,6 +13485,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'man vampire',
     glyph: '🧛🏾‍♂️',
     svgPath: 'assets/man_vampire_color_medium-dark.svg',
+    tts: 'man vampire',
+    fromVersion: '5.0',
+    glyphAsUtfInEmoticons: ['dracula', 'vampire'],
+    keywords: ['Dracula', 'man vampire', 'undead'],
+    mappedToEmoticons: ['dracula'],
     skinTone: FluentEmojiSkinTone.mediumDark,
   );
 
@@ -10020,6 +13500,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'man vampire',
     glyph: '🧛🏿‍♂️',
     svgPath: 'assets/man_vampire_color_dark.svg',
+    tts: 'man vampire',
+    fromVersion: '5.0',
+    glyphAsUtfInEmoticons: ['dracula', 'vampire'],
+    keywords: ['Dracula', 'man vampire', 'undead'],
+    mappedToEmoticons: ['dracula'],
     skinTone: FluentEmojiSkinTone.dark,
   );
 
@@ -10036,6 +13521,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'man walking',
     glyph: '🚶‍♂️',
     svgPath: 'assets/man_walking_color_default.svg',
+    tts: 'man walking',
+    fromVersion: '4.0',
+    glyphAsUtfInEmoticons: ['manwalking'],
+    keywords: ['hike', 'man', 'man walking', 'walk'],
+    mappedToEmoticons: ['manwalking'],
     skinToneLight: _manWalkingLight,
     skinToneMediumLight: _manWalkingMediumLight,
     skinToneMedium: _manWalkingMedium,
@@ -10050,6 +13540,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'man walking',
     glyph: '🚶🏻‍♂️',
     svgPath: 'assets/man_walking_color_light.svg',
+    tts: 'man walking',
+    fromVersion: '4.0',
+    glyphAsUtfInEmoticons: ['manwalking'],
+    keywords: ['hike', 'man', 'man walking', 'walk'],
+    mappedToEmoticons: ['manwalking'],
     skinTone: FluentEmojiSkinTone.light,
   );
 
@@ -10060,6 +13555,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'man walking',
     glyph: '🚶🏼‍♂️',
     svgPath: 'assets/man_walking_color_medium-light.svg',
+    tts: 'man walking',
+    fromVersion: '4.0',
+    glyphAsUtfInEmoticons: ['manwalking'],
+    keywords: ['hike', 'man', 'man walking', 'walk'],
+    mappedToEmoticons: ['manwalking'],
     skinTone: FluentEmojiSkinTone.mediumLight,
   );
 
@@ -10070,6 +13570,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'man walking',
     glyph: '🚶🏽‍♂️',
     svgPath: 'assets/man_walking_color_medium.svg',
+    tts: 'man walking',
+    fromVersion: '4.0',
+    glyphAsUtfInEmoticons: ['manwalking'],
+    keywords: ['hike', 'man', 'man walking', 'walk'],
+    mappedToEmoticons: ['manwalking'],
     skinTone: FluentEmojiSkinTone.medium,
   );
 
@@ -10080,6 +13585,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'man walking',
     glyph: '🚶🏾‍♂️',
     svgPath: 'assets/man_walking_color_medium-dark.svg',
+    tts: 'man walking',
+    fromVersion: '4.0',
+    glyphAsUtfInEmoticons: ['manwalking'],
+    keywords: ['hike', 'man', 'man walking', 'walk'],
+    mappedToEmoticons: ['manwalking'],
     skinTone: FluentEmojiSkinTone.mediumDark,
   );
 
@@ -10090,6 +13600,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'man walking',
     glyph: '🚶🏿‍♂️',
     svgPath: 'assets/man_walking_color_dark.svg',
+    tts: 'man walking',
+    fromVersion: '4.0',
+    glyphAsUtfInEmoticons: ['manwalking'],
+    keywords: ['hike', 'man', 'man walking', 'walk'],
+    mappedToEmoticons: ['manwalking'],
     skinTone: FluentEmojiSkinTone.dark,
   );
 
@@ -10106,6 +13621,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'man walking facing right',
     glyph: '🚶‍♂️‍➡️',
     svgPath: 'assets/man_walking_facing_right_color_default.svg',
+    tts: '',
+    fromVersion: '15.1',
+    glyphAsUtfInEmoticons: [],
+    keywords: ['hike', 'man', 'man walking', 'walk'],
+    mappedToEmoticons: [],
     skinToneLight: _manWalkingFacingRightLight,
     skinToneMediumLight: _manWalkingFacingRightMediumLight,
     skinToneMedium: _manWalkingFacingRightMedium,
@@ -10120,6 +13640,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'man walking facing right',
     glyph: '🚶🏻‍♂️‍➡️',
     svgPath: 'assets/man_walking_facing_right_color_light.svg',
+    tts: '',
+    fromVersion: '15.1',
+    glyphAsUtfInEmoticons: [],
+    keywords: ['hike', 'man', 'man walking', 'walk'],
+    mappedToEmoticons: [],
     skinTone: FluentEmojiSkinTone.light,
   );
 
@@ -10130,6 +13655,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'man walking facing right',
     glyph: '🚶🏼‍♂️‍➡️',
     svgPath: 'assets/man_walking_facing_right_color_medium-light.svg',
+    tts: '',
+    fromVersion: '15.1',
+    glyphAsUtfInEmoticons: [],
+    keywords: ['hike', 'man', 'man walking', 'walk'],
+    mappedToEmoticons: [],
     skinTone: FluentEmojiSkinTone.mediumLight,
   );
 
@@ -10140,6 +13670,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'man walking facing right',
     glyph: '🚶🏽‍♂️‍➡️',
     svgPath: 'assets/man_walking_facing_right_color_medium.svg',
+    tts: '',
+    fromVersion: '15.1',
+    glyphAsUtfInEmoticons: [],
+    keywords: ['hike', 'man', 'man walking', 'walk'],
+    mappedToEmoticons: [],
     skinTone: FluentEmojiSkinTone.medium,
   );
 
@@ -10150,6 +13685,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'man walking facing right',
     glyph: '🚶🏾‍♂️‍➡️',
     svgPath: 'assets/man_walking_facing_right_color_medium-dark.svg',
+    tts: '',
+    fromVersion: '15.1',
+    glyphAsUtfInEmoticons: [],
+    keywords: ['hike', 'man', 'man walking', 'walk'],
+    mappedToEmoticons: [],
     skinTone: FluentEmojiSkinTone.mediumDark,
   );
 
@@ -10160,6 +13700,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'man walking facing right',
     glyph: '🚶🏿‍♂️‍➡️',
     svgPath: 'assets/man_walking_facing_right_color_dark.svg',
+    tts: '',
+    fromVersion: '15.1',
+    glyphAsUtfInEmoticons: [],
+    keywords: ['hike', 'man', 'man walking', 'walk'],
+    mappedToEmoticons: [],
     skinTone: FluentEmojiSkinTone.dark,
   );
 
@@ -10176,6 +13721,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'man wearing turban',
     glyph: '👳‍♂️',
     svgPath: 'assets/man_wearing_turban_color_default.svg',
+    tts: 'man wearing turban',
+    fromVersion: '4.0',
+    glyphAsUtfInEmoticons: ['man_wearing_turban'],
+    keywords: ['man', 'man wearing turban', 'turban'],
+    mappedToEmoticons: ['man_wearing_turban'],
     skinToneLight: _manWearingTurbanLight,
     skinToneMediumLight: _manWearingTurbanMediumLight,
     skinToneMedium: _manWearingTurbanMedium,
@@ -10190,6 +13740,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'man wearing turban',
     glyph: '👳🏻‍♂️',
     svgPath: 'assets/man_wearing_turban_color_light.svg',
+    tts: 'man wearing turban',
+    fromVersion: '4.0',
+    glyphAsUtfInEmoticons: ['man_wearing_turban'],
+    keywords: ['man', 'man wearing turban', 'turban'],
+    mappedToEmoticons: ['man_wearing_turban'],
     skinTone: FluentEmojiSkinTone.light,
   );
 
@@ -10200,6 +13755,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'man wearing turban',
     glyph: '👳🏼‍♂️',
     svgPath: 'assets/man_wearing_turban_color_medium-light.svg',
+    tts: 'man wearing turban',
+    fromVersion: '4.0',
+    glyphAsUtfInEmoticons: ['man_wearing_turban'],
+    keywords: ['man', 'man wearing turban', 'turban'],
+    mappedToEmoticons: ['man_wearing_turban'],
     skinTone: FluentEmojiSkinTone.mediumLight,
   );
 
@@ -10210,6 +13770,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'man wearing turban',
     glyph: '👳🏽‍♂️',
     svgPath: 'assets/man_wearing_turban_color_medium.svg',
+    tts: 'man wearing turban',
+    fromVersion: '4.0',
+    glyphAsUtfInEmoticons: ['man_wearing_turban'],
+    keywords: ['man', 'man wearing turban', 'turban'],
+    mappedToEmoticons: ['man_wearing_turban'],
     skinTone: FluentEmojiSkinTone.medium,
   );
 
@@ -10220,6 +13785,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'man wearing turban',
     glyph: '👳🏾‍♂️',
     svgPath: 'assets/man_wearing_turban_color_medium-dark.svg',
+    tts: 'man wearing turban',
+    fromVersion: '4.0',
+    glyphAsUtfInEmoticons: ['man_wearing_turban'],
+    keywords: ['man', 'man wearing turban', 'turban'],
+    mappedToEmoticons: ['man_wearing_turban'],
     skinTone: FluentEmojiSkinTone.mediumDark,
   );
 
@@ -10230,6 +13800,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'man wearing turban',
     glyph: '👳🏿‍♂️',
     svgPath: 'assets/man_wearing_turban_color_dark.svg',
+    tts: 'man wearing turban',
+    fromVersion: '4.0',
+    glyphAsUtfInEmoticons: ['man_wearing_turban'],
+    keywords: ['man', 'man wearing turban', 'turban'],
+    mappedToEmoticons: ['man_wearing_turban'],
     skinTone: FluentEmojiSkinTone.dark,
   );
 
@@ -10246,6 +13821,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'man with veil',
     glyph: '👰‍♂️',
     svgPath: 'assets/man_with_veil_color_default.svg',
+    tts: 'man with veil',
+    fromVersion: '13.0',
+    glyphAsUtfInEmoticons: ['manwithveil'],
+    keywords: ['man', 'man with veil', 'veil'],
+    mappedToEmoticons: ['manwithveil'],
     skinToneLight: _manWithVeilLight,
     skinToneMediumLight: _manWithVeilMediumLight,
     skinToneMedium: _manWithVeilMedium,
@@ -10260,6 +13840,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'man with veil',
     glyph: '👰🏻‍♂️',
     svgPath: 'assets/man_with_veil_color_light.svg',
+    tts: 'man with veil',
+    fromVersion: '13.0',
+    glyphAsUtfInEmoticons: ['manwithveil'],
+    keywords: ['man', 'man with veil', 'veil'],
+    mappedToEmoticons: ['manwithveil'],
     skinTone: FluentEmojiSkinTone.light,
   );
 
@@ -10270,6 +13855,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'man with veil',
     glyph: '👰🏼‍♂️',
     svgPath: 'assets/man_with_veil_color_medium-light.svg',
+    tts: 'man with veil',
+    fromVersion: '13.0',
+    glyphAsUtfInEmoticons: ['manwithveil'],
+    keywords: ['man', 'man with veil', 'veil'],
+    mappedToEmoticons: ['manwithveil'],
     skinTone: FluentEmojiSkinTone.mediumLight,
   );
 
@@ -10280,6 +13870,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'man with veil',
     glyph: '👰🏽‍♂️',
     svgPath: 'assets/man_with_veil_color_medium.svg',
+    tts: 'man with veil',
+    fromVersion: '13.0',
+    glyphAsUtfInEmoticons: ['manwithveil'],
+    keywords: ['man', 'man with veil', 'veil'],
+    mappedToEmoticons: ['manwithveil'],
     skinTone: FluentEmojiSkinTone.medium,
   );
 
@@ -10290,6 +13885,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'man with veil',
     glyph: '👰🏾‍♂️',
     svgPath: 'assets/man_with_veil_color_medium-dark.svg',
+    tts: 'man with veil',
+    fromVersion: '13.0',
+    glyphAsUtfInEmoticons: ['manwithveil'],
+    keywords: ['man', 'man with veil', 'veil'],
+    mappedToEmoticons: ['manwithveil'],
     skinTone: FluentEmojiSkinTone.mediumDark,
   );
 
@@ -10300,6 +13900,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'man with veil',
     glyph: '👰🏿‍♂️',
     svgPath: 'assets/man_with_veil_color_dark.svg',
+    tts: 'man with veil',
+    fromVersion: '13.0',
+    glyphAsUtfInEmoticons: ['manwithveil'],
+    keywords: ['man', 'man with veil', 'veil'],
+    mappedToEmoticons: ['manwithveil'],
     skinTone: FluentEmojiSkinTone.dark,
   );
 
@@ -10316,6 +13921,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'man with white cane',
     glyph: '👨‍🦯',
     svgPath: 'assets/man_with_white_cane_color_default.svg',
+    tts: 'man with white cane',
+    fromVersion: '12.0',
+    glyphAsUtfInEmoticons: ['man_probing_cane'],
+    keywords: ['accessibility', 'blind', 'man', 'man with white cane'],
+    mappedToEmoticons: ['man_probing_cane'],
     skinToneLight: _manWithWhiteCaneLight,
     skinToneMediumLight: _manWithWhiteCaneMediumLight,
     skinToneMedium: _manWithWhiteCaneMedium,
@@ -10330,6 +13940,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'man with white cane',
     glyph: '👨🏻‍🦯',
     svgPath: 'assets/man_with_white_cane_color_light.svg',
+    tts: 'man with white cane',
+    fromVersion: '12.0',
+    glyphAsUtfInEmoticons: ['man_probing_cane'],
+    keywords: ['accessibility', 'blind', 'man', 'man with white cane'],
+    mappedToEmoticons: ['man_probing_cane'],
     skinTone: FluentEmojiSkinTone.light,
   );
 
@@ -10340,6 +13955,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'man with white cane',
     glyph: '👨🏼‍🦯',
     svgPath: 'assets/man_with_white_cane_color_medium-light.svg',
+    tts: 'man with white cane',
+    fromVersion: '12.0',
+    glyphAsUtfInEmoticons: ['man_probing_cane'],
+    keywords: ['accessibility', 'blind', 'man', 'man with white cane'],
+    mappedToEmoticons: ['man_probing_cane'],
     skinTone: FluentEmojiSkinTone.mediumLight,
   );
 
@@ -10350,6 +13970,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'man with white cane',
     glyph: '👨🏽‍🦯',
     svgPath: 'assets/man_with_white_cane_color_medium.svg',
+    tts: 'man with white cane',
+    fromVersion: '12.0',
+    glyphAsUtfInEmoticons: ['man_probing_cane'],
+    keywords: ['accessibility', 'blind', 'man', 'man with white cane'],
+    mappedToEmoticons: ['man_probing_cane'],
     skinTone: FluentEmojiSkinTone.medium,
   );
 
@@ -10360,6 +13985,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'man with white cane',
     glyph: '👨🏾‍🦯',
     svgPath: 'assets/man_with_white_cane_color_medium-dark.svg',
+    tts: 'man with white cane',
+    fromVersion: '12.0',
+    glyphAsUtfInEmoticons: ['man_probing_cane'],
+    keywords: ['accessibility', 'blind', 'man', 'man with white cane'],
+    mappedToEmoticons: ['man_probing_cane'],
     skinTone: FluentEmojiSkinTone.mediumDark,
   );
 
@@ -10370,6 +14000,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'man with white cane',
     glyph: '👨🏿‍🦯',
     svgPath: 'assets/man_with_white_cane_color_dark.svg',
+    tts: 'man with white cane',
+    fromVersion: '12.0',
+    glyphAsUtfInEmoticons: ['man_probing_cane'],
+    keywords: ['accessibility', 'blind', 'man', 'man with white cane'],
+    mappedToEmoticons: ['man_probing_cane'],
     skinTone: FluentEmojiSkinTone.dark,
   );
 
@@ -10386,6 +14021,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'man with white cane facing right',
     glyph: '👨‍🦯‍➡️',
     svgPath: 'assets/man_with_white_cane_facing_right_color_default.svg',
+    tts: '',
+    fromVersion: '15.1',
+    glyphAsUtfInEmoticons: [],
+    keywords: ['accessibility', 'blind', 'man', 'man with white cane'],
+    mappedToEmoticons: [],
     skinToneLight: _manWithWhiteCaneFacingRightLight,
     skinToneMediumLight: _manWithWhiteCaneFacingRightMediumLight,
     skinToneMedium: _manWithWhiteCaneFacingRightMedium,
@@ -10400,6 +14040,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'man with white cane facing right',
     glyph: '👨🏻‍🦯‍➡️',
     svgPath: 'assets/man_with_white_cane_facing_right_color_light.svg',
+    tts: '',
+    fromVersion: '15.1',
+    glyphAsUtfInEmoticons: [],
+    keywords: ['accessibility', 'blind', 'man', 'man with white cane'],
+    mappedToEmoticons: [],
     skinTone: FluentEmojiSkinTone.light,
   );
 
@@ -10410,6 +14055,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'man with white cane facing right',
     glyph: '👨🏼‍🦯‍➡️',
     svgPath: 'assets/man_with_white_cane_facing_right_color_medium-light.svg',
+    tts: '',
+    fromVersion: '15.1',
+    glyphAsUtfInEmoticons: [],
+    keywords: ['accessibility', 'blind', 'man', 'man with white cane'],
+    mappedToEmoticons: [],
     skinTone: FluentEmojiSkinTone.mediumLight,
   );
 
@@ -10420,6 +14070,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'man with white cane facing right',
     glyph: '👨🏽‍🦯‍➡️',
     svgPath: 'assets/man_with_white_cane_facing_right_color_medium.svg',
+    tts: '',
+    fromVersion: '15.1',
+    glyphAsUtfInEmoticons: [],
+    keywords: ['accessibility', 'blind', 'man', 'man with white cane'],
+    mappedToEmoticons: [],
     skinTone: FluentEmojiSkinTone.medium,
   );
 
@@ -10430,6 +14085,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'man with white cane facing right',
     glyph: '👨🏾‍🦯‍➡️',
     svgPath: 'assets/man_with_white_cane_facing_right_color_medium-dark.svg',
+    tts: '',
+    fromVersion: '15.1',
+    glyphAsUtfInEmoticons: [],
+    keywords: ['accessibility', 'blind', 'man', 'man with white cane'],
+    mappedToEmoticons: [],
     skinTone: FluentEmojiSkinTone.mediumDark,
   );
 
@@ -10440,6 +14100,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'man with white cane facing right',
     glyph: '👨🏿‍🦯‍➡️',
     svgPath: 'assets/man_with_white_cane_facing_right_color_dark.svg',
+    tts: '',
+    fromVersion: '15.1',
+    glyphAsUtfInEmoticons: [],
+    keywords: ['accessibility', 'blind', 'man', 'man with white cane'],
+    mappedToEmoticons: [],
     skinTone: FluentEmojiSkinTone.dark,
   );
 
@@ -10450,6 +14115,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'man zombie',
     glyph: '🧟‍♂️',
     svgPath: 'assets/man_zombie_color.svg',
+    tts: 'man zombie',
+    fromVersion: '5.0',
+    glyphAsUtfInEmoticons: null,
+    keywords: ['man zombie', 'undead', 'walking dead'],
+    mappedToEmoticons: ['manzombie'],
     skinTone: FluentEmojiSkinTone.standard,
   );
 
@@ -10466,6 +14136,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'man: bald',
     glyph: '👨‍🦲',
     svgPath: 'assets/man_bald_color_default.svg',
+    tts: 'man: bald',
+    fromVersion: '11.0',
+    glyphAsUtfInEmoticons: ['1f468_200d_1f9b2_manbald'],
+    keywords: ['adult', 'bald', 'man'],
+    mappedToEmoticons: ['1f468_200d_1f9b2_manbald'],
     skinToneLight: _manBaldLight,
     skinToneMediumLight: _manBaldMediumLight,
     skinToneMedium: _manBaldMedium,
@@ -10480,6 +14155,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'man: bald',
     glyph: '👨🏻‍🦲',
     svgPath: 'assets/man_bald_color_light.svg',
+    tts: 'man: bald',
+    fromVersion: '11.0',
+    glyphAsUtfInEmoticons: ['1f468_200d_1f9b2_manbald'],
+    keywords: ['adult', 'bald', 'man'],
+    mappedToEmoticons: ['1f468_200d_1f9b2_manbald'],
     skinTone: FluentEmojiSkinTone.light,
   );
 
@@ -10490,6 +14170,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'man: bald',
     glyph: '👨🏼‍🦲',
     svgPath: 'assets/man_bald_color_medium-light.svg',
+    tts: 'man: bald',
+    fromVersion: '11.0',
+    glyphAsUtfInEmoticons: ['1f468_200d_1f9b2_manbald'],
+    keywords: ['adult', 'bald', 'man'],
+    mappedToEmoticons: ['1f468_200d_1f9b2_manbald'],
     skinTone: FluentEmojiSkinTone.mediumLight,
   );
 
@@ -10500,6 +14185,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'man: bald',
     glyph: '👨🏽‍🦲',
     svgPath: 'assets/man_bald_color_medium.svg',
+    tts: 'man: bald',
+    fromVersion: '11.0',
+    glyphAsUtfInEmoticons: ['1f468_200d_1f9b2_manbald'],
+    keywords: ['adult', 'bald', 'man'],
+    mappedToEmoticons: ['1f468_200d_1f9b2_manbald'],
     skinTone: FluentEmojiSkinTone.medium,
   );
 
@@ -10510,6 +14200,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'man: bald',
     glyph: '👨🏾‍🦲',
     svgPath: 'assets/man_bald_color_medium-dark.svg',
+    tts: 'man: bald',
+    fromVersion: '11.0',
+    glyphAsUtfInEmoticons: ['1f468_200d_1f9b2_manbald'],
+    keywords: ['adult', 'bald', 'man'],
+    mappedToEmoticons: ['1f468_200d_1f9b2_manbald'],
     skinTone: FluentEmojiSkinTone.mediumDark,
   );
 
@@ -10520,6 +14215,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'man: bald',
     glyph: '👨🏿‍🦲',
     svgPath: 'assets/man_bald_color_dark.svg',
+    tts: 'man: bald',
+    fromVersion: '11.0',
+    glyphAsUtfInEmoticons: ['1f468_200d_1f9b2_manbald'],
+    keywords: ['adult', 'bald', 'man'],
+    mappedToEmoticons: ['1f468_200d_1f9b2_manbald'],
     skinTone: FluentEmojiSkinTone.dark,
   );
 
@@ -10536,6 +14236,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'man: beard',
     glyph: '🧔‍♂️',
     svgPath: 'assets/man_beard_color_default.svg',
+    tts: 'man: beard',
+    fromVersion: '13.1',
+    glyphAsUtfInEmoticons: ['manbeard'],
+    keywords: ['beard', 'man', 'man: beard'],
+    mappedToEmoticons: ['manbeard'],
     skinToneLight: _manBeardLight,
     skinToneMediumLight: _manBeardMediumLight,
     skinToneMedium: _manBeardMedium,
@@ -10550,6 +14255,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'man: beard',
     glyph: '🧔🏻‍♂️',
     svgPath: 'assets/man_beard_color_light.svg',
+    tts: 'man: beard',
+    fromVersion: '13.1',
+    glyphAsUtfInEmoticons: ['manbeard'],
+    keywords: ['beard', 'man', 'man: beard'],
+    mappedToEmoticons: ['manbeard'],
     skinTone: FluentEmojiSkinTone.light,
   );
 
@@ -10560,6 +14270,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'man: beard',
     glyph: '🧔🏼‍♂️',
     svgPath: 'assets/man_beard_color_medium-light.svg',
+    tts: 'man: beard',
+    fromVersion: '13.1',
+    glyphAsUtfInEmoticons: ['manbeard'],
+    keywords: ['beard', 'man', 'man: beard'],
+    mappedToEmoticons: ['manbeard'],
     skinTone: FluentEmojiSkinTone.mediumLight,
   );
 
@@ -10570,6 +14285,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'man: beard',
     glyph: '🧔🏽‍♂️',
     svgPath: 'assets/man_beard_color_medium.svg',
+    tts: 'man: beard',
+    fromVersion: '13.1',
+    glyphAsUtfInEmoticons: ['manbeard'],
+    keywords: ['beard', 'man', 'man: beard'],
+    mappedToEmoticons: ['manbeard'],
     skinTone: FluentEmojiSkinTone.medium,
   );
 
@@ -10580,6 +14300,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'man: beard',
     glyph: '🧔🏾‍♂️',
     svgPath: 'assets/man_beard_color_medium-dark.svg',
+    tts: 'man: beard',
+    fromVersion: '13.1',
+    glyphAsUtfInEmoticons: ['manbeard'],
+    keywords: ['beard', 'man', 'man: beard'],
+    mappedToEmoticons: ['manbeard'],
     skinTone: FluentEmojiSkinTone.mediumDark,
   );
 
@@ -10590,6 +14315,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'man: beard',
     glyph: '🧔🏿‍♂️',
     svgPath: 'assets/man_beard_color_dark.svg',
+    tts: 'man: beard',
+    fromVersion: '13.1',
+    glyphAsUtfInEmoticons: ['manbeard'],
+    keywords: ['beard', 'man', 'man: beard'],
+    mappedToEmoticons: ['manbeard'],
     skinTone: FluentEmojiSkinTone.dark,
   );
 
@@ -10606,6 +14336,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'man: blond hair',
     glyph: '👱‍♂️',
     svgPath: 'assets/man_blonde_hair_color_default.svg',
+    tts: 'man: blond hair',
+    fromVersion: '4.0',
+    glyphAsUtfInEmoticons: ['manblondhair'],
+    keywords: ['blond', 'blond-haired man', 'hair', 'man', 'man: blond hair'],
+    mappedToEmoticons: ['manblondhair'],
     skinToneLight: _manBlondHairLight,
     skinToneMediumLight: _manBlondHairMediumLight,
     skinToneMedium: _manBlondHairMedium,
@@ -10620,6 +14355,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'man: blond hair',
     glyph: '👱🏻‍♂️',
     svgPath: 'assets/man_blonde_hair_color_light.svg',
+    tts: 'man: blond hair',
+    fromVersion: '4.0',
+    glyphAsUtfInEmoticons: ['manblondhair'],
+    keywords: ['blond', 'blond-haired man', 'hair', 'man', 'man: blond hair'],
+    mappedToEmoticons: ['manblondhair'],
     skinTone: FluentEmojiSkinTone.light,
   );
 
@@ -10630,6 +14370,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'man: blond hair',
     glyph: '👱🏼‍♂️',
     svgPath: 'assets/man_blonde_hair_color_medium-light.svg',
+    tts: 'man: blond hair',
+    fromVersion: '4.0',
+    glyphAsUtfInEmoticons: ['manblondhair'],
+    keywords: ['blond', 'blond-haired man', 'hair', 'man', 'man: blond hair'],
+    mappedToEmoticons: ['manblondhair'],
     skinTone: FluentEmojiSkinTone.mediumLight,
   );
 
@@ -10640,6 +14385,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'man: blond hair',
     glyph: '👱🏽‍♂️',
     svgPath: 'assets/man_blonde_hair_color_medium.svg',
+    tts: 'man: blond hair',
+    fromVersion: '4.0',
+    glyphAsUtfInEmoticons: ['manblondhair'],
+    keywords: ['blond', 'blond-haired man', 'hair', 'man', 'man: blond hair'],
+    mappedToEmoticons: ['manblondhair'],
     skinTone: FluentEmojiSkinTone.medium,
   );
 
@@ -10650,6 +14400,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'man: blond hair',
     glyph: '👱🏾‍♂️',
     svgPath: 'assets/man_blonde_hair_color_medium-dark.svg',
+    tts: 'man: blond hair',
+    fromVersion: '4.0',
+    glyphAsUtfInEmoticons: ['manblondhair'],
+    keywords: ['blond', 'blond-haired man', 'hair', 'man', 'man: blond hair'],
+    mappedToEmoticons: ['manblondhair'],
     skinTone: FluentEmojiSkinTone.mediumDark,
   );
 
@@ -10660,6 +14415,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'man: blond hair',
     glyph: '👱🏿‍♂️',
     svgPath: 'assets/man_blonde_hair_color_dark.svg',
+    tts: 'man: blond hair',
+    fromVersion: '4.0',
+    glyphAsUtfInEmoticons: ['manblondhair'],
+    keywords: ['blond', 'blond-haired man', 'hair', 'man', 'man: blond hair'],
+    mappedToEmoticons: ['manblondhair'],
     skinTone: FluentEmojiSkinTone.dark,
   );
 
@@ -10676,6 +14436,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'man: curly hair',
     glyph: '👨‍🦱',
     svgPath: 'assets/man_curly_hair_color_default.svg',
+    tts: 'man: curly hair',
+    fromVersion: '11.0',
+    glyphAsUtfInEmoticons: ['1f468_200d_1f9b1_mancurlyhaired'],
+    keywords: ['adult', 'curly hair', 'man'],
+    mappedToEmoticons: ['1f468_200d_1f9b1_mancurlyhaired'],
     skinToneLight: _manCurlyHairLight,
     skinToneMediumLight: _manCurlyHairMediumLight,
     skinToneMedium: _manCurlyHairMedium,
@@ -10690,6 +14455,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'man: curly hair',
     glyph: '👨🏻‍🦱',
     svgPath: 'assets/man_curly_hair_color_light.svg',
+    tts: 'man: curly hair',
+    fromVersion: '11.0',
+    glyphAsUtfInEmoticons: ['1f468_200d_1f9b1_mancurlyhaired'],
+    keywords: ['adult', 'curly hair', 'man'],
+    mappedToEmoticons: ['1f468_200d_1f9b1_mancurlyhaired'],
     skinTone: FluentEmojiSkinTone.light,
   );
 
@@ -10700,6 +14470,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'man: curly hair',
     glyph: '👨🏼‍🦱',
     svgPath: 'assets/man_curly_hair_color_medium-light.svg',
+    tts: 'man: curly hair',
+    fromVersion: '11.0',
+    glyphAsUtfInEmoticons: ['1f468_200d_1f9b1_mancurlyhaired'],
+    keywords: ['adult', 'curly hair', 'man'],
+    mappedToEmoticons: ['1f468_200d_1f9b1_mancurlyhaired'],
     skinTone: FluentEmojiSkinTone.mediumLight,
   );
 
@@ -10710,6 +14485,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'man: curly hair',
     glyph: '👨🏽‍🦱',
     svgPath: 'assets/man_curly_hair_color_medium.svg',
+    tts: 'man: curly hair',
+    fromVersion: '11.0',
+    glyphAsUtfInEmoticons: ['1f468_200d_1f9b1_mancurlyhaired'],
+    keywords: ['adult', 'curly hair', 'man'],
+    mappedToEmoticons: ['1f468_200d_1f9b1_mancurlyhaired'],
     skinTone: FluentEmojiSkinTone.medium,
   );
 
@@ -10720,6 +14500,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'man: curly hair',
     glyph: '👨🏾‍🦱',
     svgPath: 'assets/man_curly_hair_color_medium-dark.svg',
+    tts: 'man: curly hair',
+    fromVersion: '11.0',
+    glyphAsUtfInEmoticons: ['1f468_200d_1f9b1_mancurlyhaired'],
+    keywords: ['adult', 'curly hair', 'man'],
+    mappedToEmoticons: ['1f468_200d_1f9b1_mancurlyhaired'],
     skinTone: FluentEmojiSkinTone.mediumDark,
   );
 
@@ -10730,6 +14515,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'man: curly hair',
     glyph: '👨🏿‍🦱',
     svgPath: 'assets/man_curly_hair_color_dark.svg',
+    tts: 'man: curly hair',
+    fromVersion: '11.0',
+    glyphAsUtfInEmoticons: ['1f468_200d_1f9b1_mancurlyhaired'],
+    keywords: ['adult', 'curly hair', 'man'],
+    mappedToEmoticons: ['1f468_200d_1f9b1_mancurlyhaired'],
     skinTone: FluentEmojiSkinTone.dark,
   );
 
@@ -10746,6 +14536,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'man: red hair',
     glyph: '👨‍🦰',
     svgPath: 'assets/man_red_hair_color_default.svg',
+    tts: 'man: red hair',
+    fromVersion: '11.0',
+    glyphAsUtfInEmoticons: ['1f468_200d_1f9b0_maleredhaired'],
+    keywords: ['adult', 'man', 'red hair'],
+    mappedToEmoticons: ['1f468_200d_1f9b0_maleredhaired'],
     skinToneLight: _manRedHairLight,
     skinToneMediumLight: _manRedHairMediumLight,
     skinToneMedium: _manRedHairMedium,
@@ -10760,6 +14555,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'man: red hair',
     glyph: '👨🏻‍🦰',
     svgPath: 'assets/man_red_hair_color_light.svg',
+    tts: 'man: red hair',
+    fromVersion: '11.0',
+    glyphAsUtfInEmoticons: ['1f468_200d_1f9b0_maleredhaired'],
+    keywords: ['adult', 'man', 'red hair'],
+    mappedToEmoticons: ['1f468_200d_1f9b0_maleredhaired'],
     skinTone: FluentEmojiSkinTone.light,
   );
 
@@ -10770,6 +14570,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'man: red hair',
     glyph: '👨🏼‍🦰',
     svgPath: 'assets/man_red_hair_color_medium-light.svg',
+    tts: 'man: red hair',
+    fromVersion: '11.0',
+    glyphAsUtfInEmoticons: ['1f468_200d_1f9b0_maleredhaired'],
+    keywords: ['adult', 'man', 'red hair'],
+    mappedToEmoticons: ['1f468_200d_1f9b0_maleredhaired'],
     skinTone: FluentEmojiSkinTone.mediumLight,
   );
 
@@ -10780,6 +14585,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'man: red hair',
     glyph: '👨🏽‍🦰',
     svgPath: 'assets/man_red_hair_color_medium.svg',
+    tts: 'man: red hair',
+    fromVersion: '11.0',
+    glyphAsUtfInEmoticons: ['1f468_200d_1f9b0_maleredhaired'],
+    keywords: ['adult', 'man', 'red hair'],
+    mappedToEmoticons: ['1f468_200d_1f9b0_maleredhaired'],
     skinTone: FluentEmojiSkinTone.medium,
   );
 
@@ -10790,6 +14600,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'man: red hair',
     glyph: '👨🏾‍🦰',
     svgPath: 'assets/man_red_hair_color_medium-dark.svg',
+    tts: 'man: red hair',
+    fromVersion: '11.0',
+    glyphAsUtfInEmoticons: ['1f468_200d_1f9b0_maleredhaired'],
+    keywords: ['adult', 'man', 'red hair'],
+    mappedToEmoticons: ['1f468_200d_1f9b0_maleredhaired'],
     skinTone: FluentEmojiSkinTone.mediumDark,
   );
 
@@ -10800,6 +14615,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'man: red hair',
     glyph: '👨🏿‍🦰',
     svgPath: 'assets/man_red_hair_color_dark.svg',
+    tts: 'man: red hair',
+    fromVersion: '11.0',
+    glyphAsUtfInEmoticons: ['1f468_200d_1f9b0_maleredhaired'],
+    keywords: ['adult', 'man', 'red hair'],
+    mappedToEmoticons: ['1f468_200d_1f9b0_maleredhaired'],
     skinTone: FluentEmojiSkinTone.dark,
   );
 
@@ -10816,6 +14636,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'man: white hair',
     glyph: '👨‍🦳',
     svgPath: 'assets/man_white_hair_color_default.svg',
+    tts: 'man: white hair',
+    fromVersion: '11.0',
+    glyphAsUtfInEmoticons: ['1f468_200d_1f9b3_malewhitehaired'],
+    keywords: ['adult', 'man', 'white hair'],
+    mappedToEmoticons: ['1f468_200d_1f9b3_malewhitehaired'],
     skinToneLight: _manWhiteHairLight,
     skinToneMediumLight: _manWhiteHairMediumLight,
     skinToneMedium: _manWhiteHairMedium,
@@ -10830,6 +14655,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'man: white hair',
     glyph: '👨🏻‍🦳',
     svgPath: 'assets/man_white_hair_color_light.svg',
+    tts: 'man: white hair',
+    fromVersion: '11.0',
+    glyphAsUtfInEmoticons: ['1f468_200d_1f9b3_malewhitehaired'],
+    keywords: ['adult', 'man', 'white hair'],
+    mappedToEmoticons: ['1f468_200d_1f9b3_malewhitehaired'],
     skinTone: FluentEmojiSkinTone.light,
   );
 
@@ -10840,6 +14670,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'man: white hair',
     glyph: '👨🏼‍🦳',
     svgPath: 'assets/man_white_hair_color_medium-light.svg',
+    tts: 'man: white hair',
+    fromVersion: '11.0',
+    glyphAsUtfInEmoticons: ['1f468_200d_1f9b3_malewhitehaired'],
+    keywords: ['adult', 'man', 'white hair'],
+    mappedToEmoticons: ['1f468_200d_1f9b3_malewhitehaired'],
     skinTone: FluentEmojiSkinTone.mediumLight,
   );
 
@@ -10850,6 +14685,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'man: white hair',
     glyph: '👨🏽‍🦳',
     svgPath: 'assets/man_white_hair_color_medium.svg',
+    tts: 'man: white hair',
+    fromVersion: '11.0',
+    glyphAsUtfInEmoticons: ['1f468_200d_1f9b3_malewhitehaired'],
+    keywords: ['adult', 'man', 'white hair'],
+    mappedToEmoticons: ['1f468_200d_1f9b3_malewhitehaired'],
     skinTone: FluentEmojiSkinTone.medium,
   );
 
@@ -10860,6 +14700,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'man: white hair',
     glyph: '👨🏾‍🦳',
     svgPath: 'assets/man_white_hair_color_medium-dark.svg',
+    tts: 'man: white hair',
+    fromVersion: '11.0',
+    glyphAsUtfInEmoticons: ['1f468_200d_1f9b3_malewhitehaired'],
+    keywords: ['adult', 'man', 'white hair'],
+    mappedToEmoticons: ['1f468_200d_1f9b3_malewhitehaired'],
     skinTone: FluentEmojiSkinTone.mediumDark,
   );
 
@@ -10870,6 +14715,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'man: white hair',
     glyph: '👨🏿‍🦳',
     svgPath: 'assets/man_white_hair_color_dark.svg',
+    tts: 'man: white hair',
+    fromVersion: '11.0',
+    glyphAsUtfInEmoticons: ['1f468_200d_1f9b3_malewhitehaired'],
+    keywords: ['adult', 'man', 'white hair'],
+    mappedToEmoticons: ['1f468_200d_1f9b3_malewhitehaired'],
     skinTone: FluentEmojiSkinTone.dark,
   );
 
@@ -10886,6 +14736,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'mechanic',
     glyph: '🧑‍🔧',
     svgPath: 'assets/mechanic_color_default.svg',
+    tts: 'mechanic',
+    fromVersion: '12.1',
+    glyphAsUtfInEmoticons: null,
+    keywords: ['electrician', 'mechanic', 'plumber', 'tradesperson'],
+    mappedToEmoticons: ['personmechanic'],
     skinToneLight: _mechanicLight,
     skinToneMediumLight: _mechanicMediumLight,
     skinToneMedium: _mechanicMedium,
@@ -10900,6 +14755,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'mechanic',
     glyph: '🧑🏻‍🔧',
     svgPath: 'assets/mechanic_color_light.svg',
+    tts: 'mechanic',
+    fromVersion: '12.1',
+    glyphAsUtfInEmoticons: null,
+    keywords: ['electrician', 'mechanic', 'plumber', 'tradesperson'],
+    mappedToEmoticons: ['personmechanic'],
     skinTone: FluentEmojiSkinTone.light,
   );
 
@@ -10910,6 +14770,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'mechanic',
     glyph: '🧑🏼‍🔧',
     svgPath: 'assets/mechanic_color_medium-light.svg',
+    tts: 'mechanic',
+    fromVersion: '12.1',
+    glyphAsUtfInEmoticons: null,
+    keywords: ['electrician', 'mechanic', 'plumber', 'tradesperson'],
+    mappedToEmoticons: ['personmechanic'],
     skinTone: FluentEmojiSkinTone.mediumLight,
   );
 
@@ -10920,6 +14785,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'mechanic',
     glyph: '🧑🏽‍🔧',
     svgPath: 'assets/mechanic_color_medium.svg',
+    tts: 'mechanic',
+    fromVersion: '12.1',
+    glyphAsUtfInEmoticons: null,
+    keywords: ['electrician', 'mechanic', 'plumber', 'tradesperson'],
+    mappedToEmoticons: ['personmechanic'],
     skinTone: FluentEmojiSkinTone.medium,
   );
 
@@ -10930,6 +14800,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'mechanic',
     glyph: '🧑🏾‍🔧',
     svgPath: 'assets/mechanic_color_medium-dark.svg',
+    tts: 'mechanic',
+    fromVersion: '12.1',
+    glyphAsUtfInEmoticons: null,
+    keywords: ['electrician', 'mechanic', 'plumber', 'tradesperson'],
+    mappedToEmoticons: ['personmechanic'],
     skinTone: FluentEmojiSkinTone.mediumDark,
   );
 
@@ -10940,6 +14815,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'mechanic',
     glyph: '🧑🏿‍🔧',
     svgPath: 'assets/mechanic_color_dark.svg',
+    tts: 'mechanic',
+    fromVersion: '12.1',
+    glyphAsUtfInEmoticons: null,
+    keywords: ['electrician', 'mechanic', 'plumber', 'tradesperson'],
+    mappedToEmoticons: ['personmechanic'],
     skinTone: FluentEmojiSkinTone.dark,
   );
 
@@ -10950,6 +14830,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'mechanical arm',
     glyph: '🦾',
     svgPath: 'assets/mechanical_arm_color.svg',
+    tts: 'mechanical arm',
+    fromVersion: '12.0',
+    glyphAsUtfInEmoticons: ['1f9be_mechanicalarm'],
+    keywords: ['accessibility', 'mechanical arm', 'prosthetic'],
+    mappedToEmoticons: ['1f9be_mechanicalarm'],
     skinTone: FluentEmojiSkinTone.standard,
   );
 
@@ -10960,6 +14845,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'mechanical leg',
     glyph: '🦿',
     svgPath: 'assets/mechanical_leg_color.svg',
+    tts: 'mechanical leg',
+    fromVersion: '12.0',
+    glyphAsUtfInEmoticons: ['1f9bf_mechanicalleg'],
+    keywords: ['accessibility', 'mechanical leg', 'prosthetic'],
+    mappedToEmoticons: ['1f9bf_mechanicalleg'],
     skinTone: FluentEmojiSkinTone.standard,
   );
 
@@ -10970,6 +14860,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'men with bunny ears',
     glyph: '👯‍♂️',
     svgPath: 'assets/man_with_bunny_ears_color.svg',
+    tts: 'men with bunny ears',
+    fromVersion: '4.0',
+    glyphAsUtfInEmoticons: ['men_with_bunny_ears'],
+    keywords: ['bunny ear', 'dancer', 'men', 'men with bunny ears', 'partying'],
+    mappedToEmoticons: null,
     skinTone: FluentEmojiSkinTone.standard,
   );
 
@@ -10980,6 +14875,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'men wrestling',
     glyph: '🤼‍♂️',
     svgPath: 'assets/man_wrestling_color.svg',
+    tts: 'men wrestling',
+    fromVersion: '4.0',
+    glyphAsUtfInEmoticons: ['menwrestling'],
+    keywords: ['men', 'men wrestling', 'wrestle'],
+    mappedToEmoticons: null,
     skinTone: FluentEmojiSkinTone.standard,
   );
 
@@ -10996,6 +14896,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'mermaid',
     glyph: '🧜‍♀️',
     svgPath: 'assets/woman_merpeople_color_default.svg',
+    tts: 'mermaid',
+    fromVersion: '5.0',
+    glyphAsUtfInEmoticons: ['mermaid'],
+    keywords: ['mermaid', 'merwoman'],
+    mappedToEmoticons: ['mermaid'],
     skinToneLight: _mermaidLight,
     skinToneMediumLight: _mermaidMediumLight,
     skinToneMedium: _mermaidMedium,
@@ -11010,6 +14915,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'mermaid',
     glyph: '🧜🏻‍♀️',
     svgPath: 'assets/woman_merpeople_color_light.svg',
+    tts: 'mermaid',
+    fromVersion: '5.0',
+    glyphAsUtfInEmoticons: ['mermaid'],
+    keywords: ['mermaid', 'merwoman'],
+    mappedToEmoticons: ['mermaid'],
     skinTone: FluentEmojiSkinTone.light,
   );
 
@@ -11020,6 +14930,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'mermaid',
     glyph: '🧜🏼‍♀️',
     svgPath: 'assets/woman_merpeople_color_medium-light.svg',
+    tts: 'mermaid',
+    fromVersion: '5.0',
+    glyphAsUtfInEmoticons: ['mermaid'],
+    keywords: ['mermaid', 'merwoman'],
+    mappedToEmoticons: ['mermaid'],
     skinTone: FluentEmojiSkinTone.mediumLight,
   );
 
@@ -11030,6 +14945,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'mermaid',
     glyph: '🧜🏽‍♀️',
     svgPath: 'assets/woman_merpeople_color_medium.svg',
+    tts: 'mermaid',
+    fromVersion: '5.0',
+    glyphAsUtfInEmoticons: ['mermaid'],
+    keywords: ['mermaid', 'merwoman'],
+    mappedToEmoticons: ['mermaid'],
     skinTone: FluentEmojiSkinTone.medium,
   );
 
@@ -11040,6 +14960,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'mermaid',
     glyph: '🧜🏾‍♀️',
     svgPath: 'assets/woman_merpeople_color_medium-dark.svg',
+    tts: 'mermaid',
+    fromVersion: '5.0',
+    glyphAsUtfInEmoticons: ['mermaid'],
+    keywords: ['mermaid', 'merwoman'],
+    mappedToEmoticons: ['mermaid'],
     skinTone: FluentEmojiSkinTone.mediumDark,
   );
 
@@ -11050,6 +14975,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'mermaid',
     glyph: '🧜🏿‍♀️',
     svgPath: 'assets/woman_merpeople_color_dark.svg',
+    tts: 'mermaid',
+    fromVersion: '5.0',
+    glyphAsUtfInEmoticons: ['mermaid'],
+    keywords: ['mermaid', 'merwoman'],
+    mappedToEmoticons: ['mermaid'],
     skinTone: FluentEmojiSkinTone.dark,
   );
 
@@ -11066,6 +14996,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'merman',
     glyph: '🧜‍♂️',
     svgPath: 'assets/man_merpeople_color_default.svg',
+    tts: 'merman',
+    fromVersion: '5.0',
+    glyphAsUtfInEmoticons: ['merman'],
+    keywords: ['merman', 'Triton'],
+    mappedToEmoticons: ['merman'],
     skinToneLight: _mermanLight,
     skinToneMediumLight: _mermanMediumLight,
     skinToneMedium: _mermanMedium,
@@ -11080,6 +15015,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'merman',
     glyph: '🧜🏻‍♂️',
     svgPath: 'assets/man_merpeople_color_light.svg',
+    tts: 'merman',
+    fromVersion: '5.0',
+    glyphAsUtfInEmoticons: ['merman'],
+    keywords: ['merman', 'Triton'],
+    mappedToEmoticons: ['merman'],
     skinTone: FluentEmojiSkinTone.light,
   );
 
@@ -11090,6 +15030,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'merman',
     glyph: '🧜🏼‍♂️',
     svgPath: 'assets/man_merpeople_color_medium-light.svg',
+    tts: 'merman',
+    fromVersion: '5.0',
+    glyphAsUtfInEmoticons: ['merman'],
+    keywords: ['merman', 'Triton'],
+    mappedToEmoticons: ['merman'],
     skinTone: FluentEmojiSkinTone.mediumLight,
   );
 
@@ -11100,6 +15045,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'merman',
     glyph: '🧜🏽‍♂️',
     svgPath: 'assets/man_merpeople_color_medium.svg',
+    tts: 'merman',
+    fromVersion: '5.0',
+    glyphAsUtfInEmoticons: ['merman'],
+    keywords: ['merman', 'Triton'],
+    mappedToEmoticons: ['merman'],
     skinTone: FluentEmojiSkinTone.medium,
   );
 
@@ -11110,6 +15060,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'merman',
     glyph: '🧜🏾‍♂️',
     svgPath: 'assets/man_merpeople_color_medium-dark.svg',
+    tts: 'merman',
+    fromVersion: '5.0',
+    glyphAsUtfInEmoticons: ['merman'],
+    keywords: ['merman', 'Triton'],
+    mappedToEmoticons: ['merman'],
     skinTone: FluentEmojiSkinTone.mediumDark,
   );
 
@@ -11120,6 +15075,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'merman',
     glyph: '🧜🏿‍♂️',
     svgPath: 'assets/man_merpeople_color_dark.svg',
+    tts: 'merman',
+    fromVersion: '5.0',
+    glyphAsUtfInEmoticons: ['merman'],
+    keywords: ['merman', 'Triton'],
+    mappedToEmoticons: ['merman'],
     skinTone: FluentEmojiSkinTone.dark,
   );
 
@@ -11136,6 +15096,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'merperson',
     glyph: '🧜',
     svgPath: 'assets/person_merpeople_color_default.svg',
+    tts: 'merperson',
+    fromVersion: '5.0',
+    glyphAsUtfInEmoticons: ['merperson'],
+    keywords: ['mermaid', 'merman', 'merperson', 'merwoman'],
+    mappedToEmoticons: ['merperson'],
     skinToneLight: _merpersonLight,
     skinToneMediumLight: _merpersonMediumLight,
     skinToneMedium: _merpersonMedium,
@@ -11150,6 +15115,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'merperson',
     glyph: '🧜🏻',
     svgPath: 'assets/person_merpeople_color_light.svg',
+    tts: 'merperson',
+    fromVersion: '5.0',
+    glyphAsUtfInEmoticons: ['merperson'],
+    keywords: ['mermaid', 'merman', 'merperson', 'merwoman'],
+    mappedToEmoticons: ['merperson'],
     skinTone: FluentEmojiSkinTone.light,
   );
 
@@ -11160,6 +15130,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'merperson',
     glyph: '🧜🏼',
     svgPath: 'assets/person_merpeople_color_medium-light.svg',
+    tts: 'merperson',
+    fromVersion: '5.0',
+    glyphAsUtfInEmoticons: ['merperson'],
+    keywords: ['mermaid', 'merman', 'merperson', 'merwoman'],
+    mappedToEmoticons: ['merperson'],
     skinTone: FluentEmojiSkinTone.mediumLight,
   );
 
@@ -11170,6 +15145,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'merperson',
     glyph: '🧜🏽',
     svgPath: 'assets/person_merpeople_color_medium.svg',
+    tts: 'merperson',
+    fromVersion: '5.0',
+    glyphAsUtfInEmoticons: ['merperson'],
+    keywords: ['mermaid', 'merman', 'merperson', 'merwoman'],
+    mappedToEmoticons: ['merperson'],
     skinTone: FluentEmojiSkinTone.medium,
   );
 
@@ -11180,6 +15160,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'merperson',
     glyph: '🧜🏾',
     svgPath: 'assets/person_merpeople_color_medium-dark.svg',
+    tts: 'merperson',
+    fromVersion: '5.0',
+    glyphAsUtfInEmoticons: ['merperson'],
+    keywords: ['mermaid', 'merman', 'merperson', 'merwoman'],
+    mappedToEmoticons: ['merperson'],
     skinTone: FluentEmojiSkinTone.mediumDark,
   );
 
@@ -11190,6 +15175,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'merperson',
     glyph: '🧜🏿',
     svgPath: 'assets/person_merpeople_color_dark.svg',
+    tts: 'merperson',
+    fromVersion: '5.0',
+    glyphAsUtfInEmoticons: ['merperson'],
+    keywords: ['mermaid', 'merman', 'merperson', 'merwoman'],
+    mappedToEmoticons: ['merperson'],
     skinTone: FluentEmojiSkinTone.dark,
   );
 
@@ -11206,6 +15196,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'middle finger',
     glyph: '🖕',
     svgPath: 'assets/middle_finger_color_default.svg',
+    tts: 'middle finger',
+    fromVersion: '1.0',
+    glyphAsUtfInEmoticons: ['finger'],
+    keywords: ['finger', 'hand', 'middle finger'],
+    mappedToEmoticons: ['middlefinger'],
     skinToneLight: _middleFingerLight,
     skinToneMediumLight: _middleFingerMediumLight,
     skinToneMedium: _middleFingerMedium,
@@ -11220,6 +15215,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'middle finger',
     glyph: '🖕🏻',
     svgPath: 'assets/middle_finger_color_light.svg',
+    tts: 'middle finger',
+    fromVersion: '1.0',
+    glyphAsUtfInEmoticons: ['finger'],
+    keywords: ['finger', 'hand', 'middle finger'],
+    mappedToEmoticons: ['middlefinger'],
     skinTone: FluentEmojiSkinTone.light,
   );
 
@@ -11230,6 +15230,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'middle finger',
     glyph: '🖕🏼',
     svgPath: 'assets/middle_finger_color_medium-light.svg',
+    tts: 'middle finger',
+    fromVersion: '1.0',
+    glyphAsUtfInEmoticons: ['finger'],
+    keywords: ['finger', 'hand', 'middle finger'],
+    mappedToEmoticons: ['middlefinger'],
     skinTone: FluentEmojiSkinTone.mediumLight,
   );
 
@@ -11240,6 +15245,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'middle finger',
     glyph: '🖕🏽',
     svgPath: 'assets/middle_finger_color_medium.svg',
+    tts: 'middle finger',
+    fromVersion: '1.0',
+    glyphAsUtfInEmoticons: ['finger'],
+    keywords: ['finger', 'hand', 'middle finger'],
+    mappedToEmoticons: ['middlefinger'],
     skinTone: FluentEmojiSkinTone.medium,
   );
 
@@ -11250,6 +15260,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'middle finger',
     glyph: '🖕🏾',
     svgPath: 'assets/middle_finger_color_medium-dark.svg',
+    tts: 'middle finger',
+    fromVersion: '1.0',
+    glyphAsUtfInEmoticons: ['finger'],
+    keywords: ['finger', 'hand', 'middle finger'],
+    mappedToEmoticons: ['middlefinger'],
     skinTone: FluentEmojiSkinTone.mediumDark,
   );
 
@@ -11260,6 +15275,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'middle finger',
     glyph: '🖕🏿',
     svgPath: 'assets/middle_finger_color_dark.svg',
+    tts: 'middle finger',
+    fromVersion: '1.0',
+    glyphAsUtfInEmoticons: ['finger'],
+    keywords: ['finger', 'hand', 'middle finger'],
+    mappedToEmoticons: ['middlefinger'],
     skinTone: FluentEmojiSkinTone.dark,
   );
 
@@ -11270,6 +15290,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'mouth',
     glyph: '👄',
     svgPath: 'assets/mouth_color.svg',
+    tts: 'mouth',
+    fromVersion: '0.6',
+    glyphAsUtfInEmoticons: ['1f444_mouth'],
+    keywords: ['lips', 'mouth'],
+    mappedToEmoticons: ['1f444_mouth'],
     skinTone: FluentEmojiSkinTone.standard,
   );
 
@@ -11286,6 +15311,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'mx claus',
     glyph: '🧑‍🎄',
     svgPath: 'assets/mx_claus_color_default.svg',
+    tts: 'mx claus',
+    fromVersion: '13.0',
+    glyphAsUtfInEmoticons: null,
+    keywords: ['Claus, christmas', 'mx claus'],
+    mappedToEmoticons: ['mxclaus'],
     skinToneLight: _mxClausLight,
     skinToneMediumLight: _mxClausMediumLight,
     skinToneMedium: _mxClausMedium,
@@ -11300,6 +15330,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'mx claus',
     glyph: '🧑🏻‍🎄',
     svgPath: 'assets/mx_claus_color_light.svg',
+    tts: 'mx claus',
+    fromVersion: '13.0',
+    glyphAsUtfInEmoticons: null,
+    keywords: ['Claus, christmas', 'mx claus'],
+    mappedToEmoticons: ['mxclaus'],
     skinTone: FluentEmojiSkinTone.light,
   );
 
@@ -11310,6 +15345,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'mx claus',
     glyph: '🧑🏼‍🎄',
     svgPath: 'assets/mx_claus_color_medium-light.svg',
+    tts: 'mx claus',
+    fromVersion: '13.0',
+    glyphAsUtfInEmoticons: null,
+    keywords: ['Claus, christmas', 'mx claus'],
+    mappedToEmoticons: ['mxclaus'],
     skinTone: FluentEmojiSkinTone.mediumLight,
   );
 
@@ -11320,6 +15360,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'mx claus',
     glyph: '🧑🏽‍🎄',
     svgPath: 'assets/mx_claus_color_medium.svg',
+    tts: 'mx claus',
+    fromVersion: '13.0',
+    glyphAsUtfInEmoticons: null,
+    keywords: ['Claus, christmas', 'mx claus'],
+    mappedToEmoticons: ['mxclaus'],
     skinTone: FluentEmojiSkinTone.medium,
   );
 
@@ -11330,6 +15375,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'mx claus',
     glyph: '🧑🏾‍🎄',
     svgPath: 'assets/mx_claus_color_medium-dark.svg',
+    tts: 'mx claus',
+    fromVersion: '13.0',
+    glyphAsUtfInEmoticons: null,
+    keywords: ['Claus, christmas', 'mx claus'],
+    mappedToEmoticons: ['mxclaus'],
     skinTone: FluentEmojiSkinTone.mediumDark,
   );
 
@@ -11340,6 +15390,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'mx claus',
     glyph: '🧑🏿‍🎄',
     svgPath: 'assets/mx_claus_color_dark.svg',
+    tts: 'mx claus',
+    fromVersion: '13.0',
+    glyphAsUtfInEmoticons: null,
+    keywords: ['Claus, christmas', 'mx claus'],
+    mappedToEmoticons: ['mxclaus'],
     skinTone: FluentEmojiSkinTone.dark,
   );
 
@@ -11356,6 +15411,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'nail polish',
     glyph: '💅',
     svgPath: 'assets/nail_polish_color_default.svg',
+    tts: 'nail polish',
+    fromVersion: '0.6',
+    glyphAsUtfInEmoticons: ['1f485_nailpolish'],
+    keywords: ['care', 'cosmetics', 'manicure', 'nail', 'polish'],
+    mappedToEmoticons: ['1f485_nailpolish'],
     skinToneLight: _nailPolishLight,
     skinToneMediumLight: _nailPolishMediumLight,
     skinToneMedium: _nailPolishMedium,
@@ -11370,6 +15430,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'nail polish',
     glyph: '💅🏻',
     svgPath: 'assets/nail_polish_color_light.svg',
+    tts: 'nail polish',
+    fromVersion: '0.6',
+    glyphAsUtfInEmoticons: ['1f485_nailpolish'],
+    keywords: ['care', 'cosmetics', 'manicure', 'nail', 'polish'],
+    mappedToEmoticons: ['1f485_nailpolish'],
     skinTone: FluentEmojiSkinTone.light,
   );
 
@@ -11380,6 +15445,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'nail polish',
     glyph: '💅🏼',
     svgPath: 'assets/nail_polish_color_medium-light.svg',
+    tts: 'nail polish',
+    fromVersion: '0.6',
+    glyphAsUtfInEmoticons: ['1f485_nailpolish'],
+    keywords: ['care', 'cosmetics', 'manicure', 'nail', 'polish'],
+    mappedToEmoticons: ['1f485_nailpolish'],
     skinTone: FluentEmojiSkinTone.mediumLight,
   );
 
@@ -11390,6 +15460,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'nail polish',
     glyph: '💅🏽',
     svgPath: 'assets/nail_polish_color_medium.svg',
+    tts: 'nail polish',
+    fromVersion: '0.6',
+    glyphAsUtfInEmoticons: ['1f485_nailpolish'],
+    keywords: ['care', 'cosmetics', 'manicure', 'nail', 'polish'],
+    mappedToEmoticons: ['1f485_nailpolish'],
     skinTone: FluentEmojiSkinTone.medium,
   );
 
@@ -11400,6 +15475,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'nail polish',
     glyph: '💅🏾',
     svgPath: 'assets/nail_polish_color_medium-dark.svg',
+    tts: 'nail polish',
+    fromVersion: '0.6',
+    glyphAsUtfInEmoticons: ['1f485_nailpolish'],
+    keywords: ['care', 'cosmetics', 'manicure', 'nail', 'polish'],
+    mappedToEmoticons: ['1f485_nailpolish'],
     skinTone: FluentEmojiSkinTone.mediumDark,
   );
 
@@ -11410,6 +15490,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'nail polish',
     glyph: '💅🏿',
     svgPath: 'assets/nail_polish_color_dark.svg',
+    tts: 'nail polish',
+    fromVersion: '0.6',
+    glyphAsUtfInEmoticons: ['1f485_nailpolish'],
+    keywords: ['care', 'cosmetics', 'manicure', 'nail', 'polish'],
+    mappedToEmoticons: ['1f485_nailpolish'],
     skinTone: FluentEmojiSkinTone.dark,
   );
 
@@ -11426,6 +15511,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'ninja',
     glyph: '🥷',
     svgPath: 'assets/ninja_color_default.svg',
+    tts: 'ninja',
+    fromVersion: '13.0',
+    glyphAsUtfInEmoticons: null,
+    keywords: ['fighter', 'hidden', 'ninja', 'stealth'],
+    mappedToEmoticons: ['ninja'],
     skinToneLight: _ninjaLight,
     skinToneMediumLight: _ninjaMediumLight,
     skinToneMedium: _ninjaMedium,
@@ -11440,6 +15530,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'ninja',
     glyph: '🥷🏻',
     svgPath: 'assets/ninja_color_light.svg',
+    tts: 'ninja',
+    fromVersion: '13.0',
+    glyphAsUtfInEmoticons: null,
+    keywords: ['fighter', 'hidden', 'ninja', 'stealth'],
+    mappedToEmoticons: ['ninja'],
     skinTone: FluentEmojiSkinTone.light,
   );
 
@@ -11450,6 +15545,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'ninja',
     glyph: '🥷🏼',
     svgPath: 'assets/ninja_color_medium-light.svg',
+    tts: 'ninja',
+    fromVersion: '13.0',
+    glyphAsUtfInEmoticons: null,
+    keywords: ['fighter', 'hidden', 'ninja', 'stealth'],
+    mappedToEmoticons: ['ninja'],
     skinTone: FluentEmojiSkinTone.mediumLight,
   );
 
@@ -11460,6 +15560,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'ninja',
     glyph: '🥷🏽',
     svgPath: 'assets/ninja_color_medium.svg',
+    tts: 'ninja',
+    fromVersion: '13.0',
+    glyphAsUtfInEmoticons: null,
+    keywords: ['fighter', 'hidden', 'ninja', 'stealth'],
+    mappedToEmoticons: ['ninja'],
     skinTone: FluentEmojiSkinTone.medium,
   );
 
@@ -11470,6 +15575,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'ninja',
     glyph: '🥷🏾',
     svgPath: 'assets/ninja_color_medium-dark.svg',
+    tts: 'ninja',
+    fromVersion: '13.0',
+    glyphAsUtfInEmoticons: null,
+    keywords: ['fighter', 'hidden', 'ninja', 'stealth'],
+    mappedToEmoticons: ['ninja'],
     skinTone: FluentEmojiSkinTone.mediumDark,
   );
 
@@ -11480,6 +15590,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'ninja',
     glyph: '🥷🏿',
     svgPath: 'assets/ninja_color_dark.svg',
+    tts: 'ninja',
+    fromVersion: '13.0',
+    glyphAsUtfInEmoticons: null,
+    keywords: ['fighter', 'hidden', 'ninja', 'stealth'],
+    mappedToEmoticons: ['ninja'],
     skinTone: FluentEmojiSkinTone.dark,
   );
 
@@ -11496,6 +15611,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'nose',
     glyph: '👃',
     svgPath: 'assets/nose_color_default.svg',
+    tts: 'nose',
+    fromVersion: '0.6',
+    glyphAsUtfInEmoticons: ['1f443_nose'],
+    keywords: ['body', 'nose'],
+    mappedToEmoticons: ['1f443_nose'],
     skinToneLight: _noseLight,
     skinToneMediumLight: _noseMediumLight,
     skinToneMedium: _noseMedium,
@@ -11510,6 +15630,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'nose',
     glyph: '👃🏻',
     svgPath: 'assets/nose_color_light.svg',
+    tts: 'nose',
+    fromVersion: '0.6',
+    glyphAsUtfInEmoticons: ['1f443_nose'],
+    keywords: ['body', 'nose'],
+    mappedToEmoticons: ['1f443_nose'],
     skinTone: FluentEmojiSkinTone.light,
   );
 
@@ -11520,6 +15645,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'nose',
     glyph: '👃🏼',
     svgPath: 'assets/nose_color_medium-light.svg',
+    tts: 'nose',
+    fromVersion: '0.6',
+    glyphAsUtfInEmoticons: ['1f443_nose'],
+    keywords: ['body', 'nose'],
+    mappedToEmoticons: ['1f443_nose'],
     skinTone: FluentEmojiSkinTone.mediumLight,
   );
 
@@ -11530,6 +15660,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'nose',
     glyph: '👃🏽',
     svgPath: 'assets/nose_color_medium.svg',
+    tts: 'nose',
+    fromVersion: '0.6',
+    glyphAsUtfInEmoticons: ['1f443_nose'],
+    keywords: ['body', 'nose'],
+    mappedToEmoticons: ['1f443_nose'],
     skinTone: FluentEmojiSkinTone.medium,
   );
 
@@ -11540,6 +15675,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'nose',
     glyph: '👃🏾',
     svgPath: 'assets/nose_color_medium-dark.svg',
+    tts: 'nose',
+    fromVersion: '0.6',
+    glyphAsUtfInEmoticons: ['1f443_nose'],
+    keywords: ['body', 'nose'],
+    mappedToEmoticons: ['1f443_nose'],
     skinTone: FluentEmojiSkinTone.mediumDark,
   );
 
@@ -11550,6 +15690,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'nose',
     glyph: '👃🏿',
     svgPath: 'assets/nose_color_dark.svg',
+    tts: 'nose',
+    fromVersion: '0.6',
+    glyphAsUtfInEmoticons: ['1f443_nose'],
+    keywords: ['body', 'nose'],
+    mappedToEmoticons: ['1f443_nose'],
     skinTone: FluentEmojiSkinTone.dark,
   );
 
@@ -11566,6 +15711,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'office worker',
     glyph: '🧑‍💼',
     svgPath: 'assets/office_worker_color_default.svg',
+    tts: 'office worker',
+    fromVersion: '12.1',
+    glyphAsUtfInEmoticons: null,
+    keywords: ['architect', 'business', 'manager', 'office worker', 'white-collar'],
+    mappedToEmoticons: ['personofficeworker'],
     skinToneLight: _officeWorkerLight,
     skinToneMediumLight: _officeWorkerMediumLight,
     skinToneMedium: _officeWorkerMedium,
@@ -11580,6 +15730,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'office worker',
     glyph: '🧑🏻‍💼',
     svgPath: 'assets/office_worker_color_light.svg',
+    tts: 'office worker',
+    fromVersion: '12.1',
+    glyphAsUtfInEmoticons: null,
+    keywords: ['architect', 'business', 'manager', 'office worker', 'white-collar'],
+    mappedToEmoticons: ['personofficeworker'],
     skinTone: FluentEmojiSkinTone.light,
   );
 
@@ -11590,6 +15745,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'office worker',
     glyph: '🧑🏼‍💼',
     svgPath: 'assets/office_worker_color_medium-light.svg',
+    tts: 'office worker',
+    fromVersion: '12.1',
+    glyphAsUtfInEmoticons: null,
+    keywords: ['architect', 'business', 'manager', 'office worker', 'white-collar'],
+    mappedToEmoticons: ['personofficeworker'],
     skinTone: FluentEmojiSkinTone.mediumLight,
   );
 
@@ -11600,6 +15760,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'office worker',
     glyph: '🧑🏽‍💼',
     svgPath: 'assets/office_worker_color_medium.svg',
+    tts: 'office worker',
+    fromVersion: '12.1',
+    glyphAsUtfInEmoticons: null,
+    keywords: ['architect', 'business', 'manager', 'office worker', 'white-collar'],
+    mappedToEmoticons: ['personofficeworker'],
     skinTone: FluentEmojiSkinTone.medium,
   );
 
@@ -11610,6 +15775,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'office worker',
     glyph: '🧑🏾‍💼',
     svgPath: 'assets/office_worker_color_medium-dark.svg',
+    tts: 'office worker',
+    fromVersion: '12.1',
+    glyphAsUtfInEmoticons: null,
+    keywords: ['architect', 'business', 'manager', 'office worker', 'white-collar'],
+    mappedToEmoticons: ['personofficeworker'],
     skinTone: FluentEmojiSkinTone.mediumDark,
   );
 
@@ -11620,6 +15790,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'office worker',
     glyph: '🧑🏿‍💼',
     svgPath: 'assets/office_worker_color_dark.svg',
+    tts: 'office worker',
+    fromVersion: '12.1',
+    glyphAsUtfInEmoticons: null,
+    keywords: ['architect', 'business', 'manager', 'office worker', 'white-collar'],
+    mappedToEmoticons: ['personofficeworker'],
     skinTone: FluentEmojiSkinTone.dark,
   );
 
@@ -11636,6 +15811,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'old man',
     glyph: '👴',
     svgPath: 'assets/old_man_color_default.svg',
+    tts: 'old man',
+    fromVersion: '0.6',
+    glyphAsUtfInEmoticons: ['1f474_olderman'],
+    keywords: ['adult', 'man', 'old'],
+    mappedToEmoticons: ['1f474_olderman'],
     skinToneLight: _oldManLight,
     skinToneMediumLight: _oldManMediumLight,
     skinToneMedium: _oldManMedium,
@@ -11650,6 +15830,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'old man',
     glyph: '👴🏻',
     svgPath: 'assets/old_man_color_light.svg',
+    tts: 'old man',
+    fromVersion: '0.6',
+    glyphAsUtfInEmoticons: ['1f474_olderman'],
+    keywords: ['adult', 'man', 'old'],
+    mappedToEmoticons: ['1f474_olderman'],
     skinTone: FluentEmojiSkinTone.light,
   );
 
@@ -11660,6 +15845,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'old man',
     glyph: '👴🏼',
     svgPath: 'assets/old_man_color_medium-light.svg',
+    tts: 'old man',
+    fromVersion: '0.6',
+    glyphAsUtfInEmoticons: ['1f474_olderman'],
+    keywords: ['adult', 'man', 'old'],
+    mappedToEmoticons: ['1f474_olderman'],
     skinTone: FluentEmojiSkinTone.mediumLight,
   );
 
@@ -11670,6 +15860,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'old man',
     glyph: '👴🏽',
     svgPath: 'assets/old_man_color_medium.svg',
+    tts: 'old man',
+    fromVersion: '0.6',
+    glyphAsUtfInEmoticons: ['1f474_olderman'],
+    keywords: ['adult', 'man', 'old'],
+    mappedToEmoticons: ['1f474_olderman'],
     skinTone: FluentEmojiSkinTone.medium,
   );
 
@@ -11680,6 +15875,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'old man',
     glyph: '👴🏾',
     svgPath: 'assets/old_man_color_medium-dark.svg',
+    tts: 'old man',
+    fromVersion: '0.6',
+    glyphAsUtfInEmoticons: ['1f474_olderman'],
+    keywords: ['adult', 'man', 'old'],
+    mappedToEmoticons: ['1f474_olderman'],
     skinTone: FluentEmojiSkinTone.mediumDark,
   );
 
@@ -11690,6 +15890,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'old man',
     glyph: '👴🏿',
     svgPath: 'assets/old_man_color_dark.svg',
+    tts: 'old man',
+    fromVersion: '0.6',
+    glyphAsUtfInEmoticons: ['1f474_olderman'],
+    keywords: ['adult', 'man', 'old'],
+    mappedToEmoticons: ['1f474_olderman'],
     skinTone: FluentEmojiSkinTone.dark,
   );
 
@@ -11706,6 +15911,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'old woman',
     glyph: '👵',
     svgPath: 'assets/old_woman_color_default.svg',
+    tts: 'old woman',
+    fromVersion: '0.6',
+    glyphAsUtfInEmoticons: ['gran'],
+    keywords: ['adult', 'old', 'woman'],
+    mappedToEmoticons: ['oldwoman'],
     skinToneLight: _oldWomanLight,
     skinToneMediumLight: _oldWomanMediumLight,
     skinToneMedium: _oldWomanMedium,
@@ -11720,6 +15930,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'old woman',
     glyph: '👵🏻',
     svgPath: 'assets/old_woman_color_light.svg',
+    tts: 'old woman',
+    fromVersion: '0.6',
+    glyphAsUtfInEmoticons: ['gran'],
+    keywords: ['adult', 'old', 'woman'],
+    mappedToEmoticons: ['oldwoman'],
     skinTone: FluentEmojiSkinTone.light,
   );
 
@@ -11730,6 +15945,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'old woman',
     glyph: '👵🏼',
     svgPath: 'assets/old_woman_color_medium-light.svg',
+    tts: 'old woman',
+    fromVersion: '0.6',
+    glyphAsUtfInEmoticons: ['gran'],
+    keywords: ['adult', 'old', 'woman'],
+    mappedToEmoticons: ['oldwoman'],
     skinTone: FluentEmojiSkinTone.mediumLight,
   );
 
@@ -11740,6 +15960,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'old woman',
     glyph: '👵🏽',
     svgPath: 'assets/old_woman_color_medium.svg',
+    tts: 'old woman',
+    fromVersion: '0.6',
+    glyphAsUtfInEmoticons: ['gran'],
+    keywords: ['adult', 'old', 'woman'],
+    mappedToEmoticons: ['oldwoman'],
     skinTone: FluentEmojiSkinTone.medium,
   );
 
@@ -11750,6 +15975,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'old woman',
     glyph: '👵🏾',
     svgPath: 'assets/old_woman_color_medium-dark.svg',
+    tts: 'old woman',
+    fromVersion: '0.6',
+    glyphAsUtfInEmoticons: ['gran'],
+    keywords: ['adult', 'old', 'woman'],
+    mappedToEmoticons: ['oldwoman'],
     skinTone: FluentEmojiSkinTone.mediumDark,
   );
 
@@ -11760,6 +15990,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'old woman',
     glyph: '👵🏿',
     svgPath: 'assets/old_woman_color_dark.svg',
+    tts: 'old woman',
+    fromVersion: '0.6',
+    glyphAsUtfInEmoticons: ['gran'],
+    keywords: ['adult', 'old', 'woman'],
+    mappedToEmoticons: ['oldwoman'],
     skinTone: FluentEmojiSkinTone.dark,
   );
 
@@ -11776,6 +16011,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'older person',
     glyph: '🧓',
     svgPath: 'assets/older_person_color_default.svg',
+    tts: 'older person',
+    fromVersion: '5.0',
+    glyphAsUtfInEmoticons: ['1f9d3_olderadult'],
+    keywords: ['adult', 'gender-neutral', 'old', 'older person', 'unspecified gender'],
+    mappedToEmoticons: ['1f9d3_olderadult'],
     skinToneLight: _olderPersonLight,
     skinToneMediumLight: _olderPersonMediumLight,
     skinToneMedium: _olderPersonMedium,
@@ -11790,6 +16030,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'older person',
     glyph: '🧓🏻',
     svgPath: 'assets/older_person_color_light.svg',
+    tts: 'older person',
+    fromVersion: '5.0',
+    glyphAsUtfInEmoticons: ['1f9d3_olderadult'],
+    keywords: ['adult', 'gender-neutral', 'old', 'older person', 'unspecified gender'],
+    mappedToEmoticons: ['1f9d3_olderadult'],
     skinTone: FluentEmojiSkinTone.light,
   );
 
@@ -11800,6 +16045,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'older person',
     glyph: '🧓🏼',
     svgPath: 'assets/older_person_color_medium-light.svg',
+    tts: 'older person',
+    fromVersion: '5.0',
+    glyphAsUtfInEmoticons: ['1f9d3_olderadult'],
+    keywords: ['adult', 'gender-neutral', 'old', 'older person', 'unspecified gender'],
+    mappedToEmoticons: ['1f9d3_olderadult'],
     skinTone: FluentEmojiSkinTone.mediumLight,
   );
 
@@ -11810,6 +16060,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'older person',
     glyph: '🧓🏽',
     svgPath: 'assets/older_person_color_medium.svg',
+    tts: 'older person',
+    fromVersion: '5.0',
+    glyphAsUtfInEmoticons: ['1f9d3_olderadult'],
+    keywords: ['adult', 'gender-neutral', 'old', 'older person', 'unspecified gender'],
+    mappedToEmoticons: ['1f9d3_olderadult'],
     skinTone: FluentEmojiSkinTone.medium,
   );
 
@@ -11820,6 +16075,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'older person',
     glyph: '🧓🏾',
     svgPath: 'assets/older_person_color_medium-dark.svg',
+    tts: 'older person',
+    fromVersion: '5.0',
+    glyphAsUtfInEmoticons: ['1f9d3_olderadult'],
+    keywords: ['adult', 'gender-neutral', 'old', 'older person', 'unspecified gender'],
+    mappedToEmoticons: ['1f9d3_olderadult'],
     skinTone: FluentEmojiSkinTone.mediumDark,
   );
 
@@ -11830,6 +16090,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'older person',
     glyph: '🧓🏿',
     svgPath: 'assets/older_person_color_dark.svg',
+    tts: 'older person',
+    fromVersion: '5.0',
+    glyphAsUtfInEmoticons: ['1f9d3_olderadult'],
+    keywords: ['adult', 'gender-neutral', 'old', 'older person', 'unspecified gender'],
+    mappedToEmoticons: ['1f9d3_olderadult'],
     skinTone: FluentEmojiSkinTone.dark,
   );
 
@@ -11846,6 +16111,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'oncoming fist',
     glyph: '👊',
     svgPath: 'assets/oncoming_fist_color_default.svg',
+    tts: 'oncoming fist',
+    fromVersion: '0.6',
+    glyphAsUtfInEmoticons: ['1f44a_oncomingfist'],
+    keywords: ['clenched', 'fist', 'hand', 'oncoming fist', 'punch'],
+    mappedToEmoticons: ['1f44a_oncomingfist'],
     skinToneLight: _oncomingFistLight,
     skinToneMediumLight: _oncomingFistMediumLight,
     skinToneMedium: _oncomingFistMedium,
@@ -11860,6 +16130,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'oncoming fist',
     glyph: '👊🏻',
     svgPath: 'assets/oncoming_fist_color_light.svg',
+    tts: 'oncoming fist',
+    fromVersion: '0.6',
+    glyphAsUtfInEmoticons: ['1f44a_oncomingfist'],
+    keywords: ['clenched', 'fist', 'hand', 'oncoming fist', 'punch'],
+    mappedToEmoticons: ['1f44a_oncomingfist'],
     skinTone: FluentEmojiSkinTone.light,
   );
 
@@ -11870,6 +16145,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'oncoming fist',
     glyph: '👊🏼',
     svgPath: 'assets/oncoming_fist_color_medium-light.svg',
+    tts: 'oncoming fist',
+    fromVersion: '0.6',
+    glyphAsUtfInEmoticons: ['1f44a_oncomingfist'],
+    keywords: ['clenched', 'fist', 'hand', 'oncoming fist', 'punch'],
+    mappedToEmoticons: ['1f44a_oncomingfist'],
     skinTone: FluentEmojiSkinTone.mediumLight,
   );
 
@@ -11880,6 +16160,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'oncoming fist',
     glyph: '👊🏽',
     svgPath: 'assets/oncoming_fist_color_medium.svg',
+    tts: 'oncoming fist',
+    fromVersion: '0.6',
+    glyphAsUtfInEmoticons: ['1f44a_oncomingfist'],
+    keywords: ['clenched', 'fist', 'hand', 'oncoming fist', 'punch'],
+    mappedToEmoticons: ['1f44a_oncomingfist'],
     skinTone: FluentEmojiSkinTone.medium,
   );
 
@@ -11890,6 +16175,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'oncoming fist',
     glyph: '👊🏾',
     svgPath: 'assets/oncoming_fist_color_medium-dark.svg',
+    tts: 'oncoming fist',
+    fromVersion: '0.6',
+    glyphAsUtfInEmoticons: ['1f44a_oncomingfist'],
+    keywords: ['clenched', 'fist', 'hand', 'oncoming fist', 'punch'],
+    mappedToEmoticons: ['1f44a_oncomingfist'],
     skinTone: FluentEmojiSkinTone.mediumDark,
   );
 
@@ -11900,6 +16190,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'oncoming fist',
     glyph: '👊🏿',
     svgPath: 'assets/oncoming_fist_color_dark.svg',
+    tts: 'oncoming fist',
+    fromVersion: '0.6',
+    glyphAsUtfInEmoticons: ['1f44a_oncomingfist'],
+    keywords: ['clenched', 'fist', 'hand', 'oncoming fist', 'punch'],
+    mappedToEmoticons: ['1f44a_oncomingfist'],
     skinTone: FluentEmojiSkinTone.dark,
   );
 
@@ -11916,6 +16211,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'open hands',
     glyph: '👐',
     svgPath: 'assets/open_hands_color_default.svg',
+    tts: 'open hands',
+    fromVersion: '0.6',
+    glyphAsUtfInEmoticons: ['1f450_openhands'],
+    keywords: ['hand', 'open', 'open hands'],
+    mappedToEmoticons: ['1f450_openhands'],
     skinToneLight: _openHandsLight,
     skinToneMediumLight: _openHandsMediumLight,
     skinToneMedium: _openHandsMedium,
@@ -11930,6 +16230,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'open hands',
     glyph: '👐🏻',
     svgPath: 'assets/open_hands_color_light.svg',
+    tts: 'open hands',
+    fromVersion: '0.6',
+    glyphAsUtfInEmoticons: ['1f450_openhands'],
+    keywords: ['hand', 'open', 'open hands'],
+    mappedToEmoticons: ['1f450_openhands'],
     skinTone: FluentEmojiSkinTone.light,
   );
 
@@ -11940,6 +16245,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'open hands',
     glyph: '👐🏼',
     svgPath: 'assets/open_hands_color_medium-light.svg',
+    tts: 'open hands',
+    fromVersion: '0.6',
+    glyphAsUtfInEmoticons: ['1f450_openhands'],
+    keywords: ['hand', 'open', 'open hands'],
+    mappedToEmoticons: ['1f450_openhands'],
     skinTone: FluentEmojiSkinTone.mediumLight,
   );
 
@@ -11950,6 +16260,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'open hands',
     glyph: '👐🏽',
     svgPath: 'assets/open_hands_color_medium.svg',
+    tts: 'open hands',
+    fromVersion: '0.6',
+    glyphAsUtfInEmoticons: ['1f450_openhands'],
+    keywords: ['hand', 'open', 'open hands'],
+    mappedToEmoticons: ['1f450_openhands'],
     skinTone: FluentEmojiSkinTone.medium,
   );
 
@@ -11960,6 +16275,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'open hands',
     glyph: '👐🏾',
     svgPath: 'assets/open_hands_color_medium-dark.svg',
+    tts: 'open hands',
+    fromVersion: '0.6',
+    glyphAsUtfInEmoticons: ['1f450_openhands'],
+    keywords: ['hand', 'open', 'open hands'],
+    mappedToEmoticons: ['1f450_openhands'],
     skinTone: FluentEmojiSkinTone.mediumDark,
   );
 
@@ -11970,6 +16290,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'open hands',
     glyph: '👐🏿',
     svgPath: 'assets/open_hands_color_dark.svg',
+    tts: 'open hands',
+    fromVersion: '0.6',
+    glyphAsUtfInEmoticons: ['1f450_openhands'],
+    keywords: ['hand', 'open', 'open hands'],
+    mappedToEmoticons: ['1f450_openhands'],
     skinTone: FluentEmojiSkinTone.dark,
   );
 
@@ -11986,6 +16311,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'palm down hand',
     glyph: '🫳',
     svgPath: 'assets/palm_down_hand_color_default.svg',
+    tts: 'palm down hand',
+    fromVersion: '14.0',
+    glyphAsUtfInEmoticons: ['palmdownhand'],
+    keywords: ['dismiss', 'drop', 'palm down hand', 'shoo'],
+    mappedToEmoticons: ['palmdownhand'],
     skinToneLight: _palmDownHandLight,
     skinToneMediumLight: _palmDownHandMediumLight,
     skinToneMedium: _palmDownHandMedium,
@@ -12000,6 +16330,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'palm down hand',
     glyph: '🫳🏻',
     svgPath: 'assets/palm_down_hand_color_light.svg',
+    tts: 'palm down hand',
+    fromVersion: '14.0',
+    glyphAsUtfInEmoticons: ['palmdownhand'],
+    keywords: ['dismiss', 'drop', 'palm down hand', 'shoo'],
+    mappedToEmoticons: ['palmdownhand'],
     skinTone: FluentEmojiSkinTone.light,
   );
 
@@ -12010,6 +16345,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'palm down hand',
     glyph: '🫳🏼',
     svgPath: 'assets/palm_down_hand_color_medium-light.svg',
+    tts: 'palm down hand',
+    fromVersion: '14.0',
+    glyphAsUtfInEmoticons: ['palmdownhand'],
+    keywords: ['dismiss', 'drop', 'palm down hand', 'shoo'],
+    mappedToEmoticons: ['palmdownhand'],
     skinTone: FluentEmojiSkinTone.mediumLight,
   );
 
@@ -12020,6 +16360,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'palm down hand',
     glyph: '🫳🏽',
     svgPath: 'assets/palm_down_hand_color_medium.svg',
+    tts: 'palm down hand',
+    fromVersion: '14.0',
+    glyphAsUtfInEmoticons: ['palmdownhand'],
+    keywords: ['dismiss', 'drop', 'palm down hand', 'shoo'],
+    mappedToEmoticons: ['palmdownhand'],
     skinTone: FluentEmojiSkinTone.medium,
   );
 
@@ -12030,6 +16375,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'palm down hand',
     glyph: '🫳🏾',
     svgPath: 'assets/palm_down_hand_color_medium-dark.svg',
+    tts: 'palm down hand',
+    fromVersion: '14.0',
+    glyphAsUtfInEmoticons: ['palmdownhand'],
+    keywords: ['dismiss', 'drop', 'palm down hand', 'shoo'],
+    mappedToEmoticons: ['palmdownhand'],
     skinTone: FluentEmojiSkinTone.mediumDark,
   );
 
@@ -12040,6 +16390,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'palm down hand',
     glyph: '🫳🏿',
     svgPath: 'assets/palm_down_hand_color_dark.svg',
+    tts: 'palm down hand',
+    fromVersion: '14.0',
+    glyphAsUtfInEmoticons: ['palmdownhand'],
+    keywords: ['dismiss', 'drop', 'palm down hand', 'shoo'],
+    mappedToEmoticons: ['palmdownhand'],
     skinTone: FluentEmojiSkinTone.dark,
   );
 
@@ -12056,6 +16411,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'palm up hand',
     glyph: '🫴',
     svgPath: 'assets/palm_up_hand_color_default.svg',
+    tts: 'palm up hand',
+    fromVersion: '14.0',
+    glyphAsUtfInEmoticons: ['palmuphand'],
+    keywords: ['beckon', 'catch', 'come', 'offer', 'palm up hand'],
+    mappedToEmoticons: ['palmuphand'],
     skinToneLight: _palmUpHandLight,
     skinToneMediumLight: _palmUpHandMediumLight,
     skinToneMedium: _palmUpHandMedium,
@@ -12070,6 +16430,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'palm up hand',
     glyph: '🫴🏻',
     svgPath: 'assets/palm_up_hand_color_light.svg',
+    tts: 'palm up hand',
+    fromVersion: '14.0',
+    glyphAsUtfInEmoticons: ['palmuphand'],
+    keywords: ['beckon', 'catch', 'come', 'offer', 'palm up hand'],
+    mappedToEmoticons: ['palmuphand'],
     skinTone: FluentEmojiSkinTone.light,
   );
 
@@ -12080,6 +16445,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'palm up hand',
     glyph: '🫴🏼',
     svgPath: 'assets/palm_up_hand_color_medium-light.svg',
+    tts: 'palm up hand',
+    fromVersion: '14.0',
+    glyphAsUtfInEmoticons: ['palmuphand'],
+    keywords: ['beckon', 'catch', 'come', 'offer', 'palm up hand'],
+    mappedToEmoticons: ['palmuphand'],
     skinTone: FluentEmojiSkinTone.mediumLight,
   );
 
@@ -12090,6 +16460,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'palm up hand',
     glyph: '🫴🏽',
     svgPath: 'assets/palm_up_hand_color_medium.svg',
+    tts: 'palm up hand',
+    fromVersion: '14.0',
+    glyphAsUtfInEmoticons: ['palmuphand'],
+    keywords: ['beckon', 'catch', 'come', 'offer', 'palm up hand'],
+    mappedToEmoticons: ['palmuphand'],
     skinTone: FluentEmojiSkinTone.medium,
   );
 
@@ -12100,6 +16475,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'palm up hand',
     glyph: '🫴🏾',
     svgPath: 'assets/palm_up_hand_color_medium-dark.svg',
+    tts: 'palm up hand',
+    fromVersion: '14.0',
+    glyphAsUtfInEmoticons: ['palmuphand'],
+    keywords: ['beckon', 'catch', 'come', 'offer', 'palm up hand'],
+    mappedToEmoticons: ['palmuphand'],
     skinTone: FluentEmojiSkinTone.mediumDark,
   );
 
@@ -12110,6 +16490,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'palm up hand',
     glyph: '🫴🏿',
     svgPath: 'assets/palm_up_hand_color_dark.svg',
+    tts: 'palm up hand',
+    fromVersion: '14.0',
+    glyphAsUtfInEmoticons: ['palmuphand'],
+    keywords: ['beckon', 'catch', 'come', 'offer', 'palm up hand'],
+    mappedToEmoticons: ['palmuphand'],
     skinTone: FluentEmojiSkinTone.dark,
   );
 
@@ -12126,6 +16511,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'palms up together',
     glyph: '🤲',
     svgPath: 'assets/palms_up_together_color_default.svg',
+    tts: 'palms up together',
+    fromVersion: '5.0',
+    glyphAsUtfInEmoticons: ['1f932_palmsuptogether'],
+    keywords: ['palms up together', 'prayer'],
+    mappedToEmoticons: ['1f932_palmsuptogether'],
     skinToneLight: _palmsUpTogetherLight,
     skinToneMediumLight: _palmsUpTogetherMediumLight,
     skinToneMedium: _palmsUpTogetherMedium,
@@ -12140,6 +16530,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'palms up together',
     glyph: '🤲🏻',
     svgPath: 'assets/palms_up_together_color_light.svg',
+    tts: 'palms up together',
+    fromVersion: '5.0',
+    glyphAsUtfInEmoticons: ['1f932_palmsuptogether'],
+    keywords: ['palms up together', 'prayer'],
+    mappedToEmoticons: ['1f932_palmsuptogether'],
     skinTone: FluentEmojiSkinTone.light,
   );
 
@@ -12150,6 +16545,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'palms up together',
     glyph: '🤲🏼',
     svgPath: 'assets/palms_up_together_color_medium-light.svg',
+    tts: 'palms up together',
+    fromVersion: '5.0',
+    glyphAsUtfInEmoticons: ['1f932_palmsuptogether'],
+    keywords: ['palms up together', 'prayer'],
+    mappedToEmoticons: ['1f932_palmsuptogether'],
     skinTone: FluentEmojiSkinTone.mediumLight,
   );
 
@@ -12160,6 +16560,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'palms up together',
     glyph: '🤲🏽',
     svgPath: 'assets/palms_up_together_color_medium.svg',
+    tts: 'palms up together',
+    fromVersion: '5.0',
+    glyphAsUtfInEmoticons: ['1f932_palmsuptogether'],
+    keywords: ['palms up together', 'prayer'],
+    mappedToEmoticons: ['1f932_palmsuptogether'],
     skinTone: FluentEmojiSkinTone.medium,
   );
 
@@ -12170,6 +16575,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'palms up together',
     glyph: '🤲🏾',
     svgPath: 'assets/palms_up_together_color_medium-dark.svg',
+    tts: 'palms up together',
+    fromVersion: '5.0',
+    glyphAsUtfInEmoticons: ['1f932_palmsuptogether'],
+    keywords: ['palms up together', 'prayer'],
+    mappedToEmoticons: ['1f932_palmsuptogether'],
     skinTone: FluentEmojiSkinTone.mediumDark,
   );
 
@@ -12180,6 +16590,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'palms up together',
     glyph: '🤲🏿',
     svgPath: 'assets/palms_up_together_color_dark.svg',
+    tts: 'palms up together',
+    fromVersion: '5.0',
+    glyphAsUtfInEmoticons: ['1f932_palmsuptogether'],
+    keywords: ['palms up together', 'prayer'],
+    mappedToEmoticons: ['1f932_palmsuptogether'],
     skinTone: FluentEmojiSkinTone.dark,
   );
 
@@ -12190,6 +16605,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'people hugging',
     glyph: '🫂',
     svgPath: 'assets/people_hugging_color.svg',
+    tts: 'people hugging',
+    fromVersion: '13.0',
+    glyphAsUtfInEmoticons: ['peoplehugging'],
+    keywords: ['goodbye', 'hello', 'hug', 'people hugging', 'thanks'],
+    mappedToEmoticons: ['peoplehugging'],
     skinTone: FluentEmojiSkinTone.standard,
   );
 
@@ -12200,6 +16620,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'people with bunny ears',
     glyph: '👯',
     svgPath: 'assets/person_with_bunny_ears_color.svg',
+    tts: 'people with bunny ears',
+    fromVersion: '0.6',
+    glyphAsUtfInEmoticons: ['people_with_bunny_ears'],
+    keywords: ['bunny ear', 'dancer', 'partying', 'people with bunny ears'],
+    mappedToEmoticons: null,
     skinTone: FluentEmojiSkinTone.standard,
   );
 
@@ -12210,6 +16635,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'people wrestling',
     glyph: '🤼',
     svgPath: 'assets/person_wrestling_color.svg',
+    tts: 'people wrestling',
+    fromVersion: '3.0',
+    glyphAsUtfInEmoticons: ['wrestlers'],
+    keywords: ['people wrestling', 'wrestle', 'wrestler'],
+    mappedToEmoticons: null,
     skinTone: FluentEmojiSkinTone.standard,
   );
 
@@ -12226,6 +16656,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'person',
     glyph: '🧑',
     svgPath: 'assets/person_color_default.svg',
+    tts: 'person',
+    fromVersion: '5.0',
+    glyphAsUtfInEmoticons: ['1f9d1_adult', 'student'],
+    keywords: ['adult', 'gender-neutral', 'person', 'unspecified gender'],
+    mappedToEmoticons: ['person'],
     skinToneLight: _personLight,
     skinToneMediumLight: _personMediumLight,
     skinToneMedium: _personMedium,
@@ -12240,6 +16675,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'person',
     glyph: '🧑🏻',
     svgPath: 'assets/person_color_light.svg',
+    tts: 'person',
+    fromVersion: '5.0',
+    glyphAsUtfInEmoticons: ['1f9d1_adult', 'student'],
+    keywords: ['adult', 'gender-neutral', 'person', 'unspecified gender'],
+    mappedToEmoticons: ['person'],
     skinTone: FluentEmojiSkinTone.light,
   );
 
@@ -12250,6 +16690,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'person',
     glyph: '🧑🏼',
     svgPath: 'assets/person_color_medium-light.svg',
+    tts: 'person',
+    fromVersion: '5.0',
+    glyphAsUtfInEmoticons: ['1f9d1_adult', 'student'],
+    keywords: ['adult', 'gender-neutral', 'person', 'unspecified gender'],
+    mappedToEmoticons: ['person'],
     skinTone: FluentEmojiSkinTone.mediumLight,
   );
 
@@ -12260,6 +16705,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'person',
     glyph: '🧑🏽',
     svgPath: 'assets/person_color_medium.svg',
+    tts: 'person',
+    fromVersion: '5.0',
+    glyphAsUtfInEmoticons: ['1f9d1_adult', 'student'],
+    keywords: ['adult', 'gender-neutral', 'person', 'unspecified gender'],
+    mappedToEmoticons: ['person'],
     skinTone: FluentEmojiSkinTone.medium,
   );
 
@@ -12270,6 +16720,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'person',
     glyph: '🧑🏾',
     svgPath: 'assets/person_color_medium-dark.svg',
+    tts: 'person',
+    fromVersion: '5.0',
+    glyphAsUtfInEmoticons: ['1f9d1_adult', 'student'],
+    keywords: ['adult', 'gender-neutral', 'person', 'unspecified gender'],
+    mappedToEmoticons: ['person'],
     skinTone: FluentEmojiSkinTone.mediumDark,
   );
 
@@ -12280,6 +16735,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'person',
     glyph: '🧑🏿',
     svgPath: 'assets/person_color_dark.svg',
+    tts: 'person',
+    fromVersion: '5.0',
+    glyphAsUtfInEmoticons: ['1f9d1_adult', 'student'],
+    keywords: ['adult', 'gender-neutral', 'person', 'unspecified gender'],
+    mappedToEmoticons: ['person'],
     skinTone: FluentEmojiSkinTone.dark,
   );
 
@@ -12296,6 +16756,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'person biking',
     glyph: '🚴',
     svgPath: 'assets/person_biking_color_default.svg',
+    tts: 'person biking',
+    fromVersion: '1.0',
+    glyphAsUtfInEmoticons: ['1f6b4_personbiking'],
+    keywords: ['bicycle', 'biking', 'cyclist', 'person biking'],
+    mappedToEmoticons: ['1f6b4_personbiking'],
     skinToneLight: _personBikingLight,
     skinToneMediumLight: _personBikingMediumLight,
     skinToneMedium: _personBikingMedium,
@@ -12310,6 +16775,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'person biking',
     glyph: '🚴🏻',
     svgPath: 'assets/person_biking_color_light.svg',
+    tts: 'person biking',
+    fromVersion: '1.0',
+    glyphAsUtfInEmoticons: ['1f6b4_personbiking'],
+    keywords: ['bicycle', 'biking', 'cyclist', 'person biking'],
+    mappedToEmoticons: ['1f6b4_personbiking'],
     skinTone: FluentEmojiSkinTone.light,
   );
 
@@ -12320,6 +16790,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'person biking',
     glyph: '🚴🏼',
     svgPath: 'assets/person_biking_color_medium-light.svg',
+    tts: 'person biking',
+    fromVersion: '1.0',
+    glyphAsUtfInEmoticons: ['1f6b4_personbiking'],
+    keywords: ['bicycle', 'biking', 'cyclist', 'person biking'],
+    mappedToEmoticons: ['1f6b4_personbiking'],
     skinTone: FluentEmojiSkinTone.mediumLight,
   );
 
@@ -12330,6 +16805,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'person biking',
     glyph: '🚴🏽',
     svgPath: 'assets/person_biking_color_medium.svg',
+    tts: 'person biking',
+    fromVersion: '1.0',
+    glyphAsUtfInEmoticons: ['1f6b4_personbiking'],
+    keywords: ['bicycle', 'biking', 'cyclist', 'person biking'],
+    mappedToEmoticons: ['1f6b4_personbiking'],
     skinTone: FluentEmojiSkinTone.medium,
   );
 
@@ -12340,6 +16820,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'person biking',
     glyph: '🚴🏾',
     svgPath: 'assets/person_biking_color_medium-dark.svg',
+    tts: 'person biking',
+    fromVersion: '1.0',
+    glyphAsUtfInEmoticons: ['1f6b4_personbiking'],
+    keywords: ['bicycle', 'biking', 'cyclist', 'person biking'],
+    mappedToEmoticons: ['1f6b4_personbiking'],
     skinTone: FluentEmojiSkinTone.mediumDark,
   );
 
@@ -12350,6 +16835,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'person biking',
     glyph: '🚴🏿',
     svgPath: 'assets/person_biking_color_dark.svg',
+    tts: 'person biking',
+    fromVersion: '1.0',
+    glyphAsUtfInEmoticons: ['1f6b4_personbiking'],
+    keywords: ['bicycle', 'biking', 'cyclist', 'person biking'],
+    mappedToEmoticons: ['1f6b4_personbiking'],
     skinTone: FluentEmojiSkinTone.dark,
   );
 
@@ -12366,6 +16856,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'person bouncing ball',
     glyph: '⛹️',
     svgPath: 'assets/person_bouncing_ball_color_default.svg',
+    tts: 'person bouncing ball',
+    fromVersion: '0.7',
+    glyphAsUtfInEmoticons: ['bouncing_ball'],
+    keywords: ['ball', 'person bouncing ball'],
+    mappedToEmoticons: ['bouncing_ball'],
     skinToneLight: _personBouncingBallLight,
     skinToneMediumLight: _personBouncingBallMediumLight,
     skinToneMedium: _personBouncingBallMedium,
@@ -12380,6 +16875,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'person bouncing ball',
     glyph: '⛹🏻',
     svgPath: 'assets/person_bouncing_ball_color_light.svg',
+    tts: 'person bouncing ball',
+    fromVersion: '0.7',
+    glyphAsUtfInEmoticons: ['bouncing_ball'],
+    keywords: ['ball', 'person bouncing ball'],
+    mappedToEmoticons: ['bouncing_ball'],
     skinTone: FluentEmojiSkinTone.light,
   );
 
@@ -12390,6 +16890,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'person bouncing ball',
     glyph: '⛹🏼',
     svgPath: 'assets/person_bouncing_ball_color_medium-light.svg',
+    tts: 'person bouncing ball',
+    fromVersion: '0.7',
+    glyphAsUtfInEmoticons: ['bouncing_ball'],
+    keywords: ['ball', 'person bouncing ball'],
+    mappedToEmoticons: ['bouncing_ball'],
     skinTone: FluentEmojiSkinTone.mediumLight,
   );
 
@@ -12400,6 +16905,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'person bouncing ball',
     glyph: '⛹🏽',
     svgPath: 'assets/person_bouncing_ball_color_medium.svg',
+    tts: 'person bouncing ball',
+    fromVersion: '0.7',
+    glyphAsUtfInEmoticons: ['bouncing_ball'],
+    keywords: ['ball', 'person bouncing ball'],
+    mappedToEmoticons: ['bouncing_ball'],
     skinTone: FluentEmojiSkinTone.medium,
   );
 
@@ -12410,6 +16920,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'person bouncing ball',
     glyph: '⛹🏾',
     svgPath: 'assets/person_bouncing_ball_color_medium-dark.svg',
+    tts: 'person bouncing ball',
+    fromVersion: '0.7',
+    glyphAsUtfInEmoticons: ['bouncing_ball'],
+    keywords: ['ball', 'person bouncing ball'],
+    mappedToEmoticons: ['bouncing_ball'],
     skinTone: FluentEmojiSkinTone.mediumDark,
   );
 
@@ -12420,6 +16935,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'person bouncing ball',
     glyph: '⛹🏿',
     svgPath: 'assets/person_bouncing_ball_color_dark.svg',
+    tts: 'person bouncing ball',
+    fromVersion: '0.7',
+    glyphAsUtfInEmoticons: ['bouncing_ball'],
+    keywords: ['ball', 'person bouncing ball'],
+    mappedToEmoticons: ['bouncing_ball'],
     skinTone: FluentEmojiSkinTone.dark,
   );
 
@@ -12436,6 +16956,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'person bowing',
     glyph: '🙇',
     svgPath: 'assets/person_bowing_color_default.svg',
+    tts: 'person bowing',
+    fromVersion: '0.6',
+    glyphAsUtfInEmoticons: ['bowing'],
+    keywords: ['apology', 'bow', 'gesture', 'person bowing', 'sorry'],
+    mappedToEmoticons: ['bowing'],
     skinToneLight: _personBowingLight,
     skinToneMediumLight: _personBowingMediumLight,
     skinToneMedium: _personBowingMedium,
@@ -12450,6 +16975,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'person bowing',
     glyph: '🙇🏻',
     svgPath: 'assets/person_bowing_color_light.svg',
+    tts: 'person bowing',
+    fromVersion: '0.6',
+    glyphAsUtfInEmoticons: ['bowing'],
+    keywords: ['apology', 'bow', 'gesture', 'person bowing', 'sorry'],
+    mappedToEmoticons: ['bowing'],
     skinTone: FluentEmojiSkinTone.light,
   );
 
@@ -12460,6 +16990,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'person bowing',
     glyph: '🙇🏼',
     svgPath: 'assets/person_bowing_color_medium-light.svg',
+    tts: 'person bowing',
+    fromVersion: '0.6',
+    glyphAsUtfInEmoticons: ['bowing'],
+    keywords: ['apology', 'bow', 'gesture', 'person bowing', 'sorry'],
+    mappedToEmoticons: ['bowing'],
     skinTone: FluentEmojiSkinTone.mediumLight,
   );
 
@@ -12470,6 +17005,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'person bowing',
     glyph: '🙇🏽',
     svgPath: 'assets/person_bowing_color_medium.svg',
+    tts: 'person bowing',
+    fromVersion: '0.6',
+    glyphAsUtfInEmoticons: ['bowing'],
+    keywords: ['apology', 'bow', 'gesture', 'person bowing', 'sorry'],
+    mappedToEmoticons: ['bowing'],
     skinTone: FluentEmojiSkinTone.medium,
   );
 
@@ -12480,6 +17020,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'person bowing',
     glyph: '🙇🏾',
     svgPath: 'assets/person_bowing_color_medium-dark.svg',
+    tts: 'person bowing',
+    fromVersion: '0.6',
+    glyphAsUtfInEmoticons: ['bowing'],
+    keywords: ['apology', 'bow', 'gesture', 'person bowing', 'sorry'],
+    mappedToEmoticons: ['bowing'],
     skinTone: FluentEmojiSkinTone.mediumDark,
   );
 
@@ -12490,6 +17035,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'person bowing',
     glyph: '🙇🏿',
     svgPath: 'assets/person_bowing_color_dark.svg',
+    tts: 'person bowing',
+    fromVersion: '0.6',
+    glyphAsUtfInEmoticons: ['bowing'],
+    keywords: ['apology', 'bow', 'gesture', 'person bowing', 'sorry'],
+    mappedToEmoticons: ['bowing'],
     skinTone: FluentEmojiSkinTone.dark,
   );
 
@@ -12506,6 +17056,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'person cartwheeling',
     glyph: '🤸',
     svgPath: 'assets/person_cartwheeling_color_default.svg',
+    tts: 'person cartwheeling',
+    fromVersion: '3.0',
+    glyphAsUtfInEmoticons: ['1f938_personcartwheeling', 'cartwheeling'],
+    keywords: ['cartwheel', 'gymnastics', 'person cartwheeling'],
+    mappedToEmoticons: ['1f938_personcartwheeling'],
     skinToneLight: _personCartwheelingLight,
     skinToneMediumLight: _personCartwheelingMediumLight,
     skinToneMedium: _personCartwheelingMedium,
@@ -12520,6 +17075,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'person cartwheeling',
     glyph: '🤸🏻',
     svgPath: 'assets/person_cartwheeling_color_light.svg',
+    tts: 'person cartwheeling',
+    fromVersion: '3.0',
+    glyphAsUtfInEmoticons: ['1f938_personcartwheeling', 'cartwheeling'],
+    keywords: ['cartwheel', 'gymnastics', 'person cartwheeling'],
+    mappedToEmoticons: ['1f938_personcartwheeling'],
     skinTone: FluentEmojiSkinTone.light,
   );
 
@@ -12530,6 +17090,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'person cartwheeling',
     glyph: '🤸🏼',
     svgPath: 'assets/person_cartwheeling_color_medium-light.svg',
+    tts: 'person cartwheeling',
+    fromVersion: '3.0',
+    glyphAsUtfInEmoticons: ['1f938_personcartwheeling', 'cartwheeling'],
+    keywords: ['cartwheel', 'gymnastics', 'person cartwheeling'],
+    mappedToEmoticons: ['1f938_personcartwheeling'],
     skinTone: FluentEmojiSkinTone.mediumLight,
   );
 
@@ -12540,6 +17105,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'person cartwheeling',
     glyph: '🤸🏽',
     svgPath: 'assets/person_cartwheeling_color_medium.svg',
+    tts: 'person cartwheeling',
+    fromVersion: '3.0',
+    glyphAsUtfInEmoticons: ['1f938_personcartwheeling', 'cartwheeling'],
+    keywords: ['cartwheel', 'gymnastics', 'person cartwheeling'],
+    mappedToEmoticons: ['1f938_personcartwheeling'],
     skinTone: FluentEmojiSkinTone.medium,
   );
 
@@ -12550,6 +17120,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'person cartwheeling',
     glyph: '🤸🏾',
     svgPath: 'assets/person_cartwheeling_color_medium-dark.svg',
+    tts: 'person cartwheeling',
+    fromVersion: '3.0',
+    glyphAsUtfInEmoticons: ['1f938_personcartwheeling', 'cartwheeling'],
+    keywords: ['cartwheel', 'gymnastics', 'person cartwheeling'],
+    mappedToEmoticons: ['1f938_personcartwheeling'],
     skinTone: FluentEmojiSkinTone.mediumDark,
   );
 
@@ -12560,6 +17135,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'person cartwheeling',
     glyph: '🤸🏿',
     svgPath: 'assets/person_cartwheeling_color_dark.svg',
+    tts: 'person cartwheeling',
+    fromVersion: '3.0',
+    glyphAsUtfInEmoticons: ['1f938_personcartwheeling', 'cartwheeling'],
+    keywords: ['cartwheel', 'gymnastics', 'person cartwheeling'],
+    mappedToEmoticons: ['1f938_personcartwheeling'],
     skinTone: FluentEmojiSkinTone.dark,
   );
 
@@ -12576,6 +17156,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'person climbing',
     glyph: '🧗',
     svgPath: 'assets/person_climbing_color_default.svg',
+    tts: 'person climbing',
+    fromVersion: '5.0',
+    glyphAsUtfInEmoticons: ['climber'],
+    keywords: ['climber', 'person climbing'],
+    mappedToEmoticons: ['climber'],
     skinToneLight: _personClimbingLight,
     skinToneMediumLight: _personClimbingMediumLight,
     skinToneMedium: _personClimbingMedium,
@@ -12590,6 +17175,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'person climbing',
     glyph: '🧗🏻',
     svgPath: 'assets/person_climbing_color_light.svg',
+    tts: 'person climbing',
+    fromVersion: '5.0',
+    glyphAsUtfInEmoticons: ['climber'],
+    keywords: ['climber', 'person climbing'],
+    mappedToEmoticons: ['climber'],
     skinTone: FluentEmojiSkinTone.light,
   );
 
@@ -12600,6 +17190,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'person climbing',
     glyph: '🧗🏼',
     svgPath: 'assets/person_climbing_color_medium-light.svg',
+    tts: 'person climbing',
+    fromVersion: '5.0',
+    glyphAsUtfInEmoticons: ['climber'],
+    keywords: ['climber', 'person climbing'],
+    mappedToEmoticons: ['climber'],
     skinTone: FluentEmojiSkinTone.mediumLight,
   );
 
@@ -12610,6 +17205,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'person climbing',
     glyph: '🧗🏽',
     svgPath: 'assets/person_climbing_color_medium.svg',
+    tts: 'person climbing',
+    fromVersion: '5.0',
+    glyphAsUtfInEmoticons: ['climber'],
+    keywords: ['climber', 'person climbing'],
+    mappedToEmoticons: ['climber'],
     skinTone: FluentEmojiSkinTone.medium,
   );
 
@@ -12620,6 +17220,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'person climbing',
     glyph: '🧗🏾',
     svgPath: 'assets/person_climbing_color_medium-dark.svg',
+    tts: 'person climbing',
+    fromVersion: '5.0',
+    glyphAsUtfInEmoticons: ['climber'],
+    keywords: ['climber', 'person climbing'],
+    mappedToEmoticons: ['climber'],
     skinTone: FluentEmojiSkinTone.mediumDark,
   );
 
@@ -12630,6 +17235,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'person climbing',
     glyph: '🧗🏿',
     svgPath: 'assets/person_climbing_color_dark.svg',
+    tts: 'person climbing',
+    fromVersion: '5.0',
+    glyphAsUtfInEmoticons: ['climber'],
+    keywords: ['climber', 'person climbing'],
+    mappedToEmoticons: ['climber'],
     skinTone: FluentEmojiSkinTone.dark,
   );
 
@@ -12646,6 +17256,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'person facepalming',
     glyph: '🤦',
     svgPath: 'assets/person_facepalming_color_default.svg',
+    tts: 'person facepalming',
+    fromVersion: '3.0',
+    glyphAsUtfInEmoticons: ['1f926_personfacepalming', 'facepalm'],
+    keywords: ['disbelief', 'exasperation', 'face', 'palm', 'person facepalming'],
+    mappedToEmoticons: ['1f926_personfacepalming'],
     skinToneLight: _personFacepalmingLight,
     skinToneMediumLight: _personFacepalmingMediumLight,
     skinToneMedium: _personFacepalmingMedium,
@@ -12660,6 +17275,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'person facepalming',
     glyph: '🤦🏻',
     svgPath: 'assets/person_facepalming_color_light.svg',
+    tts: 'person facepalming',
+    fromVersion: '3.0',
+    glyphAsUtfInEmoticons: ['1f926_personfacepalming', 'facepalm'],
+    keywords: ['disbelief', 'exasperation', 'face', 'palm', 'person facepalming'],
+    mappedToEmoticons: ['1f926_personfacepalming'],
     skinTone: FluentEmojiSkinTone.light,
   );
 
@@ -12670,6 +17290,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'person facepalming',
     glyph: '🤦🏼',
     svgPath: 'assets/person_facepalming_color_medium-light.svg',
+    tts: 'person facepalming',
+    fromVersion: '3.0',
+    glyphAsUtfInEmoticons: ['1f926_personfacepalming', 'facepalm'],
+    keywords: ['disbelief', 'exasperation', 'face', 'palm', 'person facepalming'],
+    mappedToEmoticons: ['1f926_personfacepalming'],
     skinTone: FluentEmojiSkinTone.mediumLight,
   );
 
@@ -12680,6 +17305,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'person facepalming',
     glyph: '🤦🏽',
     svgPath: 'assets/person_facepalming_color_medium.svg',
+    tts: 'person facepalming',
+    fromVersion: '3.0',
+    glyphAsUtfInEmoticons: ['1f926_personfacepalming', 'facepalm'],
+    keywords: ['disbelief', 'exasperation', 'face', 'palm', 'person facepalming'],
+    mappedToEmoticons: ['1f926_personfacepalming'],
     skinTone: FluentEmojiSkinTone.medium,
   );
 
@@ -12690,6 +17320,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'person facepalming',
     glyph: '🤦🏾',
     svgPath: 'assets/person_facepalming_color_medium-dark.svg',
+    tts: 'person facepalming',
+    fromVersion: '3.0',
+    glyphAsUtfInEmoticons: ['1f926_personfacepalming', 'facepalm'],
+    keywords: ['disbelief', 'exasperation', 'face', 'palm', 'person facepalming'],
+    mappedToEmoticons: ['1f926_personfacepalming'],
     skinTone: FluentEmojiSkinTone.mediumDark,
   );
 
@@ -12700,6 +17335,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'person facepalming',
     glyph: '🤦🏿',
     svgPath: 'assets/person_facepalming_color_dark.svg',
+    tts: 'person facepalming',
+    fromVersion: '3.0',
+    glyphAsUtfInEmoticons: ['1f926_personfacepalming', 'facepalm'],
+    keywords: ['disbelief', 'exasperation', 'face', 'palm', 'person facepalming'],
+    mappedToEmoticons: ['1f926_personfacepalming'],
     skinTone: FluentEmojiSkinTone.dark,
   );
 
@@ -12716,6 +17356,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'person feeding baby',
     glyph: '🧑‍🍼',
     svgPath: 'assets/person_feeding_baby_color_default.svg',
+    tts: 'person feeding baby',
+    fromVersion: '13.0',
+    glyphAsUtfInEmoticons: null,
+    keywords: ['baby', 'feeding', 'nursing', 'person'],
+    mappedToEmoticons: ['bottlefeeding'],
     skinToneLight: _personFeedingBabyLight,
     skinToneMediumLight: _personFeedingBabyMediumLight,
     skinToneMedium: _personFeedingBabyMedium,
@@ -12730,6 +17375,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'person feeding baby',
     glyph: '🧑🏻‍🍼',
     svgPath: 'assets/person_feeding_baby_color_light.svg',
+    tts: 'person feeding baby',
+    fromVersion: '13.0',
+    glyphAsUtfInEmoticons: null,
+    keywords: ['baby', 'feeding', 'nursing', 'person'],
+    mappedToEmoticons: ['bottlefeeding'],
     skinTone: FluentEmojiSkinTone.light,
   );
 
@@ -12740,6 +17390,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'person feeding baby',
     glyph: '🧑🏼‍🍼',
     svgPath: 'assets/person_feeding_baby_color_medium-light.svg',
+    tts: 'person feeding baby',
+    fromVersion: '13.0',
+    glyphAsUtfInEmoticons: null,
+    keywords: ['baby', 'feeding', 'nursing', 'person'],
+    mappedToEmoticons: ['bottlefeeding'],
     skinTone: FluentEmojiSkinTone.mediumLight,
   );
 
@@ -12750,6 +17405,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'person feeding baby',
     glyph: '🧑🏽‍🍼',
     svgPath: 'assets/person_feeding_baby_color_medium.svg',
+    tts: 'person feeding baby',
+    fromVersion: '13.0',
+    glyphAsUtfInEmoticons: null,
+    keywords: ['baby', 'feeding', 'nursing', 'person'],
+    mappedToEmoticons: ['bottlefeeding'],
     skinTone: FluentEmojiSkinTone.medium,
   );
 
@@ -12760,6 +17420,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'person feeding baby',
     glyph: '🧑🏾‍🍼',
     svgPath: 'assets/person_feeding_baby_color_medium-dark.svg',
+    tts: 'person feeding baby',
+    fromVersion: '13.0',
+    glyphAsUtfInEmoticons: null,
+    keywords: ['baby', 'feeding', 'nursing', 'person'],
+    mappedToEmoticons: ['bottlefeeding'],
     skinTone: FluentEmojiSkinTone.mediumDark,
   );
 
@@ -12770,6 +17435,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'person feeding baby',
     glyph: '🧑🏿‍🍼',
     svgPath: 'assets/person_feeding_baby_color_dark.svg',
+    tts: 'person feeding baby',
+    fromVersion: '13.0',
+    glyphAsUtfInEmoticons: null,
+    keywords: ['baby', 'feeding', 'nursing', 'person'],
+    mappedToEmoticons: ['bottlefeeding'],
     skinTone: FluentEmojiSkinTone.dark,
   );
 
@@ -12780,6 +17450,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'person fencing',
     glyph: '🤺',
     svgPath: 'assets/person_fencing_color.svg',
+    tts: 'person fencing',
+    fromVersion: '3.0',
+    glyphAsUtfInEmoticons: ['womanfencer'],
+    keywords: ['fencer', 'fencing', 'person fencing', 'sword'],
+    mappedToEmoticons: ['womanfencer'],
     skinTone: FluentEmojiSkinTone.standard,
   );
 
@@ -12796,6 +17471,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'person frowning',
     glyph: '🙍',
     svgPath: 'assets/person_frowning_color_default.svg',
+    tts: 'person frowning',
+    fromVersion: '0.6',
+    glyphAsUtfInEmoticons: ['frowning'],
+    keywords: ['frown', 'gesture', 'person frowning'],
+    mappedToEmoticons: ['frowning'],
     skinToneLight: _personFrowningLight,
     skinToneMediumLight: _personFrowningMediumLight,
     skinToneMedium: _personFrowningMedium,
@@ -12810,6 +17490,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'person frowning',
     glyph: '🙍🏻',
     svgPath: 'assets/person_frowning_color_light.svg',
+    tts: 'person frowning',
+    fromVersion: '0.6',
+    glyphAsUtfInEmoticons: ['frowning'],
+    keywords: ['frown', 'gesture', 'person frowning'],
+    mappedToEmoticons: ['frowning'],
     skinTone: FluentEmojiSkinTone.light,
   );
 
@@ -12820,6 +17505,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'person frowning',
     glyph: '🙍🏼',
     svgPath: 'assets/person_frowning_color_medium-light.svg',
+    tts: 'person frowning',
+    fromVersion: '0.6',
+    glyphAsUtfInEmoticons: ['frowning'],
+    keywords: ['frown', 'gesture', 'person frowning'],
+    mappedToEmoticons: ['frowning'],
     skinTone: FluentEmojiSkinTone.mediumLight,
   );
 
@@ -12830,6 +17520,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'person frowning',
     glyph: '🙍🏽',
     svgPath: 'assets/person_frowning_color_medium.svg',
+    tts: 'person frowning',
+    fromVersion: '0.6',
+    glyphAsUtfInEmoticons: ['frowning'],
+    keywords: ['frown', 'gesture', 'person frowning'],
+    mappedToEmoticons: ['frowning'],
     skinTone: FluentEmojiSkinTone.medium,
   );
 
@@ -12840,6 +17535,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'person frowning',
     glyph: '🙍🏾',
     svgPath: 'assets/person_frowning_color_medium-dark.svg',
+    tts: 'person frowning',
+    fromVersion: '0.6',
+    glyphAsUtfInEmoticons: ['frowning'],
+    keywords: ['frown', 'gesture', 'person frowning'],
+    mappedToEmoticons: ['frowning'],
     skinTone: FluentEmojiSkinTone.mediumDark,
   );
 
@@ -12850,6 +17550,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'person frowning',
     glyph: '🙍🏿',
     svgPath: 'assets/person_frowning_color_dark.svg',
+    tts: 'person frowning',
+    fromVersion: '0.6',
+    glyphAsUtfInEmoticons: ['frowning'],
+    keywords: ['frown', 'gesture', 'person frowning'],
+    mappedToEmoticons: ['frowning'],
     skinTone: FluentEmojiSkinTone.dark,
   );
 
@@ -12866,6 +17571,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'person gesturing NO',
     glyph: '🙅',
     svgPath: 'assets/person_gesturing_no_color_default.svg',
+    tts: 'person gesturing NO',
+    fromVersion: '0.6',
+    glyphAsUtfInEmoticons: ['1f645_facewithnogoodgesture', 'face_with_no_good_gesture'],
+    keywords: ['forbidden', 'gesture', 'hand', 'person gesturing NO', 'prohibited'],
+    mappedToEmoticons: ['1f645_facewithnogoodgesture'],
     skinToneLight: _personGesturingNoLight,
     skinToneMediumLight: _personGesturingNoMediumLight,
     skinToneMedium: _personGesturingNoMedium,
@@ -12880,6 +17590,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'person gesturing NO',
     glyph: '🙅🏻',
     svgPath: 'assets/person_gesturing_no_color_light.svg',
+    tts: 'person gesturing NO',
+    fromVersion: '0.6',
+    glyphAsUtfInEmoticons: ['1f645_facewithnogoodgesture', 'face_with_no_good_gesture'],
+    keywords: ['forbidden', 'gesture', 'hand', 'person gesturing NO', 'prohibited'],
+    mappedToEmoticons: ['1f645_facewithnogoodgesture'],
     skinTone: FluentEmojiSkinTone.light,
   );
 
@@ -12890,6 +17605,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'person gesturing NO',
     glyph: '🙅🏼',
     svgPath: 'assets/person_gesturing_no_color_medium-light.svg',
+    tts: 'person gesturing NO',
+    fromVersion: '0.6',
+    glyphAsUtfInEmoticons: ['1f645_facewithnogoodgesture', 'face_with_no_good_gesture'],
+    keywords: ['forbidden', 'gesture', 'hand', 'person gesturing NO', 'prohibited'],
+    mappedToEmoticons: ['1f645_facewithnogoodgesture'],
     skinTone: FluentEmojiSkinTone.mediumLight,
   );
 
@@ -12900,6 +17620,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'person gesturing NO',
     glyph: '🙅🏽',
     svgPath: 'assets/person_gesturing_no_color_medium.svg',
+    tts: 'person gesturing NO',
+    fromVersion: '0.6',
+    glyphAsUtfInEmoticons: ['1f645_facewithnogoodgesture', 'face_with_no_good_gesture'],
+    keywords: ['forbidden', 'gesture', 'hand', 'person gesturing NO', 'prohibited'],
+    mappedToEmoticons: ['1f645_facewithnogoodgesture'],
     skinTone: FluentEmojiSkinTone.medium,
   );
 
@@ -12910,6 +17635,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'person gesturing NO',
     glyph: '🙅🏾',
     svgPath: 'assets/person_gesturing_no_color_medium-dark.svg',
+    tts: 'person gesturing NO',
+    fromVersion: '0.6',
+    glyphAsUtfInEmoticons: ['1f645_facewithnogoodgesture', 'face_with_no_good_gesture'],
+    keywords: ['forbidden', 'gesture', 'hand', 'person gesturing NO', 'prohibited'],
+    mappedToEmoticons: ['1f645_facewithnogoodgesture'],
     skinTone: FluentEmojiSkinTone.mediumDark,
   );
 
@@ -12920,6 +17650,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'person gesturing NO',
     glyph: '🙅🏿',
     svgPath: 'assets/person_gesturing_no_color_dark.svg',
+    tts: 'person gesturing NO',
+    fromVersion: '0.6',
+    glyphAsUtfInEmoticons: ['1f645_facewithnogoodgesture', 'face_with_no_good_gesture'],
+    keywords: ['forbidden', 'gesture', 'hand', 'person gesturing NO', 'prohibited'],
+    mappedToEmoticons: ['1f645_facewithnogoodgesture'],
     skinTone: FluentEmojiSkinTone.dark,
   );
 
@@ -12936,6 +17671,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'person gesturing OK',
     glyph: '🙆',
     svgPath: 'assets/person_gesturing_ok_color_default.svg',
+    tts: 'person gesturing OK',
+    fromVersion: '0.6',
+    glyphAsUtfInEmoticons: ['1f646_persongesturingok', 'face_with_ok_gesture'],
+    keywords: ['gesture', 'hand', 'OK', 'person gesturing OK'],
+    mappedToEmoticons: ['1f646_persongesturingok'],
     skinToneLight: _personGesturingOkLight,
     skinToneMediumLight: _personGesturingOkMediumLight,
     skinToneMedium: _personGesturingOkMedium,
@@ -12950,6 +17690,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'person gesturing OK',
     glyph: '🙆🏻',
     svgPath: 'assets/person_gesturing_ok_color_light.svg',
+    tts: 'person gesturing OK',
+    fromVersion: '0.6',
+    glyphAsUtfInEmoticons: ['1f646_persongesturingok', 'face_with_ok_gesture'],
+    keywords: ['gesture', 'hand', 'OK', 'person gesturing OK'],
+    mappedToEmoticons: ['1f646_persongesturingok'],
     skinTone: FluentEmojiSkinTone.light,
   );
 
@@ -12960,6 +17705,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'person gesturing OK',
     glyph: '🙆🏼',
     svgPath: 'assets/person_gesturing_ok_color_medium-light.svg',
+    tts: 'person gesturing OK',
+    fromVersion: '0.6',
+    glyphAsUtfInEmoticons: ['1f646_persongesturingok', 'face_with_ok_gesture'],
+    keywords: ['gesture', 'hand', 'OK', 'person gesturing OK'],
+    mappedToEmoticons: ['1f646_persongesturingok'],
     skinTone: FluentEmojiSkinTone.mediumLight,
   );
 
@@ -12970,6 +17720,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'person gesturing OK',
     glyph: '🙆🏽',
     svgPath: 'assets/person_gesturing_ok_color_medium.svg',
+    tts: 'person gesturing OK',
+    fromVersion: '0.6',
+    glyphAsUtfInEmoticons: ['1f646_persongesturingok', 'face_with_ok_gesture'],
+    keywords: ['gesture', 'hand', 'OK', 'person gesturing OK'],
+    mappedToEmoticons: ['1f646_persongesturingok'],
     skinTone: FluentEmojiSkinTone.medium,
   );
 
@@ -12980,6 +17735,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'person gesturing OK',
     glyph: '🙆🏾',
     svgPath: 'assets/person_gesturing_ok_color_medium-dark.svg',
+    tts: 'person gesturing OK',
+    fromVersion: '0.6',
+    glyphAsUtfInEmoticons: ['1f646_persongesturingok', 'face_with_ok_gesture'],
+    keywords: ['gesture', 'hand', 'OK', 'person gesturing OK'],
+    mappedToEmoticons: ['1f646_persongesturingok'],
     skinTone: FluentEmojiSkinTone.mediumDark,
   );
 
@@ -12990,6 +17750,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'person gesturing OK',
     glyph: '🙆🏿',
     svgPath: 'assets/person_gesturing_ok_color_dark.svg',
+    tts: 'person gesturing OK',
+    fromVersion: '0.6',
+    glyphAsUtfInEmoticons: ['1f646_persongesturingok', 'face_with_ok_gesture'],
+    keywords: ['gesture', 'hand', 'OK', 'person gesturing OK'],
+    mappedToEmoticons: ['1f646_persongesturingok'],
     skinTone: FluentEmojiSkinTone.dark,
   );
 
@@ -13006,6 +17771,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'person getting haircut',
     glyph: '💇',
     svgPath: 'assets/person_getting_haircut_color_default.svg',
+    tts: 'person getting haircut',
+    fromVersion: '0.6',
+    glyphAsUtfInEmoticons: ['person_getting_haircut'],
+    keywords: ['barber', 'beauty', 'haircut', 'parlor', 'person getting haircut'],
+    mappedToEmoticons: ['person_getting_haircut'],
     skinToneLight: _personGettingHaircutLight,
     skinToneMediumLight: _personGettingHaircutMediumLight,
     skinToneMedium: _personGettingHaircutMedium,
@@ -13020,6 +17790,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'person getting haircut',
     glyph: '💇🏻',
     svgPath: 'assets/person_getting_haircut_color_light.svg',
+    tts: 'person getting haircut',
+    fromVersion: '0.6',
+    glyphAsUtfInEmoticons: ['person_getting_haircut'],
+    keywords: ['barber', 'beauty', 'haircut', 'parlor', 'person getting haircut'],
+    mappedToEmoticons: ['person_getting_haircut'],
     skinTone: FluentEmojiSkinTone.light,
   );
 
@@ -13030,6 +17805,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'person getting haircut',
     glyph: '💇🏼',
     svgPath: 'assets/person_getting_haircut_color_medium-light.svg',
+    tts: 'person getting haircut',
+    fromVersion: '0.6',
+    glyphAsUtfInEmoticons: ['person_getting_haircut'],
+    keywords: ['barber', 'beauty', 'haircut', 'parlor', 'person getting haircut'],
+    mappedToEmoticons: ['person_getting_haircut'],
     skinTone: FluentEmojiSkinTone.mediumLight,
   );
 
@@ -13040,6 +17820,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'person getting haircut',
     glyph: '💇🏽',
     svgPath: 'assets/person_getting_haircut_color_medium.svg',
+    tts: 'person getting haircut',
+    fromVersion: '0.6',
+    glyphAsUtfInEmoticons: ['person_getting_haircut'],
+    keywords: ['barber', 'beauty', 'haircut', 'parlor', 'person getting haircut'],
+    mappedToEmoticons: ['person_getting_haircut'],
     skinTone: FluentEmojiSkinTone.medium,
   );
 
@@ -13050,6 +17835,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'person getting haircut',
     glyph: '💇🏾',
     svgPath: 'assets/person_getting_haircut_color_medium-dark.svg',
+    tts: 'person getting haircut',
+    fromVersion: '0.6',
+    glyphAsUtfInEmoticons: ['person_getting_haircut'],
+    keywords: ['barber', 'beauty', 'haircut', 'parlor', 'person getting haircut'],
+    mappedToEmoticons: ['person_getting_haircut'],
     skinTone: FluentEmojiSkinTone.mediumDark,
   );
 
@@ -13060,6 +17850,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'person getting haircut',
     glyph: '💇🏿',
     svgPath: 'assets/person_getting_haircut_color_dark.svg',
+    tts: 'person getting haircut',
+    fromVersion: '0.6',
+    glyphAsUtfInEmoticons: ['person_getting_haircut'],
+    keywords: ['barber', 'beauty', 'haircut', 'parlor', 'person getting haircut'],
+    mappedToEmoticons: ['person_getting_haircut'],
     skinTone: FluentEmojiSkinTone.dark,
   );
 
@@ -13076,6 +17871,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'person getting massage',
     glyph: '💆',
     svgPath: 'assets/person_getting_massage_color_default.svg',
+    tts: 'person getting massage',
+    fromVersion: '0.6',
+    glyphAsUtfInEmoticons: ['1f486_facemassage', 'face_massage'],
+    keywords: ['face', 'massage', 'person getting massage', 'salon'],
+    mappedToEmoticons: ['1f486_facemassage'],
     skinToneLight: _personGettingMassageLight,
     skinToneMediumLight: _personGettingMassageMediumLight,
     skinToneMedium: _personGettingMassageMedium,
@@ -13090,6 +17890,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'person getting massage',
     glyph: '💆🏻',
     svgPath: 'assets/person_getting_massage_color_light.svg',
+    tts: 'person getting massage',
+    fromVersion: '0.6',
+    glyphAsUtfInEmoticons: ['1f486_facemassage', 'face_massage'],
+    keywords: ['face', 'massage', 'person getting massage', 'salon'],
+    mappedToEmoticons: ['1f486_facemassage'],
     skinTone: FluentEmojiSkinTone.light,
   );
 
@@ -13100,6 +17905,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'person getting massage',
     glyph: '💆🏼',
     svgPath: 'assets/person_getting_massage_color_medium-light.svg',
+    tts: 'person getting massage',
+    fromVersion: '0.6',
+    glyphAsUtfInEmoticons: ['1f486_facemassage', 'face_massage'],
+    keywords: ['face', 'massage', 'person getting massage', 'salon'],
+    mappedToEmoticons: ['1f486_facemassage'],
     skinTone: FluentEmojiSkinTone.mediumLight,
   );
 
@@ -13110,6 +17920,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'person getting massage',
     glyph: '💆🏽',
     svgPath: 'assets/person_getting_massage_color_medium.svg',
+    tts: 'person getting massage',
+    fromVersion: '0.6',
+    glyphAsUtfInEmoticons: ['1f486_facemassage', 'face_massage'],
+    keywords: ['face', 'massage', 'person getting massage', 'salon'],
+    mappedToEmoticons: ['1f486_facemassage'],
     skinTone: FluentEmojiSkinTone.medium,
   );
 
@@ -13120,6 +17935,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'person getting massage',
     glyph: '💆🏾',
     svgPath: 'assets/person_getting_massage_color_medium-dark.svg',
+    tts: 'person getting massage',
+    fromVersion: '0.6',
+    glyphAsUtfInEmoticons: ['1f486_facemassage', 'face_massage'],
+    keywords: ['face', 'massage', 'person getting massage', 'salon'],
+    mappedToEmoticons: ['1f486_facemassage'],
     skinTone: FluentEmojiSkinTone.mediumDark,
   );
 
@@ -13130,6 +17950,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'person getting massage',
     glyph: '💆🏿',
     svgPath: 'assets/person_getting_massage_color_dark.svg',
+    tts: 'person getting massage',
+    fromVersion: '0.6',
+    glyphAsUtfInEmoticons: ['1f486_facemassage', 'face_massage'],
+    keywords: ['face', 'massage', 'person getting massage', 'salon'],
+    mappedToEmoticons: ['1f486_facemassage'],
     skinTone: FluentEmojiSkinTone.dark,
   );
 
@@ -13146,6 +17971,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'person golfing',
     glyph: '🏌️',
     svgPath: 'assets/person_golfing_color_default.svg',
+    tts: 'person golfing',
+    fromVersion: '0.7',
+    glyphAsUtfInEmoticons: ['golfer'],
+    keywords: ['ball', 'golf', 'person golfing'],
+    mappedToEmoticons: ['golfer'],
     skinToneLight: _personGolfingLight,
     skinToneMediumLight: _personGolfingMediumLight,
     skinToneMedium: _personGolfingMedium,
@@ -13160,6 +17990,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'person golfing',
     glyph: '🏌🏻',
     svgPath: 'assets/person_golfing_color_light.svg',
+    tts: 'person golfing',
+    fromVersion: '0.7',
+    glyphAsUtfInEmoticons: ['golfer'],
+    keywords: ['ball', 'golf', 'person golfing'],
+    mappedToEmoticons: ['golfer'],
     skinTone: FluentEmojiSkinTone.light,
   );
 
@@ -13170,6 +18005,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'person golfing',
     glyph: '🏌🏼',
     svgPath: 'assets/person_golfing_color_medium-light.svg',
+    tts: 'person golfing',
+    fromVersion: '0.7',
+    glyphAsUtfInEmoticons: ['golfer'],
+    keywords: ['ball', 'golf', 'person golfing'],
+    mappedToEmoticons: ['golfer'],
     skinTone: FluentEmojiSkinTone.mediumLight,
   );
 
@@ -13180,6 +18020,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'person golfing',
     glyph: '🏌🏽',
     svgPath: 'assets/person_golfing_color_medium.svg',
+    tts: 'person golfing',
+    fromVersion: '0.7',
+    glyphAsUtfInEmoticons: ['golfer'],
+    keywords: ['ball', 'golf', 'person golfing'],
+    mappedToEmoticons: ['golfer'],
     skinTone: FluentEmojiSkinTone.medium,
   );
 
@@ -13190,6 +18035,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'person golfing',
     glyph: '🏌🏾',
     svgPath: 'assets/person_golfing_color_medium-dark.svg',
+    tts: 'person golfing',
+    fromVersion: '0.7',
+    glyphAsUtfInEmoticons: ['golfer'],
+    keywords: ['ball', 'golf', 'person golfing'],
+    mappedToEmoticons: ['golfer'],
     skinTone: FluentEmojiSkinTone.mediumDark,
   );
 
@@ -13200,6 +18050,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'person golfing',
     glyph: '🏌🏿',
     svgPath: 'assets/person_golfing_color_dark.svg',
+    tts: 'person golfing',
+    fromVersion: '0.7',
+    glyphAsUtfInEmoticons: ['golfer'],
+    keywords: ['ball', 'golf', 'person golfing'],
+    mappedToEmoticons: ['golfer'],
     skinTone: FluentEmojiSkinTone.dark,
   );
 
@@ -13216,6 +18071,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'person in bed',
     glyph: '🛌',
     svgPath: 'assets/person_in_bed_color_default.svg',
+    tts: 'person in bed',
+    fromVersion: '1.0',
+    glyphAsUtfInEmoticons: ['person_in_bed'],
+    keywords: ['hotel', 'person in bed', 'sleep'],
+    mappedToEmoticons: ['person_in_bed'],
     skinToneLight: _personInBedLight,
     skinToneMediumLight: _personInBedMediumLight,
     skinToneMedium: _personInBedMedium,
@@ -13230,6 +18090,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'person in bed',
     glyph: '🛌🏻',
     svgPath: 'assets/person_in_bed_color_light.svg',
+    tts: 'person in bed',
+    fromVersion: '1.0',
+    glyphAsUtfInEmoticons: ['person_in_bed'],
+    keywords: ['hotel', 'person in bed', 'sleep'],
+    mappedToEmoticons: ['person_in_bed'],
     skinTone: FluentEmojiSkinTone.light,
   );
 
@@ -13240,6 +18105,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'person in bed',
     glyph: '🛌🏼',
     svgPath: 'assets/person_in_bed_color_medium-light.svg',
+    tts: 'person in bed',
+    fromVersion: '1.0',
+    glyphAsUtfInEmoticons: ['person_in_bed'],
+    keywords: ['hotel', 'person in bed', 'sleep'],
+    mappedToEmoticons: ['person_in_bed'],
     skinTone: FluentEmojiSkinTone.mediumLight,
   );
 
@@ -13250,6 +18120,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'person in bed',
     glyph: '🛌🏽',
     svgPath: 'assets/person_in_bed_color_medium.svg',
+    tts: 'person in bed',
+    fromVersion: '1.0',
+    glyphAsUtfInEmoticons: ['person_in_bed'],
+    keywords: ['hotel', 'person in bed', 'sleep'],
+    mappedToEmoticons: ['person_in_bed'],
     skinTone: FluentEmojiSkinTone.medium,
   );
 
@@ -13260,6 +18135,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'person in bed',
     glyph: '🛌🏾',
     svgPath: 'assets/person_in_bed_color_medium-dark.svg',
+    tts: 'person in bed',
+    fromVersion: '1.0',
+    glyphAsUtfInEmoticons: ['person_in_bed'],
+    keywords: ['hotel', 'person in bed', 'sleep'],
+    mappedToEmoticons: ['person_in_bed'],
     skinTone: FluentEmojiSkinTone.mediumDark,
   );
 
@@ -13270,6 +18150,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'person in bed',
     glyph: '🛌🏿',
     svgPath: 'assets/person_in_bed_color_dark.svg',
+    tts: 'person in bed',
+    fromVersion: '1.0',
+    glyphAsUtfInEmoticons: ['person_in_bed'],
+    keywords: ['hotel', 'person in bed', 'sleep'],
+    mappedToEmoticons: ['person_in_bed'],
     skinTone: FluentEmojiSkinTone.dark,
   );
 
@@ -13286,6 +18171,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'person in lotus position',
     glyph: '🧘',
     svgPath: 'assets/person_in_lotus_position_color_default.svg',
+    tts: 'person in lotus position',
+    fromVersion: '5.0',
+    glyphAsUtfInEmoticons: ['lotus_position'],
+    keywords: ['meditation', 'person in lotus position', 'yoga'],
+    mappedToEmoticons: ['lotus_position'],
     skinToneLight: _personInLotusPositionLight,
     skinToneMediumLight: _personInLotusPositionMediumLight,
     skinToneMedium: _personInLotusPositionMedium,
@@ -13300,6 +18190,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'person in lotus position',
     glyph: '🧘🏻',
     svgPath: 'assets/person_in_lotus_position_color_light.svg',
+    tts: 'person in lotus position',
+    fromVersion: '5.0',
+    glyphAsUtfInEmoticons: ['lotus_position'],
+    keywords: ['meditation', 'person in lotus position', 'yoga'],
+    mappedToEmoticons: ['lotus_position'],
     skinTone: FluentEmojiSkinTone.light,
   );
 
@@ -13310,6 +18205,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'person in lotus position',
     glyph: '🧘🏼',
     svgPath: 'assets/person_in_lotus_position_color_medium-light.svg',
+    tts: 'person in lotus position',
+    fromVersion: '5.0',
+    glyphAsUtfInEmoticons: ['lotus_position'],
+    keywords: ['meditation', 'person in lotus position', 'yoga'],
+    mappedToEmoticons: ['lotus_position'],
     skinTone: FluentEmojiSkinTone.mediumLight,
   );
 
@@ -13320,6 +18220,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'person in lotus position',
     glyph: '🧘🏽',
     svgPath: 'assets/person_in_lotus_position_color_medium.svg',
+    tts: 'person in lotus position',
+    fromVersion: '5.0',
+    glyphAsUtfInEmoticons: ['lotus_position'],
+    keywords: ['meditation', 'person in lotus position', 'yoga'],
+    mappedToEmoticons: ['lotus_position'],
     skinTone: FluentEmojiSkinTone.medium,
   );
 
@@ -13330,6 +18235,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'person in lotus position',
     glyph: '🧘🏾',
     svgPath: 'assets/person_in_lotus_position_color_medium-dark.svg',
+    tts: 'person in lotus position',
+    fromVersion: '5.0',
+    glyphAsUtfInEmoticons: ['lotus_position'],
+    keywords: ['meditation', 'person in lotus position', 'yoga'],
+    mappedToEmoticons: ['lotus_position'],
     skinTone: FluentEmojiSkinTone.mediumDark,
   );
 
@@ -13340,6 +18250,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'person in lotus position',
     glyph: '🧘🏿',
     svgPath: 'assets/person_in_lotus_position_color_dark.svg',
+    tts: 'person in lotus position',
+    fromVersion: '5.0',
+    glyphAsUtfInEmoticons: ['lotus_position'],
+    keywords: ['meditation', 'person in lotus position', 'yoga'],
+    mappedToEmoticons: ['lotus_position'],
     skinTone: FluentEmojiSkinTone.dark,
   );
 
@@ -13356,6 +18271,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'person in manual wheelchair',
     glyph: '🧑‍🦽',
     svgPath: 'assets/person_in_manual_wheelchair_color_default.svg',
+    tts: 'person in manual wheelchair',
+    fromVersion: '12.1',
+    glyphAsUtfInEmoticons: null,
+    keywords: ['accessibility', 'person in manual wheelchair', 'wheelchair'],
+    mappedToEmoticons: ['personinmanualwheelchair'],
     skinToneLight: _personInManualWheelchairLight,
     skinToneMediumLight: _personInManualWheelchairMediumLight,
     skinToneMedium: _personInManualWheelchairMedium,
@@ -13370,6 +18290,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'person in manual wheelchair',
     glyph: '🧑🏻‍🦽',
     svgPath: 'assets/person_in_manual_wheelchair_color_light.svg',
+    tts: 'person in manual wheelchair',
+    fromVersion: '12.1',
+    glyphAsUtfInEmoticons: null,
+    keywords: ['accessibility', 'person in manual wheelchair', 'wheelchair'],
+    mappedToEmoticons: ['personinmanualwheelchair'],
     skinTone: FluentEmojiSkinTone.light,
   );
 
@@ -13380,6 +18305,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'person in manual wheelchair',
     glyph: '🧑🏼‍🦽',
     svgPath: 'assets/person_in_manual_wheelchair_color_medium-light.svg',
+    tts: 'person in manual wheelchair',
+    fromVersion: '12.1',
+    glyphAsUtfInEmoticons: null,
+    keywords: ['accessibility', 'person in manual wheelchair', 'wheelchair'],
+    mappedToEmoticons: ['personinmanualwheelchair'],
     skinTone: FluentEmojiSkinTone.mediumLight,
   );
 
@@ -13390,6 +18320,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'person in manual wheelchair',
     glyph: '🧑🏽‍🦽',
     svgPath: 'assets/person_in_manual_wheelchair_color_medium.svg',
+    tts: 'person in manual wheelchair',
+    fromVersion: '12.1',
+    glyphAsUtfInEmoticons: null,
+    keywords: ['accessibility', 'person in manual wheelchair', 'wheelchair'],
+    mappedToEmoticons: ['personinmanualwheelchair'],
     skinTone: FluentEmojiSkinTone.medium,
   );
 
@@ -13400,6 +18335,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'person in manual wheelchair',
     glyph: '🧑🏾‍🦽',
     svgPath: 'assets/person_in_manual_wheelchair_color_medium-dark.svg',
+    tts: 'person in manual wheelchair',
+    fromVersion: '12.1',
+    glyphAsUtfInEmoticons: null,
+    keywords: ['accessibility', 'person in manual wheelchair', 'wheelchair'],
+    mappedToEmoticons: ['personinmanualwheelchair'],
     skinTone: FluentEmojiSkinTone.mediumDark,
   );
 
@@ -13410,6 +18350,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'person in manual wheelchair',
     glyph: '🧑🏿‍🦽',
     svgPath: 'assets/person_in_manual_wheelchair_color_dark.svg',
+    tts: 'person in manual wheelchair',
+    fromVersion: '12.1',
+    glyphAsUtfInEmoticons: null,
+    keywords: ['accessibility', 'person in manual wheelchair', 'wheelchair'],
+    mappedToEmoticons: ['personinmanualwheelchair'],
     skinTone: FluentEmojiSkinTone.dark,
   );
 
@@ -13426,6 +18371,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'person in manual wheelchair facing right',
     glyph: '🧑‍🦽‍➡️',
     svgPath: 'assets/person_in_manual_wheelchair_facing_right_color_default.svg',
+    tts: '',
+    fromVersion: '15.1',
+    glyphAsUtfInEmoticons: null,
+    keywords: ['accessibility', 'person in manual wheelchair', 'wheelchair'],
+    mappedToEmoticons: [],
     skinToneLight: _personInManualWheelchairFacingRightLight,
     skinToneMediumLight: _personInManualWheelchairFacingRightMediumLight,
     skinToneMedium: _personInManualWheelchairFacingRightMedium,
@@ -13440,6 +18390,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'person in manual wheelchair facing right',
     glyph: '🧑🏻‍🦽‍➡️',
     svgPath: 'assets/person_in_manual_wheelchair_facing_right_color_light.svg',
+    tts: '',
+    fromVersion: '15.1',
+    glyphAsUtfInEmoticons: null,
+    keywords: ['accessibility', 'person in manual wheelchair', 'wheelchair'],
+    mappedToEmoticons: [],
     skinTone: FluentEmojiSkinTone.light,
   );
 
@@ -13450,6 +18405,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'person in manual wheelchair facing right',
     glyph: '🧑🏼‍🦽‍➡️',
     svgPath: 'assets/person_in_manual_wheelchair_facing_right_color_medium-light.svg',
+    tts: '',
+    fromVersion: '15.1',
+    glyphAsUtfInEmoticons: null,
+    keywords: ['accessibility', 'person in manual wheelchair', 'wheelchair'],
+    mappedToEmoticons: [],
     skinTone: FluentEmojiSkinTone.mediumLight,
   );
 
@@ -13460,6 +18420,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'person in manual wheelchair facing right',
     glyph: '🧑🏽‍🦽‍➡️',
     svgPath: 'assets/person_in_manual_wheelchair_facing_right_color_medium.svg',
+    tts: '',
+    fromVersion: '15.1',
+    glyphAsUtfInEmoticons: null,
+    keywords: ['accessibility', 'person in manual wheelchair', 'wheelchair'],
+    mappedToEmoticons: [],
     skinTone: FluentEmojiSkinTone.medium,
   );
 
@@ -13470,6 +18435,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'person in manual wheelchair facing right',
     glyph: '🧑🏾‍🦽‍➡️',
     svgPath: 'assets/person_in_manual_wheelchair_facing_right_color_medium-dark.svg',
+    tts: '',
+    fromVersion: '15.1',
+    glyphAsUtfInEmoticons: null,
+    keywords: ['accessibility', 'person in manual wheelchair', 'wheelchair'],
+    mappedToEmoticons: [],
     skinTone: FluentEmojiSkinTone.mediumDark,
   );
 
@@ -13480,6 +18450,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'person in manual wheelchair facing right',
     glyph: '🧑🏿‍🦽‍➡️',
     svgPath: 'assets/person_in_manual_wheelchair_facing_right_color_dark.svg',
+    tts: '',
+    fromVersion: '15.1',
+    glyphAsUtfInEmoticons: null,
+    keywords: ['accessibility', 'person in manual wheelchair', 'wheelchair'],
+    mappedToEmoticons: [],
     skinTone: FluentEmojiSkinTone.dark,
   );
 
@@ -13496,6 +18471,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'person in motorized wheelchair',
     glyph: '🧑‍🦼',
     svgPath: 'assets/person_in_motorized_wheelchair_color_default.svg',
+    tts: 'person in motorized wheelchair',
+    fromVersion: '12.1',
+    glyphAsUtfInEmoticons: ['personinmotorizedwheelchair'],
+    keywords: ['accessibility', 'person in motorized wheelchair', 'wheelchair'],
+    mappedToEmoticons: ['personinmotorizedwheelchair'],
     skinToneLight: _personInMotorizedWheelchairLight,
     skinToneMediumLight: _personInMotorizedWheelchairMediumLight,
     skinToneMedium: _personInMotorizedWheelchairMedium,
@@ -13510,6 +18490,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'person in motorized wheelchair',
     glyph: '🧑🏻‍🦼',
     svgPath: 'assets/person_in_motorized_wheelchair_color_light.svg',
+    tts: 'person in motorized wheelchair',
+    fromVersion: '12.1',
+    glyphAsUtfInEmoticons: ['personinmotorizedwheelchair'],
+    keywords: ['accessibility', 'person in motorized wheelchair', 'wheelchair'],
+    mappedToEmoticons: ['personinmotorizedwheelchair'],
     skinTone: FluentEmojiSkinTone.light,
   );
 
@@ -13520,6 +18505,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'person in motorized wheelchair',
     glyph: '🧑🏼‍🦼',
     svgPath: 'assets/person_in_motorized_wheelchair_color_medium-light.svg',
+    tts: 'person in motorized wheelchair',
+    fromVersion: '12.1',
+    glyphAsUtfInEmoticons: ['personinmotorizedwheelchair'],
+    keywords: ['accessibility', 'person in motorized wheelchair', 'wheelchair'],
+    mappedToEmoticons: ['personinmotorizedwheelchair'],
     skinTone: FluentEmojiSkinTone.mediumLight,
   );
 
@@ -13530,6 +18520,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'person in motorized wheelchair',
     glyph: '🧑🏽‍🦼',
     svgPath: 'assets/person_in_motorized_wheelchair_color_medium.svg',
+    tts: 'person in motorized wheelchair',
+    fromVersion: '12.1',
+    glyphAsUtfInEmoticons: ['personinmotorizedwheelchair'],
+    keywords: ['accessibility', 'person in motorized wheelchair', 'wheelchair'],
+    mappedToEmoticons: ['personinmotorizedwheelchair'],
     skinTone: FluentEmojiSkinTone.medium,
   );
 
@@ -13540,6 +18535,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'person in motorized wheelchair',
     glyph: '🧑🏾‍🦼',
     svgPath: 'assets/person_in_motorized_wheelchair_color_medium-dark.svg',
+    tts: 'person in motorized wheelchair',
+    fromVersion: '12.1',
+    glyphAsUtfInEmoticons: ['personinmotorizedwheelchair'],
+    keywords: ['accessibility', 'person in motorized wheelchair', 'wheelchair'],
+    mappedToEmoticons: ['personinmotorizedwheelchair'],
     skinTone: FluentEmojiSkinTone.mediumDark,
   );
 
@@ -13550,6 +18550,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'person in motorized wheelchair',
     glyph: '🧑🏿‍🦼',
     svgPath: 'assets/person_in_motorized_wheelchair_color_dark.svg',
+    tts: 'person in motorized wheelchair',
+    fromVersion: '12.1',
+    glyphAsUtfInEmoticons: ['personinmotorizedwheelchair'],
+    keywords: ['accessibility', 'person in motorized wheelchair', 'wheelchair'],
+    mappedToEmoticons: ['personinmotorizedwheelchair'],
     skinTone: FluentEmojiSkinTone.dark,
   );
 
@@ -13566,6 +18571,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'person in motorized wheelchair facing right',
     glyph: '🧑‍🦼‍➡️',
     svgPath: 'assets/person_in_motorized_wheelchair_facing_right_color_default.svg',
+    tts: '',
+    fromVersion: '15.1',
+    glyphAsUtfInEmoticons: [],
+    keywords: ['accessibility', 'person in motorized wheelchair', 'wheelchair'],
+    mappedToEmoticons: [],
     skinToneLight: _personInMotorizedWheelchairFacingRightLight,
     skinToneMediumLight: _personInMotorizedWheelchairFacingRightMediumLight,
     skinToneMedium: _personInMotorizedWheelchairFacingRightMedium,
@@ -13580,6 +18590,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'person in motorized wheelchair facing right',
     glyph: '🧑🏻‍🦼‍➡️',
     svgPath: 'assets/person_in_motorized_wheelchair_facing_right_color_light.svg',
+    tts: '',
+    fromVersion: '15.1',
+    glyphAsUtfInEmoticons: [],
+    keywords: ['accessibility', 'person in motorized wheelchair', 'wheelchair'],
+    mappedToEmoticons: [],
     skinTone: FluentEmojiSkinTone.light,
   );
 
@@ -13590,6 +18605,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'person in motorized wheelchair facing right',
     glyph: '🧑🏼‍🦼‍➡️',
     svgPath: 'assets/person_in_motorized_wheelchair_facing_right_color_medium-light.svg',
+    tts: '',
+    fromVersion: '15.1',
+    glyphAsUtfInEmoticons: [],
+    keywords: ['accessibility', 'person in motorized wheelchair', 'wheelchair'],
+    mappedToEmoticons: [],
     skinTone: FluentEmojiSkinTone.mediumLight,
   );
 
@@ -13600,6 +18620,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'person in motorized wheelchair facing right',
     glyph: '🧑🏽‍🦼‍➡️',
     svgPath: 'assets/person_in_motorized_wheelchair_facing_right_color_medium.svg',
+    tts: '',
+    fromVersion: '15.1',
+    glyphAsUtfInEmoticons: [],
+    keywords: ['accessibility', 'person in motorized wheelchair', 'wheelchair'],
+    mappedToEmoticons: [],
     skinTone: FluentEmojiSkinTone.medium,
   );
 
@@ -13610,6 +18635,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'person in motorized wheelchair facing right',
     glyph: '🧑🏾‍🦼‍➡️',
     svgPath: 'assets/person_in_motorized_wheelchair_facing_right_color_medium-dark.svg',
+    tts: '',
+    fromVersion: '15.1',
+    glyphAsUtfInEmoticons: [],
+    keywords: ['accessibility', 'person in motorized wheelchair', 'wheelchair'],
+    mappedToEmoticons: [],
     skinTone: FluentEmojiSkinTone.mediumDark,
   );
 
@@ -13620,6 +18650,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'person in motorized wheelchair facing right',
     glyph: '🧑🏿‍🦼‍➡️',
     svgPath: 'assets/person_in_motorized_wheelchair_facing_right_color_dark.svg',
+    tts: '',
+    fromVersion: '15.1',
+    glyphAsUtfInEmoticons: [],
+    keywords: ['accessibility', 'person in motorized wheelchair', 'wheelchair'],
+    mappedToEmoticons: [],
     skinTone: FluentEmojiSkinTone.dark,
   );
 
@@ -13636,6 +18671,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'person in steamy room',
     glyph: '🧖',
     svgPath: 'assets/person_in_steamy_room_color_default.svg',
+    tts: 'person in steamy room',
+    fromVersion: '5.0',
+    glyphAsUtfInEmoticons: ['steam_room'],
+    keywords: ['person in steamy room', 'sauna', 'steam room'],
+    mappedToEmoticons: ['steam_room'],
     skinToneLight: _personInSteamyRoomLight,
     skinToneMediumLight: _personInSteamyRoomMediumLight,
     skinToneMedium: _personInSteamyRoomMedium,
@@ -13650,6 +18690,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'person in steamy room',
     glyph: '🧖🏻',
     svgPath: 'assets/person_in_steamy_room_color_light.svg',
+    tts: 'person in steamy room',
+    fromVersion: '5.0',
+    glyphAsUtfInEmoticons: ['steam_room'],
+    keywords: ['person in steamy room', 'sauna', 'steam room'],
+    mappedToEmoticons: ['steam_room'],
     skinTone: FluentEmojiSkinTone.light,
   );
 
@@ -13660,6 +18705,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'person in steamy room',
     glyph: '🧖🏼',
     svgPath: 'assets/person_in_steamy_room_color_medium-light.svg',
+    tts: 'person in steamy room',
+    fromVersion: '5.0',
+    glyphAsUtfInEmoticons: ['steam_room'],
+    keywords: ['person in steamy room', 'sauna', 'steam room'],
+    mappedToEmoticons: ['steam_room'],
     skinTone: FluentEmojiSkinTone.mediumLight,
   );
 
@@ -13670,6 +18720,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'person in steamy room',
     glyph: '🧖🏽',
     svgPath: 'assets/person_in_steamy_room_color_medium.svg',
+    tts: 'person in steamy room',
+    fromVersion: '5.0',
+    glyphAsUtfInEmoticons: ['steam_room'],
+    keywords: ['person in steamy room', 'sauna', 'steam room'],
+    mappedToEmoticons: ['steam_room'],
     skinTone: FluentEmojiSkinTone.medium,
   );
 
@@ -13680,6 +18735,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'person in steamy room',
     glyph: '🧖🏾',
     svgPath: 'assets/person_in_steamy_room_color_medium-dark.svg',
+    tts: 'person in steamy room',
+    fromVersion: '5.0',
+    glyphAsUtfInEmoticons: ['steam_room'],
+    keywords: ['person in steamy room', 'sauna', 'steam room'],
+    mappedToEmoticons: ['steam_room'],
     skinTone: FluentEmojiSkinTone.mediumDark,
   );
 
@@ -13690,6 +18750,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'person in steamy room',
     glyph: '🧖🏿',
     svgPath: 'assets/person_in_steamy_room_color_dark.svg',
+    tts: 'person in steamy room',
+    fromVersion: '5.0',
+    glyphAsUtfInEmoticons: ['steam_room'],
+    keywords: ['person in steamy room', 'sauna', 'steam room'],
+    mappedToEmoticons: ['steam_room'],
     skinTone: FluentEmojiSkinTone.dark,
   );
 
@@ -13706,6 +18771,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'person in suit levitating',
     glyph: '🕴️',
     svgPath: 'assets/person_in_suit_levitating_color_default.svg',
+    tts: 'person in suit levitating',
+    fromVersion: '0.7',
+    glyphAsUtfInEmoticons: ['man_in_suit_levitating'],
+    keywords: ['business', 'person', 'person in suit levitating', 'suit'],
+    mappedToEmoticons: ['man_in_suit_levitating'],
     skinToneLight: _personInSuitLevitatingLight,
     skinToneMediumLight: _personInSuitLevitatingMediumLight,
     skinToneMedium: _personInSuitLevitatingMedium,
@@ -13720,6 +18790,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'person in suit levitating',
     glyph: '🕴🏻',
     svgPath: 'assets/person_in_suit_levitating_color_light.svg',
+    tts: 'person in suit levitating',
+    fromVersion: '0.7',
+    glyphAsUtfInEmoticons: ['man_in_suit_levitating'],
+    keywords: ['business', 'person', 'person in suit levitating', 'suit'],
+    mappedToEmoticons: ['man_in_suit_levitating'],
     skinTone: FluentEmojiSkinTone.light,
   );
 
@@ -13730,6 +18805,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'person in suit levitating',
     glyph: '🕴🏼',
     svgPath: 'assets/person_in_suit_levitating_color_medium-light.svg',
+    tts: 'person in suit levitating',
+    fromVersion: '0.7',
+    glyphAsUtfInEmoticons: ['man_in_suit_levitating'],
+    keywords: ['business', 'person', 'person in suit levitating', 'suit'],
+    mappedToEmoticons: ['man_in_suit_levitating'],
     skinTone: FluentEmojiSkinTone.mediumLight,
   );
 
@@ -13740,6 +18820,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'person in suit levitating',
     glyph: '🕴🏽',
     svgPath: 'assets/person_in_suit_levitating_color_medium.svg',
+    tts: 'person in suit levitating',
+    fromVersion: '0.7',
+    glyphAsUtfInEmoticons: ['man_in_suit_levitating'],
+    keywords: ['business', 'person', 'person in suit levitating', 'suit'],
+    mappedToEmoticons: ['man_in_suit_levitating'],
     skinTone: FluentEmojiSkinTone.medium,
   );
 
@@ -13750,6 +18835,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'person in suit levitating',
     glyph: '🕴🏾',
     svgPath: 'assets/person_in_suit_levitating_color_medium-dark.svg',
+    tts: 'person in suit levitating',
+    fromVersion: '0.7',
+    glyphAsUtfInEmoticons: ['man_in_suit_levitating'],
+    keywords: ['business', 'person', 'person in suit levitating', 'suit'],
+    mappedToEmoticons: ['man_in_suit_levitating'],
     skinTone: FluentEmojiSkinTone.mediumDark,
   );
 
@@ -13760,6 +18850,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'person in suit levitating',
     glyph: '🕴🏿',
     svgPath: 'assets/person_in_suit_levitating_color_dark.svg',
+    tts: 'person in suit levitating',
+    fromVersion: '0.7',
+    glyphAsUtfInEmoticons: ['man_in_suit_levitating'],
+    keywords: ['business', 'person', 'person in suit levitating', 'suit'],
+    mappedToEmoticons: ['man_in_suit_levitating'],
     skinTone: FluentEmojiSkinTone.dark,
   );
 
@@ -13776,6 +18871,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'person in tuxedo',
     glyph: '🤵',
     svgPath: 'assets/person_in_tuxedo_color_default.svg',
+    tts: 'person in tuxedo',
+    fromVersion: '3.0',
+    glyphAsUtfInEmoticons: ['man_tuxedo', 'personintuxedo'],
+    keywords: ['groom', 'person', 'person in tuxedo', 'tuxedo'],
+    mappedToEmoticons: ['personintuxedo'],
     skinToneLight: _personInTuxedoLight,
     skinToneMediumLight: _personInTuxedoMediumLight,
     skinToneMedium: _personInTuxedoMedium,
@@ -13790,6 +18890,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'person in tuxedo',
     glyph: '🤵🏻',
     svgPath: 'assets/person_in_tuxedo_color_light.svg',
+    tts: 'person in tuxedo',
+    fromVersion: '3.0',
+    glyphAsUtfInEmoticons: ['man_tuxedo', 'personintuxedo'],
+    keywords: ['groom', 'person', 'person in tuxedo', 'tuxedo'],
+    mappedToEmoticons: ['personintuxedo'],
     skinTone: FluentEmojiSkinTone.light,
   );
 
@@ -13800,6 +18905,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'person in tuxedo',
     glyph: '🤵🏼',
     svgPath: 'assets/person_in_tuxedo_color_medium-light.svg',
+    tts: 'person in tuxedo',
+    fromVersion: '3.0',
+    glyphAsUtfInEmoticons: ['man_tuxedo', 'personintuxedo'],
+    keywords: ['groom', 'person', 'person in tuxedo', 'tuxedo'],
+    mappedToEmoticons: ['personintuxedo'],
     skinTone: FluentEmojiSkinTone.mediumLight,
   );
 
@@ -13810,6 +18920,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'person in tuxedo',
     glyph: '🤵🏽',
     svgPath: 'assets/person_in_tuxedo_color_medium.svg',
+    tts: 'person in tuxedo',
+    fromVersion: '3.0',
+    glyphAsUtfInEmoticons: ['man_tuxedo', 'personintuxedo'],
+    keywords: ['groom', 'person', 'person in tuxedo', 'tuxedo'],
+    mappedToEmoticons: ['personintuxedo'],
     skinTone: FluentEmojiSkinTone.medium,
   );
 
@@ -13820,6 +18935,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'person in tuxedo',
     glyph: '🤵🏾',
     svgPath: 'assets/person_in_tuxedo_color_medium-dark.svg',
+    tts: 'person in tuxedo',
+    fromVersion: '3.0',
+    glyphAsUtfInEmoticons: ['man_tuxedo', 'personintuxedo'],
+    keywords: ['groom', 'person', 'person in tuxedo', 'tuxedo'],
+    mappedToEmoticons: ['personintuxedo'],
     skinTone: FluentEmojiSkinTone.mediumDark,
   );
 
@@ -13830,6 +18950,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'person in tuxedo',
     glyph: '🤵🏿',
     svgPath: 'assets/person_in_tuxedo_color_dark.svg',
+    tts: 'person in tuxedo',
+    fromVersion: '3.0',
+    glyphAsUtfInEmoticons: ['man_tuxedo', 'personintuxedo'],
+    keywords: ['groom', 'person', 'person in tuxedo', 'tuxedo'],
+    mappedToEmoticons: ['personintuxedo'],
     skinTone: FluentEmojiSkinTone.dark,
   );
 
@@ -13846,6 +18971,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'person juggling',
     glyph: '🤹',
     svgPath: 'assets/person_juggling_color_default.svg',
+    tts: 'person juggling',
+    fromVersion: '3.0',
+    glyphAsUtfInEmoticons: ['juggling'],
+    keywords: ['balance', 'juggle', 'multitask', 'person juggling', 'skill'],
+    mappedToEmoticons: ['personjuggling'],
     skinToneLight: _personJugglingLight,
     skinToneMediumLight: _personJugglingMediumLight,
     skinToneMedium: _personJugglingMedium,
@@ -13860,6 +18990,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'person juggling',
     glyph: '🤹🏻',
     svgPath: 'assets/person_juggling_color_light.svg',
+    tts: 'person juggling',
+    fromVersion: '3.0',
+    glyphAsUtfInEmoticons: ['juggling'],
+    keywords: ['balance', 'juggle', 'multitask', 'person juggling', 'skill'],
+    mappedToEmoticons: ['personjuggling'],
     skinTone: FluentEmojiSkinTone.light,
   );
 
@@ -13870,6 +19005,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'person juggling',
     glyph: '🤹🏼',
     svgPath: 'assets/person_juggling_color_medium-light.svg',
+    tts: 'person juggling',
+    fromVersion: '3.0',
+    glyphAsUtfInEmoticons: ['juggling'],
+    keywords: ['balance', 'juggle', 'multitask', 'person juggling', 'skill'],
+    mappedToEmoticons: ['personjuggling'],
     skinTone: FluentEmojiSkinTone.mediumLight,
   );
 
@@ -13880,6 +19020,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'person juggling',
     glyph: '🤹🏽',
     svgPath: 'assets/person_juggling_color_medium.svg',
+    tts: 'person juggling',
+    fromVersion: '3.0',
+    glyphAsUtfInEmoticons: ['juggling'],
+    keywords: ['balance', 'juggle', 'multitask', 'person juggling', 'skill'],
+    mappedToEmoticons: ['personjuggling'],
     skinTone: FluentEmojiSkinTone.medium,
   );
 
@@ -13890,6 +19035,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'person juggling',
     glyph: '🤹🏾',
     svgPath: 'assets/person_juggling_color_medium-dark.svg',
+    tts: 'person juggling',
+    fromVersion: '3.0',
+    glyphAsUtfInEmoticons: ['juggling'],
+    keywords: ['balance', 'juggle', 'multitask', 'person juggling', 'skill'],
+    mappedToEmoticons: ['personjuggling'],
     skinTone: FluentEmojiSkinTone.mediumDark,
   );
 
@@ -13900,6 +19050,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'person juggling',
     glyph: '🤹🏿',
     svgPath: 'assets/person_juggling_color_dark.svg',
+    tts: 'person juggling',
+    fromVersion: '3.0',
+    glyphAsUtfInEmoticons: ['juggling'],
+    keywords: ['balance', 'juggle', 'multitask', 'person juggling', 'skill'],
+    mappedToEmoticons: ['personjuggling'],
     skinTone: FluentEmojiSkinTone.dark,
   );
 
@@ -13916,6 +19071,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'person kneeling',
     glyph: '🧎',
     svgPath: 'assets/person_kneeling_color_default.svg',
+    tts: 'person kneeling',
+    fromVersion: '12.0',
+    glyphAsUtfInEmoticons: ['person_kneeling'],
+    keywords: ['kneel', 'kneeling', 'person kneeling'],
+    mappedToEmoticons: ['person_kneeling'],
     skinToneLight: _personKneelingLight,
     skinToneMediumLight: _personKneelingMediumLight,
     skinToneMedium: _personKneelingMedium,
@@ -13930,6 +19090,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'person kneeling',
     glyph: '🧎🏻',
     svgPath: 'assets/person_kneeling_color_light.svg',
+    tts: 'person kneeling',
+    fromVersion: '12.0',
+    glyphAsUtfInEmoticons: ['person_kneeling'],
+    keywords: ['kneel', 'kneeling', 'person kneeling'],
+    mappedToEmoticons: ['person_kneeling'],
     skinTone: FluentEmojiSkinTone.light,
   );
 
@@ -13940,6 +19105,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'person kneeling',
     glyph: '🧎🏼',
     svgPath: 'assets/person_kneeling_color_medium-light.svg',
+    tts: 'person kneeling',
+    fromVersion: '12.0',
+    glyphAsUtfInEmoticons: ['person_kneeling'],
+    keywords: ['kneel', 'kneeling', 'person kneeling'],
+    mappedToEmoticons: ['person_kneeling'],
     skinTone: FluentEmojiSkinTone.mediumLight,
   );
 
@@ -13950,6 +19120,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'person kneeling',
     glyph: '🧎🏽',
     svgPath: 'assets/person_kneeling_color_medium.svg',
+    tts: 'person kneeling',
+    fromVersion: '12.0',
+    glyphAsUtfInEmoticons: ['person_kneeling'],
+    keywords: ['kneel', 'kneeling', 'person kneeling'],
+    mappedToEmoticons: ['person_kneeling'],
     skinTone: FluentEmojiSkinTone.medium,
   );
 
@@ -13960,6 +19135,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'person kneeling',
     glyph: '🧎🏾',
     svgPath: 'assets/person_kneeling_color_medium-dark.svg',
+    tts: 'person kneeling',
+    fromVersion: '12.0',
+    glyphAsUtfInEmoticons: ['person_kneeling'],
+    keywords: ['kneel', 'kneeling', 'person kneeling'],
+    mappedToEmoticons: ['person_kneeling'],
     skinTone: FluentEmojiSkinTone.mediumDark,
   );
 
@@ -13970,6 +19150,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'person kneeling',
     glyph: '🧎🏿',
     svgPath: 'assets/person_kneeling_color_dark.svg',
+    tts: 'person kneeling',
+    fromVersion: '12.0',
+    glyphAsUtfInEmoticons: ['person_kneeling'],
+    keywords: ['kneel', 'kneeling', 'person kneeling'],
+    mappedToEmoticons: ['person_kneeling'],
     skinTone: FluentEmojiSkinTone.dark,
   );
 
@@ -13986,6 +19171,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'person kneeling facing right',
     glyph: '🧎‍➡️',
     svgPath: 'assets/person_kneeling_facing_right_color_default.svg',
+    tts: '',
+    fromVersion: '15.1',
+    glyphAsUtfInEmoticons: [],
+    keywords: ['kneel', 'kneeling', 'person kneeling'],
+    mappedToEmoticons: [],
     skinToneLight: _personKneelingFacingRightLight,
     skinToneMediumLight: _personKneelingFacingRightMediumLight,
     skinToneMedium: _personKneelingFacingRightMedium,
@@ -14000,6 +19190,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'person kneeling facing right',
     glyph: '🧎🏻‍➡️',
     svgPath: 'assets/person_kneeling_facing_right_color_light.svg',
+    tts: '',
+    fromVersion: '15.1',
+    glyphAsUtfInEmoticons: [],
+    keywords: ['kneel', 'kneeling', 'person kneeling'],
+    mappedToEmoticons: [],
     skinTone: FluentEmojiSkinTone.light,
   );
 
@@ -14010,6 +19205,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'person kneeling facing right',
     glyph: '🧎🏼‍➡️',
     svgPath: 'assets/person_kneeling_facing_right_color_medium-light.svg',
+    tts: '',
+    fromVersion: '15.1',
+    glyphAsUtfInEmoticons: [],
+    keywords: ['kneel', 'kneeling', 'person kneeling'],
+    mappedToEmoticons: [],
     skinTone: FluentEmojiSkinTone.mediumLight,
   );
 
@@ -14020,6 +19220,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'person kneeling facing right',
     glyph: '🧎🏽‍➡️',
     svgPath: 'assets/person_kneeling_facing_right_color_medium.svg',
+    tts: '',
+    fromVersion: '15.1',
+    glyphAsUtfInEmoticons: [],
+    keywords: ['kneel', 'kneeling', 'person kneeling'],
+    mappedToEmoticons: [],
     skinTone: FluentEmojiSkinTone.medium,
   );
 
@@ -14030,6 +19235,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'person kneeling facing right',
     glyph: '🧎🏾‍➡️',
     svgPath: 'assets/person_kneeling_facing_right_color_medium-dark.svg',
+    tts: '',
+    fromVersion: '15.1',
+    glyphAsUtfInEmoticons: [],
+    keywords: ['kneel', 'kneeling', 'person kneeling'],
+    mappedToEmoticons: [],
     skinTone: FluentEmojiSkinTone.mediumDark,
   );
 
@@ -14040,6 +19250,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'person kneeling facing right',
     glyph: '🧎🏿‍➡️',
     svgPath: 'assets/person_kneeling_facing_right_color_dark.svg',
+    tts: '',
+    fromVersion: '15.1',
+    glyphAsUtfInEmoticons: [],
+    keywords: ['kneel', 'kneeling', 'person kneeling'],
+    mappedToEmoticons: [],
     skinTone: FluentEmojiSkinTone.dark,
   );
 
@@ -14056,6 +19271,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'person lifting weights',
     glyph: '🏋️',
     svgPath: 'assets/person_lifting_weights_color_default.svg',
+    tts: 'person lifting weights',
+    fromVersion: '0.7',
+    glyphAsUtfInEmoticons: ['weight_lifter'],
+    keywords: ['lifter', 'person lifting weights', 'weight'],
+    mappedToEmoticons: ['weight_lifter'],
     skinToneLight: _personLiftingWeightsLight,
     skinToneMediumLight: _personLiftingWeightsMediumLight,
     skinToneMedium: _personLiftingWeightsMedium,
@@ -14070,6 +19290,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'person lifting weights',
     glyph: '🏋🏻',
     svgPath: 'assets/person_lifting_weights_color_light.svg',
+    tts: 'person lifting weights',
+    fromVersion: '0.7',
+    glyphAsUtfInEmoticons: ['weight_lifter'],
+    keywords: ['lifter', 'person lifting weights', 'weight'],
+    mappedToEmoticons: ['weight_lifter'],
     skinTone: FluentEmojiSkinTone.light,
   );
 
@@ -14080,6 +19305,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'person lifting weights',
     glyph: '🏋🏼',
     svgPath: 'assets/person_lifting_weights_color_medium-light.svg',
+    tts: 'person lifting weights',
+    fromVersion: '0.7',
+    glyphAsUtfInEmoticons: ['weight_lifter'],
+    keywords: ['lifter', 'person lifting weights', 'weight'],
+    mappedToEmoticons: ['weight_lifter'],
     skinTone: FluentEmojiSkinTone.mediumLight,
   );
 
@@ -14090,6 +19320,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'person lifting weights',
     glyph: '🏋🏽',
     svgPath: 'assets/person_lifting_weights_color_medium.svg',
+    tts: 'person lifting weights',
+    fromVersion: '0.7',
+    glyphAsUtfInEmoticons: ['weight_lifter'],
+    keywords: ['lifter', 'person lifting weights', 'weight'],
+    mappedToEmoticons: ['weight_lifter'],
     skinTone: FluentEmojiSkinTone.medium,
   );
 
@@ -14100,6 +19335,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'person lifting weights',
     glyph: '🏋🏾',
     svgPath: 'assets/person_lifting_weights_color_medium-dark.svg',
+    tts: 'person lifting weights',
+    fromVersion: '0.7',
+    glyphAsUtfInEmoticons: ['weight_lifter'],
+    keywords: ['lifter', 'person lifting weights', 'weight'],
+    mappedToEmoticons: ['weight_lifter'],
     skinTone: FluentEmojiSkinTone.mediumDark,
   );
 
@@ -14110,6 +19350,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'person lifting weights',
     glyph: '🏋🏿',
     svgPath: 'assets/person_lifting_weights_color_dark.svg',
+    tts: 'person lifting weights',
+    fromVersion: '0.7',
+    glyphAsUtfInEmoticons: ['weight_lifter'],
+    keywords: ['lifter', 'person lifting weights', 'weight'],
+    mappedToEmoticons: ['weight_lifter'],
     skinTone: FluentEmojiSkinTone.dark,
   );
 
@@ -14126,6 +19371,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'person mountain biking',
     glyph: '🚵',
     svgPath: 'assets/person_mountain_biking_color_default.svg',
+    tts: 'person mountain biking',
+    fromVersion: '1.0',
+    glyphAsUtfInEmoticons: ['mountain_bicyclist'],
+    keywords: ['bicycle', 'bicyclist', 'bike', 'cyclist', 'mountain', 'person mountain biking'],
+    mappedToEmoticons: ['mountain_bicyclist'],
     skinToneLight: _personMountainBikingLight,
     skinToneMediumLight: _personMountainBikingMediumLight,
     skinToneMedium: _personMountainBikingMedium,
@@ -14140,6 +19390,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'person mountain biking',
     glyph: '🚵🏻',
     svgPath: 'assets/person_mountain_biking_color_light.svg',
+    tts: 'person mountain biking',
+    fromVersion: '1.0',
+    glyphAsUtfInEmoticons: ['mountain_bicyclist'],
+    keywords: ['bicycle', 'bicyclist', 'bike', 'cyclist', 'mountain', 'person mountain biking'],
+    mappedToEmoticons: ['mountain_bicyclist'],
     skinTone: FluentEmojiSkinTone.light,
   );
 
@@ -14150,6 +19405,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'person mountain biking',
     glyph: '🚵🏼',
     svgPath: 'assets/person_mountain_biking_color_medium-light.svg',
+    tts: 'person mountain biking',
+    fromVersion: '1.0',
+    glyphAsUtfInEmoticons: ['mountain_bicyclist'],
+    keywords: ['bicycle', 'bicyclist', 'bike', 'cyclist', 'mountain', 'person mountain biking'],
+    mappedToEmoticons: ['mountain_bicyclist'],
     skinTone: FluentEmojiSkinTone.mediumLight,
   );
 
@@ -14160,6 +19420,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'person mountain biking',
     glyph: '🚵🏽',
     svgPath: 'assets/person_mountain_biking_color_medium.svg',
+    tts: 'person mountain biking',
+    fromVersion: '1.0',
+    glyphAsUtfInEmoticons: ['mountain_bicyclist'],
+    keywords: ['bicycle', 'bicyclist', 'bike', 'cyclist', 'mountain', 'person mountain biking'],
+    mappedToEmoticons: ['mountain_bicyclist'],
     skinTone: FluentEmojiSkinTone.medium,
   );
 
@@ -14170,6 +19435,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'person mountain biking',
     glyph: '🚵🏾',
     svgPath: 'assets/person_mountain_biking_color_medium-dark.svg',
+    tts: 'person mountain biking',
+    fromVersion: '1.0',
+    glyphAsUtfInEmoticons: ['mountain_bicyclist'],
+    keywords: ['bicycle', 'bicyclist', 'bike', 'cyclist', 'mountain', 'person mountain biking'],
+    mappedToEmoticons: ['mountain_bicyclist'],
     skinTone: FluentEmojiSkinTone.mediumDark,
   );
 
@@ -14180,6 +19450,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'person mountain biking',
     glyph: '🚵🏿',
     svgPath: 'assets/person_mountain_biking_color_dark.svg',
+    tts: 'person mountain biking',
+    fromVersion: '1.0',
+    glyphAsUtfInEmoticons: ['mountain_bicyclist'],
+    keywords: ['bicycle', 'bicyclist', 'bike', 'cyclist', 'mountain', 'person mountain biking'],
+    mappedToEmoticons: ['mountain_bicyclist'],
     skinTone: FluentEmojiSkinTone.dark,
   );
 
@@ -14196,6 +19471,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'person playing handball',
     glyph: '🤾',
     svgPath: 'assets/person_playing_handball_color_default.svg',
+    tts: 'person playing handball',
+    fromVersion: '3.0',
+    glyphAsUtfInEmoticons: ['hand_ball'],
+    keywords: ['ball', 'handball', 'person playing handball'],
+    mappedToEmoticons: ['hand_ball'],
     skinToneLight: _personPlayingHandballLight,
     skinToneMediumLight: _personPlayingHandballMediumLight,
     skinToneMedium: _personPlayingHandballMedium,
@@ -14210,6 +19490,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'person playing handball',
     glyph: '🤾🏻',
     svgPath: 'assets/person_playing_handball_color_light.svg',
+    tts: 'person playing handball',
+    fromVersion: '3.0',
+    glyphAsUtfInEmoticons: ['hand_ball'],
+    keywords: ['ball', 'handball', 'person playing handball'],
+    mappedToEmoticons: ['hand_ball'],
     skinTone: FluentEmojiSkinTone.light,
   );
 
@@ -14220,6 +19505,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'person playing handball',
     glyph: '🤾🏼',
     svgPath: 'assets/person_playing_handball_color_medium-light.svg',
+    tts: 'person playing handball',
+    fromVersion: '3.0',
+    glyphAsUtfInEmoticons: ['hand_ball'],
+    keywords: ['ball', 'handball', 'person playing handball'],
+    mappedToEmoticons: ['hand_ball'],
     skinTone: FluentEmojiSkinTone.mediumLight,
   );
 
@@ -14230,6 +19520,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'person playing handball',
     glyph: '🤾🏽',
     svgPath: 'assets/person_playing_handball_color_medium.svg',
+    tts: 'person playing handball',
+    fromVersion: '3.0',
+    glyphAsUtfInEmoticons: ['hand_ball'],
+    keywords: ['ball', 'handball', 'person playing handball'],
+    mappedToEmoticons: ['hand_ball'],
     skinTone: FluentEmojiSkinTone.medium,
   );
 
@@ -14240,6 +19535,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'person playing handball',
     glyph: '🤾🏾',
     svgPath: 'assets/person_playing_handball_color_medium-dark.svg',
+    tts: 'person playing handball',
+    fromVersion: '3.0',
+    glyphAsUtfInEmoticons: ['hand_ball'],
+    keywords: ['ball', 'handball', 'person playing handball'],
+    mappedToEmoticons: ['hand_ball'],
     skinTone: FluentEmojiSkinTone.mediumDark,
   );
 
@@ -14250,6 +19550,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'person playing handball',
     glyph: '🤾🏿',
     svgPath: 'assets/person_playing_handball_color_dark.svg',
+    tts: 'person playing handball',
+    fromVersion: '3.0',
+    glyphAsUtfInEmoticons: ['hand_ball'],
+    keywords: ['ball', 'handball', 'person playing handball'],
+    mappedToEmoticons: ['hand_ball'],
     skinTone: FluentEmojiSkinTone.dark,
   );
 
@@ -14266,6 +19571,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'person playing water polo',
     glyph: '🤽',
     svgPath: 'assets/person_playing_water_polo_color_default.svg',
+    tts: 'person playing water polo',
+    fromVersion: '3.0',
+    glyphAsUtfInEmoticons: ['manplayingwaterpolo', 'water_polo'],
+    keywords: ['person playing water polo', 'polo', 'water'],
+    mappedToEmoticons: ['water_polo'],
     skinToneLight: _personPlayingWaterPoloLight,
     skinToneMediumLight: _personPlayingWaterPoloMediumLight,
     skinToneMedium: _personPlayingWaterPoloMedium,
@@ -14280,6 +19590,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'person playing water polo',
     glyph: '🤽🏻',
     svgPath: 'assets/person_playing_water_polo_color_light.svg',
+    tts: 'person playing water polo',
+    fromVersion: '3.0',
+    glyphAsUtfInEmoticons: ['manplayingwaterpolo', 'water_polo'],
+    keywords: ['person playing water polo', 'polo', 'water'],
+    mappedToEmoticons: ['water_polo'],
     skinTone: FluentEmojiSkinTone.light,
   );
 
@@ -14290,6 +19605,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'person playing water polo',
     glyph: '🤽🏼',
     svgPath: 'assets/person_playing_water_polo_color_medium-light.svg',
+    tts: 'person playing water polo',
+    fromVersion: '3.0',
+    glyphAsUtfInEmoticons: ['manplayingwaterpolo', 'water_polo'],
+    keywords: ['person playing water polo', 'polo', 'water'],
+    mappedToEmoticons: ['water_polo'],
     skinTone: FluentEmojiSkinTone.mediumLight,
   );
 
@@ -14300,6 +19620,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'person playing water polo',
     glyph: '🤽🏽',
     svgPath: 'assets/person_playing_water_polo_color_medium.svg',
+    tts: 'person playing water polo',
+    fromVersion: '3.0',
+    glyphAsUtfInEmoticons: ['manplayingwaterpolo', 'water_polo'],
+    keywords: ['person playing water polo', 'polo', 'water'],
+    mappedToEmoticons: ['water_polo'],
     skinTone: FluentEmojiSkinTone.medium,
   );
 
@@ -14310,6 +19635,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'person playing water polo',
     glyph: '🤽🏾',
     svgPath: 'assets/person_playing_water_polo_color_medium-dark.svg',
+    tts: 'person playing water polo',
+    fromVersion: '3.0',
+    glyphAsUtfInEmoticons: ['manplayingwaterpolo', 'water_polo'],
+    keywords: ['person playing water polo', 'polo', 'water'],
+    mappedToEmoticons: ['water_polo'],
     skinTone: FluentEmojiSkinTone.mediumDark,
   );
 
@@ -14320,6 +19650,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'person playing water polo',
     glyph: '🤽🏿',
     svgPath: 'assets/person_playing_water_polo_color_dark.svg',
+    tts: 'person playing water polo',
+    fromVersion: '3.0',
+    glyphAsUtfInEmoticons: ['manplayingwaterpolo', 'water_polo'],
+    keywords: ['person playing water polo', 'polo', 'water'],
+    mappedToEmoticons: ['water_polo'],
     skinTone: FluentEmojiSkinTone.dark,
   );
 
@@ -14336,6 +19671,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'person pouting',
     glyph: '🙎',
     svgPath: 'assets/person_pouting_color_default.svg',
+    tts: 'person pouting',
+    fromVersion: '0.6',
+    glyphAsUtfInEmoticons: ['pouting_face'],
+    keywords: ['gesture', 'person pouting', 'pouting'],
+    mappedToEmoticons: ['pouting_face'],
     skinToneLight: _personPoutingLight,
     skinToneMediumLight: _personPoutingMediumLight,
     skinToneMedium: _personPoutingMedium,
@@ -14350,6 +19690,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'person pouting',
     glyph: '🙎🏻',
     svgPath: 'assets/person_pouting_color_light.svg',
+    tts: 'person pouting',
+    fromVersion: '0.6',
+    glyphAsUtfInEmoticons: ['pouting_face'],
+    keywords: ['gesture', 'person pouting', 'pouting'],
+    mappedToEmoticons: ['pouting_face'],
     skinTone: FluentEmojiSkinTone.light,
   );
 
@@ -14360,6 +19705,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'person pouting',
     glyph: '🙎🏼',
     svgPath: 'assets/person_pouting_color_medium-light.svg',
+    tts: 'person pouting',
+    fromVersion: '0.6',
+    glyphAsUtfInEmoticons: ['pouting_face'],
+    keywords: ['gesture', 'person pouting', 'pouting'],
+    mappedToEmoticons: ['pouting_face'],
     skinTone: FluentEmojiSkinTone.mediumLight,
   );
 
@@ -14370,6 +19720,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'person pouting',
     glyph: '🙎🏽',
     svgPath: 'assets/person_pouting_color_medium.svg',
+    tts: 'person pouting',
+    fromVersion: '0.6',
+    glyphAsUtfInEmoticons: ['pouting_face'],
+    keywords: ['gesture', 'person pouting', 'pouting'],
+    mappedToEmoticons: ['pouting_face'],
     skinTone: FluentEmojiSkinTone.medium,
   );
 
@@ -14380,6 +19735,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'person pouting',
     glyph: '🙎🏾',
     svgPath: 'assets/person_pouting_color_medium-dark.svg',
+    tts: 'person pouting',
+    fromVersion: '0.6',
+    glyphAsUtfInEmoticons: ['pouting_face'],
+    keywords: ['gesture', 'person pouting', 'pouting'],
+    mappedToEmoticons: ['pouting_face'],
     skinTone: FluentEmojiSkinTone.mediumDark,
   );
 
@@ -14390,6 +19750,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'person pouting',
     glyph: '🙎🏿',
     svgPath: 'assets/person_pouting_color_dark.svg',
+    tts: 'person pouting',
+    fromVersion: '0.6',
+    glyphAsUtfInEmoticons: ['pouting_face'],
+    keywords: ['gesture', 'person pouting', 'pouting'],
+    mappedToEmoticons: ['pouting_face'],
     skinTone: FluentEmojiSkinTone.dark,
   );
 
@@ -14406,6 +19771,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'person raising hand',
     glyph: '🙋',
     svgPath: 'assets/person_raising_hand_color_default.svg',
+    tts: 'person raising hand',
+    fromVersion: '0.6',
+    glyphAsUtfInEmoticons: ['happy_person_raising_one_hand'],
+    keywords: ['gesture', 'hand', 'happy', 'person raising hand', 'raised'],
+    mappedToEmoticons: ['happy_person_raising_one_hand'],
     skinToneLight: _personRaisingHandLight,
     skinToneMediumLight: _personRaisingHandMediumLight,
     skinToneMedium: _personRaisingHandMedium,
@@ -14420,6 +19790,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'person raising hand',
     glyph: '🙋🏻',
     svgPath: 'assets/person_raising_hand_color_light.svg',
+    tts: 'person raising hand',
+    fromVersion: '0.6',
+    glyphAsUtfInEmoticons: ['happy_person_raising_one_hand'],
+    keywords: ['gesture', 'hand', 'happy', 'person raising hand', 'raised'],
+    mappedToEmoticons: ['happy_person_raising_one_hand'],
     skinTone: FluentEmojiSkinTone.light,
   );
 
@@ -14430,6 +19805,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'person raising hand',
     glyph: '🙋🏼',
     svgPath: 'assets/person_raising_hand_color_medium-light.svg',
+    tts: 'person raising hand',
+    fromVersion: '0.6',
+    glyphAsUtfInEmoticons: ['happy_person_raising_one_hand'],
+    keywords: ['gesture', 'hand', 'happy', 'person raising hand', 'raised'],
+    mappedToEmoticons: ['happy_person_raising_one_hand'],
     skinTone: FluentEmojiSkinTone.mediumLight,
   );
 
@@ -14440,6 +19820,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'person raising hand',
     glyph: '🙋🏽',
     svgPath: 'assets/person_raising_hand_color_medium.svg',
+    tts: 'person raising hand',
+    fromVersion: '0.6',
+    glyphAsUtfInEmoticons: ['happy_person_raising_one_hand'],
+    keywords: ['gesture', 'hand', 'happy', 'person raising hand', 'raised'],
+    mappedToEmoticons: ['happy_person_raising_one_hand'],
     skinTone: FluentEmojiSkinTone.medium,
   );
 
@@ -14450,6 +19835,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'person raising hand',
     glyph: '🙋🏾',
     svgPath: 'assets/person_raising_hand_color_medium-dark.svg',
+    tts: 'person raising hand',
+    fromVersion: '0.6',
+    glyphAsUtfInEmoticons: ['happy_person_raising_one_hand'],
+    keywords: ['gesture', 'hand', 'happy', 'person raising hand', 'raised'],
+    mappedToEmoticons: ['happy_person_raising_one_hand'],
     skinTone: FluentEmojiSkinTone.mediumDark,
   );
 
@@ -14460,6 +19850,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'person raising hand',
     glyph: '🙋🏿',
     svgPath: 'assets/person_raising_hand_color_dark.svg',
+    tts: 'person raising hand',
+    fromVersion: '0.6',
+    glyphAsUtfInEmoticons: ['happy_person_raising_one_hand'],
+    keywords: ['gesture', 'hand', 'happy', 'person raising hand', 'raised'],
+    mappedToEmoticons: ['happy_person_raising_one_hand'],
     skinTone: FluentEmojiSkinTone.dark,
   );
 
@@ -14476,6 +19871,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'person rowing boat',
     glyph: '🚣',
     svgPath: 'assets/person_rowing_boat_color_default.svg',
+    tts: 'person rowing boat',
+    fromVersion: '1.0',
+    glyphAsUtfInEmoticons: ['row_boat'],
+    keywords: ['boat', 'person rowing boat', 'rowboat'],
+    mappedToEmoticons: ['personrowingboat'],
     skinToneLight: _personRowingBoatLight,
     skinToneMediumLight: _personRowingBoatMediumLight,
     skinToneMedium: _personRowingBoatMedium,
@@ -14490,6 +19890,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'person rowing boat',
     glyph: '🚣🏻',
     svgPath: 'assets/person_rowing_boat_color_light.svg',
+    tts: 'person rowing boat',
+    fromVersion: '1.0',
+    glyphAsUtfInEmoticons: ['row_boat'],
+    keywords: ['boat', 'person rowing boat', 'rowboat'],
+    mappedToEmoticons: ['personrowingboat'],
     skinTone: FluentEmojiSkinTone.light,
   );
 
@@ -14500,6 +19905,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'person rowing boat',
     glyph: '🚣🏼',
     svgPath: 'assets/person_rowing_boat_color_medium-light.svg',
+    tts: 'person rowing boat',
+    fromVersion: '1.0',
+    glyphAsUtfInEmoticons: ['row_boat'],
+    keywords: ['boat', 'person rowing boat', 'rowboat'],
+    mappedToEmoticons: ['personrowingboat'],
     skinTone: FluentEmojiSkinTone.mediumLight,
   );
 
@@ -14510,6 +19920,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'person rowing boat',
     glyph: '🚣🏽',
     svgPath: 'assets/person_rowing_boat_color_medium.svg',
+    tts: 'person rowing boat',
+    fromVersion: '1.0',
+    glyphAsUtfInEmoticons: ['row_boat'],
+    keywords: ['boat', 'person rowing boat', 'rowboat'],
+    mappedToEmoticons: ['personrowingboat'],
     skinTone: FluentEmojiSkinTone.medium,
   );
 
@@ -14520,6 +19935,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'person rowing boat',
     glyph: '🚣🏾',
     svgPath: 'assets/person_rowing_boat_color_medium-dark.svg',
+    tts: 'person rowing boat',
+    fromVersion: '1.0',
+    glyphAsUtfInEmoticons: ['row_boat'],
+    keywords: ['boat', 'person rowing boat', 'rowboat'],
+    mappedToEmoticons: ['personrowingboat'],
     skinTone: FluentEmojiSkinTone.mediumDark,
   );
 
@@ -14530,6 +19950,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'person rowing boat',
     glyph: '🚣🏿',
     svgPath: 'assets/person_rowing_boat_color_dark.svg',
+    tts: 'person rowing boat',
+    fromVersion: '1.0',
+    glyphAsUtfInEmoticons: ['row_boat'],
+    keywords: ['boat', 'person rowing boat', 'rowboat'],
+    mappedToEmoticons: ['personrowingboat'],
     skinTone: FluentEmojiSkinTone.dark,
   );
 
@@ -14546,6 +19971,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'person running',
     glyph: '🏃',
     svgPath: 'assets/person_running_color_default.svg',
+    tts: 'person running',
+    fromVersion: '0.6',
+    glyphAsUtfInEmoticons: ['gottarun', 'runner'],
+    keywords: ['marathon', 'person running', 'running'],
+    mappedToEmoticons: ['runner'],
     skinToneLight: _personRunningLight,
     skinToneMediumLight: _personRunningMediumLight,
     skinToneMedium: _personRunningMedium,
@@ -14560,6 +19990,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'person running',
     glyph: '🏃🏻',
     svgPath: 'assets/person_running_color_light.svg',
+    tts: 'person running',
+    fromVersion: '0.6',
+    glyphAsUtfInEmoticons: ['gottarun', 'runner'],
+    keywords: ['marathon', 'person running', 'running'],
+    mappedToEmoticons: ['runner'],
     skinTone: FluentEmojiSkinTone.light,
   );
 
@@ -14570,6 +20005,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'person running',
     glyph: '🏃🏼',
     svgPath: 'assets/person_running_color_medium-light.svg',
+    tts: 'person running',
+    fromVersion: '0.6',
+    glyphAsUtfInEmoticons: ['gottarun', 'runner'],
+    keywords: ['marathon', 'person running', 'running'],
+    mappedToEmoticons: ['runner'],
     skinTone: FluentEmojiSkinTone.mediumLight,
   );
 
@@ -14580,6 +20020,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'person running',
     glyph: '🏃🏽',
     svgPath: 'assets/person_running_color_medium.svg',
+    tts: 'person running',
+    fromVersion: '0.6',
+    glyphAsUtfInEmoticons: ['gottarun', 'runner'],
+    keywords: ['marathon', 'person running', 'running'],
+    mappedToEmoticons: ['runner'],
     skinTone: FluentEmojiSkinTone.medium,
   );
 
@@ -14590,6 +20035,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'person running',
     glyph: '🏃🏾',
     svgPath: 'assets/person_running_color_medium-dark.svg',
+    tts: 'person running',
+    fromVersion: '0.6',
+    glyphAsUtfInEmoticons: ['gottarun', 'runner'],
+    keywords: ['marathon', 'person running', 'running'],
+    mappedToEmoticons: ['runner'],
     skinTone: FluentEmojiSkinTone.mediumDark,
   );
 
@@ -14600,6 +20050,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'person running',
     glyph: '🏃🏿',
     svgPath: 'assets/person_running_color_dark.svg',
+    tts: 'person running',
+    fromVersion: '0.6',
+    glyphAsUtfInEmoticons: ['gottarun', 'runner'],
+    keywords: ['marathon', 'person running', 'running'],
+    mappedToEmoticons: ['runner'],
     skinTone: FluentEmojiSkinTone.dark,
   );
 
@@ -14616,6 +20071,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'person running facing right',
     glyph: '🏃‍➡️',
     svgPath: 'assets/person_running_facing_right_color_default.svg',
+    tts: '',
+    fromVersion: '15.1',
+    glyphAsUtfInEmoticons: [],
+    keywords: ['marathon', 'person running', 'running'],
+    mappedToEmoticons: [],
     skinToneLight: _personRunningFacingRightLight,
     skinToneMediumLight: _personRunningFacingRightMediumLight,
     skinToneMedium: _personRunningFacingRightMedium,
@@ -14630,6 +20090,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'person running facing right',
     glyph: '🏃🏻‍➡️',
     svgPath: 'assets/person_running_facing_right_color_light.svg',
+    tts: '',
+    fromVersion: '15.1',
+    glyphAsUtfInEmoticons: [],
+    keywords: ['marathon', 'person running', 'running'],
+    mappedToEmoticons: [],
     skinTone: FluentEmojiSkinTone.light,
   );
 
@@ -14640,6 +20105,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'person running facing right',
     glyph: '🏃🏼‍➡️',
     svgPath: 'assets/person_running_facing_right_color_medium-light.svg',
+    tts: '',
+    fromVersion: '15.1',
+    glyphAsUtfInEmoticons: [],
+    keywords: ['marathon', 'person running', 'running'],
+    mappedToEmoticons: [],
     skinTone: FluentEmojiSkinTone.mediumLight,
   );
 
@@ -14650,6 +20120,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'person running facing right',
     glyph: '🏃🏽‍➡️',
     svgPath: 'assets/person_running_facing_right_color_medium.svg',
+    tts: '',
+    fromVersion: '15.1',
+    glyphAsUtfInEmoticons: [],
+    keywords: ['marathon', 'person running', 'running'],
+    mappedToEmoticons: [],
     skinTone: FluentEmojiSkinTone.medium,
   );
 
@@ -14660,6 +20135,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'person running facing right',
     glyph: '🏃🏾‍➡️',
     svgPath: 'assets/person_running_facing_right_color_medium-dark.svg',
+    tts: '',
+    fromVersion: '15.1',
+    glyphAsUtfInEmoticons: [],
+    keywords: ['marathon', 'person running', 'running'],
+    mappedToEmoticons: [],
     skinTone: FluentEmojiSkinTone.mediumDark,
   );
 
@@ -14670,6 +20150,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'person running facing right',
     glyph: '🏃🏿‍➡️',
     svgPath: 'assets/person_running_facing_right_color_dark.svg',
+    tts: '',
+    fromVersion: '15.1',
+    glyphAsUtfInEmoticons: [],
+    keywords: ['marathon', 'person running', 'running'],
+    mappedToEmoticons: [],
     skinTone: FluentEmojiSkinTone.dark,
   );
 
@@ -14686,6 +20171,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'person shrugging',
     glyph: '🤷',
     svgPath: 'assets/person_shrugging_color_default.svg',
+    tts: 'person shrugging',
+    fromVersion: '3.0',
+    glyphAsUtfInEmoticons: ['manshrug'],
+    keywords: ['doubt', 'ignorance', 'indifference', 'person shrugging', 'shrug'],
+    mappedToEmoticons: ['shrug'],
     skinToneLight: _personShruggingLight,
     skinToneMediumLight: _personShruggingMediumLight,
     skinToneMedium: _personShruggingMedium,
@@ -14700,6 +20190,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'person shrugging',
     glyph: '🤷🏻',
     svgPath: 'assets/person_shrugging_color_light.svg',
+    tts: 'person shrugging',
+    fromVersion: '3.0',
+    glyphAsUtfInEmoticons: ['manshrug'],
+    keywords: ['doubt', 'ignorance', 'indifference', 'person shrugging', 'shrug'],
+    mappedToEmoticons: ['shrug'],
     skinTone: FluentEmojiSkinTone.light,
   );
 
@@ -14710,6 +20205,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'person shrugging',
     glyph: '🤷🏼',
     svgPath: 'assets/person_shrugging_color_medium-light.svg',
+    tts: 'person shrugging',
+    fromVersion: '3.0',
+    glyphAsUtfInEmoticons: ['manshrug'],
+    keywords: ['doubt', 'ignorance', 'indifference', 'person shrugging', 'shrug'],
+    mappedToEmoticons: ['shrug'],
     skinTone: FluentEmojiSkinTone.mediumLight,
   );
 
@@ -14720,6 +20220,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'person shrugging',
     glyph: '🤷🏽',
     svgPath: 'assets/person_shrugging_color_medium.svg',
+    tts: 'person shrugging',
+    fromVersion: '3.0',
+    glyphAsUtfInEmoticons: ['manshrug'],
+    keywords: ['doubt', 'ignorance', 'indifference', 'person shrugging', 'shrug'],
+    mappedToEmoticons: ['shrug'],
     skinTone: FluentEmojiSkinTone.medium,
   );
 
@@ -14730,6 +20235,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'person shrugging',
     glyph: '🤷🏾',
     svgPath: 'assets/person_shrugging_color_medium-dark.svg',
+    tts: 'person shrugging',
+    fromVersion: '3.0',
+    glyphAsUtfInEmoticons: ['manshrug'],
+    keywords: ['doubt', 'ignorance', 'indifference', 'person shrugging', 'shrug'],
+    mappedToEmoticons: ['shrug'],
     skinTone: FluentEmojiSkinTone.mediumDark,
   );
 
@@ -14740,6 +20250,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'person shrugging',
     glyph: '🤷🏿',
     svgPath: 'assets/person_shrugging_color_dark.svg',
+    tts: 'person shrugging',
+    fromVersion: '3.0',
+    glyphAsUtfInEmoticons: ['manshrug'],
+    keywords: ['doubt', 'ignorance', 'indifference', 'person shrugging', 'shrug'],
+    mappedToEmoticons: ['shrug'],
     skinTone: FluentEmojiSkinTone.dark,
   );
 
@@ -14756,6 +20271,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'person standing',
     glyph: '🧍',
     svgPath: 'assets/person_standing_color_default.svg',
+    tts: 'person standing',
+    fromVersion: '12.0',
+    glyphAsUtfInEmoticons: ['nonbinarystanding'],
+    keywords: ['person standing', 'stand', 'standing'],
+    mappedToEmoticons: ['nonbinarystanding'],
     skinToneLight: _personStandingLight,
     skinToneMediumLight: _personStandingMediumLight,
     skinToneMedium: _personStandingMedium,
@@ -14770,6 +20290,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'person standing',
     glyph: '🧍🏻',
     svgPath: 'assets/person_standing_color_light.svg',
+    tts: 'person standing',
+    fromVersion: '12.0',
+    glyphAsUtfInEmoticons: ['nonbinarystanding'],
+    keywords: ['person standing', 'stand', 'standing'],
+    mappedToEmoticons: ['nonbinarystanding'],
     skinTone: FluentEmojiSkinTone.light,
   );
 
@@ -14780,6 +20305,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'person standing',
     glyph: '🧍🏼',
     svgPath: 'assets/person_standing_color_medium-light.svg',
+    tts: 'person standing',
+    fromVersion: '12.0',
+    glyphAsUtfInEmoticons: ['nonbinarystanding'],
+    keywords: ['person standing', 'stand', 'standing'],
+    mappedToEmoticons: ['nonbinarystanding'],
     skinTone: FluentEmojiSkinTone.mediumLight,
   );
 
@@ -14790,6 +20320,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'person standing',
     glyph: '🧍🏽',
     svgPath: 'assets/person_standing_color_medium.svg',
+    tts: 'person standing',
+    fromVersion: '12.0',
+    glyphAsUtfInEmoticons: ['nonbinarystanding'],
+    keywords: ['person standing', 'stand', 'standing'],
+    mappedToEmoticons: ['nonbinarystanding'],
     skinTone: FluentEmojiSkinTone.medium,
   );
 
@@ -14800,6 +20335,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'person standing',
     glyph: '🧍🏾',
     svgPath: 'assets/person_standing_color_medium-dark.svg',
+    tts: 'person standing',
+    fromVersion: '12.0',
+    glyphAsUtfInEmoticons: ['nonbinarystanding'],
+    keywords: ['person standing', 'stand', 'standing'],
+    mappedToEmoticons: ['nonbinarystanding'],
     skinTone: FluentEmojiSkinTone.mediumDark,
   );
 
@@ -14810,6 +20350,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'person standing',
     glyph: '🧍🏿',
     svgPath: 'assets/person_standing_color_dark.svg',
+    tts: 'person standing',
+    fromVersion: '12.0',
+    glyphAsUtfInEmoticons: ['nonbinarystanding'],
+    keywords: ['person standing', 'stand', 'standing'],
+    mappedToEmoticons: ['nonbinarystanding'],
     skinTone: FluentEmojiSkinTone.dark,
   );
 
@@ -14826,6 +20371,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'person surfing',
     glyph: '🏄',
     svgPath: 'assets/person_surfing_color_default.svg',
+    tts: 'person surfing',
+    fromVersion: '0.6',
+    glyphAsUtfInEmoticons: ['1f3c4_personsurfing'],
+    keywords: ['person surfing', 'surfing'],
+    mappedToEmoticons: ['1f3c4_personsurfing'],
     skinToneLight: _personSurfingLight,
     skinToneMediumLight: _personSurfingMediumLight,
     skinToneMedium: _personSurfingMedium,
@@ -14840,6 +20390,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'person surfing',
     glyph: '🏄🏻',
     svgPath: 'assets/person_surfing_color_light.svg',
+    tts: 'person surfing',
+    fromVersion: '0.6',
+    glyphAsUtfInEmoticons: ['1f3c4_personsurfing'],
+    keywords: ['person surfing', 'surfing'],
+    mappedToEmoticons: ['1f3c4_personsurfing'],
     skinTone: FluentEmojiSkinTone.light,
   );
 
@@ -14850,6 +20405,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'person surfing',
     glyph: '🏄🏼',
     svgPath: 'assets/person_surfing_color_medium-light.svg',
+    tts: 'person surfing',
+    fromVersion: '0.6',
+    glyphAsUtfInEmoticons: ['1f3c4_personsurfing'],
+    keywords: ['person surfing', 'surfing'],
+    mappedToEmoticons: ['1f3c4_personsurfing'],
     skinTone: FluentEmojiSkinTone.mediumLight,
   );
 
@@ -14860,6 +20420,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'person surfing',
     glyph: '🏄🏽',
     svgPath: 'assets/person_surfing_color_medium.svg',
+    tts: 'person surfing',
+    fromVersion: '0.6',
+    glyphAsUtfInEmoticons: ['1f3c4_personsurfing'],
+    keywords: ['person surfing', 'surfing'],
+    mappedToEmoticons: ['1f3c4_personsurfing'],
     skinTone: FluentEmojiSkinTone.medium,
   );
 
@@ -14870,6 +20435,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'person surfing',
     glyph: '🏄🏾',
     svgPath: 'assets/person_surfing_color_medium-dark.svg',
+    tts: 'person surfing',
+    fromVersion: '0.6',
+    glyphAsUtfInEmoticons: ['1f3c4_personsurfing'],
+    keywords: ['person surfing', 'surfing'],
+    mappedToEmoticons: ['1f3c4_personsurfing'],
     skinTone: FluentEmojiSkinTone.mediumDark,
   );
 
@@ -14880,6 +20450,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'person surfing',
     glyph: '🏄🏿',
     svgPath: 'assets/person_surfing_color_dark.svg',
+    tts: 'person surfing',
+    fromVersion: '0.6',
+    glyphAsUtfInEmoticons: ['1f3c4_personsurfing'],
+    keywords: ['person surfing', 'surfing'],
+    mappedToEmoticons: ['1f3c4_personsurfing'],
     skinTone: FluentEmojiSkinTone.dark,
   );
 
@@ -14896,6 +20471,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'person swimming',
     glyph: '🏊',
     svgPath: 'assets/person_swimming_color_default.svg',
+    tts: 'person swimming',
+    fromVersion: '0.6',
+    glyphAsUtfInEmoticons: ['swimmer'],
+    keywords: ['person swimming', 'swim'],
+    mappedToEmoticons: ['personswimming'],
     skinToneLight: _personSwimmingLight,
     skinToneMediumLight: _personSwimmingMediumLight,
     skinToneMedium: _personSwimmingMedium,
@@ -14910,6 +20490,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'person swimming',
     glyph: '🏊🏻',
     svgPath: 'assets/person_swimming_color_light.svg',
+    tts: 'person swimming',
+    fromVersion: '0.6',
+    glyphAsUtfInEmoticons: ['swimmer'],
+    keywords: ['person swimming', 'swim'],
+    mappedToEmoticons: ['personswimming'],
     skinTone: FluentEmojiSkinTone.light,
   );
 
@@ -14920,6 +20505,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'person swimming',
     glyph: '🏊🏼',
     svgPath: 'assets/person_swimming_color_medium-light.svg',
+    tts: 'person swimming',
+    fromVersion: '0.6',
+    glyphAsUtfInEmoticons: ['swimmer'],
+    keywords: ['person swimming', 'swim'],
+    mappedToEmoticons: ['personswimming'],
     skinTone: FluentEmojiSkinTone.mediumLight,
   );
 
@@ -14930,6 +20520,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'person swimming',
     glyph: '🏊🏽',
     svgPath: 'assets/person_swimming_color_medium.svg',
+    tts: 'person swimming',
+    fromVersion: '0.6',
+    glyphAsUtfInEmoticons: ['swimmer'],
+    keywords: ['person swimming', 'swim'],
+    mappedToEmoticons: ['personswimming'],
     skinTone: FluentEmojiSkinTone.medium,
   );
 
@@ -14940,6 +20535,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'person swimming',
     glyph: '🏊🏾',
     svgPath: 'assets/person_swimming_color_medium-dark.svg',
+    tts: 'person swimming',
+    fromVersion: '0.6',
+    glyphAsUtfInEmoticons: ['swimmer'],
+    keywords: ['person swimming', 'swim'],
+    mappedToEmoticons: ['personswimming'],
     skinTone: FluentEmojiSkinTone.mediumDark,
   );
 
@@ -14950,6 +20550,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'person swimming',
     glyph: '🏊🏿',
     svgPath: 'assets/person_swimming_color_dark.svg',
+    tts: 'person swimming',
+    fromVersion: '0.6',
+    glyphAsUtfInEmoticons: ['swimmer'],
+    keywords: ['person swimming', 'swim'],
+    mappedToEmoticons: ['personswimming'],
     skinTone: FluentEmojiSkinTone.dark,
   );
 
@@ -14966,6 +20571,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'person taking bath',
     glyph: '🛀',
     svgPath: 'assets/person_taking_bath_color_default.svg',
+    tts: 'person taking bath',
+    fromVersion: '0.6',
+    glyphAsUtfInEmoticons: ['womanbath'],
+    keywords: ['bath', 'bathtub', 'person taking bath'],
+    mappedToEmoticons: ['womanbath'],
     skinToneLight: _personTakingBathLight,
     skinToneMediumLight: _personTakingBathMediumLight,
     skinToneMedium: _personTakingBathMedium,
@@ -14980,6 +20590,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'person taking bath',
     glyph: '🛀🏻',
     svgPath: 'assets/person_taking_bath_color_light.svg',
+    tts: 'person taking bath',
+    fromVersion: '0.6',
+    glyphAsUtfInEmoticons: ['womanbath'],
+    keywords: ['bath', 'bathtub', 'person taking bath'],
+    mappedToEmoticons: ['womanbath'],
     skinTone: FluentEmojiSkinTone.light,
   );
 
@@ -14990,6 +20605,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'person taking bath',
     glyph: '🛀🏼',
     svgPath: 'assets/person_taking_bath_color_medium-light.svg',
+    tts: 'person taking bath',
+    fromVersion: '0.6',
+    glyphAsUtfInEmoticons: ['womanbath'],
+    keywords: ['bath', 'bathtub', 'person taking bath'],
+    mappedToEmoticons: ['womanbath'],
     skinTone: FluentEmojiSkinTone.mediumLight,
   );
 
@@ -15000,6 +20620,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'person taking bath',
     glyph: '🛀🏽',
     svgPath: 'assets/person_taking_bath_color_medium.svg',
+    tts: 'person taking bath',
+    fromVersion: '0.6',
+    glyphAsUtfInEmoticons: ['womanbath'],
+    keywords: ['bath', 'bathtub', 'person taking bath'],
+    mappedToEmoticons: ['womanbath'],
     skinTone: FluentEmojiSkinTone.medium,
   );
 
@@ -15010,6 +20635,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'person taking bath',
     glyph: '🛀🏾',
     svgPath: 'assets/person_taking_bath_color_medium-dark.svg',
+    tts: 'person taking bath',
+    fromVersion: '0.6',
+    glyphAsUtfInEmoticons: ['womanbath'],
+    keywords: ['bath', 'bathtub', 'person taking bath'],
+    mappedToEmoticons: ['womanbath'],
     skinTone: FluentEmojiSkinTone.mediumDark,
   );
 
@@ -15020,6 +20650,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'person taking bath',
     glyph: '🛀🏿',
     svgPath: 'assets/person_taking_bath_color_dark.svg',
+    tts: 'person taking bath',
+    fromVersion: '0.6',
+    glyphAsUtfInEmoticons: ['womanbath'],
+    keywords: ['bath', 'bathtub', 'person taking bath'],
+    mappedToEmoticons: ['womanbath'],
     skinTone: FluentEmojiSkinTone.dark,
   );
 
@@ -15036,6 +20671,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'person tipping hand',
     glyph: '💁',
     svgPath: 'assets/person_tipping_hand_color_default.svg',
+    tts: 'person tipping hand',
+    fromVersion: '0.6',
+    glyphAsUtfInEmoticons: ['person_tipping_hand'],
+    keywords: ['hand', 'help', 'information', 'person tipping hand', 'sassy', 'tipping'],
+    mappedToEmoticons: ['person_tipping_hand'],
     skinToneLight: _personTippingHandLight,
     skinToneMediumLight: _personTippingHandMediumLight,
     skinToneMedium: _personTippingHandMedium,
@@ -15050,6 +20690,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'person tipping hand',
     glyph: '💁🏻',
     svgPath: 'assets/person_tipping_hand_color_light.svg',
+    tts: 'person tipping hand',
+    fromVersion: '0.6',
+    glyphAsUtfInEmoticons: ['person_tipping_hand'],
+    keywords: ['hand', 'help', 'information', 'person tipping hand', 'sassy', 'tipping'],
+    mappedToEmoticons: ['person_tipping_hand'],
     skinTone: FluentEmojiSkinTone.light,
   );
 
@@ -15060,6 +20705,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'person tipping hand',
     glyph: '💁🏼',
     svgPath: 'assets/person_tipping_hand_color_medium-light.svg',
+    tts: 'person tipping hand',
+    fromVersion: '0.6',
+    glyphAsUtfInEmoticons: ['person_tipping_hand'],
+    keywords: ['hand', 'help', 'information', 'person tipping hand', 'sassy', 'tipping'],
+    mappedToEmoticons: ['person_tipping_hand'],
     skinTone: FluentEmojiSkinTone.mediumLight,
   );
 
@@ -15070,6 +20720,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'person tipping hand',
     glyph: '💁🏽',
     svgPath: 'assets/person_tipping_hand_color_medium.svg',
+    tts: 'person tipping hand',
+    fromVersion: '0.6',
+    glyphAsUtfInEmoticons: ['person_tipping_hand'],
+    keywords: ['hand', 'help', 'information', 'person tipping hand', 'sassy', 'tipping'],
+    mappedToEmoticons: ['person_tipping_hand'],
     skinTone: FluentEmojiSkinTone.medium,
   );
 
@@ -15080,6 +20735,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'person tipping hand',
     glyph: '💁🏾',
     svgPath: 'assets/person_tipping_hand_color_medium-dark.svg',
+    tts: 'person tipping hand',
+    fromVersion: '0.6',
+    glyphAsUtfInEmoticons: ['person_tipping_hand'],
+    keywords: ['hand', 'help', 'information', 'person tipping hand', 'sassy', 'tipping'],
+    mappedToEmoticons: ['person_tipping_hand'],
     skinTone: FluentEmojiSkinTone.mediumDark,
   );
 
@@ -15090,6 +20750,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'person tipping hand',
     glyph: '💁🏿',
     svgPath: 'assets/person_tipping_hand_color_dark.svg',
+    tts: 'person tipping hand',
+    fromVersion: '0.6',
+    glyphAsUtfInEmoticons: ['person_tipping_hand'],
+    keywords: ['hand', 'help', 'information', 'person tipping hand', 'sassy', 'tipping'],
+    mappedToEmoticons: ['person_tipping_hand'],
     skinTone: FluentEmojiSkinTone.dark,
   );
 
@@ -15106,6 +20771,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'person walking',
     glyph: '🚶',
     svgPath: 'assets/person_walking_color_default.svg',
+    tts: 'person walking',
+    fromVersion: '0.6',
+    glyphAsUtfInEmoticons: ['pedestrian'],
+    keywords: ['hike', 'person walking', 'walk', 'walking'],
+    mappedToEmoticons: ['pedestrian'],
     skinToneLight: _personWalkingLight,
     skinToneMediumLight: _personWalkingMediumLight,
     skinToneMedium: _personWalkingMedium,
@@ -15120,6 +20790,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'person walking',
     glyph: '🚶🏻',
     svgPath: 'assets/person_walking_color_light.svg',
+    tts: 'person walking',
+    fromVersion: '0.6',
+    glyphAsUtfInEmoticons: ['pedestrian'],
+    keywords: ['hike', 'person walking', 'walk', 'walking'],
+    mappedToEmoticons: ['pedestrian'],
     skinTone: FluentEmojiSkinTone.light,
   );
 
@@ -15130,6 +20805,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'person walking',
     glyph: '🚶🏼',
     svgPath: 'assets/person_walking_color_medium-light.svg',
+    tts: 'person walking',
+    fromVersion: '0.6',
+    glyphAsUtfInEmoticons: ['pedestrian'],
+    keywords: ['hike', 'person walking', 'walk', 'walking'],
+    mappedToEmoticons: ['pedestrian'],
     skinTone: FluentEmojiSkinTone.mediumLight,
   );
 
@@ -15140,6 +20820,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'person walking',
     glyph: '🚶🏽',
     svgPath: 'assets/person_walking_color_medium.svg',
+    tts: 'person walking',
+    fromVersion: '0.6',
+    glyphAsUtfInEmoticons: ['pedestrian'],
+    keywords: ['hike', 'person walking', 'walk', 'walking'],
+    mappedToEmoticons: ['pedestrian'],
     skinTone: FluentEmojiSkinTone.medium,
   );
 
@@ -15150,6 +20835,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'person walking',
     glyph: '🚶🏾',
     svgPath: 'assets/person_walking_color_medium-dark.svg',
+    tts: 'person walking',
+    fromVersion: '0.6',
+    glyphAsUtfInEmoticons: ['pedestrian'],
+    keywords: ['hike', 'person walking', 'walk', 'walking'],
+    mappedToEmoticons: ['pedestrian'],
     skinTone: FluentEmojiSkinTone.mediumDark,
   );
 
@@ -15160,6 +20850,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'person walking',
     glyph: '🚶🏿',
     svgPath: 'assets/person_walking_color_dark.svg',
+    tts: 'person walking',
+    fromVersion: '0.6',
+    glyphAsUtfInEmoticons: ['pedestrian'],
+    keywords: ['hike', 'person walking', 'walk', 'walking'],
+    mappedToEmoticons: ['pedestrian'],
     skinTone: FluentEmojiSkinTone.dark,
   );
 
@@ -15176,6 +20871,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'person walking facing right',
     glyph: '🚶‍➡️',
     svgPath: 'assets/person_walking_facing_right_color_default.svg',
+    tts: '',
+    fromVersion: '15.1',
+    glyphAsUtfInEmoticons: [],
+    keywords: ['hike', 'person walking', 'walk', 'walking'],
+    mappedToEmoticons: [],
     skinToneLight: _personWalkingFacingRightLight,
     skinToneMediumLight: _personWalkingFacingRightMediumLight,
     skinToneMedium: _personWalkingFacingRightMedium,
@@ -15190,6 +20890,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'person walking facing right',
     glyph: '🚶🏻‍➡️',
     svgPath: 'assets/person_walking_facing_right_color_light.svg',
+    tts: '',
+    fromVersion: '15.1',
+    glyphAsUtfInEmoticons: [],
+    keywords: ['hike', 'person walking', 'walk', 'walking'],
+    mappedToEmoticons: [],
     skinTone: FluentEmojiSkinTone.light,
   );
 
@@ -15200,6 +20905,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'person walking facing right',
     glyph: '🚶🏼‍➡️',
     svgPath: 'assets/person_walking_facing_right_color_medium-light.svg',
+    tts: '',
+    fromVersion: '15.1',
+    glyphAsUtfInEmoticons: [],
+    keywords: ['hike', 'person walking', 'walk', 'walking'],
+    mappedToEmoticons: [],
     skinTone: FluentEmojiSkinTone.mediumLight,
   );
 
@@ -15210,6 +20920,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'person walking facing right',
     glyph: '🚶🏽‍➡️',
     svgPath: 'assets/person_walking_facing_right_color_medium.svg',
+    tts: '',
+    fromVersion: '15.1',
+    glyphAsUtfInEmoticons: [],
+    keywords: ['hike', 'person walking', 'walk', 'walking'],
+    mappedToEmoticons: [],
     skinTone: FluentEmojiSkinTone.medium,
   );
 
@@ -15220,6 +20935,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'person walking facing right',
     glyph: '🚶🏾‍➡️',
     svgPath: 'assets/person_walking_facing_right_color_medium-dark.svg',
+    tts: '',
+    fromVersion: '15.1',
+    glyphAsUtfInEmoticons: [],
+    keywords: ['hike', 'person walking', 'walk', 'walking'],
+    mappedToEmoticons: [],
     skinTone: FluentEmojiSkinTone.mediumDark,
   );
 
@@ -15230,6 +20950,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'person walking facing right',
     glyph: '🚶🏿‍➡️',
     svgPath: 'assets/person_walking_facing_right_color_dark.svg',
+    tts: '',
+    fromVersion: '15.1',
+    glyphAsUtfInEmoticons: [],
+    keywords: ['hike', 'person walking', 'walk', 'walking'],
+    mappedToEmoticons: [],
     skinTone: FluentEmojiSkinTone.dark,
   );
 
@@ -15246,6 +20971,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'person wearing turban',
     glyph: '👳',
     svgPath: 'assets/person_wearing_turban_color_default.svg',
+    tts: 'person wearing turban',
+    fromVersion: '0.6',
+    glyphAsUtfInEmoticons: ['1f473_personwearingturban'],
+    keywords: ['person wearing turban', 'turban'],
+    mappedToEmoticons: ['1f473_personwearingturban'],
     skinToneLight: _personWearingTurbanLight,
     skinToneMediumLight: _personWearingTurbanMediumLight,
     skinToneMedium: _personWearingTurbanMedium,
@@ -15260,6 +20990,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'person wearing turban',
     glyph: '👳🏻',
     svgPath: 'assets/person_wearing_turban_color_light.svg',
+    tts: 'person wearing turban',
+    fromVersion: '0.6',
+    glyphAsUtfInEmoticons: ['1f473_personwearingturban'],
+    keywords: ['person wearing turban', 'turban'],
+    mappedToEmoticons: ['1f473_personwearingturban'],
     skinTone: FluentEmojiSkinTone.light,
   );
 
@@ -15270,6 +21005,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'person wearing turban',
     glyph: '👳🏼',
     svgPath: 'assets/person_wearing_turban_color_medium-light.svg',
+    tts: 'person wearing turban',
+    fromVersion: '0.6',
+    glyphAsUtfInEmoticons: ['1f473_personwearingturban'],
+    keywords: ['person wearing turban', 'turban'],
+    mappedToEmoticons: ['1f473_personwearingturban'],
     skinTone: FluentEmojiSkinTone.mediumLight,
   );
 
@@ -15280,6 +21020,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'person wearing turban',
     glyph: '👳🏽',
     svgPath: 'assets/person_wearing_turban_color_medium.svg',
+    tts: 'person wearing turban',
+    fromVersion: '0.6',
+    glyphAsUtfInEmoticons: ['1f473_personwearingturban'],
+    keywords: ['person wearing turban', 'turban'],
+    mappedToEmoticons: ['1f473_personwearingturban'],
     skinTone: FluentEmojiSkinTone.medium,
   );
 
@@ -15290,6 +21035,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'person wearing turban',
     glyph: '👳🏾',
     svgPath: 'assets/person_wearing_turban_color_medium-dark.svg',
+    tts: 'person wearing turban',
+    fromVersion: '0.6',
+    glyphAsUtfInEmoticons: ['1f473_personwearingturban'],
+    keywords: ['person wearing turban', 'turban'],
+    mappedToEmoticons: ['1f473_personwearingturban'],
     skinTone: FluentEmojiSkinTone.mediumDark,
   );
 
@@ -15300,6 +21050,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'person wearing turban',
     glyph: '👳🏿',
     svgPath: 'assets/person_wearing_turban_color_dark.svg',
+    tts: 'person wearing turban',
+    fromVersion: '0.6',
+    glyphAsUtfInEmoticons: ['1f473_personwearingturban'],
+    keywords: ['person wearing turban', 'turban'],
+    mappedToEmoticons: ['1f473_personwearingturban'],
     skinTone: FluentEmojiSkinTone.dark,
   );
 
@@ -15316,6 +21071,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'person with crown',
     glyph: '🫅',
     svgPath: 'assets/person_with_crown_color_default.svg',
+    tts: 'person with crown',
+    fromVersion: '14.0',
+    glyphAsUtfInEmoticons: null,
+    keywords: ['monarch', 'noble', 'person with crown', 'regal', 'royalty'],
+    mappedToEmoticons: null,
     skinToneLight: _personWithCrownLight,
     skinToneMediumLight: _personWithCrownMediumLight,
     skinToneMedium: _personWithCrownMedium,
@@ -15330,6 +21090,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'person with crown',
     glyph: '🫅🏻',
     svgPath: 'assets/person_with_crown_color_light.svg',
+    tts: 'person with crown',
+    fromVersion: '14.0',
+    glyphAsUtfInEmoticons: null,
+    keywords: ['monarch', 'noble', 'person with crown', 'regal', 'royalty'],
+    mappedToEmoticons: null,
     skinTone: FluentEmojiSkinTone.light,
   );
 
@@ -15340,6 +21105,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'person with crown',
     glyph: '🫅🏼',
     svgPath: 'assets/person_with_crown_color_medium-light.svg',
+    tts: 'person with crown',
+    fromVersion: '14.0',
+    glyphAsUtfInEmoticons: null,
+    keywords: ['monarch', 'noble', 'person with crown', 'regal', 'royalty'],
+    mappedToEmoticons: null,
     skinTone: FluentEmojiSkinTone.mediumLight,
   );
 
@@ -15350,6 +21120,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'person with crown',
     glyph: '🫅🏽',
     svgPath: 'assets/person_with_crown_color_medium.svg',
+    tts: 'person with crown',
+    fromVersion: '14.0',
+    glyphAsUtfInEmoticons: null,
+    keywords: ['monarch', 'noble', 'person with crown', 'regal', 'royalty'],
+    mappedToEmoticons: null,
     skinTone: FluentEmojiSkinTone.medium,
   );
 
@@ -15360,6 +21135,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'person with crown',
     glyph: '🫅🏾',
     svgPath: 'assets/person_with_crown_color_medium-dark.svg',
+    tts: 'person with crown',
+    fromVersion: '14.0',
+    glyphAsUtfInEmoticons: null,
+    keywords: ['monarch', 'noble', 'person with crown', 'regal', 'royalty'],
+    mappedToEmoticons: null,
     skinTone: FluentEmojiSkinTone.mediumDark,
   );
 
@@ -15370,6 +21150,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'person with crown',
     glyph: '🫅🏿',
     svgPath: 'assets/person_with_crown_color_dark.svg',
+    tts: 'person with crown',
+    fromVersion: '14.0',
+    glyphAsUtfInEmoticons: null,
+    keywords: ['monarch', 'noble', 'person with crown', 'regal', 'royalty'],
+    mappedToEmoticons: null,
     skinTone: FluentEmojiSkinTone.dark,
   );
 
@@ -15386,6 +21171,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'person with skullcap',
     glyph: '👲',
     svgPath: 'assets/person_with_skullcap_color_default.svg',
+    tts: 'person with skullcap',
+    fromVersion: '0.6',
+    glyphAsUtfInEmoticons: ['man_with_chinese_cap'],
+    keywords: ['cap', 'gua pi mao', 'hat', 'person', 'person with skullcap', 'skullcap'],
+    mappedToEmoticons: ['man_with_chinese_cap'],
     skinToneLight: _personWithSkullcapLight,
     skinToneMediumLight: _personWithSkullcapMediumLight,
     skinToneMedium: _personWithSkullcapMedium,
@@ -15400,6 +21190,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'person with skullcap',
     glyph: '👲🏻',
     svgPath: 'assets/person_with_skullcap_color_light.svg',
+    tts: 'person with skullcap',
+    fromVersion: '0.6',
+    glyphAsUtfInEmoticons: ['man_with_chinese_cap'],
+    keywords: ['cap', 'gua pi mao', 'hat', 'person', 'person with skullcap', 'skullcap'],
+    mappedToEmoticons: ['man_with_chinese_cap'],
     skinTone: FluentEmojiSkinTone.light,
   );
 
@@ -15410,6 +21205,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'person with skullcap',
     glyph: '👲🏼',
     svgPath: 'assets/person_with_skullcap_color_medium-light.svg',
+    tts: 'person with skullcap',
+    fromVersion: '0.6',
+    glyphAsUtfInEmoticons: ['man_with_chinese_cap'],
+    keywords: ['cap', 'gua pi mao', 'hat', 'person', 'person with skullcap', 'skullcap'],
+    mappedToEmoticons: ['man_with_chinese_cap'],
     skinTone: FluentEmojiSkinTone.mediumLight,
   );
 
@@ -15420,6 +21220,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'person with skullcap',
     glyph: '👲🏽',
     svgPath: 'assets/person_with_skullcap_color_medium.svg',
+    tts: 'person with skullcap',
+    fromVersion: '0.6',
+    glyphAsUtfInEmoticons: ['man_with_chinese_cap'],
+    keywords: ['cap', 'gua pi mao', 'hat', 'person', 'person with skullcap', 'skullcap'],
+    mappedToEmoticons: ['man_with_chinese_cap'],
     skinTone: FluentEmojiSkinTone.medium,
   );
 
@@ -15430,6 +21235,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'person with skullcap',
     glyph: '👲🏾',
     svgPath: 'assets/person_with_skullcap_color_medium-dark.svg',
+    tts: 'person with skullcap',
+    fromVersion: '0.6',
+    glyphAsUtfInEmoticons: ['man_with_chinese_cap'],
+    keywords: ['cap', 'gua pi mao', 'hat', 'person', 'person with skullcap', 'skullcap'],
+    mappedToEmoticons: ['man_with_chinese_cap'],
     skinTone: FluentEmojiSkinTone.mediumDark,
   );
 
@@ -15440,6 +21250,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'person with skullcap',
     glyph: '👲🏿',
     svgPath: 'assets/person_with_skullcap_color_dark.svg',
+    tts: 'person with skullcap',
+    fromVersion: '0.6',
+    glyphAsUtfInEmoticons: ['man_with_chinese_cap'],
+    keywords: ['cap', 'gua pi mao', 'hat', 'person', 'person with skullcap', 'skullcap'],
+    mappedToEmoticons: ['man_with_chinese_cap'],
     skinTone: FluentEmojiSkinTone.dark,
   );
 
@@ -15456,6 +21271,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'person with veil',
     glyph: '👰',
     svgPath: 'assets/person_with_veil_color_default.svg',
+    tts: 'person with veil',
+    fromVersion: '0.6',
+    glyphAsUtfInEmoticons: ['bride_with_veil', 'personwithveil'],
+    keywords: ['bride', 'person', 'person with veil', 'veil', 'wedding'],
+    mappedToEmoticons: ['personwithveil'],
     skinToneLight: _personWithVeilLight,
     skinToneMediumLight: _personWithVeilMediumLight,
     skinToneMedium: _personWithVeilMedium,
@@ -15470,6 +21290,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'person with veil',
     glyph: '👰🏻',
     svgPath: 'assets/person_with_veil_color_light.svg',
+    tts: 'person with veil',
+    fromVersion: '0.6',
+    glyphAsUtfInEmoticons: ['bride_with_veil', 'personwithveil'],
+    keywords: ['bride', 'person', 'person with veil', 'veil', 'wedding'],
+    mappedToEmoticons: ['personwithveil'],
     skinTone: FluentEmojiSkinTone.light,
   );
 
@@ -15480,6 +21305,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'person with veil',
     glyph: '👰🏼',
     svgPath: 'assets/person_with_veil_color_medium-light.svg',
+    tts: 'person with veil',
+    fromVersion: '0.6',
+    glyphAsUtfInEmoticons: ['bride_with_veil', 'personwithveil'],
+    keywords: ['bride', 'person', 'person with veil', 'veil', 'wedding'],
+    mappedToEmoticons: ['personwithveil'],
     skinTone: FluentEmojiSkinTone.mediumLight,
   );
 
@@ -15490,6 +21320,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'person with veil',
     glyph: '👰🏽',
     svgPath: 'assets/person_with_veil_color_medium.svg',
+    tts: 'person with veil',
+    fromVersion: '0.6',
+    glyphAsUtfInEmoticons: ['bride_with_veil', 'personwithveil'],
+    keywords: ['bride', 'person', 'person with veil', 'veil', 'wedding'],
+    mappedToEmoticons: ['personwithveil'],
     skinTone: FluentEmojiSkinTone.medium,
   );
 
@@ -15500,6 +21335,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'person with veil',
     glyph: '👰🏾',
     svgPath: 'assets/person_with_veil_color_medium-dark.svg',
+    tts: 'person with veil',
+    fromVersion: '0.6',
+    glyphAsUtfInEmoticons: ['bride_with_veil', 'personwithveil'],
+    keywords: ['bride', 'person', 'person with veil', 'veil', 'wedding'],
+    mappedToEmoticons: ['personwithveil'],
     skinTone: FluentEmojiSkinTone.mediumDark,
   );
 
@@ -15510,6 +21350,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'person with veil',
     glyph: '👰🏿',
     svgPath: 'assets/person_with_veil_color_dark.svg',
+    tts: 'person with veil',
+    fromVersion: '0.6',
+    glyphAsUtfInEmoticons: ['bride_with_veil', 'personwithveil'],
+    keywords: ['bride', 'person', 'person with veil', 'veil', 'wedding'],
+    mappedToEmoticons: ['personwithveil'],
     skinTone: FluentEmojiSkinTone.dark,
   );
 
@@ -15526,6 +21371,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'person with white cane',
     glyph: '🧑‍🦯',
     svgPath: 'assets/person_with_white_cane_color_default.svg',
+    tts: 'person with white cane',
+    fromVersion: '12.1',
+    glyphAsUtfInEmoticons: ['personwithprobingcane'],
+    keywords: ['accessibility', 'blind', 'person with white cane'],
+    mappedToEmoticons: ['personwithprobingcane'],
     skinToneLight: _personWithWhiteCaneLight,
     skinToneMediumLight: _personWithWhiteCaneMediumLight,
     skinToneMedium: _personWithWhiteCaneMedium,
@@ -15540,6 +21390,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'person with white cane',
     glyph: '🧑🏻‍🦯',
     svgPath: 'assets/person_with_white_cane_color_light.svg',
+    tts: 'person with white cane',
+    fromVersion: '12.1',
+    glyphAsUtfInEmoticons: ['personwithprobingcane'],
+    keywords: ['accessibility', 'blind', 'person with white cane'],
+    mappedToEmoticons: ['personwithprobingcane'],
     skinTone: FluentEmojiSkinTone.light,
   );
 
@@ -15550,6 +21405,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'person with white cane',
     glyph: '🧑🏼‍🦯',
     svgPath: 'assets/person_with_white_cane_color_medium-light.svg',
+    tts: 'person with white cane',
+    fromVersion: '12.1',
+    glyphAsUtfInEmoticons: ['personwithprobingcane'],
+    keywords: ['accessibility', 'blind', 'person with white cane'],
+    mappedToEmoticons: ['personwithprobingcane'],
     skinTone: FluentEmojiSkinTone.mediumLight,
   );
 
@@ -15560,6 +21420,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'person with white cane',
     glyph: '🧑🏽‍🦯',
     svgPath: 'assets/person_with_white_cane_color_medium.svg',
+    tts: 'person with white cane',
+    fromVersion: '12.1',
+    glyphAsUtfInEmoticons: ['personwithprobingcane'],
+    keywords: ['accessibility', 'blind', 'person with white cane'],
+    mappedToEmoticons: ['personwithprobingcane'],
     skinTone: FluentEmojiSkinTone.medium,
   );
 
@@ -15570,6 +21435,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'person with white cane',
     glyph: '🧑🏾‍🦯',
     svgPath: 'assets/person_with_white_cane_color_medium-dark.svg',
+    tts: 'person with white cane',
+    fromVersion: '12.1',
+    glyphAsUtfInEmoticons: ['personwithprobingcane'],
+    keywords: ['accessibility', 'blind', 'person with white cane'],
+    mappedToEmoticons: ['personwithprobingcane'],
     skinTone: FluentEmojiSkinTone.mediumDark,
   );
 
@@ -15580,6 +21450,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'person with white cane',
     glyph: '🧑🏿‍🦯',
     svgPath: 'assets/person_with_white_cane_color_dark.svg',
+    tts: 'person with white cane',
+    fromVersion: '12.1',
+    glyphAsUtfInEmoticons: ['personwithprobingcane'],
+    keywords: ['accessibility', 'blind', 'person with white cane'],
+    mappedToEmoticons: ['personwithprobingcane'],
     skinTone: FluentEmojiSkinTone.dark,
   );
 
@@ -15596,6 +21471,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'person with white cane facing right',
     glyph: '🧑‍🦯‍➡️',
     svgPath: 'assets/person_with_white_cane_facing_right_color_default.svg',
+    tts: '',
+    fromVersion: '15.1',
+    glyphAsUtfInEmoticons: [],
+    keywords: ['accessibility', 'blind', 'person with white cane'],
+    mappedToEmoticons: [],
     skinToneLight: _personWithWhiteCaneFacingRightLight,
     skinToneMediumLight: _personWithWhiteCaneFacingRightMediumLight,
     skinToneMedium: _personWithWhiteCaneFacingRightMedium,
@@ -15610,6 +21490,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'person with white cane facing right',
     glyph: '🧑🏻‍🦯‍➡️',
     svgPath: 'assets/person_with_white_cane_facing_right_color_light.svg',
+    tts: '',
+    fromVersion: '15.1',
+    glyphAsUtfInEmoticons: [],
+    keywords: ['accessibility', 'blind', 'person with white cane'],
+    mappedToEmoticons: [],
     skinTone: FluentEmojiSkinTone.light,
   );
 
@@ -15620,6 +21505,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'person with white cane facing right',
     glyph: '🧑🏼‍🦯‍➡️',
     svgPath: 'assets/person_with_white_cane_facing_right_color_medium-light.svg',
+    tts: '',
+    fromVersion: '15.1',
+    glyphAsUtfInEmoticons: [],
+    keywords: ['accessibility', 'blind', 'person with white cane'],
+    mappedToEmoticons: [],
     skinTone: FluentEmojiSkinTone.mediumLight,
   );
 
@@ -15630,6 +21520,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'person with white cane facing right',
     glyph: '🧑🏽‍🦯‍➡️',
     svgPath: 'assets/person_with_white_cane_facing_right_color_medium.svg',
+    tts: '',
+    fromVersion: '15.1',
+    glyphAsUtfInEmoticons: [],
+    keywords: ['accessibility', 'blind', 'person with white cane'],
+    mappedToEmoticons: [],
     skinTone: FluentEmojiSkinTone.medium,
   );
 
@@ -15640,6 +21535,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'person with white cane facing right',
     glyph: '🧑🏾‍🦯‍➡️',
     svgPath: 'assets/person_with_white_cane_facing_right_color_medium-dark.svg',
+    tts: '',
+    fromVersion: '15.1',
+    glyphAsUtfInEmoticons: [],
+    keywords: ['accessibility', 'blind', 'person with white cane'],
+    mappedToEmoticons: [],
     skinTone: FluentEmojiSkinTone.mediumDark,
   );
 
@@ -15650,6 +21550,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'person with white cane facing right',
     glyph: '🧑🏿‍🦯‍➡️',
     svgPath: 'assets/person_with_white_cane_facing_right_color_dark.svg',
+    tts: '',
+    fromVersion: '15.1',
+    glyphAsUtfInEmoticons: [],
+    keywords: ['accessibility', 'blind', 'person with white cane'],
+    mappedToEmoticons: [],
     skinTone: FluentEmojiSkinTone.dark,
   );
 
@@ -15666,6 +21571,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'person: bald',
     glyph: '🧑‍🦲',
     svgPath: 'assets/person_bald_color_default.svg',
+    tts: 'person: bald',
+    fromVersion: '12.1',
+    glyphAsUtfInEmoticons: null,
+    keywords: ['adult', 'bald', 'gender-neutral', 'person', 'unspecified gender'],
+    mappedToEmoticons: ['1f9b2_bald'],
     skinToneLight: _personBaldLight,
     skinToneMediumLight: _personBaldMediumLight,
     skinToneMedium: _personBaldMedium,
@@ -15680,6 +21590,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'person: bald',
     glyph: '🧑🏻‍🦲',
     svgPath: 'assets/person_bald_color_light.svg',
+    tts: 'person: bald',
+    fromVersion: '12.1',
+    glyphAsUtfInEmoticons: null,
+    keywords: ['adult', 'bald', 'gender-neutral', 'person', 'unspecified gender'],
+    mappedToEmoticons: ['1f9b2_bald'],
     skinTone: FluentEmojiSkinTone.light,
   );
 
@@ -15690,6 +21605,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'person: bald',
     glyph: '🧑🏼‍🦲',
     svgPath: 'assets/person_bald_color_medium-light.svg',
+    tts: 'person: bald',
+    fromVersion: '12.1',
+    glyphAsUtfInEmoticons: null,
+    keywords: ['adult', 'bald', 'gender-neutral', 'person', 'unspecified gender'],
+    mappedToEmoticons: ['1f9b2_bald'],
     skinTone: FluentEmojiSkinTone.mediumLight,
   );
 
@@ -15700,6 +21620,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'person: bald',
     glyph: '🧑🏽‍🦲',
     svgPath: 'assets/person_bald_color_medium.svg',
+    tts: 'person: bald',
+    fromVersion: '12.1',
+    glyphAsUtfInEmoticons: null,
+    keywords: ['adult', 'bald', 'gender-neutral', 'person', 'unspecified gender'],
+    mappedToEmoticons: ['1f9b2_bald'],
     skinTone: FluentEmojiSkinTone.medium,
   );
 
@@ -15710,6 +21635,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'person: bald',
     glyph: '🧑🏾‍🦲',
     svgPath: 'assets/person_bald_color_medium-dark.svg',
+    tts: 'person: bald',
+    fromVersion: '12.1',
+    glyphAsUtfInEmoticons: null,
+    keywords: ['adult', 'bald', 'gender-neutral', 'person', 'unspecified gender'],
+    mappedToEmoticons: ['1f9b2_bald'],
     skinTone: FluentEmojiSkinTone.mediumDark,
   );
 
@@ -15720,6 +21650,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'person: bald',
     glyph: '🧑🏿‍🦲',
     svgPath: 'assets/person_bald_color_dark.svg',
+    tts: 'person: bald',
+    fromVersion: '12.1',
+    glyphAsUtfInEmoticons: null,
+    keywords: ['adult', 'bald', 'gender-neutral', 'person', 'unspecified gender'],
+    mappedToEmoticons: ['1f9b2_bald'],
     skinTone: FluentEmojiSkinTone.dark,
   );
 
@@ -15736,6 +21671,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'person: beard',
     glyph: '🧔',
     svgPath: 'assets/person_beard_color_default.svg',
+    tts: 'person: beard',
+    fromVersion: '5.0',
+    glyphAsUtfInEmoticons: ['1f9d4_beardedperson'],
+    keywords: ['beard', 'person', 'person: beard'],
+    mappedToEmoticons: ['1f9d4_beardedperson'],
     skinToneLight: _personBeardLight,
     skinToneMediumLight: _personBeardMediumLight,
     skinToneMedium: _personBeardMedium,
@@ -15750,6 +21690,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'person: beard',
     glyph: '🧔🏻',
     svgPath: 'assets/person_beard_color_light.svg',
+    tts: 'person: beard',
+    fromVersion: '5.0',
+    glyphAsUtfInEmoticons: ['1f9d4_beardedperson'],
+    keywords: ['beard', 'person', 'person: beard'],
+    mappedToEmoticons: ['1f9d4_beardedperson'],
     skinTone: FluentEmojiSkinTone.light,
   );
 
@@ -15760,6 +21705,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'person: beard',
     glyph: '🧔🏼',
     svgPath: 'assets/person_beard_color_medium-light.svg',
+    tts: 'person: beard',
+    fromVersion: '5.0',
+    glyphAsUtfInEmoticons: ['1f9d4_beardedperson'],
+    keywords: ['beard', 'person', 'person: beard'],
+    mappedToEmoticons: ['1f9d4_beardedperson'],
     skinTone: FluentEmojiSkinTone.mediumLight,
   );
 
@@ -15770,6 +21720,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'person: beard',
     glyph: '🧔🏽',
     svgPath: 'assets/person_beard_color_medium.svg',
+    tts: 'person: beard',
+    fromVersion: '5.0',
+    glyphAsUtfInEmoticons: ['1f9d4_beardedperson'],
+    keywords: ['beard', 'person', 'person: beard'],
+    mappedToEmoticons: ['1f9d4_beardedperson'],
     skinTone: FluentEmojiSkinTone.medium,
   );
 
@@ -15780,6 +21735,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'person: beard',
     glyph: '🧔🏾',
     svgPath: 'assets/person_beard_color_medium-dark.svg',
+    tts: 'person: beard',
+    fromVersion: '5.0',
+    glyphAsUtfInEmoticons: ['1f9d4_beardedperson'],
+    keywords: ['beard', 'person', 'person: beard'],
+    mappedToEmoticons: ['1f9d4_beardedperson'],
     skinTone: FluentEmojiSkinTone.mediumDark,
   );
 
@@ -15790,6 +21750,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'person: beard',
     glyph: '🧔🏿',
     svgPath: 'assets/person_beard_color_dark.svg',
+    tts: 'person: beard',
+    fromVersion: '5.0',
+    glyphAsUtfInEmoticons: ['1f9d4_beardedperson'],
+    keywords: ['beard', 'person', 'person: beard'],
+    mappedToEmoticons: ['1f9d4_beardedperson'],
     skinTone: FluentEmojiSkinTone.dark,
   );
 
@@ -15806,6 +21771,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'person: blond hair',
     glyph: '👱',
     svgPath: 'assets/person_blonde_hair_color_default.svg',
+    tts: 'person: blond hair',
+    fromVersion: '0.6',
+    glyphAsUtfInEmoticons: ['1f471_blondehairedperson'],
+    keywords: ['blond', 'blond-haired person', 'hair', 'person: blond hair'],
+    mappedToEmoticons: ['1f471_blondehairedperson'],
     skinToneLight: _personBlondHairLight,
     skinToneMediumLight: _personBlondHairMediumLight,
     skinToneMedium: _personBlondHairMedium,
@@ -15820,6 +21790,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'person: blond hair',
     glyph: '👱🏻',
     svgPath: 'assets/person_blonde_hair_color_light.svg',
+    tts: 'person: blond hair',
+    fromVersion: '0.6',
+    glyphAsUtfInEmoticons: ['1f471_blondehairedperson'],
+    keywords: ['blond', 'blond-haired person', 'hair', 'person: blond hair'],
+    mappedToEmoticons: ['1f471_blondehairedperson'],
     skinTone: FluentEmojiSkinTone.light,
   );
 
@@ -15830,6 +21805,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'person: blond hair',
     glyph: '👱🏼',
     svgPath: 'assets/person_blonde_hair_color_medium-light.svg',
+    tts: 'person: blond hair',
+    fromVersion: '0.6',
+    glyphAsUtfInEmoticons: ['1f471_blondehairedperson'],
+    keywords: ['blond', 'blond-haired person', 'hair', 'person: blond hair'],
+    mappedToEmoticons: ['1f471_blondehairedperson'],
     skinTone: FluentEmojiSkinTone.mediumLight,
   );
 
@@ -15840,6 +21820,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'person: blond hair',
     glyph: '👱🏽',
     svgPath: 'assets/person_blonde_hair_color_medium.svg',
+    tts: 'person: blond hair',
+    fromVersion: '0.6',
+    glyphAsUtfInEmoticons: ['1f471_blondehairedperson'],
+    keywords: ['blond', 'blond-haired person', 'hair', 'person: blond hair'],
+    mappedToEmoticons: ['1f471_blondehairedperson'],
     skinTone: FluentEmojiSkinTone.medium,
   );
 
@@ -15850,6 +21835,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'person: blond hair',
     glyph: '👱🏾',
     svgPath: 'assets/person_blonde_hair_color_medium-dark.svg',
+    tts: 'person: blond hair',
+    fromVersion: '0.6',
+    glyphAsUtfInEmoticons: ['1f471_blondehairedperson'],
+    keywords: ['blond', 'blond-haired person', 'hair', 'person: blond hair'],
+    mappedToEmoticons: ['1f471_blondehairedperson'],
     skinTone: FluentEmojiSkinTone.mediumDark,
   );
 
@@ -15860,6 +21850,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'person: blond hair',
     glyph: '👱🏿',
     svgPath: 'assets/person_blonde_hair_color_dark.svg',
+    tts: 'person: blond hair',
+    fromVersion: '0.6',
+    glyphAsUtfInEmoticons: ['1f471_blondehairedperson'],
+    keywords: ['blond', 'blond-haired person', 'hair', 'person: blond hair'],
+    mappedToEmoticons: ['1f471_blondehairedperson'],
     skinTone: FluentEmojiSkinTone.dark,
   );
 
@@ -15876,6 +21871,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'person: curly hair',
     glyph: '🧑‍🦱',
     svgPath: 'assets/person_curly_hair_color_default.svg',
+    tts: 'person: curly hair',
+    fromVersion: '12.1',
+    glyphAsUtfInEmoticons: null,
+    keywords: ['adult', 'curly hair', 'gender-neutral', 'person', 'unspecified gender'],
+    mappedToEmoticons: ['1f9b1_curlyhaired'],
     skinToneLight: _personCurlyHairLight,
     skinToneMediumLight: _personCurlyHairMediumLight,
     skinToneMedium: _personCurlyHairMedium,
@@ -15890,6 +21890,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'person: curly hair',
     glyph: '🧑🏻‍🦱',
     svgPath: 'assets/person_curly_hair_color_light.svg',
+    tts: 'person: curly hair',
+    fromVersion: '12.1',
+    glyphAsUtfInEmoticons: null,
+    keywords: ['adult', 'curly hair', 'gender-neutral', 'person', 'unspecified gender'],
+    mappedToEmoticons: ['1f9b1_curlyhaired'],
     skinTone: FluentEmojiSkinTone.light,
   );
 
@@ -15900,6 +21905,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'person: curly hair',
     glyph: '🧑🏼‍🦱',
     svgPath: 'assets/person_curly_hair_color_medium-light.svg',
+    tts: 'person: curly hair',
+    fromVersion: '12.1',
+    glyphAsUtfInEmoticons: null,
+    keywords: ['adult', 'curly hair', 'gender-neutral', 'person', 'unspecified gender'],
+    mappedToEmoticons: ['1f9b1_curlyhaired'],
     skinTone: FluentEmojiSkinTone.mediumLight,
   );
 
@@ -15910,6 +21920,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'person: curly hair',
     glyph: '🧑🏽‍🦱',
     svgPath: 'assets/person_curly_hair_color_medium.svg',
+    tts: 'person: curly hair',
+    fromVersion: '12.1',
+    glyphAsUtfInEmoticons: null,
+    keywords: ['adult', 'curly hair', 'gender-neutral', 'person', 'unspecified gender'],
+    mappedToEmoticons: ['1f9b1_curlyhaired'],
     skinTone: FluentEmojiSkinTone.medium,
   );
 
@@ -15920,6 +21935,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'person: curly hair',
     glyph: '🧑🏾‍🦱',
     svgPath: 'assets/person_curly_hair_color_medium-dark.svg',
+    tts: 'person: curly hair',
+    fromVersion: '12.1',
+    glyphAsUtfInEmoticons: null,
+    keywords: ['adult', 'curly hair', 'gender-neutral', 'person', 'unspecified gender'],
+    mappedToEmoticons: ['1f9b1_curlyhaired'],
     skinTone: FluentEmojiSkinTone.mediumDark,
   );
 
@@ -15930,6 +21950,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'person: curly hair',
     glyph: '🧑🏿‍🦱',
     svgPath: 'assets/person_curly_hair_color_dark.svg',
+    tts: 'person: curly hair',
+    fromVersion: '12.1',
+    glyphAsUtfInEmoticons: null,
+    keywords: ['adult', 'curly hair', 'gender-neutral', 'person', 'unspecified gender'],
+    mappedToEmoticons: ['1f9b1_curlyhaired'],
     skinTone: FluentEmojiSkinTone.dark,
   );
 
@@ -15946,6 +21971,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'person: red hair',
     glyph: '🧑‍🦰',
     svgPath: 'assets/person_red_hair_color_default.svg',
+    tts: 'person: red hair',
+    fromVersion: '12.1',
+    glyphAsUtfInEmoticons: null,
+    keywords: ['adult', 'gender-neutral', 'person', 'red hair', 'unspecified gender'],
+    mappedToEmoticons: ['1f9b0_redhaired'],
     skinToneLight: _personRedHairLight,
     skinToneMediumLight: _personRedHairMediumLight,
     skinToneMedium: _personRedHairMedium,
@@ -15960,6 +21990,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'person: red hair',
     glyph: '🧑🏻‍🦰',
     svgPath: 'assets/person_red_hair_color_light.svg',
+    tts: 'person: red hair',
+    fromVersion: '12.1',
+    glyphAsUtfInEmoticons: null,
+    keywords: ['adult', 'gender-neutral', 'person', 'red hair', 'unspecified gender'],
+    mappedToEmoticons: ['1f9b0_redhaired'],
     skinTone: FluentEmojiSkinTone.light,
   );
 
@@ -15970,6 +22005,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'person: red hair',
     glyph: '🧑🏼‍🦰',
     svgPath: 'assets/person_red_hair_color_medium-light.svg',
+    tts: 'person: red hair',
+    fromVersion: '12.1',
+    glyphAsUtfInEmoticons: null,
+    keywords: ['adult', 'gender-neutral', 'person', 'red hair', 'unspecified gender'],
+    mappedToEmoticons: ['1f9b0_redhaired'],
     skinTone: FluentEmojiSkinTone.mediumLight,
   );
 
@@ -15980,6 +22020,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'person: red hair',
     glyph: '🧑🏽‍🦰',
     svgPath: 'assets/person_red_hair_color_medium.svg',
+    tts: 'person: red hair',
+    fromVersion: '12.1',
+    glyphAsUtfInEmoticons: null,
+    keywords: ['adult', 'gender-neutral', 'person', 'red hair', 'unspecified gender'],
+    mappedToEmoticons: ['1f9b0_redhaired'],
     skinTone: FluentEmojiSkinTone.medium,
   );
 
@@ -15990,6 +22035,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'person: red hair',
     glyph: '🧑🏾‍🦰',
     svgPath: 'assets/person_red_hair_color_medium-dark.svg',
+    tts: 'person: red hair',
+    fromVersion: '12.1',
+    glyphAsUtfInEmoticons: null,
+    keywords: ['adult', 'gender-neutral', 'person', 'red hair', 'unspecified gender'],
+    mappedToEmoticons: ['1f9b0_redhaired'],
     skinTone: FluentEmojiSkinTone.mediumDark,
   );
 
@@ -16000,6 +22050,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'person: red hair',
     glyph: '🧑🏿‍🦰',
     svgPath: 'assets/person_red_hair_color_dark.svg',
+    tts: 'person: red hair',
+    fromVersion: '12.1',
+    glyphAsUtfInEmoticons: null,
+    keywords: ['adult', 'gender-neutral', 'person', 'red hair', 'unspecified gender'],
+    mappedToEmoticons: ['1f9b0_redhaired'],
     skinTone: FluentEmojiSkinTone.dark,
   );
 
@@ -16016,6 +22071,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'person: white hair',
     glyph: '🧑‍🦳',
     svgPath: 'assets/person_white_hair_color_default.svg',
+    tts: 'person: white hair',
+    fromVersion: '12.1',
+    glyphAsUtfInEmoticons: ['personwhitehair'],
+    keywords: ['adult', 'gender-neutral', 'person', 'unspecified gender', 'white hair'],
+    mappedToEmoticons: ['personwhitehair'],
     skinToneLight: _personWhiteHairLight,
     skinToneMediumLight: _personWhiteHairMediumLight,
     skinToneMedium: _personWhiteHairMedium,
@@ -16030,6 +22090,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'person: white hair',
     glyph: '🧑🏻‍🦳',
     svgPath: 'assets/person_white_hair_color_light.svg',
+    tts: 'person: white hair',
+    fromVersion: '12.1',
+    glyphAsUtfInEmoticons: ['personwhitehair'],
+    keywords: ['adult', 'gender-neutral', 'person', 'unspecified gender', 'white hair'],
+    mappedToEmoticons: ['personwhitehair'],
     skinTone: FluentEmojiSkinTone.light,
   );
 
@@ -16040,6 +22105,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'person: white hair',
     glyph: '🧑🏼‍🦳',
     svgPath: 'assets/person_white_hair_color_medium-light.svg',
+    tts: 'person: white hair',
+    fromVersion: '12.1',
+    glyphAsUtfInEmoticons: ['personwhitehair'],
+    keywords: ['adult', 'gender-neutral', 'person', 'unspecified gender', 'white hair'],
+    mappedToEmoticons: ['personwhitehair'],
     skinTone: FluentEmojiSkinTone.mediumLight,
   );
 
@@ -16050,6 +22120,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'person: white hair',
     glyph: '🧑🏽‍🦳',
     svgPath: 'assets/person_white_hair_color_medium.svg',
+    tts: 'person: white hair',
+    fromVersion: '12.1',
+    glyphAsUtfInEmoticons: ['personwhitehair'],
+    keywords: ['adult', 'gender-neutral', 'person', 'unspecified gender', 'white hair'],
+    mappedToEmoticons: ['personwhitehair'],
     skinTone: FluentEmojiSkinTone.medium,
   );
 
@@ -16060,6 +22135,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'person: white hair',
     glyph: '🧑🏾‍🦳',
     svgPath: 'assets/person_white_hair_color_medium-dark.svg',
+    tts: 'person: white hair',
+    fromVersion: '12.1',
+    glyphAsUtfInEmoticons: ['personwhitehair'],
+    keywords: ['adult', 'gender-neutral', 'person', 'unspecified gender', 'white hair'],
+    mappedToEmoticons: ['personwhitehair'],
     skinTone: FluentEmojiSkinTone.mediumDark,
   );
 
@@ -16070,6 +22150,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'person: white hair',
     glyph: '🧑🏿‍🦳',
     svgPath: 'assets/person_white_hair_color_dark.svg',
+    tts: 'person: white hair',
+    fromVersion: '12.1',
+    glyphAsUtfInEmoticons: ['personwhitehair'],
+    keywords: ['adult', 'gender-neutral', 'person', 'unspecified gender', 'white hair'],
+    mappedToEmoticons: ['personwhitehair'],
     skinTone: FluentEmojiSkinTone.dark,
   );
 
@@ -16086,6 +22171,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'pilot',
     glyph: '🧑‍✈️',
     svgPath: 'assets/pilot_color_default.svg',
+    tts: 'pilot',
+    fromVersion: '12.1',
+    glyphAsUtfInEmoticons: null,
+    keywords: ['pilot', 'plane'],
+    mappedToEmoticons: ['personpilot'],
     skinToneLight: _pilotLight,
     skinToneMediumLight: _pilotMediumLight,
     skinToneMedium: _pilotMedium,
@@ -16100,6 +22190,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'pilot',
     glyph: '🧑🏻‍✈️',
     svgPath: 'assets/pilot_color_light.svg',
+    tts: 'pilot',
+    fromVersion: '12.1',
+    glyphAsUtfInEmoticons: null,
+    keywords: ['pilot', 'plane'],
+    mappedToEmoticons: ['personpilot'],
     skinTone: FluentEmojiSkinTone.light,
   );
 
@@ -16110,6 +22205,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'pilot',
     glyph: '🧑🏼‍✈️',
     svgPath: 'assets/pilot_color_medium-light.svg',
+    tts: 'pilot',
+    fromVersion: '12.1',
+    glyphAsUtfInEmoticons: null,
+    keywords: ['pilot', 'plane'],
+    mappedToEmoticons: ['personpilot'],
     skinTone: FluentEmojiSkinTone.mediumLight,
   );
 
@@ -16120,6 +22220,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'pilot',
     glyph: '🧑🏽‍✈️',
     svgPath: 'assets/pilot_color_medium.svg',
+    tts: 'pilot',
+    fromVersion: '12.1',
+    glyphAsUtfInEmoticons: null,
+    keywords: ['pilot', 'plane'],
+    mappedToEmoticons: ['personpilot'],
     skinTone: FluentEmojiSkinTone.medium,
   );
 
@@ -16130,6 +22235,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'pilot',
     glyph: '🧑🏾‍✈️',
     svgPath: 'assets/pilot_color_medium-dark.svg',
+    tts: 'pilot',
+    fromVersion: '12.1',
+    glyphAsUtfInEmoticons: null,
+    keywords: ['pilot', 'plane'],
+    mappedToEmoticons: ['personpilot'],
     skinTone: FluentEmojiSkinTone.mediumDark,
   );
 
@@ -16140,6 +22250,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'pilot',
     glyph: '🧑🏿‍✈️',
     svgPath: 'assets/pilot_color_dark.svg',
+    tts: 'pilot',
+    fromVersion: '12.1',
+    glyphAsUtfInEmoticons: null,
+    keywords: ['pilot', 'plane'],
+    mappedToEmoticons: ['personpilot'],
     skinTone: FluentEmojiSkinTone.dark,
   );
 
@@ -16156,6 +22271,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'pinched fingers',
     glyph: '🤌',
     svgPath: 'assets/pinched_fingers_color_default.svg',
+    tts: 'pinched fingers',
+    fromVersion: '13.0',
+    glyphAsUtfInEmoticons: null,
+    keywords: ['fingers', 'hand gesture', 'interrogation', 'pinched', 'sarcastic'],
+    mappedToEmoticons: ['pinchedfingers'],
     skinToneLight: _pinchedFingersLight,
     skinToneMediumLight: _pinchedFingersMediumLight,
     skinToneMedium: _pinchedFingersMedium,
@@ -16170,6 +22290,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'pinched fingers',
     glyph: '🤌🏻',
     svgPath: 'assets/pinched_fingers_color_light.svg',
+    tts: 'pinched fingers',
+    fromVersion: '13.0',
+    glyphAsUtfInEmoticons: null,
+    keywords: ['fingers', 'hand gesture', 'interrogation', 'pinched', 'sarcastic'],
+    mappedToEmoticons: ['pinchedfingers'],
     skinTone: FluentEmojiSkinTone.light,
   );
 
@@ -16180,6 +22305,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'pinched fingers',
     glyph: '🤌🏼',
     svgPath: 'assets/pinched_fingers_color_medium-light.svg',
+    tts: 'pinched fingers',
+    fromVersion: '13.0',
+    glyphAsUtfInEmoticons: null,
+    keywords: ['fingers', 'hand gesture', 'interrogation', 'pinched', 'sarcastic'],
+    mappedToEmoticons: ['pinchedfingers'],
     skinTone: FluentEmojiSkinTone.mediumLight,
   );
 
@@ -16190,6 +22320,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'pinched fingers',
     glyph: '🤌🏽',
     svgPath: 'assets/pinched_fingers_color_medium.svg',
+    tts: 'pinched fingers',
+    fromVersion: '13.0',
+    glyphAsUtfInEmoticons: null,
+    keywords: ['fingers', 'hand gesture', 'interrogation', 'pinched', 'sarcastic'],
+    mappedToEmoticons: ['pinchedfingers'],
     skinTone: FluentEmojiSkinTone.medium,
   );
 
@@ -16200,6 +22335,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'pinched fingers',
     glyph: '🤌🏾',
     svgPath: 'assets/pinched_fingers_color_medium-dark.svg',
+    tts: 'pinched fingers',
+    fromVersion: '13.0',
+    glyphAsUtfInEmoticons: null,
+    keywords: ['fingers', 'hand gesture', 'interrogation', 'pinched', 'sarcastic'],
+    mappedToEmoticons: ['pinchedfingers'],
     skinTone: FluentEmojiSkinTone.mediumDark,
   );
 
@@ -16210,6 +22350,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'pinched fingers',
     glyph: '🤌🏿',
     svgPath: 'assets/pinched_fingers_color_dark.svg',
+    tts: 'pinched fingers',
+    fromVersion: '13.0',
+    glyphAsUtfInEmoticons: null,
+    keywords: ['fingers', 'hand gesture', 'interrogation', 'pinched', 'sarcastic'],
+    mappedToEmoticons: ['pinchedfingers'],
     skinTone: FluentEmojiSkinTone.dark,
   );
 
@@ -16226,6 +22371,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'pinching hand',
     glyph: '🤏',
     svgPath: 'assets/pinching_hand_color_default.svg',
+    tts: 'pinching hand',
+    fromVersion: '12.0',
+    glyphAsUtfInEmoticons: ['1f90f_pinchinghand'],
+    keywords: ['pinching hand', 'small amount'],
+    mappedToEmoticons: ['1f90f_pinchinghand'],
     skinToneLight: _pinchingHandLight,
     skinToneMediumLight: _pinchingHandMediumLight,
     skinToneMedium: _pinchingHandMedium,
@@ -16240,6 +22390,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'pinching hand',
     glyph: '🤏🏻',
     svgPath: 'assets/pinching_hand_color_light.svg',
+    tts: 'pinching hand',
+    fromVersion: '12.0',
+    glyphAsUtfInEmoticons: ['1f90f_pinchinghand'],
+    keywords: ['pinching hand', 'small amount'],
+    mappedToEmoticons: ['1f90f_pinchinghand'],
     skinTone: FluentEmojiSkinTone.light,
   );
 
@@ -16250,6 +22405,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'pinching hand',
     glyph: '🤏🏼',
     svgPath: 'assets/pinching_hand_color_medium-light.svg',
+    tts: 'pinching hand',
+    fromVersion: '12.0',
+    glyphAsUtfInEmoticons: ['1f90f_pinchinghand'],
+    keywords: ['pinching hand', 'small amount'],
+    mappedToEmoticons: ['1f90f_pinchinghand'],
     skinTone: FluentEmojiSkinTone.mediumLight,
   );
 
@@ -16260,6 +22420,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'pinching hand',
     glyph: '🤏🏽',
     svgPath: 'assets/pinching_hand_color_medium.svg',
+    tts: 'pinching hand',
+    fromVersion: '12.0',
+    glyphAsUtfInEmoticons: ['1f90f_pinchinghand'],
+    keywords: ['pinching hand', 'small amount'],
+    mappedToEmoticons: ['1f90f_pinchinghand'],
     skinTone: FluentEmojiSkinTone.medium,
   );
 
@@ -16270,6 +22435,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'pinching hand',
     glyph: '🤏🏾',
     svgPath: 'assets/pinching_hand_color_medium-dark.svg',
+    tts: 'pinching hand',
+    fromVersion: '12.0',
+    glyphAsUtfInEmoticons: ['1f90f_pinchinghand'],
+    keywords: ['pinching hand', 'small amount'],
+    mappedToEmoticons: ['1f90f_pinchinghand'],
     skinTone: FluentEmojiSkinTone.mediumDark,
   );
 
@@ -16280,6 +22450,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'pinching hand',
     glyph: '🤏🏿',
     svgPath: 'assets/pinching_hand_color_dark.svg',
+    tts: 'pinching hand',
+    fromVersion: '12.0',
+    glyphAsUtfInEmoticons: ['1f90f_pinchinghand'],
+    keywords: ['pinching hand', 'small amount'],
+    mappedToEmoticons: ['1f90f_pinchinghand'],
     skinTone: FluentEmojiSkinTone.dark,
   );
 
@@ -16296,6 +22471,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'police officer',
     glyph: '👮',
     svgPath: 'assets/police_officer_color_default.svg',
+    tts: 'police officer',
+    fromVersion: '0.6',
+    glyphAsUtfInEmoticons: ['police_officer'],
+    keywords: ['cop', 'officer', 'police'],
+    mappedToEmoticons: ['police_officer'],
     skinToneLight: _policeOfficerLight,
     skinToneMediumLight: _policeOfficerMediumLight,
     skinToneMedium: _policeOfficerMedium,
@@ -16310,6 +22490,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'police officer',
     glyph: '👮🏻',
     svgPath: 'assets/police_officer_color_light.svg',
+    tts: 'police officer',
+    fromVersion: '0.6',
+    glyphAsUtfInEmoticons: ['police_officer'],
+    keywords: ['cop', 'officer', 'police'],
+    mappedToEmoticons: ['police_officer'],
     skinTone: FluentEmojiSkinTone.light,
   );
 
@@ -16320,6 +22505,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'police officer',
     glyph: '👮🏼',
     svgPath: 'assets/police_officer_color_medium-light.svg',
+    tts: 'police officer',
+    fromVersion: '0.6',
+    glyphAsUtfInEmoticons: ['police_officer'],
+    keywords: ['cop', 'officer', 'police'],
+    mappedToEmoticons: ['police_officer'],
     skinTone: FluentEmojiSkinTone.mediumLight,
   );
 
@@ -16330,6 +22520,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'police officer',
     glyph: '👮🏽',
     svgPath: 'assets/police_officer_color_medium.svg',
+    tts: 'police officer',
+    fromVersion: '0.6',
+    glyphAsUtfInEmoticons: ['police_officer'],
+    keywords: ['cop', 'officer', 'police'],
+    mappedToEmoticons: ['police_officer'],
     skinTone: FluentEmojiSkinTone.medium,
   );
 
@@ -16340,6 +22535,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'police officer',
     glyph: '👮🏾',
     svgPath: 'assets/police_officer_color_medium-dark.svg',
+    tts: 'police officer',
+    fromVersion: '0.6',
+    glyphAsUtfInEmoticons: ['police_officer'],
+    keywords: ['cop', 'officer', 'police'],
+    mappedToEmoticons: ['police_officer'],
     skinTone: FluentEmojiSkinTone.mediumDark,
   );
 
@@ -16350,6 +22550,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'police officer',
     glyph: '👮🏿',
     svgPath: 'assets/police_officer_color_dark.svg',
+    tts: 'police officer',
+    fromVersion: '0.6',
+    glyphAsUtfInEmoticons: ['police_officer'],
+    keywords: ['cop', 'officer', 'police'],
+    mappedToEmoticons: ['police_officer'],
     skinTone: FluentEmojiSkinTone.dark,
   );
 
@@ -16366,6 +22571,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'pregnant man',
     glyph: '🫃',
     svgPath: 'assets/pregnant_man_color_default.svg',
+    tts: 'pregnant man',
+    fromVersion: '14.0',
+    glyphAsUtfInEmoticons: null,
+    keywords: ['belly', 'bloated', 'full', 'pregnant', 'pregnant man'],
+    mappedToEmoticons: null,
     skinToneLight: _pregnantManLight,
     skinToneMediumLight: _pregnantManMediumLight,
     skinToneMedium: _pregnantManMedium,
@@ -16380,6 +22590,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'pregnant man',
     glyph: '🫃🏻',
     svgPath: 'assets/pregnant_man_color_light.svg',
+    tts: 'pregnant man',
+    fromVersion: '14.0',
+    glyphAsUtfInEmoticons: null,
+    keywords: ['belly', 'bloated', 'full', 'pregnant', 'pregnant man'],
+    mappedToEmoticons: null,
     skinTone: FluentEmojiSkinTone.light,
   );
 
@@ -16390,6 +22605,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'pregnant man',
     glyph: '🫃🏼',
     svgPath: 'assets/pregnant_man_color_medium-light.svg',
+    tts: 'pregnant man',
+    fromVersion: '14.0',
+    glyphAsUtfInEmoticons: null,
+    keywords: ['belly', 'bloated', 'full', 'pregnant', 'pregnant man'],
+    mappedToEmoticons: null,
     skinTone: FluentEmojiSkinTone.mediumLight,
   );
 
@@ -16400,6 +22620,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'pregnant man',
     glyph: '🫃🏽',
     svgPath: 'assets/pregnant_man_color_medium.svg',
+    tts: 'pregnant man',
+    fromVersion: '14.0',
+    glyphAsUtfInEmoticons: null,
+    keywords: ['belly', 'bloated', 'full', 'pregnant', 'pregnant man'],
+    mappedToEmoticons: null,
     skinTone: FluentEmojiSkinTone.medium,
   );
 
@@ -16410,6 +22635,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'pregnant man',
     glyph: '🫃🏾',
     svgPath: 'assets/pregnant_man_color_medium-dark.svg',
+    tts: 'pregnant man',
+    fromVersion: '14.0',
+    glyphAsUtfInEmoticons: null,
+    keywords: ['belly', 'bloated', 'full', 'pregnant', 'pregnant man'],
+    mappedToEmoticons: null,
     skinTone: FluentEmojiSkinTone.mediumDark,
   );
 
@@ -16420,6 +22650,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'pregnant man',
     glyph: '🫃🏿',
     svgPath: 'assets/pregnant_man_color_dark.svg',
+    tts: 'pregnant man',
+    fromVersion: '14.0',
+    glyphAsUtfInEmoticons: null,
+    keywords: ['belly', 'bloated', 'full', 'pregnant', 'pregnant man'],
+    mappedToEmoticons: null,
     skinTone: FluentEmojiSkinTone.dark,
   );
 
@@ -16436,6 +22671,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'pregnant person',
     glyph: '🫄',
     svgPath: 'assets/pregnant_person_color_default.svg',
+    tts: 'pregnant person',
+    fromVersion: '14.0',
+    glyphAsUtfInEmoticons: null,
+    keywords: ['belly', 'bloated', 'full', 'pregnant', 'pregnant person'],
+    mappedToEmoticons: null,
     skinToneLight: _pregnantPersonLight,
     skinToneMediumLight: _pregnantPersonMediumLight,
     skinToneMedium: _pregnantPersonMedium,
@@ -16450,6 +22690,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'pregnant person',
     glyph: '🫄🏻',
     svgPath: 'assets/pregnant_person_color_light.svg',
+    tts: 'pregnant person',
+    fromVersion: '14.0',
+    glyphAsUtfInEmoticons: null,
+    keywords: ['belly', 'bloated', 'full', 'pregnant', 'pregnant person'],
+    mappedToEmoticons: null,
     skinTone: FluentEmojiSkinTone.light,
   );
 
@@ -16460,6 +22705,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'pregnant person',
     glyph: '🫄🏼',
     svgPath: 'assets/pregnant_person_color_medium-light.svg',
+    tts: 'pregnant person',
+    fromVersion: '14.0',
+    glyphAsUtfInEmoticons: null,
+    keywords: ['belly', 'bloated', 'full', 'pregnant', 'pregnant person'],
+    mappedToEmoticons: null,
     skinTone: FluentEmojiSkinTone.mediumLight,
   );
 
@@ -16470,6 +22720,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'pregnant person',
     glyph: '🫄🏽',
     svgPath: 'assets/pregnant_person_color_medium.svg',
+    tts: 'pregnant person',
+    fromVersion: '14.0',
+    glyphAsUtfInEmoticons: null,
+    keywords: ['belly', 'bloated', 'full', 'pregnant', 'pregnant person'],
+    mappedToEmoticons: null,
     skinTone: FluentEmojiSkinTone.medium,
   );
 
@@ -16480,6 +22735,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'pregnant person',
     glyph: '🫄🏾',
     svgPath: 'assets/pregnant_person_color_medium-dark.svg',
+    tts: 'pregnant person',
+    fromVersion: '14.0',
+    glyphAsUtfInEmoticons: null,
+    keywords: ['belly', 'bloated', 'full', 'pregnant', 'pregnant person'],
+    mappedToEmoticons: null,
     skinTone: FluentEmojiSkinTone.mediumDark,
   );
 
@@ -16490,6 +22750,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'pregnant person',
     glyph: '🫄🏿',
     svgPath: 'assets/pregnant_person_color_dark.svg',
+    tts: 'pregnant person',
+    fromVersion: '14.0',
+    glyphAsUtfInEmoticons: null,
+    keywords: ['belly', 'bloated', 'full', 'pregnant', 'pregnant person'],
+    mappedToEmoticons: null,
     skinTone: FluentEmojiSkinTone.dark,
   );
 
@@ -16506,6 +22771,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'pregnant woman',
     glyph: '🤰',
     svgPath: 'assets/pregnant_woman_color_default.svg',
+    tts: 'pregnant woman',
+    fromVersion: '3.0',
+    glyphAsUtfInEmoticons: ['womanpregnant'],
+    keywords: ['pregnant', 'woman'],
+    mappedToEmoticons: ['womanpregnant'],
     skinToneLight: _pregnantWomanLight,
     skinToneMediumLight: _pregnantWomanMediumLight,
     skinToneMedium: _pregnantWomanMedium,
@@ -16520,6 +22790,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'pregnant woman',
     glyph: '🤰🏻',
     svgPath: 'assets/pregnant_woman_color_light.svg',
+    tts: 'pregnant woman',
+    fromVersion: '3.0',
+    glyphAsUtfInEmoticons: ['womanpregnant'],
+    keywords: ['pregnant', 'woman'],
+    mappedToEmoticons: ['womanpregnant'],
     skinTone: FluentEmojiSkinTone.light,
   );
 
@@ -16530,6 +22805,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'pregnant woman',
     glyph: '🤰🏼',
     svgPath: 'assets/pregnant_woman_color_medium-light.svg',
+    tts: 'pregnant woman',
+    fromVersion: '3.0',
+    glyphAsUtfInEmoticons: ['womanpregnant'],
+    keywords: ['pregnant', 'woman'],
+    mappedToEmoticons: ['womanpregnant'],
     skinTone: FluentEmojiSkinTone.mediumLight,
   );
 
@@ -16540,6 +22820,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'pregnant woman',
     glyph: '🤰🏽',
     svgPath: 'assets/pregnant_woman_color_medium.svg',
+    tts: 'pregnant woman',
+    fromVersion: '3.0',
+    glyphAsUtfInEmoticons: ['womanpregnant'],
+    keywords: ['pregnant', 'woman'],
+    mappedToEmoticons: ['womanpregnant'],
     skinTone: FluentEmojiSkinTone.medium,
   );
 
@@ -16550,6 +22835,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'pregnant woman',
     glyph: '🤰🏾',
     svgPath: 'assets/pregnant_woman_color_medium-dark.svg',
+    tts: 'pregnant woman',
+    fromVersion: '3.0',
+    glyphAsUtfInEmoticons: ['womanpregnant'],
+    keywords: ['pregnant', 'woman'],
+    mappedToEmoticons: ['womanpregnant'],
     skinTone: FluentEmojiSkinTone.mediumDark,
   );
 
@@ -16560,6 +22850,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'pregnant woman',
     glyph: '🤰🏿',
     svgPath: 'assets/pregnant_woman_color_dark.svg',
+    tts: 'pregnant woman',
+    fromVersion: '3.0',
+    glyphAsUtfInEmoticons: ['womanpregnant'],
+    keywords: ['pregnant', 'woman'],
+    mappedToEmoticons: ['womanpregnant'],
     skinTone: FluentEmojiSkinTone.dark,
   );
 
@@ -16576,6 +22871,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'prince',
     glyph: '🤴',
     svgPath: 'assets/prince_color_default.svg',
+    tts: 'prince',
+    fromVersion: '3.0',
+    glyphAsUtfInEmoticons: ['prince'],
+    keywords: ['prince'],
+    mappedToEmoticons: ['prince'],
     skinToneLight: _princeLight,
     skinToneMediumLight: _princeMediumLight,
     skinToneMedium: _princeMedium,
@@ -16590,6 +22890,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'prince',
     glyph: '🤴🏻',
     svgPath: 'assets/prince_color_light.svg',
+    tts: 'prince',
+    fromVersion: '3.0',
+    glyphAsUtfInEmoticons: ['prince'],
+    keywords: ['prince'],
+    mappedToEmoticons: ['prince'],
     skinTone: FluentEmojiSkinTone.light,
   );
 
@@ -16600,6 +22905,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'prince',
     glyph: '🤴🏼',
     svgPath: 'assets/prince_color_medium-light.svg',
+    tts: 'prince',
+    fromVersion: '3.0',
+    glyphAsUtfInEmoticons: ['prince'],
+    keywords: ['prince'],
+    mappedToEmoticons: ['prince'],
     skinTone: FluentEmojiSkinTone.mediumLight,
   );
 
@@ -16610,6 +22920,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'prince',
     glyph: '🤴🏽',
     svgPath: 'assets/prince_color_medium.svg',
+    tts: 'prince',
+    fromVersion: '3.0',
+    glyphAsUtfInEmoticons: ['prince'],
+    keywords: ['prince'],
+    mappedToEmoticons: ['prince'],
     skinTone: FluentEmojiSkinTone.medium,
   );
 
@@ -16620,6 +22935,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'prince',
     glyph: '🤴🏾',
     svgPath: 'assets/prince_color_medium-dark.svg',
+    tts: 'prince',
+    fromVersion: '3.0',
+    glyphAsUtfInEmoticons: ['prince'],
+    keywords: ['prince'],
+    mappedToEmoticons: ['prince'],
     skinTone: FluentEmojiSkinTone.mediumDark,
   );
 
@@ -16630,6 +22950,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'prince',
     glyph: '🤴🏿',
     svgPath: 'assets/prince_color_dark.svg',
+    tts: 'prince',
+    fromVersion: '3.0',
+    glyphAsUtfInEmoticons: ['prince'],
+    keywords: ['prince'],
+    mappedToEmoticons: ['prince'],
     skinTone: FluentEmojiSkinTone.dark,
   );
 
@@ -16646,6 +22971,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'princess',
     glyph: '👸',
     svgPath: 'assets/princess_color_default.svg',
+    tts: 'princess',
+    fromVersion: '0.6',
+    glyphAsUtfInEmoticons: ['princess'],
+    keywords: ['fairy tale', 'fantasy', 'princess'],
+    mappedToEmoticons: ['princess'],
     skinToneLight: _princessLight,
     skinToneMediumLight: _princessMediumLight,
     skinToneMedium: _princessMedium,
@@ -16660,6 +22990,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'princess',
     glyph: '👸🏻',
     svgPath: 'assets/princess_color_light.svg',
+    tts: 'princess',
+    fromVersion: '0.6',
+    glyphAsUtfInEmoticons: ['princess'],
+    keywords: ['fairy tale', 'fantasy', 'princess'],
+    mappedToEmoticons: ['princess'],
     skinTone: FluentEmojiSkinTone.light,
   );
 
@@ -16670,6 +23005,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'princess',
     glyph: '👸🏼',
     svgPath: 'assets/princess_color_medium-light.svg',
+    tts: 'princess',
+    fromVersion: '0.6',
+    glyphAsUtfInEmoticons: ['princess'],
+    keywords: ['fairy tale', 'fantasy', 'princess'],
+    mappedToEmoticons: ['princess'],
     skinTone: FluentEmojiSkinTone.mediumLight,
   );
 
@@ -16680,6 +23020,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'princess',
     glyph: '👸🏽',
     svgPath: 'assets/princess_color_medium.svg',
+    tts: 'princess',
+    fromVersion: '0.6',
+    glyphAsUtfInEmoticons: ['princess'],
+    keywords: ['fairy tale', 'fantasy', 'princess'],
+    mappedToEmoticons: ['princess'],
     skinTone: FluentEmojiSkinTone.medium,
   );
 
@@ -16690,6 +23035,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'princess',
     glyph: '👸🏾',
     svgPath: 'assets/princess_color_medium-dark.svg',
+    tts: 'princess',
+    fromVersion: '0.6',
+    glyphAsUtfInEmoticons: ['princess'],
+    keywords: ['fairy tale', 'fantasy', 'princess'],
+    mappedToEmoticons: ['princess'],
     skinTone: FluentEmojiSkinTone.mediumDark,
   );
 
@@ -16700,6 +23050,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'princess',
     glyph: '👸🏿',
     svgPath: 'assets/princess_color_dark.svg',
+    tts: 'princess',
+    fromVersion: '0.6',
+    glyphAsUtfInEmoticons: ['princess'],
+    keywords: ['fairy tale', 'fantasy', 'princess'],
+    mappedToEmoticons: ['princess'],
     skinTone: FluentEmojiSkinTone.dark,
   );
 
@@ -16716,6 +23071,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'raised back of hand',
     glyph: '🤚',
     svgPath: 'assets/raised_back_of_hand_color_default.svg',
+    tts: 'raised back of hand',
+    fromVersion: '3.0',
+    glyphAsUtfInEmoticons: ['1f91a_raisedbackofhand'],
+    keywords: ['backhand', 'raised', 'raised back of hand'],
+    mappedToEmoticons: ['1f91a_raisedbackofhand'],
     skinToneLight: _raisedBackOfHandLight,
     skinToneMediumLight: _raisedBackOfHandMediumLight,
     skinToneMedium: _raisedBackOfHandMedium,
@@ -16730,6 +23090,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'raised back of hand',
     glyph: '🤚🏻',
     svgPath: 'assets/raised_back_of_hand_color_light.svg',
+    tts: 'raised back of hand',
+    fromVersion: '3.0',
+    glyphAsUtfInEmoticons: ['1f91a_raisedbackofhand'],
+    keywords: ['backhand', 'raised', 'raised back of hand'],
+    mappedToEmoticons: ['1f91a_raisedbackofhand'],
     skinTone: FluentEmojiSkinTone.light,
   );
 
@@ -16740,6 +23105,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'raised back of hand',
     glyph: '🤚🏼',
     svgPath: 'assets/raised_back_of_hand_color_medium-light.svg',
+    tts: 'raised back of hand',
+    fromVersion: '3.0',
+    glyphAsUtfInEmoticons: ['1f91a_raisedbackofhand'],
+    keywords: ['backhand', 'raised', 'raised back of hand'],
+    mappedToEmoticons: ['1f91a_raisedbackofhand'],
     skinTone: FluentEmojiSkinTone.mediumLight,
   );
 
@@ -16750,6 +23120,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'raised back of hand',
     glyph: '🤚🏽',
     svgPath: 'assets/raised_back_of_hand_color_medium.svg',
+    tts: 'raised back of hand',
+    fromVersion: '3.0',
+    glyphAsUtfInEmoticons: ['1f91a_raisedbackofhand'],
+    keywords: ['backhand', 'raised', 'raised back of hand'],
+    mappedToEmoticons: ['1f91a_raisedbackofhand'],
     skinTone: FluentEmojiSkinTone.medium,
   );
 
@@ -16760,6 +23135,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'raised back of hand',
     glyph: '🤚🏾',
     svgPath: 'assets/raised_back_of_hand_color_medium-dark.svg',
+    tts: 'raised back of hand',
+    fromVersion: '3.0',
+    glyphAsUtfInEmoticons: ['1f91a_raisedbackofhand'],
+    keywords: ['backhand', 'raised', 'raised back of hand'],
+    mappedToEmoticons: ['1f91a_raisedbackofhand'],
     skinTone: FluentEmojiSkinTone.mediumDark,
   );
 
@@ -16770,6 +23150,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'raised back of hand',
     glyph: '🤚🏿',
     svgPath: 'assets/raised_back_of_hand_color_dark.svg',
+    tts: 'raised back of hand',
+    fromVersion: '3.0',
+    glyphAsUtfInEmoticons: ['1f91a_raisedbackofhand'],
+    keywords: ['backhand', 'raised', 'raised back of hand'],
+    mappedToEmoticons: ['1f91a_raisedbackofhand'],
     skinTone: FluentEmojiSkinTone.dark,
   );
 
@@ -16786,6 +23171,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'raised fist',
     glyph: '✊',
     svgPath: 'assets/raised_fist_color_default.svg',
+    tts: 'raised fist',
+    fromVersion: '0.6',
+    glyphAsUtfInEmoticons: ['fistbump'],
+    keywords: ['clenched', 'fist', 'hand', 'punch', 'raised fist'],
+    mappedToEmoticons: ['raisedfist'],
     skinToneLight: _raisedFistLight,
     skinToneMediumLight: _raisedFistMediumLight,
     skinToneMedium: _raisedFistMedium,
@@ -16800,6 +23190,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'raised fist',
     glyph: '✊🏻',
     svgPath: 'assets/raised_fist_color_light.svg',
+    tts: 'raised fist',
+    fromVersion: '0.6',
+    glyphAsUtfInEmoticons: ['fistbump'],
+    keywords: ['clenched', 'fist', 'hand', 'punch', 'raised fist'],
+    mappedToEmoticons: ['raisedfist'],
     skinTone: FluentEmojiSkinTone.light,
   );
 
@@ -16810,6 +23205,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'raised fist',
     glyph: '✊🏼',
     svgPath: 'assets/raised_fist_color_medium-light.svg',
+    tts: 'raised fist',
+    fromVersion: '0.6',
+    glyphAsUtfInEmoticons: ['fistbump'],
+    keywords: ['clenched', 'fist', 'hand', 'punch', 'raised fist'],
+    mappedToEmoticons: ['raisedfist'],
     skinTone: FluentEmojiSkinTone.mediumLight,
   );
 
@@ -16820,6 +23220,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'raised fist',
     glyph: '✊🏽',
     svgPath: 'assets/raised_fist_color_medium.svg',
+    tts: 'raised fist',
+    fromVersion: '0.6',
+    glyphAsUtfInEmoticons: ['fistbump'],
+    keywords: ['clenched', 'fist', 'hand', 'punch', 'raised fist'],
+    mappedToEmoticons: ['raisedfist'],
     skinTone: FluentEmojiSkinTone.medium,
   );
 
@@ -16830,6 +23235,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'raised fist',
     glyph: '✊🏾',
     svgPath: 'assets/raised_fist_color_medium-dark.svg',
+    tts: 'raised fist',
+    fromVersion: '0.6',
+    glyphAsUtfInEmoticons: ['fistbump'],
+    keywords: ['clenched', 'fist', 'hand', 'punch', 'raised fist'],
+    mappedToEmoticons: ['raisedfist'],
     skinTone: FluentEmojiSkinTone.mediumDark,
   );
 
@@ -16840,6 +23250,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'raised fist',
     glyph: '✊🏿',
     svgPath: 'assets/raised_fist_color_dark.svg',
+    tts: 'raised fist',
+    fromVersion: '0.6',
+    glyphAsUtfInEmoticons: ['fistbump'],
+    keywords: ['clenched', 'fist', 'hand', 'punch', 'raised fist'],
+    mappedToEmoticons: ['raisedfist'],
     skinTone: FluentEmojiSkinTone.dark,
   );
 
@@ -16856,6 +23271,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'raised hand',
     glyph: '✋',
     svgPath: 'assets/raised_hand_color_default.svg',
+    tts: 'raised hand',
+    fromVersion: '0.6',
+    glyphAsUtfInEmoticons: ['270b_raisedhand', 'highfive'],
+    keywords: ['hand', 'high 5', 'high five', 'raised hand'],
+    mappedToEmoticons: ['270b_raisedhand'],
     skinToneLight: _raisedHandLight,
     skinToneMediumLight: _raisedHandMediumLight,
     skinToneMedium: _raisedHandMedium,
@@ -16870,6 +23290,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'raised hand',
     glyph: '✋🏻',
     svgPath: 'assets/raised_hand_color_light.svg',
+    tts: 'raised hand',
+    fromVersion: '0.6',
+    glyphAsUtfInEmoticons: ['270b_raisedhand', 'highfive'],
+    keywords: ['hand', 'high 5', 'high five', 'raised hand'],
+    mappedToEmoticons: ['270b_raisedhand'],
     skinTone: FluentEmojiSkinTone.light,
   );
 
@@ -16880,6 +23305,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'raised hand',
     glyph: '✋🏼',
     svgPath: 'assets/raised_hand_color_medium-light.svg',
+    tts: 'raised hand',
+    fromVersion: '0.6',
+    glyphAsUtfInEmoticons: ['270b_raisedhand', 'highfive'],
+    keywords: ['hand', 'high 5', 'high five', 'raised hand'],
+    mappedToEmoticons: ['270b_raisedhand'],
     skinTone: FluentEmojiSkinTone.mediumLight,
   );
 
@@ -16890,6 +23320,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'raised hand',
     glyph: '✋🏽',
     svgPath: 'assets/raised_hand_color_medium.svg',
+    tts: 'raised hand',
+    fromVersion: '0.6',
+    glyphAsUtfInEmoticons: ['270b_raisedhand', 'highfive'],
+    keywords: ['hand', 'high 5', 'high five', 'raised hand'],
+    mappedToEmoticons: ['270b_raisedhand'],
     skinTone: FluentEmojiSkinTone.medium,
   );
 
@@ -16900,6 +23335,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'raised hand',
     glyph: '✋🏾',
     svgPath: 'assets/raised_hand_color_medium-dark.svg',
+    tts: 'raised hand',
+    fromVersion: '0.6',
+    glyphAsUtfInEmoticons: ['270b_raisedhand', 'highfive'],
+    keywords: ['hand', 'high 5', 'high five', 'raised hand'],
+    mappedToEmoticons: ['270b_raisedhand'],
     skinTone: FluentEmojiSkinTone.mediumDark,
   );
 
@@ -16910,6 +23350,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'raised hand',
     glyph: '✋🏿',
     svgPath: 'assets/raised_hand_color_dark.svg',
+    tts: 'raised hand',
+    fromVersion: '0.6',
+    glyphAsUtfInEmoticons: ['270b_raisedhand', 'highfive'],
+    keywords: ['hand', 'high 5', 'high five', 'raised hand'],
+    mappedToEmoticons: ['270b_raisedhand'],
     skinTone: FluentEmojiSkinTone.dark,
   );
 
@@ -16926,6 +23371,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'raising hands',
     glyph: '🙌',
     svgPath: 'assets/raising_hands_color_default.svg',
+    tts: 'raising hands',
+    fromVersion: '0.6',
+    glyphAsUtfInEmoticons: ['handsinair'],
+    keywords: ['celebration', 'gesture', 'hand', 'hooray', 'raised', 'raising hands'],
+    mappedToEmoticons: ['raisinghands'],
     skinToneLight: _raisingHandsLight,
     skinToneMediumLight: _raisingHandsMediumLight,
     skinToneMedium: _raisingHandsMedium,
@@ -16940,6 +23390,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'raising hands',
     glyph: '🙌🏻',
     svgPath: 'assets/raising_hands_color_light.svg',
+    tts: 'raising hands',
+    fromVersion: '0.6',
+    glyphAsUtfInEmoticons: ['handsinair'],
+    keywords: ['celebration', 'gesture', 'hand', 'hooray', 'raised', 'raising hands'],
+    mappedToEmoticons: ['raisinghands'],
     skinTone: FluentEmojiSkinTone.light,
   );
 
@@ -16950,6 +23405,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'raising hands',
     glyph: '🙌🏼',
     svgPath: 'assets/raising_hands_color_medium-light.svg',
+    tts: 'raising hands',
+    fromVersion: '0.6',
+    glyphAsUtfInEmoticons: ['handsinair'],
+    keywords: ['celebration', 'gesture', 'hand', 'hooray', 'raised', 'raising hands'],
+    mappedToEmoticons: ['raisinghands'],
     skinTone: FluentEmojiSkinTone.mediumLight,
   );
 
@@ -16960,6 +23420,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'raising hands',
     glyph: '🙌🏽',
     svgPath: 'assets/raising_hands_color_medium.svg',
+    tts: 'raising hands',
+    fromVersion: '0.6',
+    glyphAsUtfInEmoticons: ['handsinair'],
+    keywords: ['celebration', 'gesture', 'hand', 'hooray', 'raised', 'raising hands'],
+    mappedToEmoticons: ['raisinghands'],
     skinTone: FluentEmojiSkinTone.medium,
   );
 
@@ -16970,6 +23435,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'raising hands',
     glyph: '🙌🏾',
     svgPath: 'assets/raising_hands_color_medium-dark.svg',
+    tts: 'raising hands',
+    fromVersion: '0.6',
+    glyphAsUtfInEmoticons: ['handsinair'],
+    keywords: ['celebration', 'gesture', 'hand', 'hooray', 'raised', 'raising hands'],
+    mappedToEmoticons: ['raisinghands'],
     skinTone: FluentEmojiSkinTone.mediumDark,
   );
 
@@ -16980,6 +23450,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'raising hands',
     glyph: '🙌🏿',
     svgPath: 'assets/raising_hands_color_dark.svg',
+    tts: 'raising hands',
+    fromVersion: '0.6',
+    glyphAsUtfInEmoticons: ['handsinair'],
+    keywords: ['celebration', 'gesture', 'hand', 'hooray', 'raised', 'raising hands'],
+    mappedToEmoticons: ['raisinghands'],
     skinTone: FluentEmojiSkinTone.dark,
   );
 
@@ -16996,6 +23471,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'right-facing fist',
     glyph: '🤜',
     svgPath: 'assets/right-facing_fist_color_default.svg',
+    tts: 'right-facing fist',
+    fromVersion: '3.0',
+    glyphAsUtfInEmoticons: ['1f91c_rightfacingfist'],
+    keywords: ['fist', 'right-facing fist', 'rightwards'],
+    mappedToEmoticons: ['1f91c_rightfacingfist'],
     skinToneLight: _rightFacingFistLight,
     skinToneMediumLight: _rightFacingFistMediumLight,
     skinToneMedium: _rightFacingFistMedium,
@@ -17010,6 +23490,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'right-facing fist',
     glyph: '🤜🏻',
     svgPath: 'assets/right-facing_fist_color_light.svg',
+    tts: 'right-facing fist',
+    fromVersion: '3.0',
+    glyphAsUtfInEmoticons: ['1f91c_rightfacingfist'],
+    keywords: ['fist', 'right-facing fist', 'rightwards'],
+    mappedToEmoticons: ['1f91c_rightfacingfist'],
     skinTone: FluentEmojiSkinTone.light,
   );
 
@@ -17020,6 +23505,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'right-facing fist',
     glyph: '🤜🏼',
     svgPath: 'assets/right-facing_fist_color_medium-light.svg',
+    tts: 'right-facing fist',
+    fromVersion: '3.0',
+    glyphAsUtfInEmoticons: ['1f91c_rightfacingfist'],
+    keywords: ['fist', 'right-facing fist', 'rightwards'],
+    mappedToEmoticons: ['1f91c_rightfacingfist'],
     skinTone: FluentEmojiSkinTone.mediumLight,
   );
 
@@ -17030,6 +23520,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'right-facing fist',
     glyph: '🤜🏽',
     svgPath: 'assets/right-facing_fist_color_medium.svg',
+    tts: 'right-facing fist',
+    fromVersion: '3.0',
+    glyphAsUtfInEmoticons: ['1f91c_rightfacingfist'],
+    keywords: ['fist', 'right-facing fist', 'rightwards'],
+    mappedToEmoticons: ['1f91c_rightfacingfist'],
     skinTone: FluentEmojiSkinTone.medium,
   );
 
@@ -17040,6 +23535,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'right-facing fist',
     glyph: '🤜🏾',
     svgPath: 'assets/right-facing_fist_color_medium-dark.svg',
+    tts: 'right-facing fist',
+    fromVersion: '3.0',
+    glyphAsUtfInEmoticons: ['1f91c_rightfacingfist'],
+    keywords: ['fist', 'right-facing fist', 'rightwards'],
+    mappedToEmoticons: ['1f91c_rightfacingfist'],
     skinTone: FluentEmojiSkinTone.mediumDark,
   );
 
@@ -17050,6 +23550,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'right-facing fist',
     glyph: '🤜🏿',
     svgPath: 'assets/right-facing_fist_color_dark.svg',
+    tts: 'right-facing fist',
+    fromVersion: '3.0',
+    glyphAsUtfInEmoticons: ['1f91c_rightfacingfist'],
+    keywords: ['fist', 'right-facing fist', 'rightwards'],
+    mappedToEmoticons: ['1f91c_rightfacingfist'],
     skinTone: FluentEmojiSkinTone.dark,
   );
 
@@ -17066,6 +23571,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'rightwards hand',
     glyph: '🫱',
     svgPath: 'assets/rightwards_hand_color_default.svg',
+    tts: 'rightwards hand',
+    fromVersion: '14.0',
+    glyphAsUtfInEmoticons: ['rightwardshand'],
+    keywords: ['hand', 'right', 'rightward', 'rightwards hand'],
+    mappedToEmoticons: ['rightwardshand'],
     skinToneLight: _rightwardsHandLight,
     skinToneMediumLight: _rightwardsHandMediumLight,
     skinToneMedium: _rightwardsHandMedium,
@@ -17080,6 +23590,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'rightwards hand',
     glyph: '🫱🏻',
     svgPath: 'assets/rightwards_hand_color_light.svg',
+    tts: 'rightwards hand',
+    fromVersion: '14.0',
+    glyphAsUtfInEmoticons: ['rightwardshand'],
+    keywords: ['hand', 'right', 'rightward', 'rightwards hand'],
+    mappedToEmoticons: ['rightwardshand'],
     skinTone: FluentEmojiSkinTone.light,
   );
 
@@ -17090,6 +23605,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'rightwards hand',
     glyph: '🫱🏼',
     svgPath: 'assets/rightwards_hand_color_medium-light.svg',
+    tts: 'rightwards hand',
+    fromVersion: '14.0',
+    glyphAsUtfInEmoticons: ['rightwardshand'],
+    keywords: ['hand', 'right', 'rightward', 'rightwards hand'],
+    mappedToEmoticons: ['rightwardshand'],
     skinTone: FluentEmojiSkinTone.mediumLight,
   );
 
@@ -17100,6 +23620,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'rightwards hand',
     glyph: '🫱🏽',
     svgPath: 'assets/rightwards_hand_color_medium.svg',
+    tts: 'rightwards hand',
+    fromVersion: '14.0',
+    glyphAsUtfInEmoticons: ['rightwardshand'],
+    keywords: ['hand', 'right', 'rightward', 'rightwards hand'],
+    mappedToEmoticons: ['rightwardshand'],
     skinTone: FluentEmojiSkinTone.medium,
   );
 
@@ -17110,6 +23635,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'rightwards hand',
     glyph: '🫱🏾',
     svgPath: 'assets/rightwards_hand_color_medium-dark.svg',
+    tts: 'rightwards hand',
+    fromVersion: '14.0',
+    glyphAsUtfInEmoticons: ['rightwardshand'],
+    keywords: ['hand', 'right', 'rightward', 'rightwards hand'],
+    mappedToEmoticons: ['rightwardshand'],
     skinTone: FluentEmojiSkinTone.mediumDark,
   );
 
@@ -17120,6 +23650,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'rightwards hand',
     glyph: '🫱🏿',
     svgPath: 'assets/rightwards_hand_color_dark.svg',
+    tts: 'rightwards hand',
+    fromVersion: '14.0',
+    glyphAsUtfInEmoticons: ['rightwardshand'],
+    keywords: ['hand', 'right', 'rightward', 'rightwards hand'],
+    mappedToEmoticons: ['rightwardshand'],
     skinTone: FluentEmojiSkinTone.dark,
   );
 
@@ -17136,6 +23671,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'rightwards pushing hand',
     glyph: '🫸',
     svgPath: 'assets/rightwards_pushing_hand_color_default.svg',
+    tts: 'rightwards pushing hand',
+    fromVersion: '15.0',
+    glyphAsUtfInEmoticons: ['pushright'],
+    keywords: ['high five', 'push', 'refuse', 'rightward', 'rightwards pushing hand', 'stop', 'wait'],
+    mappedToEmoticons: ['pushright'],
     skinToneLight: _rightwardsPushingHandLight,
     skinToneMediumLight: _rightwardsPushingHandMediumLight,
     skinToneMedium: _rightwardsPushingHandMedium,
@@ -17150,6 +23690,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'rightwards pushing hand',
     glyph: '🫸🏻',
     svgPath: 'assets/rightwards_pushing_hand_color_light.svg',
+    tts: 'rightwards pushing hand',
+    fromVersion: '15.0',
+    glyphAsUtfInEmoticons: ['pushright'],
+    keywords: ['high five', 'push', 'refuse', 'rightward', 'rightwards pushing hand', 'stop', 'wait'],
+    mappedToEmoticons: ['pushright'],
     skinTone: FluentEmojiSkinTone.light,
   );
 
@@ -17160,6 +23705,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'rightwards pushing hand',
     glyph: '🫸🏼',
     svgPath: 'assets/rightwards_pushing_hand_color_medium-light.svg',
+    tts: 'rightwards pushing hand',
+    fromVersion: '15.0',
+    glyphAsUtfInEmoticons: ['pushright'],
+    keywords: ['high five', 'push', 'refuse', 'rightward', 'rightwards pushing hand', 'stop', 'wait'],
+    mappedToEmoticons: ['pushright'],
     skinTone: FluentEmojiSkinTone.mediumLight,
   );
 
@@ -17170,6 +23720,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'rightwards pushing hand',
     glyph: '🫸🏽',
     svgPath: 'assets/rightwards_pushing_hand_color_medium.svg',
+    tts: 'rightwards pushing hand',
+    fromVersion: '15.0',
+    glyphAsUtfInEmoticons: ['pushright'],
+    keywords: ['high five', 'push', 'refuse', 'rightward', 'rightwards pushing hand', 'stop', 'wait'],
+    mappedToEmoticons: ['pushright'],
     skinTone: FluentEmojiSkinTone.medium,
   );
 
@@ -17180,6 +23735,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'rightwards pushing hand',
     glyph: '🫸🏾',
     svgPath: 'assets/rightwards_pushing_hand_color_medium-dark.svg',
+    tts: 'rightwards pushing hand',
+    fromVersion: '15.0',
+    glyphAsUtfInEmoticons: ['pushright'],
+    keywords: ['high five', 'push', 'refuse', 'rightward', 'rightwards pushing hand', 'stop', 'wait'],
+    mappedToEmoticons: ['pushright'],
     skinTone: FluentEmojiSkinTone.mediumDark,
   );
 
@@ -17190,6 +23750,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'rightwards pushing hand',
     glyph: '🫸🏿',
     svgPath: 'assets/rightwards_pushing_hand_color_dark.svg',
+    tts: 'rightwards pushing hand',
+    fromVersion: '15.0',
+    glyphAsUtfInEmoticons: ['pushright'],
+    keywords: ['high five', 'push', 'refuse', 'rightward', 'rightwards pushing hand', 'stop', 'wait'],
+    mappedToEmoticons: ['pushright'],
     skinTone: FluentEmojiSkinTone.dark,
   );
 
@@ -17206,6 +23771,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'scientist',
     glyph: '🧑‍🔬',
     svgPath: 'assets/scientist_color_default.svg',
+    tts: 'scientist',
+    fromVersion: '12.1',
+    glyphAsUtfInEmoticons: null,
+    keywords: ['biologist', 'chemist', 'engineer', 'physicist', 'scientist'],
+    mappedToEmoticons: ['personscientist'],
     skinToneLight: _scientistLight,
     skinToneMediumLight: _scientistMediumLight,
     skinToneMedium: _scientistMedium,
@@ -17220,6 +23790,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'scientist',
     glyph: '🧑🏻‍🔬',
     svgPath: 'assets/scientist_color_light.svg',
+    tts: 'scientist',
+    fromVersion: '12.1',
+    glyphAsUtfInEmoticons: null,
+    keywords: ['biologist', 'chemist', 'engineer', 'physicist', 'scientist'],
+    mappedToEmoticons: ['personscientist'],
     skinTone: FluentEmojiSkinTone.light,
   );
 
@@ -17230,6 +23805,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'scientist',
     glyph: '🧑🏼‍🔬',
     svgPath: 'assets/scientist_color_medium-light.svg',
+    tts: 'scientist',
+    fromVersion: '12.1',
+    glyphAsUtfInEmoticons: null,
+    keywords: ['biologist', 'chemist', 'engineer', 'physicist', 'scientist'],
+    mappedToEmoticons: ['personscientist'],
     skinTone: FluentEmojiSkinTone.mediumLight,
   );
 
@@ -17240,6 +23820,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'scientist',
     glyph: '🧑🏽‍🔬',
     svgPath: 'assets/scientist_color_medium.svg',
+    tts: 'scientist',
+    fromVersion: '12.1',
+    glyphAsUtfInEmoticons: null,
+    keywords: ['biologist', 'chemist', 'engineer', 'physicist', 'scientist'],
+    mappedToEmoticons: ['personscientist'],
     skinTone: FluentEmojiSkinTone.medium,
   );
 
@@ -17250,6 +23835,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'scientist',
     glyph: '🧑🏾‍🔬',
     svgPath: 'assets/scientist_color_medium-dark.svg',
+    tts: 'scientist',
+    fromVersion: '12.1',
+    glyphAsUtfInEmoticons: null,
+    keywords: ['biologist', 'chemist', 'engineer', 'physicist', 'scientist'],
+    mappedToEmoticons: ['personscientist'],
     skinTone: FluentEmojiSkinTone.mediumDark,
   );
 
@@ -17260,6 +23850,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'scientist',
     glyph: '🧑🏿‍🔬',
     svgPath: 'assets/scientist_color_dark.svg',
+    tts: 'scientist',
+    fromVersion: '12.1',
+    glyphAsUtfInEmoticons: null,
+    keywords: ['biologist', 'chemist', 'engineer', 'physicist', 'scientist'],
+    mappedToEmoticons: ['personscientist'],
     skinTone: FluentEmojiSkinTone.dark,
   );
 
@@ -17276,6 +23871,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'selfie',
     glyph: '🤳',
     svgPath: 'assets/selfie_color_default.svg',
+    tts: 'selfie',
+    fromVersion: '3.0',
+    glyphAsUtfInEmoticons: ['selfie'],
+    keywords: ['camera', 'phone', 'selfie'],
+    mappedToEmoticons: ['selfiehand'],
     skinToneLight: _selfieLight,
     skinToneMediumLight: _selfieMediumLight,
     skinToneMedium: _selfieMedium,
@@ -17290,6 +23890,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'selfie',
     glyph: '🤳🏻',
     svgPath: 'assets/selfie_color_light.svg',
+    tts: 'selfie',
+    fromVersion: '3.0',
+    glyphAsUtfInEmoticons: ['selfie'],
+    keywords: ['camera', 'phone', 'selfie'],
+    mappedToEmoticons: ['selfiehand'],
     skinTone: FluentEmojiSkinTone.light,
   );
 
@@ -17300,6 +23905,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'selfie',
     glyph: '🤳🏼',
     svgPath: 'assets/selfie_color_medium-light.svg',
+    tts: 'selfie',
+    fromVersion: '3.0',
+    glyphAsUtfInEmoticons: ['selfie'],
+    keywords: ['camera', 'phone', 'selfie'],
+    mappedToEmoticons: ['selfiehand'],
     skinTone: FluentEmojiSkinTone.mediumLight,
   );
 
@@ -17310,6 +23920,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'selfie',
     glyph: '🤳🏽',
     svgPath: 'assets/selfie_color_medium.svg',
+    tts: 'selfie',
+    fromVersion: '3.0',
+    glyphAsUtfInEmoticons: ['selfie'],
+    keywords: ['camera', 'phone', 'selfie'],
+    mappedToEmoticons: ['selfiehand'],
     skinTone: FluentEmojiSkinTone.medium,
   );
 
@@ -17320,6 +23935,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'selfie',
     glyph: '🤳🏾',
     svgPath: 'assets/selfie_color_medium-dark.svg',
+    tts: 'selfie',
+    fromVersion: '3.0',
+    glyphAsUtfInEmoticons: ['selfie'],
+    keywords: ['camera', 'phone', 'selfie'],
+    mappedToEmoticons: ['selfiehand'],
     skinTone: FluentEmojiSkinTone.mediumDark,
   );
 
@@ -17330,6 +23950,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'selfie',
     glyph: '🤳🏿',
     svgPath: 'assets/selfie_color_dark.svg',
+    tts: 'selfie',
+    fromVersion: '3.0',
+    glyphAsUtfInEmoticons: ['selfie'],
+    keywords: ['camera', 'phone', 'selfie'],
+    mappedToEmoticons: ['selfiehand'],
     skinTone: FluentEmojiSkinTone.dark,
   );
 
@@ -17346,6 +23971,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'sign of the horns',
     glyph: '🤘',
     svgPath: 'assets/sign_of_the_horns_color_default.svg',
+    tts: 'sign of the horns',
+    fromVersion: '1.0',
+    glyphAsUtfInEmoticons: ['1f918_signofthehorns', 'rock'],
+    keywords: ['finger', 'hand', 'horns', 'rock-on', 'sign of the horns'],
+    mappedToEmoticons: ['1f918_signofthehorns'],
     skinToneLight: _signOfTheHornsLight,
     skinToneMediumLight: _signOfTheHornsMediumLight,
     skinToneMedium: _signOfTheHornsMedium,
@@ -17360,6 +23990,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'sign of the horns',
     glyph: '🤘🏻',
     svgPath: 'assets/sign_of_the_horns_color_light.svg',
+    tts: 'sign of the horns',
+    fromVersion: '1.0',
+    glyphAsUtfInEmoticons: ['1f918_signofthehorns', 'rock'],
+    keywords: ['finger', 'hand', 'horns', 'rock-on', 'sign of the horns'],
+    mappedToEmoticons: ['1f918_signofthehorns'],
     skinTone: FluentEmojiSkinTone.light,
   );
 
@@ -17370,6 +24005,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'sign of the horns',
     glyph: '🤘🏼',
     svgPath: 'assets/sign_of_the_horns_color_medium-light.svg',
+    tts: 'sign of the horns',
+    fromVersion: '1.0',
+    glyphAsUtfInEmoticons: ['1f918_signofthehorns', 'rock'],
+    keywords: ['finger', 'hand', 'horns', 'rock-on', 'sign of the horns'],
+    mappedToEmoticons: ['1f918_signofthehorns'],
     skinTone: FluentEmojiSkinTone.mediumLight,
   );
 
@@ -17380,6 +24020,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'sign of the horns',
     glyph: '🤘🏽',
     svgPath: 'assets/sign_of_the_horns_color_medium.svg',
+    tts: 'sign of the horns',
+    fromVersion: '1.0',
+    glyphAsUtfInEmoticons: ['1f918_signofthehorns', 'rock'],
+    keywords: ['finger', 'hand', 'horns', 'rock-on', 'sign of the horns'],
+    mappedToEmoticons: ['1f918_signofthehorns'],
     skinTone: FluentEmojiSkinTone.medium,
   );
 
@@ -17390,6 +24035,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'sign of the horns',
     glyph: '🤘🏾',
     svgPath: 'assets/sign_of_the_horns_color_medium-dark.svg',
+    tts: 'sign of the horns',
+    fromVersion: '1.0',
+    glyphAsUtfInEmoticons: ['1f918_signofthehorns', 'rock'],
+    keywords: ['finger', 'hand', 'horns', 'rock-on', 'sign of the horns'],
+    mappedToEmoticons: ['1f918_signofthehorns'],
     skinTone: FluentEmojiSkinTone.mediumDark,
   );
 
@@ -17400,6 +24050,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'sign of the horns',
     glyph: '🤘🏿',
     svgPath: 'assets/sign_of_the_horns_color_dark.svg',
+    tts: 'sign of the horns',
+    fromVersion: '1.0',
+    glyphAsUtfInEmoticons: ['1f918_signofthehorns', 'rock'],
+    keywords: ['finger', 'hand', 'horns', 'rock-on', 'sign of the horns'],
+    mappedToEmoticons: ['1f918_signofthehorns'],
     skinTone: FluentEmojiSkinTone.dark,
   );
 
@@ -17416,6 +24071,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'singer',
     glyph: '🧑‍🎤',
     svgPath: 'assets/singer_color_default.svg',
+    tts: 'singer',
+    fromVersion: '12.1',
+    glyphAsUtfInEmoticons: null,
+    keywords: ['actor', 'entertainer', 'rock', 'singer', 'star'],
+    mappedToEmoticons: ['personsinger'],
     skinToneLight: _singerLight,
     skinToneMediumLight: _singerMediumLight,
     skinToneMedium: _singerMedium,
@@ -17430,6 +24090,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'singer',
     glyph: '🧑🏻‍🎤',
     svgPath: 'assets/singer_color_light.svg',
+    tts: 'singer',
+    fromVersion: '12.1',
+    glyphAsUtfInEmoticons: null,
+    keywords: ['actor', 'entertainer', 'rock', 'singer', 'star'],
+    mappedToEmoticons: ['personsinger'],
     skinTone: FluentEmojiSkinTone.light,
   );
 
@@ -17440,6 +24105,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'singer',
     glyph: '🧑🏼‍🎤',
     svgPath: 'assets/singer_color_medium-light.svg',
+    tts: 'singer',
+    fromVersion: '12.1',
+    glyphAsUtfInEmoticons: null,
+    keywords: ['actor', 'entertainer', 'rock', 'singer', 'star'],
+    mappedToEmoticons: ['personsinger'],
     skinTone: FluentEmojiSkinTone.mediumLight,
   );
 
@@ -17450,6 +24120,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'singer',
     glyph: '🧑🏽‍🎤',
     svgPath: 'assets/singer_color_medium.svg',
+    tts: 'singer',
+    fromVersion: '12.1',
+    glyphAsUtfInEmoticons: null,
+    keywords: ['actor', 'entertainer', 'rock', 'singer', 'star'],
+    mappedToEmoticons: ['personsinger'],
     skinTone: FluentEmojiSkinTone.medium,
   );
 
@@ -17460,6 +24135,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'singer',
     glyph: '🧑🏾‍🎤',
     svgPath: 'assets/singer_color_medium-dark.svg',
+    tts: 'singer',
+    fromVersion: '12.1',
+    glyphAsUtfInEmoticons: null,
+    keywords: ['actor', 'entertainer', 'rock', 'singer', 'star'],
+    mappedToEmoticons: ['personsinger'],
     skinTone: FluentEmojiSkinTone.mediumDark,
   );
 
@@ -17470,6 +24150,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'singer',
     glyph: '🧑🏿‍🎤',
     svgPath: 'assets/singer_color_dark.svg',
+    tts: 'singer',
+    fromVersion: '12.1',
+    glyphAsUtfInEmoticons: null,
+    keywords: ['actor', 'entertainer', 'rock', 'singer', 'star'],
+    mappedToEmoticons: ['personsinger'],
     skinTone: FluentEmojiSkinTone.dark,
   );
 
@@ -17480,6 +24165,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'skier',
     glyph: '⛷️',
     svgPath: 'assets/skier_color.svg',
+    tts: 'skier',
+    fromVersion: '0.7',
+    glyphAsUtfInEmoticons: ['skier'],
+    keywords: ['ski', 'skier', 'snow'],
+    mappedToEmoticons: ['skier'],
     skinTone: FluentEmojiSkinTone.standard,
   );
 
@@ -17496,6 +24186,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'snowboarder',
     glyph: '🏂',
     svgPath: 'assets/snowboarder_color_default.svg',
+    tts: 'snowboarder',
+    fromVersion: '0.6',
+    glyphAsUtfInEmoticons: ['snowboarder'],
+    keywords: ['ski', 'snow', 'snowboard', 'snowboarder'],
+    mappedToEmoticons: ['snowboarder'],
     skinToneLight: _snowboarderLight,
     skinToneMediumLight: _snowboarderMediumLight,
     skinToneMedium: _snowboarderMedium,
@@ -17510,6 +24205,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'snowboarder',
     glyph: '🏂🏻',
     svgPath: 'assets/snowboarder_color_light.svg',
+    tts: 'snowboarder',
+    fromVersion: '0.6',
+    glyphAsUtfInEmoticons: ['snowboarder'],
+    keywords: ['ski', 'snow', 'snowboard', 'snowboarder'],
+    mappedToEmoticons: ['snowboarder'],
     skinTone: FluentEmojiSkinTone.light,
   );
 
@@ -17520,6 +24220,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'snowboarder',
     glyph: '🏂🏼',
     svgPath: 'assets/snowboarder_color_medium-light.svg',
+    tts: 'snowboarder',
+    fromVersion: '0.6',
+    glyphAsUtfInEmoticons: ['snowboarder'],
+    keywords: ['ski', 'snow', 'snowboard', 'snowboarder'],
+    mappedToEmoticons: ['snowboarder'],
     skinTone: FluentEmojiSkinTone.mediumLight,
   );
 
@@ -17530,6 +24235,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'snowboarder',
     glyph: '🏂🏽',
     svgPath: 'assets/snowboarder_color_medium.svg',
+    tts: 'snowboarder',
+    fromVersion: '0.6',
+    glyphAsUtfInEmoticons: ['snowboarder'],
+    keywords: ['ski', 'snow', 'snowboard', 'snowboarder'],
+    mappedToEmoticons: ['snowboarder'],
     skinTone: FluentEmojiSkinTone.medium,
   );
 
@@ -17540,6 +24250,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'snowboarder',
     glyph: '🏂🏾',
     svgPath: 'assets/snowboarder_color_medium-dark.svg',
+    tts: 'snowboarder',
+    fromVersion: '0.6',
+    glyphAsUtfInEmoticons: ['snowboarder'],
+    keywords: ['ski', 'snow', 'snowboard', 'snowboarder'],
+    mappedToEmoticons: ['snowboarder'],
     skinTone: FluentEmojiSkinTone.mediumDark,
   );
 
@@ -17550,6 +24265,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'snowboarder',
     glyph: '🏂🏿',
     svgPath: 'assets/snowboarder_color_dark.svg',
+    tts: 'snowboarder',
+    fromVersion: '0.6',
+    glyphAsUtfInEmoticons: ['snowboarder'],
+    keywords: ['ski', 'snow', 'snowboard', 'snowboarder'],
+    mappedToEmoticons: ['snowboarder'],
     skinTone: FluentEmojiSkinTone.dark,
   );
 
@@ -17560,6 +24280,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'speaking head',
     glyph: '🗣️',
     svgPath: 'assets/speaking_head_color.svg',
+    tts: 'speaking head',
+    fromVersion: '0.7',
+    glyphAsUtfInEmoticons: null,
+    keywords: ['face', 'head', 'silhouette', 'speak', 'speaking'],
+    mappedToEmoticons: ['1f5e3_speakingheadinsilhouette'],
     skinTone: FluentEmojiSkinTone.standard,
   );
 
@@ -17576,6 +24301,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'student',
     glyph: '🧑‍🎓',
     svgPath: 'assets/student_color_default.svg',
+    tts: 'student',
+    fromVersion: '12.1',
+    glyphAsUtfInEmoticons: null,
+    keywords: ['graduate', 'student'],
+    mappedToEmoticons: ['student'],
     skinToneLight: _studentLight,
     skinToneMediumLight: _studentMediumLight,
     skinToneMedium: _studentMedium,
@@ -17590,6 +24320,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'student',
     glyph: '🧑🏻‍🎓',
     svgPath: 'assets/student_color_light.svg',
+    tts: 'student',
+    fromVersion: '12.1',
+    glyphAsUtfInEmoticons: null,
+    keywords: ['graduate', 'student'],
+    mappedToEmoticons: ['student'],
     skinTone: FluentEmojiSkinTone.light,
   );
 
@@ -17600,6 +24335,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'student',
     glyph: '🧑🏼‍🎓',
     svgPath: 'assets/student_color_medium-light.svg',
+    tts: 'student',
+    fromVersion: '12.1',
+    glyphAsUtfInEmoticons: null,
+    keywords: ['graduate', 'student'],
+    mappedToEmoticons: ['student'],
     skinTone: FluentEmojiSkinTone.mediumLight,
   );
 
@@ -17610,6 +24350,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'student',
     glyph: '🧑🏽‍🎓',
     svgPath: 'assets/student_color_medium.svg',
+    tts: 'student',
+    fromVersion: '12.1',
+    glyphAsUtfInEmoticons: null,
+    keywords: ['graduate', 'student'],
+    mappedToEmoticons: ['student'],
     skinTone: FluentEmojiSkinTone.medium,
   );
 
@@ -17620,6 +24365,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'student',
     glyph: '🧑🏾‍🎓',
     svgPath: 'assets/student_color_medium-dark.svg',
+    tts: 'student',
+    fromVersion: '12.1',
+    glyphAsUtfInEmoticons: null,
+    keywords: ['graduate', 'student'],
+    mappedToEmoticons: ['student'],
     skinTone: FluentEmojiSkinTone.mediumDark,
   );
 
@@ -17630,6 +24380,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'student',
     glyph: '🧑🏿‍🎓',
     svgPath: 'assets/student_color_dark.svg',
+    tts: 'student',
+    fromVersion: '12.1',
+    glyphAsUtfInEmoticons: null,
+    keywords: ['graduate', 'student'],
+    mappedToEmoticons: ['student'],
     skinTone: FluentEmojiSkinTone.dark,
   );
 
@@ -17646,6 +24401,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'superhero',
     glyph: '🦸',
     svgPath: 'assets/person_superhero_color_default.svg',
+    tts: 'superhero',
+    fromVersion: '11.0',
+    glyphAsUtfInEmoticons: null,
+    keywords: ['good', 'hero', 'heroine', 'superhero', 'superpower'],
+    mappedToEmoticons: ['personsuperhero'],
     skinToneLight: _superheroLight,
     skinToneMediumLight: _superheroMediumLight,
     skinToneMedium: _superheroMedium,
@@ -17660,6 +24420,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'superhero',
     glyph: '🦸🏻',
     svgPath: 'assets/person_superhero_color_light.svg',
+    tts: 'superhero',
+    fromVersion: '11.0',
+    glyphAsUtfInEmoticons: null,
+    keywords: ['good', 'hero', 'heroine', 'superhero', 'superpower'],
+    mappedToEmoticons: ['personsuperhero'],
     skinTone: FluentEmojiSkinTone.light,
   );
 
@@ -17670,6 +24435,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'superhero',
     glyph: '🦸🏼',
     svgPath: 'assets/person_superhero_color_medium-light.svg',
+    tts: 'superhero',
+    fromVersion: '11.0',
+    glyphAsUtfInEmoticons: null,
+    keywords: ['good', 'hero', 'heroine', 'superhero', 'superpower'],
+    mappedToEmoticons: ['personsuperhero'],
     skinTone: FluentEmojiSkinTone.mediumLight,
   );
 
@@ -17680,6 +24450,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'superhero',
     glyph: '🦸🏽',
     svgPath: 'assets/person_superhero_color_medium.svg',
+    tts: 'superhero',
+    fromVersion: '11.0',
+    glyphAsUtfInEmoticons: null,
+    keywords: ['good', 'hero', 'heroine', 'superhero', 'superpower'],
+    mappedToEmoticons: ['personsuperhero'],
     skinTone: FluentEmojiSkinTone.medium,
   );
 
@@ -17690,6 +24465,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'superhero',
     glyph: '🦸🏾',
     svgPath: 'assets/person_superhero_color_medium-dark.svg',
+    tts: 'superhero',
+    fromVersion: '11.0',
+    glyphAsUtfInEmoticons: null,
+    keywords: ['good', 'hero', 'heroine', 'superhero', 'superpower'],
+    mappedToEmoticons: ['personsuperhero'],
     skinTone: FluentEmojiSkinTone.mediumDark,
   );
 
@@ -17700,6 +24480,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'superhero',
     glyph: '🦸🏿',
     svgPath: 'assets/person_superhero_color_dark.svg',
+    tts: 'superhero',
+    fromVersion: '11.0',
+    glyphAsUtfInEmoticons: null,
+    keywords: ['good', 'hero', 'heroine', 'superhero', 'superpower'],
+    mappedToEmoticons: ['personsuperhero'],
     skinTone: FluentEmojiSkinTone.dark,
   );
 
@@ -17716,6 +24501,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'supervillain',
     glyph: '🦹',
     svgPath: 'assets/person_supervillain_color_default.svg',
+    tts: 'supervillain',
+    fromVersion: '11.0',
+    glyphAsUtfInEmoticons: ['1f9b9_supervillain'],
+    keywords: ['criminal', 'evil', 'superpower', 'supervillain', 'villain'],
+    mappedToEmoticons: ['1f9b9_supervillain'],
     skinToneLight: _supervillainLight,
     skinToneMediumLight: _supervillainMediumLight,
     skinToneMedium: _supervillainMedium,
@@ -17730,6 +24520,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'supervillain',
     glyph: '🦹🏻',
     svgPath: 'assets/person_supervillain_color_light.svg',
+    tts: 'supervillain',
+    fromVersion: '11.0',
+    glyphAsUtfInEmoticons: ['1f9b9_supervillain'],
+    keywords: ['criminal', 'evil', 'superpower', 'supervillain', 'villain'],
+    mappedToEmoticons: ['1f9b9_supervillain'],
     skinTone: FluentEmojiSkinTone.light,
   );
 
@@ -17740,6 +24535,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'supervillain',
     glyph: '🦹🏼',
     svgPath: 'assets/person_supervillain_color_medium-light.svg',
+    tts: 'supervillain',
+    fromVersion: '11.0',
+    glyphAsUtfInEmoticons: ['1f9b9_supervillain'],
+    keywords: ['criminal', 'evil', 'superpower', 'supervillain', 'villain'],
+    mappedToEmoticons: ['1f9b9_supervillain'],
     skinTone: FluentEmojiSkinTone.mediumLight,
   );
 
@@ -17750,6 +24550,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'supervillain',
     glyph: '🦹🏽',
     svgPath: 'assets/person_supervillain_color_medium.svg',
+    tts: 'supervillain',
+    fromVersion: '11.0',
+    glyphAsUtfInEmoticons: ['1f9b9_supervillain'],
+    keywords: ['criminal', 'evil', 'superpower', 'supervillain', 'villain'],
+    mappedToEmoticons: ['1f9b9_supervillain'],
     skinTone: FluentEmojiSkinTone.medium,
   );
 
@@ -17760,6 +24565,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'supervillain',
     glyph: '🦹🏾',
     svgPath: 'assets/person_supervillain_color_medium-dark.svg',
+    tts: 'supervillain',
+    fromVersion: '11.0',
+    glyphAsUtfInEmoticons: ['1f9b9_supervillain'],
+    keywords: ['criminal', 'evil', 'superpower', 'supervillain', 'villain'],
+    mappedToEmoticons: ['1f9b9_supervillain'],
     skinTone: FluentEmojiSkinTone.mediumDark,
   );
 
@@ -17770,6 +24580,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'supervillain',
     glyph: '🦹🏿',
     svgPath: 'assets/person_supervillain_color_dark.svg',
+    tts: 'supervillain',
+    fromVersion: '11.0',
+    glyphAsUtfInEmoticons: ['1f9b9_supervillain'],
+    keywords: ['criminal', 'evil', 'superpower', 'supervillain', 'villain'],
+    mappedToEmoticons: ['1f9b9_supervillain'],
     skinTone: FluentEmojiSkinTone.dark,
   );
 
@@ -17786,6 +24601,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'teacher',
     glyph: '🧑‍🏫',
     svgPath: 'assets/teacher_color_default.svg',
+    tts: 'teacher',
+    fromVersion: '12.1',
+    glyphAsUtfInEmoticons: null,
+    keywords: ['instructor', 'professor', 'teacher'],
+    mappedToEmoticons: ['personteacher'],
     skinToneLight: _teacherLight,
     skinToneMediumLight: _teacherMediumLight,
     skinToneMedium: _teacherMedium,
@@ -17800,6 +24620,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'teacher',
     glyph: '🧑🏻‍🏫',
     svgPath: 'assets/teacher_color_light.svg',
+    tts: 'teacher',
+    fromVersion: '12.1',
+    glyphAsUtfInEmoticons: null,
+    keywords: ['instructor', 'professor', 'teacher'],
+    mappedToEmoticons: ['personteacher'],
     skinTone: FluentEmojiSkinTone.light,
   );
 
@@ -17810,6 +24635,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'teacher',
     glyph: '🧑🏼‍🏫',
     svgPath: 'assets/teacher_color_medium-light.svg',
+    tts: 'teacher',
+    fromVersion: '12.1',
+    glyphAsUtfInEmoticons: null,
+    keywords: ['instructor', 'professor', 'teacher'],
+    mappedToEmoticons: ['personteacher'],
     skinTone: FluentEmojiSkinTone.mediumLight,
   );
 
@@ -17820,6 +24650,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'teacher',
     glyph: '🧑🏽‍🏫',
     svgPath: 'assets/teacher_color_medium.svg',
+    tts: 'teacher',
+    fromVersion: '12.1',
+    glyphAsUtfInEmoticons: null,
+    keywords: ['instructor', 'professor', 'teacher'],
+    mappedToEmoticons: ['personteacher'],
     skinTone: FluentEmojiSkinTone.medium,
   );
 
@@ -17830,6 +24665,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'teacher',
     glyph: '🧑🏾‍🏫',
     svgPath: 'assets/teacher_color_medium-dark.svg',
+    tts: 'teacher',
+    fromVersion: '12.1',
+    glyphAsUtfInEmoticons: null,
+    keywords: ['instructor', 'professor', 'teacher'],
+    mappedToEmoticons: ['personteacher'],
     skinTone: FluentEmojiSkinTone.mediumDark,
   );
 
@@ -17840,6 +24680,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'teacher',
     glyph: '🧑🏿‍🏫',
     svgPath: 'assets/teacher_color_dark.svg',
+    tts: 'teacher',
+    fromVersion: '12.1',
+    glyphAsUtfInEmoticons: null,
+    keywords: ['instructor', 'professor', 'teacher'],
+    mappedToEmoticons: ['personteacher'],
     skinTone: FluentEmojiSkinTone.dark,
   );
 
@@ -17856,6 +24701,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'technologist',
     glyph: '🧑‍💻',
     svgPath: 'assets/technologist_color_default.svg',
+    tts: 'technologist',
+    fromVersion: '12.1',
+    glyphAsUtfInEmoticons: null,
+    keywords: ['coder', 'developer', 'inventor', 'software', 'technologist'],
+    mappedToEmoticons: ['persondeveloper'],
     skinToneLight: _technologistLight,
     skinToneMediumLight: _technologistMediumLight,
     skinToneMedium: _technologistMedium,
@@ -17870,6 +24720,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'technologist',
     glyph: '🧑🏻‍💻',
     svgPath: 'assets/technologist_color_light.svg',
+    tts: 'technologist',
+    fromVersion: '12.1',
+    glyphAsUtfInEmoticons: null,
+    keywords: ['coder', 'developer', 'inventor', 'software', 'technologist'],
+    mappedToEmoticons: ['persondeveloper'],
     skinTone: FluentEmojiSkinTone.light,
   );
 
@@ -17880,6 +24735,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'technologist',
     glyph: '🧑🏼‍💻',
     svgPath: 'assets/technologist_color_medium-light.svg',
+    tts: 'technologist',
+    fromVersion: '12.1',
+    glyphAsUtfInEmoticons: null,
+    keywords: ['coder', 'developer', 'inventor', 'software', 'technologist'],
+    mappedToEmoticons: ['persondeveloper'],
     skinTone: FluentEmojiSkinTone.mediumLight,
   );
 
@@ -17890,6 +24750,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'technologist',
     glyph: '🧑🏽‍💻',
     svgPath: 'assets/technologist_color_medium.svg',
+    tts: 'technologist',
+    fromVersion: '12.1',
+    glyphAsUtfInEmoticons: null,
+    keywords: ['coder', 'developer', 'inventor', 'software', 'technologist'],
+    mappedToEmoticons: ['persondeveloper'],
     skinTone: FluentEmojiSkinTone.medium,
   );
 
@@ -17900,6 +24765,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'technologist',
     glyph: '🧑🏾‍💻',
     svgPath: 'assets/technologist_color_medium-dark.svg',
+    tts: 'technologist',
+    fromVersion: '12.1',
+    glyphAsUtfInEmoticons: null,
+    keywords: ['coder', 'developer', 'inventor', 'software', 'technologist'],
+    mappedToEmoticons: ['persondeveloper'],
     skinTone: FluentEmojiSkinTone.mediumDark,
   );
 
@@ -17910,6 +24780,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'technologist',
     glyph: '🧑🏿‍💻',
     svgPath: 'assets/technologist_color_dark.svg',
+    tts: 'technologist',
+    fromVersion: '12.1',
+    glyphAsUtfInEmoticons: null,
+    keywords: ['coder', 'developer', 'inventor', 'software', 'technologist'],
+    mappedToEmoticons: ['persondeveloper'],
     skinTone: FluentEmojiSkinTone.dark,
   );
 
@@ -17926,6 +24801,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'thumbs down',
     glyph: '👎',
     svgPath: 'assets/thumbs_down_color_default.svg',
+    tts: 'thumbs down',
+    fromVersion: '0.6',
+    glyphAsUtfInEmoticons: ['no'],
+    keywords: ['-1', 'down', 'hand', 'thumb', 'thumbs down'],
+    mappedToEmoticons: ['no'],
     skinToneLight: _thumbsDownLight,
     skinToneMediumLight: _thumbsDownMediumLight,
     skinToneMedium: _thumbsDownMedium,
@@ -17940,6 +24820,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'thumbs down',
     glyph: '👎🏻',
     svgPath: 'assets/thumbs_down_color_light.svg',
+    tts: 'thumbs down',
+    fromVersion: '0.6',
+    glyphAsUtfInEmoticons: ['no'],
+    keywords: ['-1', 'down', 'hand', 'thumb', 'thumbs down'],
+    mappedToEmoticons: ['no'],
     skinTone: FluentEmojiSkinTone.light,
   );
 
@@ -17950,6 +24835,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'thumbs down',
     glyph: '👎🏼',
     svgPath: 'assets/thumbs_down_color_medium-light.svg',
+    tts: 'thumbs down',
+    fromVersion: '0.6',
+    glyphAsUtfInEmoticons: ['no'],
+    keywords: ['-1', 'down', 'hand', 'thumb', 'thumbs down'],
+    mappedToEmoticons: ['no'],
     skinTone: FluentEmojiSkinTone.mediumLight,
   );
 
@@ -17960,6 +24850,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'thumbs down',
     glyph: '👎🏽',
     svgPath: 'assets/thumbs_down_color_medium.svg',
+    tts: 'thumbs down',
+    fromVersion: '0.6',
+    glyphAsUtfInEmoticons: ['no'],
+    keywords: ['-1', 'down', 'hand', 'thumb', 'thumbs down'],
+    mappedToEmoticons: ['no'],
     skinTone: FluentEmojiSkinTone.medium,
   );
 
@@ -17970,6 +24865,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'thumbs down',
     glyph: '👎🏾',
     svgPath: 'assets/thumbs_down_color_medium-dark.svg',
+    tts: 'thumbs down',
+    fromVersion: '0.6',
+    glyphAsUtfInEmoticons: ['no'],
+    keywords: ['-1', 'down', 'hand', 'thumb', 'thumbs down'],
+    mappedToEmoticons: ['no'],
     skinTone: FluentEmojiSkinTone.mediumDark,
   );
 
@@ -17980,6 +24880,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'thumbs down',
     glyph: '👎🏿',
     svgPath: 'assets/thumbs_down_color_dark.svg',
+    tts: 'thumbs down',
+    fromVersion: '0.6',
+    glyphAsUtfInEmoticons: ['no'],
+    keywords: ['-1', 'down', 'hand', 'thumb', 'thumbs down'],
+    mappedToEmoticons: ['no'],
     skinTone: FluentEmojiSkinTone.dark,
   );
 
@@ -17996,6 +24901,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'thumbs up',
     glyph: '👍',
     svgPath: 'assets/thumbs_up_color_default.svg',
+    tts: 'thumbs up',
+    fromVersion: '0.6',
+    glyphAsUtfInEmoticons: ['yes'],
+    keywords: ['+1', 'hand', 'thumb', 'thumbs up', 'up'],
+    mappedToEmoticons: ['yes'],
     skinToneLight: _thumbsUpLight,
     skinToneMediumLight: _thumbsUpMediumLight,
     skinToneMedium: _thumbsUpMedium,
@@ -18010,6 +24920,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'thumbs up',
     glyph: '👍🏻',
     svgPath: 'assets/thumbs_up_color_light.svg',
+    tts: 'thumbs up',
+    fromVersion: '0.6',
+    glyphAsUtfInEmoticons: ['yes'],
+    keywords: ['+1', 'hand', 'thumb', 'thumbs up', 'up'],
+    mappedToEmoticons: ['yes'],
     skinTone: FluentEmojiSkinTone.light,
   );
 
@@ -18020,6 +24935,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'thumbs up',
     glyph: '👍🏼',
     svgPath: 'assets/thumbs_up_color_medium-light.svg',
+    tts: 'thumbs up',
+    fromVersion: '0.6',
+    glyphAsUtfInEmoticons: ['yes'],
+    keywords: ['+1', 'hand', 'thumb', 'thumbs up', 'up'],
+    mappedToEmoticons: ['yes'],
     skinTone: FluentEmojiSkinTone.mediumLight,
   );
 
@@ -18030,6 +24950,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'thumbs up',
     glyph: '👍🏽',
     svgPath: 'assets/thumbs_up_color_medium.svg',
+    tts: 'thumbs up',
+    fromVersion: '0.6',
+    glyphAsUtfInEmoticons: ['yes'],
+    keywords: ['+1', 'hand', 'thumb', 'thumbs up', 'up'],
+    mappedToEmoticons: ['yes'],
     skinTone: FluentEmojiSkinTone.medium,
   );
 
@@ -18040,6 +24965,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'thumbs up',
     glyph: '👍🏾',
     svgPath: 'assets/thumbs_up_color_medium-dark.svg',
+    tts: 'thumbs up',
+    fromVersion: '0.6',
+    glyphAsUtfInEmoticons: ['yes'],
+    keywords: ['+1', 'hand', 'thumb', 'thumbs up', 'up'],
+    mappedToEmoticons: ['yes'],
     skinTone: FluentEmojiSkinTone.mediumDark,
   );
 
@@ -18050,6 +24980,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'thumbs up',
     glyph: '👍🏿',
     svgPath: 'assets/thumbs_up_color_dark.svg',
+    tts: 'thumbs up',
+    fromVersion: '0.6',
+    glyphAsUtfInEmoticons: ['yes'],
+    keywords: ['+1', 'hand', 'thumb', 'thumbs up', 'up'],
+    mappedToEmoticons: ['yes'],
     skinTone: FluentEmojiSkinTone.dark,
   );
 
@@ -18060,6 +24995,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'tongue',
     glyph: '👅',
     svgPath: 'assets/tongue_color.svg',
+    tts: 'tongue',
+    fromVersion: '0.6',
+    glyphAsUtfInEmoticons: ['1f445_tongue'],
+    keywords: ['body', 'tongue'],
+    mappedToEmoticons: ['1f445_tongue'],
     skinTone: FluentEmojiSkinTone.standard,
   );
 
@@ -18070,6 +25010,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'tooth',
     glyph: '🦷',
     svgPath: 'assets/tooth_color.svg',
+    tts: 'tooth',
+    fromVersion: '11.0',
+    glyphAsUtfInEmoticons: ['1f9b7_tooth'],
+    keywords: ['dentist', 'tooth'],
+    mappedToEmoticons: ['1f9b7_tooth'],
     skinTone: FluentEmojiSkinTone.standard,
   );
 
@@ -18080,6 +25025,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'troll',
     glyph: '🧌',
     svgPath: 'assets/troll_color.svg',
+    tts: 'troll',
+    fromVersion: '14.0',
+    glyphAsUtfInEmoticons: null,
+    keywords: ['fairy tale', 'fantasy', 'monster', 'troll'],
+    mappedToEmoticons: null,
     skinTone: FluentEmojiSkinTone.standard,
   );
 
@@ -18096,6 +25046,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'vampire',
     glyph: '🧛',
     svgPath: 'assets/person_vampire_color_default.svg',
+    tts: 'vampire',
+    fromVersion: '5.0',
+    glyphAsUtfInEmoticons: ['ladyvampire'],
+    keywords: ['Dracula', 'undead', 'vampire'],
+    mappedToEmoticons: ['vampire'],
     skinToneLight: _vampireLight,
     skinToneMediumLight: _vampireMediumLight,
     skinToneMedium: _vampireMedium,
@@ -18110,6 +25065,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'vampire',
     glyph: '🧛🏻',
     svgPath: 'assets/person_vampire_color_light.svg',
+    tts: 'vampire',
+    fromVersion: '5.0',
+    glyphAsUtfInEmoticons: ['ladyvampire'],
+    keywords: ['Dracula', 'undead', 'vampire'],
+    mappedToEmoticons: ['vampire'],
     skinTone: FluentEmojiSkinTone.light,
   );
 
@@ -18120,6 +25080,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'vampire',
     glyph: '🧛🏼',
     svgPath: 'assets/person_vampire_color_medium-light.svg',
+    tts: 'vampire',
+    fromVersion: '5.0',
+    glyphAsUtfInEmoticons: ['ladyvampire'],
+    keywords: ['Dracula', 'undead', 'vampire'],
+    mappedToEmoticons: ['vampire'],
     skinTone: FluentEmojiSkinTone.mediumLight,
   );
 
@@ -18130,6 +25095,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'vampire',
     glyph: '🧛🏽',
     svgPath: 'assets/person_vampire_color_medium.svg',
+    tts: 'vampire',
+    fromVersion: '5.0',
+    glyphAsUtfInEmoticons: ['ladyvampire'],
+    keywords: ['Dracula', 'undead', 'vampire'],
+    mappedToEmoticons: ['vampire'],
     skinTone: FluentEmojiSkinTone.medium,
   );
 
@@ -18140,6 +25110,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'vampire',
     glyph: '🧛🏾',
     svgPath: 'assets/person_vampire_color_medium-dark.svg',
+    tts: 'vampire',
+    fromVersion: '5.0',
+    glyphAsUtfInEmoticons: ['ladyvampire'],
+    keywords: ['Dracula', 'undead', 'vampire'],
+    mappedToEmoticons: ['vampire'],
     skinTone: FluentEmojiSkinTone.mediumDark,
   );
 
@@ -18150,6 +25125,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'vampire',
     glyph: '🧛🏿',
     svgPath: 'assets/person_vampire_color_dark.svg',
+    tts: 'vampire',
+    fromVersion: '5.0',
+    glyphAsUtfInEmoticons: ['ladyvampire'],
+    keywords: ['Dracula', 'undead', 'vampire'],
+    mappedToEmoticons: ['vampire'],
     skinTone: FluentEmojiSkinTone.dark,
   );
 
@@ -18166,6 +25146,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'victory hand',
     glyph: '✌️',
     svgPath: 'assets/victory_hand_color_default.svg',
+    tts: 'victory hand',
+    fromVersion: '0.6',
+    glyphAsUtfInEmoticons: null,
+    keywords: ['hand', 'v', 'victory'],
+    mappedToEmoticons: ['victory'],
     skinToneLight: _victoryHandLight,
     skinToneMediumLight: _victoryHandMediumLight,
     skinToneMedium: _victoryHandMedium,
@@ -18180,6 +25165,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'victory hand',
     glyph: '✌🏻',
     svgPath: 'assets/victory_hand_color_light.svg',
+    tts: 'victory hand',
+    fromVersion: '0.6',
+    glyphAsUtfInEmoticons: null,
+    keywords: ['hand', 'v', 'victory'],
+    mappedToEmoticons: ['victory'],
     skinTone: FluentEmojiSkinTone.light,
   );
 
@@ -18190,6 +25180,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'victory hand',
     glyph: '✌🏼',
     svgPath: 'assets/victory_hand_color_medium-light.svg',
+    tts: 'victory hand',
+    fromVersion: '0.6',
+    glyphAsUtfInEmoticons: null,
+    keywords: ['hand', 'v', 'victory'],
+    mappedToEmoticons: ['victory'],
     skinTone: FluentEmojiSkinTone.mediumLight,
   );
 
@@ -18200,6 +25195,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'victory hand',
     glyph: '✌🏽',
     svgPath: 'assets/victory_hand_color_medium.svg',
+    tts: 'victory hand',
+    fromVersion: '0.6',
+    glyphAsUtfInEmoticons: null,
+    keywords: ['hand', 'v', 'victory'],
+    mappedToEmoticons: ['victory'],
     skinTone: FluentEmojiSkinTone.medium,
   );
 
@@ -18210,6 +25210,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'victory hand',
     glyph: '✌🏾',
     svgPath: 'assets/victory_hand_color_medium-dark.svg',
+    tts: 'victory hand',
+    fromVersion: '0.6',
+    glyphAsUtfInEmoticons: null,
+    keywords: ['hand', 'v', 'victory'],
+    mappedToEmoticons: ['victory'],
     skinTone: FluentEmojiSkinTone.mediumDark,
   );
 
@@ -18220,6 +25225,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'victory hand',
     glyph: '✌🏿',
     svgPath: 'assets/victory_hand_color_dark.svg',
+    tts: 'victory hand',
+    fromVersion: '0.6',
+    glyphAsUtfInEmoticons: null,
+    keywords: ['hand', 'v', 'victory'],
+    mappedToEmoticons: ['victory'],
     skinTone: FluentEmojiSkinTone.dark,
   );
 
@@ -18236,6 +25246,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'vulcan salute',
     glyph: '🖖',
     svgPath: 'assets/vulcan_salute_color_default.svg',
+    tts: 'vulcan salute',
+    fromVersion: '1.0',
+    glyphAsUtfInEmoticons: ['vulcansalute'],
+    keywords: ['finger', 'hand', 'spock', 'vulcan', 'vulcan salute'],
+    mappedToEmoticons: ['vulcansalute'],
     skinToneLight: _vulcanSaluteLight,
     skinToneMediumLight: _vulcanSaluteMediumLight,
     skinToneMedium: _vulcanSaluteMedium,
@@ -18250,6 +25265,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'vulcan salute',
     glyph: '🖖🏻',
     svgPath: 'assets/vulcan_salute_color_light.svg',
+    tts: 'vulcan salute',
+    fromVersion: '1.0',
+    glyphAsUtfInEmoticons: ['vulcansalute'],
+    keywords: ['finger', 'hand', 'spock', 'vulcan', 'vulcan salute'],
+    mappedToEmoticons: ['vulcansalute'],
     skinTone: FluentEmojiSkinTone.light,
   );
 
@@ -18260,6 +25280,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'vulcan salute',
     glyph: '🖖🏼',
     svgPath: 'assets/vulcan_salute_color_medium-light.svg',
+    tts: 'vulcan salute',
+    fromVersion: '1.0',
+    glyphAsUtfInEmoticons: ['vulcansalute'],
+    keywords: ['finger', 'hand', 'spock', 'vulcan', 'vulcan salute'],
+    mappedToEmoticons: ['vulcansalute'],
     skinTone: FluentEmojiSkinTone.mediumLight,
   );
 
@@ -18270,6 +25295,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'vulcan salute',
     glyph: '🖖🏽',
     svgPath: 'assets/vulcan_salute_color_medium.svg',
+    tts: 'vulcan salute',
+    fromVersion: '1.0',
+    glyphAsUtfInEmoticons: ['vulcansalute'],
+    keywords: ['finger', 'hand', 'spock', 'vulcan', 'vulcan salute'],
+    mappedToEmoticons: ['vulcansalute'],
     skinTone: FluentEmojiSkinTone.medium,
   );
 
@@ -18280,6 +25310,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'vulcan salute',
     glyph: '🖖🏾',
     svgPath: 'assets/vulcan_salute_color_medium-dark.svg',
+    tts: 'vulcan salute',
+    fromVersion: '1.0',
+    glyphAsUtfInEmoticons: ['vulcansalute'],
+    keywords: ['finger', 'hand', 'spock', 'vulcan', 'vulcan salute'],
+    mappedToEmoticons: ['vulcansalute'],
     skinTone: FluentEmojiSkinTone.mediumDark,
   );
 
@@ -18290,6 +25325,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'vulcan salute',
     glyph: '🖖🏿',
     svgPath: 'assets/vulcan_salute_color_dark.svg',
+    tts: 'vulcan salute',
+    fromVersion: '1.0',
+    glyphAsUtfInEmoticons: ['vulcansalute'],
+    keywords: ['finger', 'hand', 'spock', 'vulcan', 'vulcan salute'],
+    mappedToEmoticons: ['vulcansalute'],
     skinTone: FluentEmojiSkinTone.dark,
   );
 
@@ -18306,6 +25346,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'waving hand',
     glyph: '👋',
     svgPath: 'assets/waving_hand_color_default.svg',
+    tts: 'waving hand',
+    fromVersion: '0.6',
+    glyphAsUtfInEmoticons: ['1f44b_wavinghand', 'hi'],
+    keywords: ['hand', 'wave', 'waving'],
+    mappedToEmoticons: ['1f44b_wavinghand'],
     skinToneLight: _wavingHandLight,
     skinToneMediumLight: _wavingHandMediumLight,
     skinToneMedium: _wavingHandMedium,
@@ -18320,6 +25365,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'waving hand',
     glyph: '👋🏻',
     svgPath: 'assets/waving_hand_color_light.svg',
+    tts: 'waving hand',
+    fromVersion: '0.6',
+    glyphAsUtfInEmoticons: ['1f44b_wavinghand', 'hi'],
+    keywords: ['hand', 'wave', 'waving'],
+    mappedToEmoticons: ['1f44b_wavinghand'],
     skinTone: FluentEmojiSkinTone.light,
   );
 
@@ -18330,6 +25380,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'waving hand',
     glyph: '👋🏼',
     svgPath: 'assets/waving_hand_color_medium-light.svg',
+    tts: 'waving hand',
+    fromVersion: '0.6',
+    glyphAsUtfInEmoticons: ['1f44b_wavinghand', 'hi'],
+    keywords: ['hand', 'wave', 'waving'],
+    mappedToEmoticons: ['1f44b_wavinghand'],
     skinTone: FluentEmojiSkinTone.mediumLight,
   );
 
@@ -18340,6 +25395,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'waving hand',
     glyph: '👋🏽',
     svgPath: 'assets/waving_hand_color_medium.svg',
+    tts: 'waving hand',
+    fromVersion: '0.6',
+    glyphAsUtfInEmoticons: ['1f44b_wavinghand', 'hi'],
+    keywords: ['hand', 'wave', 'waving'],
+    mappedToEmoticons: ['1f44b_wavinghand'],
     skinTone: FluentEmojiSkinTone.medium,
   );
 
@@ -18350,6 +25410,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'waving hand',
     glyph: '👋🏾',
     svgPath: 'assets/waving_hand_color_medium-dark.svg',
+    tts: 'waving hand',
+    fromVersion: '0.6',
+    glyphAsUtfInEmoticons: ['1f44b_wavinghand', 'hi'],
+    keywords: ['hand', 'wave', 'waving'],
+    mappedToEmoticons: ['1f44b_wavinghand'],
     skinTone: FluentEmojiSkinTone.mediumDark,
   );
 
@@ -18360,6 +25425,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'waving hand',
     glyph: '👋🏿',
     svgPath: 'assets/waving_hand_color_dark.svg',
+    tts: 'waving hand',
+    fromVersion: '0.6',
+    glyphAsUtfInEmoticons: ['1f44b_wavinghand', 'hi'],
+    keywords: ['hand', 'wave', 'waving'],
+    mappedToEmoticons: ['1f44b_wavinghand'],
     skinTone: FluentEmojiSkinTone.dark,
   );
 
@@ -18376,6 +25446,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'woman',
     glyph: '👩',
     svgPath: 'assets/woman_color_default.svg',
+    tts: 'woman',
+    fromVersion: '0.6',
+    glyphAsUtfInEmoticons: ['smilewoman', 'woman', 'woman_student', 'womanstudent'],
+    keywords: ['adult', 'woman'],
+    mappedToEmoticons: ['smilewoman'],
     skinToneLight: _womanLight,
     skinToneMediumLight: _womanMediumLight,
     skinToneMedium: _womanMedium,
@@ -18390,6 +25465,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'woman',
     glyph: '👩🏻',
     svgPath: 'assets/woman_color_light.svg',
+    tts: 'woman',
+    fromVersion: '0.6',
+    glyphAsUtfInEmoticons: ['smilewoman', 'woman', 'woman_student', 'womanstudent'],
+    keywords: ['adult', 'woman'],
+    mappedToEmoticons: ['smilewoman'],
     skinTone: FluentEmojiSkinTone.light,
   );
 
@@ -18400,6 +25480,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'woman',
     glyph: '👩🏼',
     svgPath: 'assets/woman_color_medium-light.svg',
+    tts: 'woman',
+    fromVersion: '0.6',
+    glyphAsUtfInEmoticons: ['smilewoman', 'woman', 'woman_student', 'womanstudent'],
+    keywords: ['adult', 'woman'],
+    mappedToEmoticons: ['smilewoman'],
     skinTone: FluentEmojiSkinTone.mediumLight,
   );
 
@@ -18410,6 +25495,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'woman',
     glyph: '👩🏽',
     svgPath: 'assets/woman_color_medium.svg',
+    tts: 'woman',
+    fromVersion: '0.6',
+    glyphAsUtfInEmoticons: ['smilewoman', 'woman', 'woman_student', 'womanstudent'],
+    keywords: ['adult', 'woman'],
+    mappedToEmoticons: ['smilewoman'],
     skinTone: FluentEmojiSkinTone.medium,
   );
 
@@ -18420,6 +25510,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'woman',
     glyph: '👩🏾',
     svgPath: 'assets/woman_color_medium-dark.svg',
+    tts: 'woman',
+    fromVersion: '0.6',
+    glyphAsUtfInEmoticons: ['smilewoman', 'woman', 'woman_student', 'womanstudent'],
+    keywords: ['adult', 'woman'],
+    mappedToEmoticons: ['smilewoman'],
     skinTone: FluentEmojiSkinTone.mediumDark,
   );
 
@@ -18430,6 +25525,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'woman',
     glyph: '👩🏿',
     svgPath: 'assets/woman_color_dark.svg',
+    tts: 'woman',
+    fromVersion: '0.6',
+    glyphAsUtfInEmoticons: ['smilewoman', 'woman', 'woman_student', 'womanstudent'],
+    keywords: ['adult', 'woman'],
+    mappedToEmoticons: ['smilewoman'],
     skinTone: FluentEmojiSkinTone.dark,
   );
 
@@ -18446,6 +25546,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'woman artist',
     glyph: '👩‍🎨',
     svgPath: 'assets/woman_artist_color_default.svg',
+    tts: 'woman artist',
+    fromVersion: '4.0',
+    glyphAsUtfInEmoticons: ['womanartist'],
+    keywords: ['artist', 'palette', 'woman'],
+    mappedToEmoticons: ['womanartist'],
     skinToneLight: _womanArtistLight,
     skinToneMediumLight: _womanArtistMediumLight,
     skinToneMedium: _womanArtistMedium,
@@ -18460,6 +25565,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'woman artist',
     glyph: '👩🏻‍🎨',
     svgPath: 'assets/woman_artist_color_light.svg',
+    tts: 'woman artist',
+    fromVersion: '4.0',
+    glyphAsUtfInEmoticons: ['womanartist'],
+    keywords: ['artist', 'palette', 'woman'],
+    mappedToEmoticons: ['womanartist'],
     skinTone: FluentEmojiSkinTone.light,
   );
 
@@ -18470,6 +25580,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'woman artist',
     glyph: '👩🏼‍🎨',
     svgPath: 'assets/woman_artist_color_medium-light.svg',
+    tts: 'woman artist',
+    fromVersion: '4.0',
+    glyphAsUtfInEmoticons: ['womanartist'],
+    keywords: ['artist', 'palette', 'woman'],
+    mappedToEmoticons: ['womanartist'],
     skinTone: FluentEmojiSkinTone.mediumLight,
   );
 
@@ -18480,6 +25595,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'woman artist',
     glyph: '👩🏽‍🎨',
     svgPath: 'assets/woman_artist_color_medium.svg',
+    tts: 'woman artist',
+    fromVersion: '4.0',
+    glyphAsUtfInEmoticons: ['womanartist'],
+    keywords: ['artist', 'palette', 'woman'],
+    mappedToEmoticons: ['womanartist'],
     skinTone: FluentEmojiSkinTone.medium,
   );
 
@@ -18490,6 +25610,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'woman artist',
     glyph: '👩🏾‍🎨',
     svgPath: 'assets/woman_artist_color_medium-dark.svg',
+    tts: 'woman artist',
+    fromVersion: '4.0',
+    glyphAsUtfInEmoticons: ['womanartist'],
+    keywords: ['artist', 'palette', 'woman'],
+    mappedToEmoticons: ['womanartist'],
     skinTone: FluentEmojiSkinTone.mediumDark,
   );
 
@@ -18500,6 +25625,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'woman artist',
     glyph: '👩🏿‍🎨',
     svgPath: 'assets/woman_artist_color_dark.svg',
+    tts: 'woman artist',
+    fromVersion: '4.0',
+    glyphAsUtfInEmoticons: ['womanartist'],
+    keywords: ['artist', 'palette', 'woman'],
+    mappedToEmoticons: ['womanartist'],
     skinTone: FluentEmojiSkinTone.dark,
   );
 
@@ -18516,6 +25646,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'woman astronaut',
     glyph: '👩‍🚀',
     svgPath: 'assets/woman_astronaut_color_default.svg',
+    tts: 'woman astronaut',
+    fromVersion: '4.0',
+    glyphAsUtfInEmoticons: ['womanastronaut'],
+    keywords: ['astronaut', 'rocket', 'woman'],
+    mappedToEmoticons: ['womanastronaut'],
     skinToneLight: _womanAstronautLight,
     skinToneMediumLight: _womanAstronautMediumLight,
     skinToneMedium: _womanAstronautMedium,
@@ -18530,6 +25665,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'woman astronaut',
     glyph: '👩🏻‍🚀',
     svgPath: 'assets/woman_astronaut_color_light.svg',
+    tts: 'woman astronaut',
+    fromVersion: '4.0',
+    glyphAsUtfInEmoticons: ['womanastronaut'],
+    keywords: ['astronaut', 'rocket', 'woman'],
+    mappedToEmoticons: ['womanastronaut'],
     skinTone: FluentEmojiSkinTone.light,
   );
 
@@ -18540,6 +25680,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'woman astronaut',
     glyph: '👩🏼‍🚀',
     svgPath: 'assets/woman_astronaut_color_medium-light.svg',
+    tts: 'woman astronaut',
+    fromVersion: '4.0',
+    glyphAsUtfInEmoticons: ['womanastronaut'],
+    keywords: ['astronaut', 'rocket', 'woman'],
+    mappedToEmoticons: ['womanastronaut'],
     skinTone: FluentEmojiSkinTone.mediumLight,
   );
 
@@ -18550,6 +25695,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'woman astronaut',
     glyph: '👩🏽‍🚀',
     svgPath: 'assets/woman_astronaut_color_medium.svg',
+    tts: 'woman astronaut',
+    fromVersion: '4.0',
+    glyphAsUtfInEmoticons: ['womanastronaut'],
+    keywords: ['astronaut', 'rocket', 'woman'],
+    mappedToEmoticons: ['womanastronaut'],
     skinTone: FluentEmojiSkinTone.medium,
   );
 
@@ -18560,6 +25710,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'woman astronaut',
     glyph: '👩🏾‍🚀',
     svgPath: 'assets/woman_astronaut_color_medium-dark.svg',
+    tts: 'woman astronaut',
+    fromVersion: '4.0',
+    glyphAsUtfInEmoticons: ['womanastronaut'],
+    keywords: ['astronaut', 'rocket', 'woman'],
+    mappedToEmoticons: ['womanastronaut'],
     skinTone: FluentEmojiSkinTone.mediumDark,
   );
 
@@ -18570,6 +25725,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'woman astronaut',
     glyph: '👩🏿‍🚀',
     svgPath: 'assets/woman_astronaut_color_dark.svg',
+    tts: 'woman astronaut',
+    fromVersion: '4.0',
+    glyphAsUtfInEmoticons: ['womanastronaut'],
+    keywords: ['astronaut', 'rocket', 'woman'],
+    mappedToEmoticons: ['womanastronaut'],
     skinTone: FluentEmojiSkinTone.dark,
   );
 
@@ -18586,6 +25746,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'woman biking',
     glyph: '🚴‍♀️',
     svgPath: 'assets/woman_biking_color_default.svg',
+    tts: 'woman biking',
+    fromVersion: '4.0',
+    glyphAsUtfInEmoticons: ['womanridingbike'],
+    keywords: ['bicycle', 'biking', 'cyclist', 'woman'],
+    mappedToEmoticons: ['womanridingbike'],
     skinToneLight: _womanBikingLight,
     skinToneMediumLight: _womanBikingMediumLight,
     skinToneMedium: _womanBikingMedium,
@@ -18600,6 +25765,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'woman biking',
     glyph: '🚴🏻‍♀️',
     svgPath: 'assets/woman_biking_color_light.svg',
+    tts: 'woman biking',
+    fromVersion: '4.0',
+    glyphAsUtfInEmoticons: ['womanridingbike'],
+    keywords: ['bicycle', 'biking', 'cyclist', 'woman'],
+    mappedToEmoticons: ['womanridingbike'],
     skinTone: FluentEmojiSkinTone.light,
   );
 
@@ -18610,6 +25780,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'woman biking',
     glyph: '🚴🏼‍♀️',
     svgPath: 'assets/woman_biking_color_medium-light.svg',
+    tts: 'woman biking',
+    fromVersion: '4.0',
+    glyphAsUtfInEmoticons: ['womanridingbike'],
+    keywords: ['bicycle', 'biking', 'cyclist', 'woman'],
+    mappedToEmoticons: ['womanridingbike'],
     skinTone: FluentEmojiSkinTone.mediumLight,
   );
 
@@ -18620,6 +25795,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'woman biking',
     glyph: '🚴🏽‍♀️',
     svgPath: 'assets/woman_biking_color_medium.svg',
+    tts: 'woman biking',
+    fromVersion: '4.0',
+    glyphAsUtfInEmoticons: ['womanridingbike'],
+    keywords: ['bicycle', 'biking', 'cyclist', 'woman'],
+    mappedToEmoticons: ['womanridingbike'],
     skinTone: FluentEmojiSkinTone.medium,
   );
 
@@ -18630,6 +25810,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'woman biking',
     glyph: '🚴🏾‍♀️',
     svgPath: 'assets/woman_biking_color_medium-dark.svg',
+    tts: 'woman biking',
+    fromVersion: '4.0',
+    glyphAsUtfInEmoticons: ['womanridingbike'],
+    keywords: ['bicycle', 'biking', 'cyclist', 'woman'],
+    mappedToEmoticons: ['womanridingbike'],
     skinTone: FluentEmojiSkinTone.mediumDark,
   );
 
@@ -18640,6 +25825,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'woman biking',
     glyph: '🚴🏿‍♀️',
     svgPath: 'assets/woman_biking_color_dark.svg',
+    tts: 'woman biking',
+    fromVersion: '4.0',
+    glyphAsUtfInEmoticons: ['womanridingbike'],
+    keywords: ['bicycle', 'biking', 'cyclist', 'woman'],
+    mappedToEmoticons: ['womanridingbike'],
     skinTone: FluentEmojiSkinTone.dark,
   );
 
@@ -18656,6 +25846,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'woman bouncing ball',
     glyph: '⛹️‍♀️',
     svgPath: 'assets/woman_bouncing_ball_color_default.svg',
+    tts: 'woman bouncing ball',
+    fromVersion: '4.0',
+    glyphAsUtfInEmoticons: ['woman_bouncing_ball'],
+    keywords: ['ball', 'woman', 'woman bouncing ball'],
+    mappedToEmoticons: ['woman_bouncing_ball'],
     skinToneLight: _womanBouncingBallLight,
     skinToneMediumLight: _womanBouncingBallMediumLight,
     skinToneMedium: _womanBouncingBallMedium,
@@ -18670,6 +25865,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'woman bouncing ball',
     glyph: '⛹🏻‍♀️',
     svgPath: 'assets/woman_bouncing_ball_color_light.svg',
+    tts: 'woman bouncing ball',
+    fromVersion: '4.0',
+    glyphAsUtfInEmoticons: ['woman_bouncing_ball'],
+    keywords: ['ball', 'woman', 'woman bouncing ball'],
+    mappedToEmoticons: ['woman_bouncing_ball'],
     skinTone: FluentEmojiSkinTone.light,
   );
 
@@ -18680,6 +25880,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'woman bouncing ball',
     glyph: '⛹🏼‍♀️',
     svgPath: 'assets/woman_bouncing_ball_color_medium-light.svg',
+    tts: 'woman bouncing ball',
+    fromVersion: '4.0',
+    glyphAsUtfInEmoticons: ['woman_bouncing_ball'],
+    keywords: ['ball', 'woman', 'woman bouncing ball'],
+    mappedToEmoticons: ['woman_bouncing_ball'],
     skinTone: FluentEmojiSkinTone.mediumLight,
   );
 
@@ -18690,6 +25895,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'woman bouncing ball',
     glyph: '⛹🏽‍♀️',
     svgPath: 'assets/woman_bouncing_ball_color_medium.svg',
+    tts: 'woman bouncing ball',
+    fromVersion: '4.0',
+    glyphAsUtfInEmoticons: ['woman_bouncing_ball'],
+    keywords: ['ball', 'woman', 'woman bouncing ball'],
+    mappedToEmoticons: ['woman_bouncing_ball'],
     skinTone: FluentEmojiSkinTone.medium,
   );
 
@@ -18700,6 +25910,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'woman bouncing ball',
     glyph: '⛹🏾‍♀️',
     svgPath: 'assets/woman_bouncing_ball_color_medium-dark.svg',
+    tts: 'woman bouncing ball',
+    fromVersion: '4.0',
+    glyphAsUtfInEmoticons: ['woman_bouncing_ball'],
+    keywords: ['ball', 'woman', 'woman bouncing ball'],
+    mappedToEmoticons: ['woman_bouncing_ball'],
     skinTone: FluentEmojiSkinTone.mediumDark,
   );
 
@@ -18710,6 +25925,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'woman bouncing ball',
     glyph: '⛹🏿‍♀️',
     svgPath: 'assets/woman_bouncing_ball_color_dark.svg',
+    tts: 'woman bouncing ball',
+    fromVersion: '4.0',
+    glyphAsUtfInEmoticons: ['woman_bouncing_ball'],
+    keywords: ['ball', 'woman', 'woman bouncing ball'],
+    mappedToEmoticons: ['woman_bouncing_ball'],
     skinTone: FluentEmojiSkinTone.dark,
   );
 
@@ -18726,6 +25946,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'woman bowing',
     glyph: '🙇‍♀️',
     svgPath: 'assets/woman_bowing_color_default.svg',
+    tts: 'woman bowing',
+    fromVersion: '4.0',
+    glyphAsUtfInEmoticons: ['thanks'],
+    keywords: ['apology', 'bowing', 'favor', 'gesture', 'sorry', 'woman'],
+    mappedToEmoticons: ['thanks'],
     skinToneLight: _womanBowingLight,
     skinToneMediumLight: _womanBowingMediumLight,
     skinToneMedium: _womanBowingMedium,
@@ -18740,6 +25965,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'woman bowing',
     glyph: '🙇🏻‍♀️',
     svgPath: 'assets/woman_bowing_color_light.svg',
+    tts: 'woman bowing',
+    fromVersion: '4.0',
+    glyphAsUtfInEmoticons: ['thanks'],
+    keywords: ['apology', 'bowing', 'favor', 'gesture', 'sorry', 'woman'],
+    mappedToEmoticons: ['thanks'],
     skinTone: FluentEmojiSkinTone.light,
   );
 
@@ -18750,6 +25980,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'woman bowing',
     glyph: '🙇🏼‍♀️',
     svgPath: 'assets/woman_bowing_color_medium-light.svg',
+    tts: 'woman bowing',
+    fromVersion: '4.0',
+    glyphAsUtfInEmoticons: ['thanks'],
+    keywords: ['apology', 'bowing', 'favor', 'gesture', 'sorry', 'woman'],
+    mappedToEmoticons: ['thanks'],
     skinTone: FluentEmojiSkinTone.mediumLight,
   );
 
@@ -18760,6 +25995,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'woman bowing',
     glyph: '🙇🏽‍♀️',
     svgPath: 'assets/woman_bowing_color_medium.svg',
+    tts: 'woman bowing',
+    fromVersion: '4.0',
+    glyphAsUtfInEmoticons: ['thanks'],
+    keywords: ['apology', 'bowing', 'favor', 'gesture', 'sorry', 'woman'],
+    mappedToEmoticons: ['thanks'],
     skinTone: FluentEmojiSkinTone.medium,
   );
 
@@ -18770,6 +26010,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'woman bowing',
     glyph: '🙇🏾‍♀️',
     svgPath: 'assets/woman_bowing_color_medium-dark.svg',
+    tts: 'woman bowing',
+    fromVersion: '4.0',
+    glyphAsUtfInEmoticons: ['thanks'],
+    keywords: ['apology', 'bowing', 'favor', 'gesture', 'sorry', 'woman'],
+    mappedToEmoticons: ['thanks'],
     skinTone: FluentEmojiSkinTone.mediumDark,
   );
 
@@ -18780,6 +26025,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'woman bowing',
     glyph: '🙇🏿‍♀️',
     svgPath: 'assets/woman_bowing_color_dark.svg',
+    tts: 'woman bowing',
+    fromVersion: '4.0',
+    glyphAsUtfInEmoticons: ['thanks'],
+    keywords: ['apology', 'bowing', 'favor', 'gesture', 'sorry', 'woman'],
+    mappedToEmoticons: ['thanks'],
     skinTone: FluentEmojiSkinTone.dark,
   );
 
@@ -18796,6 +26046,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'woman cartwheeling',
     glyph: '🤸‍♀️',
     svgPath: 'assets/woman_cartwheeling_color_default.svg',
+    tts: 'woman cartwheeling',
+    fromVersion: '4.0',
+    glyphAsUtfInEmoticons: ['woman_cartwheeling'],
+    keywords: ['cartwheel', 'gymnastics', 'woman', 'woman cartwheeling'],
+    mappedToEmoticons: ['woman_cartwheeling'],
     skinToneLight: _womanCartwheelingLight,
     skinToneMediumLight: _womanCartwheelingMediumLight,
     skinToneMedium: _womanCartwheelingMedium,
@@ -18810,6 +26065,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'woman cartwheeling',
     glyph: '🤸🏻‍♀️',
     svgPath: 'assets/woman_cartwheeling_color_light.svg',
+    tts: 'woman cartwheeling',
+    fromVersion: '4.0',
+    glyphAsUtfInEmoticons: ['woman_cartwheeling'],
+    keywords: ['cartwheel', 'gymnastics', 'woman', 'woman cartwheeling'],
+    mappedToEmoticons: ['woman_cartwheeling'],
     skinTone: FluentEmojiSkinTone.light,
   );
 
@@ -18820,6 +26080,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'woman cartwheeling',
     glyph: '🤸🏼‍♀️',
     svgPath: 'assets/woman_cartwheeling_color_medium-light.svg',
+    tts: 'woman cartwheeling',
+    fromVersion: '4.0',
+    glyphAsUtfInEmoticons: ['woman_cartwheeling'],
+    keywords: ['cartwheel', 'gymnastics', 'woman', 'woman cartwheeling'],
+    mappedToEmoticons: ['woman_cartwheeling'],
     skinTone: FluentEmojiSkinTone.mediumLight,
   );
 
@@ -18830,6 +26095,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'woman cartwheeling',
     glyph: '🤸🏽‍♀️',
     svgPath: 'assets/woman_cartwheeling_color_medium.svg',
+    tts: 'woman cartwheeling',
+    fromVersion: '4.0',
+    glyphAsUtfInEmoticons: ['woman_cartwheeling'],
+    keywords: ['cartwheel', 'gymnastics', 'woman', 'woman cartwheeling'],
+    mappedToEmoticons: ['woman_cartwheeling'],
     skinTone: FluentEmojiSkinTone.medium,
   );
 
@@ -18840,6 +26110,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'woman cartwheeling',
     glyph: '🤸🏾‍♀️',
     svgPath: 'assets/woman_cartwheeling_color_medium-dark.svg',
+    tts: 'woman cartwheeling',
+    fromVersion: '4.0',
+    glyphAsUtfInEmoticons: ['woman_cartwheeling'],
+    keywords: ['cartwheel', 'gymnastics', 'woman', 'woman cartwheeling'],
+    mappedToEmoticons: ['woman_cartwheeling'],
     skinTone: FluentEmojiSkinTone.mediumDark,
   );
 
@@ -18850,6 +26125,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'woman cartwheeling',
     glyph: '🤸🏿‍♀️',
     svgPath: 'assets/woman_cartwheeling_color_dark.svg',
+    tts: 'woman cartwheeling',
+    fromVersion: '4.0',
+    glyphAsUtfInEmoticons: ['woman_cartwheeling'],
+    keywords: ['cartwheel', 'gymnastics', 'woman', 'woman cartwheeling'],
+    mappedToEmoticons: ['woman_cartwheeling'],
     skinTone: FluentEmojiSkinTone.dark,
   );
 
@@ -18866,6 +26146,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'woman climbing',
     glyph: '🧗‍♀️',
     svgPath: 'assets/woman_climbing_color_default.svg',
+    tts: 'woman climbing',
+    fromVersion: '5.0',
+    glyphAsUtfInEmoticons: ['woman_climbing'],
+    keywords: ['climber', 'woman climbing'],
+    mappedToEmoticons: ['woman_climbing'],
     skinToneLight: _womanClimbingLight,
     skinToneMediumLight: _womanClimbingMediumLight,
     skinToneMedium: _womanClimbingMedium,
@@ -18880,6 +26165,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'woman climbing',
     glyph: '🧗🏻‍♀️',
     svgPath: 'assets/woman_climbing_color_light.svg',
+    tts: 'woman climbing',
+    fromVersion: '5.0',
+    glyphAsUtfInEmoticons: ['woman_climbing'],
+    keywords: ['climber', 'woman climbing'],
+    mappedToEmoticons: ['woman_climbing'],
     skinTone: FluentEmojiSkinTone.light,
   );
 
@@ -18890,6 +26180,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'woman climbing',
     glyph: '🧗🏼‍♀️',
     svgPath: 'assets/woman_climbing_color_medium-light.svg',
+    tts: 'woman climbing',
+    fromVersion: '5.0',
+    glyphAsUtfInEmoticons: ['woman_climbing'],
+    keywords: ['climber', 'woman climbing'],
+    mappedToEmoticons: ['woman_climbing'],
     skinTone: FluentEmojiSkinTone.mediumLight,
   );
 
@@ -18900,6 +26195,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'woman climbing',
     glyph: '🧗🏽‍♀️',
     svgPath: 'assets/woman_climbing_color_medium.svg',
+    tts: 'woman climbing',
+    fromVersion: '5.0',
+    glyphAsUtfInEmoticons: ['woman_climbing'],
+    keywords: ['climber', 'woman climbing'],
+    mappedToEmoticons: ['woman_climbing'],
     skinTone: FluentEmojiSkinTone.medium,
   );
 
@@ -18910,6 +26210,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'woman climbing',
     glyph: '🧗🏾‍♀️',
     svgPath: 'assets/woman_climbing_color_medium-dark.svg',
+    tts: 'woman climbing',
+    fromVersion: '5.0',
+    glyphAsUtfInEmoticons: ['woman_climbing'],
+    keywords: ['climber', 'woman climbing'],
+    mappedToEmoticons: ['woman_climbing'],
     skinTone: FluentEmojiSkinTone.mediumDark,
   );
 
@@ -18920,6 +26225,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'woman climbing',
     glyph: '🧗🏿‍♀️',
     svgPath: 'assets/woman_climbing_color_dark.svg',
+    tts: 'woman climbing',
+    fromVersion: '5.0',
+    glyphAsUtfInEmoticons: ['woman_climbing'],
+    keywords: ['climber', 'woman climbing'],
+    mappedToEmoticons: ['woman_climbing'],
     skinTone: FluentEmojiSkinTone.dark,
   );
 
@@ -18936,6 +26246,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'woman construction worker',
     glyph: '👷‍♀️',
     svgPath: 'assets/woman_construction_worker_color_default.svg',
+    tts: 'woman construction worker',
+    fromVersion: '4.0',
+    glyphAsUtfInEmoticons: ['woman_construction_worker'],
+    keywords: ['construction', 'woman', 'worker'],
+    mappedToEmoticons: ['woman_construction_worker'],
     skinToneLight: _womanConstructionWorkerLight,
     skinToneMediumLight: _womanConstructionWorkerMediumLight,
     skinToneMedium: _womanConstructionWorkerMedium,
@@ -18950,6 +26265,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'woman construction worker',
     glyph: '👷🏻‍♀️',
     svgPath: 'assets/woman_construction_worker_color_light.svg',
+    tts: 'woman construction worker',
+    fromVersion: '4.0',
+    glyphAsUtfInEmoticons: ['woman_construction_worker'],
+    keywords: ['construction', 'woman', 'worker'],
+    mappedToEmoticons: ['woman_construction_worker'],
     skinTone: FluentEmojiSkinTone.light,
   );
 
@@ -18960,6 +26280,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'woman construction worker',
     glyph: '👷🏼‍♀️',
     svgPath: 'assets/woman_construction_worker_color_medium-light.svg',
+    tts: 'woman construction worker',
+    fromVersion: '4.0',
+    glyphAsUtfInEmoticons: ['woman_construction_worker'],
+    keywords: ['construction', 'woman', 'worker'],
+    mappedToEmoticons: ['woman_construction_worker'],
     skinTone: FluentEmojiSkinTone.mediumLight,
   );
 
@@ -18970,6 +26295,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'woman construction worker',
     glyph: '👷🏽‍♀️',
     svgPath: 'assets/woman_construction_worker_color_medium.svg',
+    tts: 'woman construction worker',
+    fromVersion: '4.0',
+    glyphAsUtfInEmoticons: ['woman_construction_worker'],
+    keywords: ['construction', 'woman', 'worker'],
+    mappedToEmoticons: ['woman_construction_worker'],
     skinTone: FluentEmojiSkinTone.medium,
   );
 
@@ -18980,6 +26310,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'woman construction worker',
     glyph: '👷🏾‍♀️',
     svgPath: 'assets/woman_construction_worker_color_medium-dark.svg',
+    tts: 'woman construction worker',
+    fromVersion: '4.0',
+    glyphAsUtfInEmoticons: ['woman_construction_worker'],
+    keywords: ['construction', 'woman', 'worker'],
+    mappedToEmoticons: ['woman_construction_worker'],
     skinTone: FluentEmojiSkinTone.mediumDark,
   );
 
@@ -18990,6 +26325,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'woman construction worker',
     glyph: '👷🏿‍♀️',
     svgPath: 'assets/woman_construction_worker_color_dark.svg',
+    tts: 'woman construction worker',
+    fromVersion: '4.0',
+    glyphAsUtfInEmoticons: ['woman_construction_worker'],
+    keywords: ['construction', 'woman', 'worker'],
+    mappedToEmoticons: ['woman_construction_worker'],
     skinTone: FluentEmojiSkinTone.dark,
   );
 
@@ -19006,6 +26346,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'woman cook',
     glyph: '👩‍🍳',
     svgPath: 'assets/woman_cook_color_default.svg',
+    tts: 'woman cook',
+    fromVersion: '4.0',
+    glyphAsUtfInEmoticons: ['womanchef'],
+    keywords: ['chef', 'cook', 'woman'],
+    mappedToEmoticons: ['womanchef'],
     skinToneLight: _womanCookLight,
     skinToneMediumLight: _womanCookMediumLight,
     skinToneMedium: _womanCookMedium,
@@ -19020,6 +26365,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'woman cook',
     glyph: '👩🏻‍🍳',
     svgPath: 'assets/woman_cook_color_light.svg',
+    tts: 'woman cook',
+    fromVersion: '4.0',
+    glyphAsUtfInEmoticons: ['womanchef'],
+    keywords: ['chef', 'cook', 'woman'],
+    mappedToEmoticons: ['womanchef'],
     skinTone: FluentEmojiSkinTone.light,
   );
 
@@ -19030,6 +26380,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'woman cook',
     glyph: '👩🏼‍🍳',
     svgPath: 'assets/woman_cook_color_medium-light.svg',
+    tts: 'woman cook',
+    fromVersion: '4.0',
+    glyphAsUtfInEmoticons: ['womanchef'],
+    keywords: ['chef', 'cook', 'woman'],
+    mappedToEmoticons: ['womanchef'],
     skinTone: FluentEmojiSkinTone.mediumLight,
   );
 
@@ -19040,6 +26395,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'woman cook',
     glyph: '👩🏽‍🍳',
     svgPath: 'assets/woman_cook_color_medium.svg',
+    tts: 'woman cook',
+    fromVersion: '4.0',
+    glyphAsUtfInEmoticons: ['womanchef'],
+    keywords: ['chef', 'cook', 'woman'],
+    mappedToEmoticons: ['womanchef'],
     skinTone: FluentEmojiSkinTone.medium,
   );
 
@@ -19050,6 +26410,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'woman cook',
     glyph: '👩🏾‍🍳',
     svgPath: 'assets/woman_cook_color_medium-dark.svg',
+    tts: 'woman cook',
+    fromVersion: '4.0',
+    glyphAsUtfInEmoticons: ['womanchef'],
+    keywords: ['chef', 'cook', 'woman'],
+    mappedToEmoticons: ['womanchef'],
     skinTone: FluentEmojiSkinTone.mediumDark,
   );
 
@@ -19060,6 +26425,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'woman cook',
     glyph: '👩🏿‍🍳',
     svgPath: 'assets/woman_cook_color_dark.svg',
+    tts: 'woman cook',
+    fromVersion: '4.0',
+    glyphAsUtfInEmoticons: ['womanchef'],
+    keywords: ['chef', 'cook', 'woman'],
+    mappedToEmoticons: ['womanchef'],
     skinTone: FluentEmojiSkinTone.dark,
   );
 
@@ -19076,6 +26446,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'woman dancing',
     glyph: '💃',
     svgPath: 'assets/woman_dancing_color_default.svg',
+    tts: 'woman dancing',
+    fromVersion: '0.6',
+    glyphAsUtfInEmoticons: ['1f483_womandancing', 'woman_dancing'],
+    keywords: ['dance', 'dancing', 'woman'],
+    mappedToEmoticons: ['1f483_womandancing'],
     skinToneLight: _womanDancingLight,
     skinToneMediumLight: _womanDancingMediumLight,
     skinToneMedium: _womanDancingMedium,
@@ -19090,6 +26465,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'woman dancing',
     glyph: '💃🏻',
     svgPath: 'assets/woman_dancing_color_light.svg',
+    tts: 'woman dancing',
+    fromVersion: '0.6',
+    glyphAsUtfInEmoticons: ['1f483_womandancing', 'woman_dancing'],
+    keywords: ['dance', 'dancing', 'woman'],
+    mappedToEmoticons: ['1f483_womandancing'],
     skinTone: FluentEmojiSkinTone.light,
   );
 
@@ -19100,6 +26480,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'woman dancing',
     glyph: '💃🏼',
     svgPath: 'assets/woman_dancing_color_medium-light.svg',
+    tts: 'woman dancing',
+    fromVersion: '0.6',
+    glyphAsUtfInEmoticons: ['1f483_womandancing', 'woman_dancing'],
+    keywords: ['dance', 'dancing', 'woman'],
+    mappedToEmoticons: ['1f483_womandancing'],
     skinTone: FluentEmojiSkinTone.mediumLight,
   );
 
@@ -19110,6 +26495,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'woman dancing',
     glyph: '💃🏽',
     svgPath: 'assets/woman_dancing_color_medium.svg',
+    tts: 'woman dancing',
+    fromVersion: '0.6',
+    glyphAsUtfInEmoticons: ['1f483_womandancing', 'woman_dancing'],
+    keywords: ['dance', 'dancing', 'woman'],
+    mappedToEmoticons: ['1f483_womandancing'],
     skinTone: FluentEmojiSkinTone.medium,
   );
 
@@ -19120,6 +26510,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'woman dancing',
     glyph: '💃🏾',
     svgPath: 'assets/woman_dancing_color_medium-dark.svg',
+    tts: 'woman dancing',
+    fromVersion: '0.6',
+    glyphAsUtfInEmoticons: ['1f483_womandancing', 'woman_dancing'],
+    keywords: ['dance', 'dancing', 'woman'],
+    mappedToEmoticons: ['1f483_womandancing'],
     skinTone: FluentEmojiSkinTone.mediumDark,
   );
 
@@ -19130,6 +26525,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'woman dancing',
     glyph: '💃🏿',
     svgPath: 'assets/woman_dancing_color_dark.svg',
+    tts: 'woman dancing',
+    fromVersion: '0.6',
+    glyphAsUtfInEmoticons: ['1f483_womandancing', 'woman_dancing'],
+    keywords: ['dance', 'dancing', 'woman'],
+    mappedToEmoticons: ['1f483_womandancing'],
     skinTone: FluentEmojiSkinTone.dark,
   );
 
@@ -19146,6 +26546,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'woman detective',
     glyph: '🕵️‍♀️',
     svgPath: 'assets/woman_detective_color_default.svg',
+    tts: 'woman detective',
+    fromVersion: '4.0',
+    glyphAsUtfInEmoticons: ['woman_detective'],
+    keywords: ['detective', 'sleuth', 'spy', 'woman'],
+    mappedToEmoticons: ['woman_detective'],
     skinToneLight: _womanDetectiveLight,
     skinToneMediumLight: _womanDetectiveMediumLight,
     skinToneMedium: _womanDetectiveMedium,
@@ -19160,6 +26565,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'woman detective',
     glyph: '🕵🏻‍♀️',
     svgPath: 'assets/woman_detective_color_light.svg',
+    tts: 'woman detective',
+    fromVersion: '4.0',
+    glyphAsUtfInEmoticons: ['woman_detective'],
+    keywords: ['detective', 'sleuth', 'spy', 'woman'],
+    mappedToEmoticons: ['woman_detective'],
     skinTone: FluentEmojiSkinTone.light,
   );
 
@@ -19170,6 +26580,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'woman detective',
     glyph: '🕵🏼‍♀️',
     svgPath: 'assets/woman_detective_color_medium-light.svg',
+    tts: 'woman detective',
+    fromVersion: '4.0',
+    glyphAsUtfInEmoticons: ['woman_detective'],
+    keywords: ['detective', 'sleuth', 'spy', 'woman'],
+    mappedToEmoticons: ['woman_detective'],
     skinTone: FluentEmojiSkinTone.mediumLight,
   );
 
@@ -19180,6 +26595,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'woman detective',
     glyph: '🕵🏽‍♀️',
     svgPath: 'assets/woman_detective_color_medium.svg',
+    tts: 'woman detective',
+    fromVersion: '4.0',
+    glyphAsUtfInEmoticons: ['woman_detective'],
+    keywords: ['detective', 'sleuth', 'spy', 'woman'],
+    mappedToEmoticons: ['woman_detective'],
     skinTone: FluentEmojiSkinTone.medium,
   );
 
@@ -19190,6 +26610,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'woman detective',
     glyph: '🕵🏾‍♀️',
     svgPath: 'assets/woman_detective_color_medium-dark.svg',
+    tts: 'woman detective',
+    fromVersion: '4.0',
+    glyphAsUtfInEmoticons: ['woman_detective'],
+    keywords: ['detective', 'sleuth', 'spy', 'woman'],
+    mappedToEmoticons: ['woman_detective'],
     skinTone: FluentEmojiSkinTone.mediumDark,
   );
 
@@ -19200,6 +26625,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'woman detective',
     glyph: '🕵🏿‍♀️',
     svgPath: 'assets/woman_detective_color_dark.svg',
+    tts: 'woman detective',
+    fromVersion: '4.0',
+    glyphAsUtfInEmoticons: ['woman_detective'],
+    keywords: ['detective', 'sleuth', 'spy', 'woman'],
+    mappedToEmoticons: ['woman_detective'],
     skinTone: FluentEmojiSkinTone.dark,
   );
 
@@ -19216,6 +26646,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'woman elf',
     glyph: '🧝‍♀️',
     svgPath: 'assets/woman_elf_color_default.svg',
+    tts: 'woman elf',
+    fromVersion: '5.0',
+    glyphAsUtfInEmoticons: ['woman_elf'],
+    keywords: ['magical', 'woman elf'],
+    mappedToEmoticons: ['woman_elf'],
     skinToneLight: _womanElfLight,
     skinToneMediumLight: _womanElfMediumLight,
     skinToneMedium: _womanElfMedium,
@@ -19230,6 +26665,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'woman elf',
     glyph: '🧝🏻‍♀️',
     svgPath: 'assets/woman_elf_color_light.svg',
+    tts: 'woman elf',
+    fromVersion: '5.0',
+    glyphAsUtfInEmoticons: ['woman_elf'],
+    keywords: ['magical', 'woman elf'],
+    mappedToEmoticons: ['woman_elf'],
     skinTone: FluentEmojiSkinTone.light,
   );
 
@@ -19240,6 +26680,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'woman elf',
     glyph: '🧝🏼‍♀️',
     svgPath: 'assets/woman_elf_color_medium-light.svg',
+    tts: 'woman elf',
+    fromVersion: '5.0',
+    glyphAsUtfInEmoticons: ['woman_elf'],
+    keywords: ['magical', 'woman elf'],
+    mappedToEmoticons: ['woman_elf'],
     skinTone: FluentEmojiSkinTone.mediumLight,
   );
 
@@ -19250,6 +26695,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'woman elf',
     glyph: '🧝🏽‍♀️',
     svgPath: 'assets/woman_elf_color_medium.svg',
+    tts: 'woman elf',
+    fromVersion: '5.0',
+    glyphAsUtfInEmoticons: ['woman_elf'],
+    keywords: ['magical', 'woman elf'],
+    mappedToEmoticons: ['woman_elf'],
     skinTone: FluentEmojiSkinTone.medium,
   );
 
@@ -19260,6 +26710,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'woman elf',
     glyph: '🧝🏾‍♀️',
     svgPath: 'assets/woman_elf_color_medium-dark.svg',
+    tts: 'woman elf',
+    fromVersion: '5.0',
+    glyphAsUtfInEmoticons: ['woman_elf'],
+    keywords: ['magical', 'woman elf'],
+    mappedToEmoticons: ['woman_elf'],
     skinTone: FluentEmojiSkinTone.mediumDark,
   );
 
@@ -19270,6 +26725,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'woman elf',
     glyph: '🧝🏿‍♀️',
     svgPath: 'assets/woman_elf_color_dark.svg',
+    tts: 'woman elf',
+    fromVersion: '5.0',
+    glyphAsUtfInEmoticons: ['woman_elf'],
+    keywords: ['magical', 'woman elf'],
+    mappedToEmoticons: ['woman_elf'],
     skinTone: FluentEmojiSkinTone.dark,
   );
 
@@ -19286,6 +26746,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'woman facepalming',
     glyph: '🤦‍♀️',
     svgPath: 'assets/woman_facepalming_color_default.svg',
+    tts: 'woman facepalming',
+    fromVersion: '4.0',
+    glyphAsUtfInEmoticons: ['womanfacepalming'],
+    keywords: ['disbelief', 'exasperation', 'facepalm', 'woman', 'woman facepalming'],
+    mappedToEmoticons: ['womanfacepalming'],
     skinToneLight: _womanFacepalmingLight,
     skinToneMediumLight: _womanFacepalmingMediumLight,
     skinToneMedium: _womanFacepalmingMedium,
@@ -19300,6 +26765,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'woman facepalming',
     glyph: '🤦🏻‍♀️',
     svgPath: 'assets/woman_facepalming_color_light.svg',
+    tts: 'woman facepalming',
+    fromVersion: '4.0',
+    glyphAsUtfInEmoticons: ['womanfacepalming'],
+    keywords: ['disbelief', 'exasperation', 'facepalm', 'woman', 'woman facepalming'],
+    mappedToEmoticons: ['womanfacepalming'],
     skinTone: FluentEmojiSkinTone.light,
   );
 
@@ -19310,6 +26780,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'woman facepalming',
     glyph: '🤦🏼‍♀️',
     svgPath: 'assets/woman_facepalming_color_medium-light.svg',
+    tts: 'woman facepalming',
+    fromVersion: '4.0',
+    glyphAsUtfInEmoticons: ['womanfacepalming'],
+    keywords: ['disbelief', 'exasperation', 'facepalm', 'woman', 'woman facepalming'],
+    mappedToEmoticons: ['womanfacepalming'],
     skinTone: FluentEmojiSkinTone.mediumLight,
   );
 
@@ -19320,6 +26795,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'woman facepalming',
     glyph: '🤦🏽‍♀️',
     svgPath: 'assets/woman_facepalming_color_medium.svg',
+    tts: 'woman facepalming',
+    fromVersion: '4.0',
+    glyphAsUtfInEmoticons: ['womanfacepalming'],
+    keywords: ['disbelief', 'exasperation', 'facepalm', 'woman', 'woman facepalming'],
+    mappedToEmoticons: ['womanfacepalming'],
     skinTone: FluentEmojiSkinTone.medium,
   );
 
@@ -19330,6 +26810,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'woman facepalming',
     glyph: '🤦🏾‍♀️',
     svgPath: 'assets/woman_facepalming_color_medium-dark.svg',
+    tts: 'woman facepalming',
+    fromVersion: '4.0',
+    glyphAsUtfInEmoticons: ['womanfacepalming'],
+    keywords: ['disbelief', 'exasperation', 'facepalm', 'woman', 'woman facepalming'],
+    mappedToEmoticons: ['womanfacepalming'],
     skinTone: FluentEmojiSkinTone.mediumDark,
   );
 
@@ -19340,6 +26825,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'woman facepalming',
     glyph: '🤦🏿‍♀️',
     svgPath: 'assets/woman_facepalming_color_dark.svg',
+    tts: 'woman facepalming',
+    fromVersion: '4.0',
+    glyphAsUtfInEmoticons: ['womanfacepalming'],
+    keywords: ['disbelief', 'exasperation', 'facepalm', 'woman', 'woman facepalming'],
+    mappedToEmoticons: ['womanfacepalming'],
     skinTone: FluentEmojiSkinTone.dark,
   );
 
@@ -19356,6 +26846,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'woman factory worker',
     glyph: '👩‍🏭',
     svgPath: 'assets/woman_factory_worker_color_default.svg',
+    tts: 'woman factory worker',
+    fromVersion: '4.0',
+    glyphAsUtfInEmoticons: ['womanwelder'],
+    keywords: ['assembly', 'factory', 'industrial', 'woman', 'worker'],
+    mappedToEmoticons: ['womanwelder'],
     skinToneLight: _womanFactoryWorkerLight,
     skinToneMediumLight: _womanFactoryWorkerMediumLight,
     skinToneMedium: _womanFactoryWorkerMedium,
@@ -19370,6 +26865,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'woman factory worker',
     glyph: '👩🏻‍🏭',
     svgPath: 'assets/woman_factory_worker_color_light.svg',
+    tts: 'woman factory worker',
+    fromVersion: '4.0',
+    glyphAsUtfInEmoticons: ['womanwelder'],
+    keywords: ['assembly', 'factory', 'industrial', 'woman', 'worker'],
+    mappedToEmoticons: ['womanwelder'],
     skinTone: FluentEmojiSkinTone.light,
   );
 
@@ -19380,6 +26880,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'woman factory worker',
     glyph: '👩🏼‍🏭',
     svgPath: 'assets/woman_factory_worker_color_medium-light.svg',
+    tts: 'woman factory worker',
+    fromVersion: '4.0',
+    glyphAsUtfInEmoticons: ['womanwelder'],
+    keywords: ['assembly', 'factory', 'industrial', 'woman', 'worker'],
+    mappedToEmoticons: ['womanwelder'],
     skinTone: FluentEmojiSkinTone.mediumLight,
   );
 
@@ -19390,6 +26895,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'woman factory worker',
     glyph: '👩🏽‍🏭',
     svgPath: 'assets/woman_factory_worker_color_medium.svg',
+    tts: 'woman factory worker',
+    fromVersion: '4.0',
+    glyphAsUtfInEmoticons: ['womanwelder'],
+    keywords: ['assembly', 'factory', 'industrial', 'woman', 'worker'],
+    mappedToEmoticons: ['womanwelder'],
     skinTone: FluentEmojiSkinTone.medium,
   );
 
@@ -19400,6 +26910,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'woman factory worker',
     glyph: '👩🏾‍🏭',
     svgPath: 'assets/woman_factory_worker_color_medium-dark.svg',
+    tts: 'woman factory worker',
+    fromVersion: '4.0',
+    glyphAsUtfInEmoticons: ['womanwelder'],
+    keywords: ['assembly', 'factory', 'industrial', 'woman', 'worker'],
+    mappedToEmoticons: ['womanwelder'],
     skinTone: FluentEmojiSkinTone.mediumDark,
   );
 
@@ -19410,6 +26925,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'woman factory worker',
     glyph: '👩🏿‍🏭',
     svgPath: 'assets/woman_factory_worker_color_dark.svg',
+    tts: 'woman factory worker',
+    fromVersion: '4.0',
+    glyphAsUtfInEmoticons: ['womanwelder'],
+    keywords: ['assembly', 'factory', 'industrial', 'woman', 'worker'],
+    mappedToEmoticons: ['womanwelder'],
     skinTone: FluentEmojiSkinTone.dark,
   );
 
@@ -19426,6 +26946,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'woman fairy',
     glyph: '🧚‍♀️',
     svgPath: 'assets/woman_fairy_color_default.svg',
+    tts: 'woman fairy',
+    fromVersion: '5.0',
+    glyphAsUtfInEmoticons: ['woman_fairy'],
+    keywords: ['Titania', 'woman fairy'],
+    mappedToEmoticons: ['woman_fairy'],
     skinToneLight: _womanFairyLight,
     skinToneMediumLight: _womanFairyMediumLight,
     skinToneMedium: _womanFairyMedium,
@@ -19440,6 +26965,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'woman fairy',
     glyph: '🧚🏻‍♀️',
     svgPath: 'assets/woman_fairy_color_light.svg',
+    tts: 'woman fairy',
+    fromVersion: '5.0',
+    glyphAsUtfInEmoticons: ['woman_fairy'],
+    keywords: ['Titania', 'woman fairy'],
+    mappedToEmoticons: ['woman_fairy'],
     skinTone: FluentEmojiSkinTone.light,
   );
 
@@ -19450,6 +26980,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'woman fairy',
     glyph: '🧚🏼‍♀️',
     svgPath: 'assets/woman_fairy_color_medium-light.svg',
+    tts: 'woman fairy',
+    fromVersion: '5.0',
+    glyphAsUtfInEmoticons: ['woman_fairy'],
+    keywords: ['Titania', 'woman fairy'],
+    mappedToEmoticons: ['woman_fairy'],
     skinTone: FluentEmojiSkinTone.mediumLight,
   );
 
@@ -19460,6 +26995,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'woman fairy',
     glyph: '🧚🏽‍♀️',
     svgPath: 'assets/woman_fairy_color_medium.svg',
+    tts: 'woman fairy',
+    fromVersion: '5.0',
+    glyphAsUtfInEmoticons: ['woman_fairy'],
+    keywords: ['Titania', 'woman fairy'],
+    mappedToEmoticons: ['woman_fairy'],
     skinTone: FluentEmojiSkinTone.medium,
   );
 
@@ -19470,6 +27010,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'woman fairy',
     glyph: '🧚🏾‍♀️',
     svgPath: 'assets/woman_fairy_color_medium-dark.svg',
+    tts: 'woman fairy',
+    fromVersion: '5.0',
+    glyphAsUtfInEmoticons: ['woman_fairy'],
+    keywords: ['Titania', 'woman fairy'],
+    mappedToEmoticons: ['woman_fairy'],
     skinTone: FluentEmojiSkinTone.mediumDark,
   );
 
@@ -19480,6 +27025,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'woman fairy',
     glyph: '🧚🏿‍♀️',
     svgPath: 'assets/woman_fairy_color_dark.svg',
+    tts: 'woman fairy',
+    fromVersion: '5.0',
+    glyphAsUtfInEmoticons: ['woman_fairy'],
+    keywords: ['Titania', 'woman fairy'],
+    mappedToEmoticons: ['woman_fairy'],
     skinTone: FluentEmojiSkinTone.dark,
   );
 
@@ -19496,6 +27046,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'woman farmer',
     glyph: '👩‍🌾',
     svgPath: 'assets/woman_farmer_color_default.svg',
+    tts: 'woman farmer',
+    fromVersion: '4.0',
+    glyphAsUtfInEmoticons: ['womanfarmer'],
+    keywords: ['farmer', 'gardener', 'rancher', 'woman'],
+    mappedToEmoticons: ['womanfarmer'],
     skinToneLight: _womanFarmerLight,
     skinToneMediumLight: _womanFarmerMediumLight,
     skinToneMedium: _womanFarmerMedium,
@@ -19510,6 +27065,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'woman farmer',
     glyph: '👩🏻‍🌾',
     svgPath: 'assets/woman_farmer_color_light.svg',
+    tts: 'woman farmer',
+    fromVersion: '4.0',
+    glyphAsUtfInEmoticons: ['womanfarmer'],
+    keywords: ['farmer', 'gardener', 'rancher', 'woman'],
+    mappedToEmoticons: ['womanfarmer'],
     skinTone: FluentEmojiSkinTone.light,
   );
 
@@ -19520,6 +27080,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'woman farmer',
     glyph: '👩🏼‍🌾',
     svgPath: 'assets/woman_farmer_color_medium-light.svg',
+    tts: 'woman farmer',
+    fromVersion: '4.0',
+    glyphAsUtfInEmoticons: ['womanfarmer'],
+    keywords: ['farmer', 'gardener', 'rancher', 'woman'],
+    mappedToEmoticons: ['womanfarmer'],
     skinTone: FluentEmojiSkinTone.mediumLight,
   );
 
@@ -19530,6 +27095,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'woman farmer',
     glyph: '👩🏽‍🌾',
     svgPath: 'assets/woman_farmer_color_medium.svg',
+    tts: 'woman farmer',
+    fromVersion: '4.0',
+    glyphAsUtfInEmoticons: ['womanfarmer'],
+    keywords: ['farmer', 'gardener', 'rancher', 'woman'],
+    mappedToEmoticons: ['womanfarmer'],
     skinTone: FluentEmojiSkinTone.medium,
   );
 
@@ -19540,6 +27110,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'woman farmer',
     glyph: '👩🏾‍🌾',
     svgPath: 'assets/woman_farmer_color_medium-dark.svg',
+    tts: 'woman farmer',
+    fromVersion: '4.0',
+    glyphAsUtfInEmoticons: ['womanfarmer'],
+    keywords: ['farmer', 'gardener', 'rancher', 'woman'],
+    mappedToEmoticons: ['womanfarmer'],
     skinTone: FluentEmojiSkinTone.mediumDark,
   );
 
@@ -19550,6 +27125,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'woman farmer',
     glyph: '👩🏿‍🌾',
     svgPath: 'assets/woman_farmer_color_dark.svg',
+    tts: 'woman farmer',
+    fromVersion: '4.0',
+    glyphAsUtfInEmoticons: ['womanfarmer'],
+    keywords: ['farmer', 'gardener', 'rancher', 'woman'],
+    mappedToEmoticons: ['womanfarmer'],
     skinTone: FluentEmojiSkinTone.dark,
   );
 
@@ -19566,6 +27146,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'woman feeding baby',
     glyph: '👩‍🍼',
     svgPath: 'assets/woman_feeding_baby_color_default.svg',
+    tts: 'woman feeding baby',
+    fromVersion: '13.0',
+    glyphAsUtfInEmoticons: null,
+    keywords: ['baby', 'feeding', 'nursing', 'woman'],
+    mappedToEmoticons: null,
     skinToneLight: _womanFeedingBabyLight,
     skinToneMediumLight: _womanFeedingBabyMediumLight,
     skinToneMedium: _womanFeedingBabyMedium,
@@ -19580,6 +27165,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'woman feeding baby',
     glyph: '👩🏻‍🍼',
     svgPath: 'assets/woman_feeding_baby_color_light.svg',
+    tts: 'woman feeding baby',
+    fromVersion: '13.0',
+    glyphAsUtfInEmoticons: null,
+    keywords: ['baby', 'feeding', 'nursing', 'woman'],
+    mappedToEmoticons: null,
     skinTone: FluentEmojiSkinTone.light,
   );
 
@@ -19590,6 +27180,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'woman feeding baby',
     glyph: '👩🏼‍🍼',
     svgPath: 'assets/woman_feeding_baby_color_medium-light.svg',
+    tts: 'woman feeding baby',
+    fromVersion: '13.0',
+    glyphAsUtfInEmoticons: null,
+    keywords: ['baby', 'feeding', 'nursing', 'woman'],
+    mappedToEmoticons: null,
     skinTone: FluentEmojiSkinTone.mediumLight,
   );
 
@@ -19600,6 +27195,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'woman feeding baby',
     glyph: '👩🏽‍🍼',
     svgPath: 'assets/woman_feeding_baby_color_medium.svg',
+    tts: 'woman feeding baby',
+    fromVersion: '13.0',
+    glyphAsUtfInEmoticons: null,
+    keywords: ['baby', 'feeding', 'nursing', 'woman'],
+    mappedToEmoticons: null,
     skinTone: FluentEmojiSkinTone.medium,
   );
 
@@ -19610,6 +27210,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'woman feeding baby',
     glyph: '👩🏾‍🍼',
     svgPath: 'assets/woman_feeding_baby_color_medium-dark.svg',
+    tts: 'woman feeding baby',
+    fromVersion: '13.0',
+    glyphAsUtfInEmoticons: null,
+    keywords: ['baby', 'feeding', 'nursing', 'woman'],
+    mappedToEmoticons: null,
     skinTone: FluentEmojiSkinTone.mediumDark,
   );
 
@@ -19620,6 +27225,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'woman feeding baby',
     glyph: '👩🏿‍🍼',
     svgPath: 'assets/woman_feeding_baby_color_dark.svg',
+    tts: 'woman feeding baby',
+    fromVersion: '13.0',
+    glyphAsUtfInEmoticons: null,
+    keywords: ['baby', 'feeding', 'nursing', 'woman'],
+    mappedToEmoticons: null,
     skinTone: FluentEmojiSkinTone.dark,
   );
 
@@ -19636,6 +27246,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'woman firefighter',
     glyph: '👩‍🚒',
     svgPath: 'assets/woman_firefighter_color_default.svg',
+    tts: 'woman firefighter',
+    fromVersion: '4.0',
+    glyphAsUtfInEmoticons: ['womanfirefighter'],
+    keywords: ['firefighter', 'firetruck', 'woman'],
+    mappedToEmoticons: ['womanfirefighter'],
     skinToneLight: _womanFirefighterLight,
     skinToneMediumLight: _womanFirefighterMediumLight,
     skinToneMedium: _womanFirefighterMedium,
@@ -19650,6 +27265,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'woman firefighter',
     glyph: '👩🏻‍🚒',
     svgPath: 'assets/woman_firefighter_color_light.svg',
+    tts: 'woman firefighter',
+    fromVersion: '4.0',
+    glyphAsUtfInEmoticons: ['womanfirefighter'],
+    keywords: ['firefighter', 'firetruck', 'woman'],
+    mappedToEmoticons: ['womanfirefighter'],
     skinTone: FluentEmojiSkinTone.light,
   );
 
@@ -19660,6 +27280,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'woman firefighter',
     glyph: '👩🏼‍🚒',
     svgPath: 'assets/woman_firefighter_color_medium-light.svg',
+    tts: 'woman firefighter',
+    fromVersion: '4.0',
+    glyphAsUtfInEmoticons: ['womanfirefighter'],
+    keywords: ['firefighter', 'firetruck', 'woman'],
+    mappedToEmoticons: ['womanfirefighter'],
     skinTone: FluentEmojiSkinTone.mediumLight,
   );
 
@@ -19670,6 +27295,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'woman firefighter',
     glyph: '👩🏽‍🚒',
     svgPath: 'assets/woman_firefighter_color_medium.svg',
+    tts: 'woman firefighter',
+    fromVersion: '4.0',
+    glyphAsUtfInEmoticons: ['womanfirefighter'],
+    keywords: ['firefighter', 'firetruck', 'woman'],
+    mappedToEmoticons: ['womanfirefighter'],
     skinTone: FluentEmojiSkinTone.medium,
   );
 
@@ -19680,6 +27310,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'woman firefighter',
     glyph: '👩🏾‍🚒',
     svgPath: 'assets/woman_firefighter_color_medium-dark.svg',
+    tts: 'woman firefighter',
+    fromVersion: '4.0',
+    glyphAsUtfInEmoticons: ['womanfirefighter'],
+    keywords: ['firefighter', 'firetruck', 'woman'],
+    mappedToEmoticons: ['womanfirefighter'],
     skinTone: FluentEmojiSkinTone.mediumDark,
   );
 
@@ -19690,6 +27325,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'woman firefighter',
     glyph: '👩🏿‍🚒',
     svgPath: 'assets/woman_firefighter_color_dark.svg',
+    tts: 'woman firefighter',
+    fromVersion: '4.0',
+    glyphAsUtfInEmoticons: ['womanfirefighter'],
+    keywords: ['firefighter', 'firetruck', 'woman'],
+    mappedToEmoticons: ['womanfirefighter'],
     skinTone: FluentEmojiSkinTone.dark,
   );
 
@@ -19706,6 +27346,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'woman frowning',
     glyph: '🙍‍♀️',
     svgPath: 'assets/woman_frowning_color_default.svg',
+    tts: 'woman frowning',
+    fromVersion: '4.0',
+    glyphAsUtfInEmoticons: ['womanfrowning'],
+    keywords: ['frowning', 'gesture', 'woman'],
+    mappedToEmoticons: ['womanfrowning'],
     skinToneLight: _womanFrowningLight,
     skinToneMediumLight: _womanFrowningMediumLight,
     skinToneMedium: _womanFrowningMedium,
@@ -19720,6 +27365,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'woman frowning',
     glyph: '🙍🏻‍♀️',
     svgPath: 'assets/woman_frowning_color_light.svg',
+    tts: 'woman frowning',
+    fromVersion: '4.0',
+    glyphAsUtfInEmoticons: ['womanfrowning'],
+    keywords: ['frowning', 'gesture', 'woman'],
+    mappedToEmoticons: ['womanfrowning'],
     skinTone: FluentEmojiSkinTone.light,
   );
 
@@ -19730,6 +27380,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'woman frowning',
     glyph: '🙍🏼‍♀️',
     svgPath: 'assets/woman_frowning_color_medium-light.svg',
+    tts: 'woman frowning',
+    fromVersion: '4.0',
+    glyphAsUtfInEmoticons: ['womanfrowning'],
+    keywords: ['frowning', 'gesture', 'woman'],
+    mappedToEmoticons: ['womanfrowning'],
     skinTone: FluentEmojiSkinTone.mediumLight,
   );
 
@@ -19740,6 +27395,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'woman frowning',
     glyph: '🙍🏽‍♀️',
     svgPath: 'assets/woman_frowning_color_medium.svg',
+    tts: 'woman frowning',
+    fromVersion: '4.0',
+    glyphAsUtfInEmoticons: ['womanfrowning'],
+    keywords: ['frowning', 'gesture', 'woman'],
+    mappedToEmoticons: ['womanfrowning'],
     skinTone: FluentEmojiSkinTone.medium,
   );
 
@@ -19750,6 +27410,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'woman frowning',
     glyph: '🙍🏾‍♀️',
     svgPath: 'assets/woman_frowning_color_medium-dark.svg',
+    tts: 'woman frowning',
+    fromVersion: '4.0',
+    glyphAsUtfInEmoticons: ['womanfrowning'],
+    keywords: ['frowning', 'gesture', 'woman'],
+    mappedToEmoticons: ['womanfrowning'],
     skinTone: FluentEmojiSkinTone.mediumDark,
   );
 
@@ -19760,6 +27425,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'woman frowning',
     glyph: '🙍🏿‍♀️',
     svgPath: 'assets/woman_frowning_color_dark.svg',
+    tts: 'woman frowning',
+    fromVersion: '4.0',
+    glyphAsUtfInEmoticons: ['womanfrowning'],
+    keywords: ['frowning', 'gesture', 'woman'],
+    mappedToEmoticons: ['womanfrowning'],
     skinTone: FluentEmojiSkinTone.dark,
   );
 
@@ -19770,6 +27440,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'woman genie',
     glyph: '🧞‍♀️',
     svgPath: 'assets/woman_genie_color.svg',
+    tts: 'woman genie',
+    fromVersion: '5.0',
+    glyphAsUtfInEmoticons: ['womangenie'],
+    keywords: ['djinn', 'woman genie'],
+    mappedToEmoticons: ['womangenie'],
     skinTone: FluentEmojiSkinTone.standard,
   );
 
@@ -19786,6 +27461,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'woman gesturing NO',
     glyph: '🙅‍♀️',
     svgPath: 'assets/woman_gesturing_no_color_default.svg',
+    tts: 'woman gesturing NO',
+    fromVersion: '4.0',
+    glyphAsUtfInEmoticons: ['womangesturingno'],
+    keywords: ['forbidden', 'gesture', 'hand', 'prohibited', 'woman', 'woman gesturing NO'],
+    mappedToEmoticons: ['womangesturingno'],
     skinToneLight: _womanGesturingNoLight,
     skinToneMediumLight: _womanGesturingNoMediumLight,
     skinToneMedium: _womanGesturingNoMedium,
@@ -19800,6 +27480,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'woman gesturing NO',
     glyph: '🙅🏻‍♀️',
     svgPath: 'assets/woman_gesturing_no_color_light.svg',
+    tts: 'woman gesturing NO',
+    fromVersion: '4.0',
+    glyphAsUtfInEmoticons: ['womangesturingno'],
+    keywords: ['forbidden', 'gesture', 'hand', 'prohibited', 'woman', 'woman gesturing NO'],
+    mappedToEmoticons: ['womangesturingno'],
     skinTone: FluentEmojiSkinTone.light,
   );
 
@@ -19810,6 +27495,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'woman gesturing NO',
     glyph: '🙅🏼‍♀️',
     svgPath: 'assets/woman_gesturing_no_color_medium-light.svg',
+    tts: 'woman gesturing NO',
+    fromVersion: '4.0',
+    glyphAsUtfInEmoticons: ['womangesturingno'],
+    keywords: ['forbidden', 'gesture', 'hand', 'prohibited', 'woman', 'woman gesturing NO'],
+    mappedToEmoticons: ['womangesturingno'],
     skinTone: FluentEmojiSkinTone.mediumLight,
   );
 
@@ -19820,6 +27510,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'woman gesturing NO',
     glyph: '🙅🏽‍♀️',
     svgPath: 'assets/woman_gesturing_no_color_medium.svg',
+    tts: 'woman gesturing NO',
+    fromVersion: '4.0',
+    glyphAsUtfInEmoticons: ['womangesturingno'],
+    keywords: ['forbidden', 'gesture', 'hand', 'prohibited', 'woman', 'woman gesturing NO'],
+    mappedToEmoticons: ['womangesturingno'],
     skinTone: FluentEmojiSkinTone.medium,
   );
 
@@ -19830,6 +27525,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'woman gesturing NO',
     glyph: '🙅🏾‍♀️',
     svgPath: 'assets/woman_gesturing_no_color_medium-dark.svg',
+    tts: 'woman gesturing NO',
+    fromVersion: '4.0',
+    glyphAsUtfInEmoticons: ['womangesturingno'],
+    keywords: ['forbidden', 'gesture', 'hand', 'prohibited', 'woman', 'woman gesturing NO'],
+    mappedToEmoticons: ['womangesturingno'],
     skinTone: FluentEmojiSkinTone.mediumDark,
   );
 
@@ -19840,6 +27540,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'woman gesturing NO',
     glyph: '🙅🏿‍♀️',
     svgPath: 'assets/woman_gesturing_no_color_dark.svg',
+    tts: 'woman gesturing NO',
+    fromVersion: '4.0',
+    glyphAsUtfInEmoticons: ['womangesturingno'],
+    keywords: ['forbidden', 'gesture', 'hand', 'prohibited', 'woman', 'woman gesturing NO'],
+    mappedToEmoticons: ['womangesturingno'],
     skinTone: FluentEmojiSkinTone.dark,
   );
 
@@ -19856,6 +27561,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'woman gesturing OK',
     glyph: '🙆‍♀️',
     svgPath: 'assets/woman_gesturing_ok_color_default.svg',
+    tts: 'woman gesturing OK',
+    fromVersion: '4.0',
+    glyphAsUtfInEmoticons: ['womangesturingok'],
+    keywords: ['gesture', 'hand', 'OK', 'woman', 'woman gesturing OK'],
+    mappedToEmoticons: ['womangesturingok'],
     skinToneLight: _womanGesturingOkLight,
     skinToneMediumLight: _womanGesturingOkMediumLight,
     skinToneMedium: _womanGesturingOkMedium,
@@ -19870,6 +27580,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'woman gesturing OK',
     glyph: '🙆🏻‍♀️',
     svgPath: 'assets/woman_gesturing_ok_color_light.svg',
+    tts: 'woman gesturing OK',
+    fromVersion: '4.0',
+    glyphAsUtfInEmoticons: ['womangesturingok'],
+    keywords: ['gesture', 'hand', 'OK', 'woman', 'woman gesturing OK'],
+    mappedToEmoticons: ['womangesturingok'],
     skinTone: FluentEmojiSkinTone.light,
   );
 
@@ -19880,6 +27595,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'woman gesturing OK',
     glyph: '🙆🏼‍♀️',
     svgPath: 'assets/woman_gesturing_ok_color_medium-light.svg',
+    tts: 'woman gesturing OK',
+    fromVersion: '4.0',
+    glyphAsUtfInEmoticons: ['womangesturingok'],
+    keywords: ['gesture', 'hand', 'OK', 'woman', 'woman gesturing OK'],
+    mappedToEmoticons: ['womangesturingok'],
     skinTone: FluentEmojiSkinTone.mediumLight,
   );
 
@@ -19890,6 +27610,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'woman gesturing OK',
     glyph: '🙆🏽‍♀️',
     svgPath: 'assets/woman_gesturing_ok_color_medium.svg',
+    tts: 'woman gesturing OK',
+    fromVersion: '4.0',
+    glyphAsUtfInEmoticons: ['womangesturingok'],
+    keywords: ['gesture', 'hand', 'OK', 'woman', 'woman gesturing OK'],
+    mappedToEmoticons: ['womangesturingok'],
     skinTone: FluentEmojiSkinTone.medium,
   );
 
@@ -19900,6 +27625,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'woman gesturing OK',
     glyph: '🙆🏾‍♀️',
     svgPath: 'assets/woman_gesturing_ok_color_medium-dark.svg',
+    tts: 'woman gesturing OK',
+    fromVersion: '4.0',
+    glyphAsUtfInEmoticons: ['womangesturingok'],
+    keywords: ['gesture', 'hand', 'OK', 'woman', 'woman gesturing OK'],
+    mappedToEmoticons: ['womangesturingok'],
     skinTone: FluentEmojiSkinTone.mediumDark,
   );
 
@@ -19910,6 +27640,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'woman gesturing OK',
     glyph: '🙆🏿‍♀️',
     svgPath: 'assets/woman_gesturing_ok_color_dark.svg',
+    tts: 'woman gesturing OK',
+    fromVersion: '4.0',
+    glyphAsUtfInEmoticons: ['womangesturingok'],
+    keywords: ['gesture', 'hand', 'OK', 'woman', 'woman gesturing OK'],
+    mappedToEmoticons: ['womangesturingok'],
     skinTone: FluentEmojiSkinTone.dark,
   );
 
@@ -19926,6 +27661,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'woman getting haircut',
     glyph: '💇‍♀️',
     svgPath: 'assets/woman_getting_haircut_color_default.svg',
+    tts: 'woman getting haircut',
+    fromVersion: '4.0',
+    glyphAsUtfInEmoticons: ['woman_getting_haircut'],
+    keywords: ['haircut', 'woman', 'woman getting haircut'],
+    mappedToEmoticons: ['woman_getting_haircut'],
     skinToneLight: _womanGettingHaircutLight,
     skinToneMediumLight: _womanGettingHaircutMediumLight,
     skinToneMedium: _womanGettingHaircutMedium,
@@ -19940,6 +27680,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'woman getting haircut',
     glyph: '💇🏻‍♀️',
     svgPath: 'assets/woman_getting_haircut_color_light.svg',
+    tts: 'woman getting haircut',
+    fromVersion: '4.0',
+    glyphAsUtfInEmoticons: ['woman_getting_haircut'],
+    keywords: ['haircut', 'woman', 'woman getting haircut'],
+    mappedToEmoticons: ['woman_getting_haircut'],
     skinTone: FluentEmojiSkinTone.light,
   );
 
@@ -19950,6 +27695,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'woman getting haircut',
     glyph: '💇🏼‍♀️',
     svgPath: 'assets/woman_getting_haircut_color_medium-light.svg',
+    tts: 'woman getting haircut',
+    fromVersion: '4.0',
+    glyphAsUtfInEmoticons: ['woman_getting_haircut'],
+    keywords: ['haircut', 'woman', 'woman getting haircut'],
+    mappedToEmoticons: ['woman_getting_haircut'],
     skinTone: FluentEmojiSkinTone.mediumLight,
   );
 
@@ -19960,6 +27710,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'woman getting haircut',
     glyph: '💇🏽‍♀️',
     svgPath: 'assets/woman_getting_haircut_color_medium.svg',
+    tts: 'woman getting haircut',
+    fromVersion: '4.0',
+    glyphAsUtfInEmoticons: ['woman_getting_haircut'],
+    keywords: ['haircut', 'woman', 'woman getting haircut'],
+    mappedToEmoticons: ['woman_getting_haircut'],
     skinTone: FluentEmojiSkinTone.medium,
   );
 
@@ -19970,6 +27725,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'woman getting haircut',
     glyph: '💇🏾‍♀️',
     svgPath: 'assets/woman_getting_haircut_color_medium-dark.svg',
+    tts: 'woman getting haircut',
+    fromVersion: '4.0',
+    glyphAsUtfInEmoticons: ['woman_getting_haircut'],
+    keywords: ['haircut', 'woman', 'woman getting haircut'],
+    mappedToEmoticons: ['woman_getting_haircut'],
     skinTone: FluentEmojiSkinTone.mediumDark,
   );
 
@@ -19980,6 +27740,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'woman getting haircut',
     glyph: '💇🏿‍♀️',
     svgPath: 'assets/woman_getting_haircut_color_dark.svg',
+    tts: 'woman getting haircut',
+    fromVersion: '4.0',
+    glyphAsUtfInEmoticons: ['woman_getting_haircut'],
+    keywords: ['haircut', 'woman', 'woman getting haircut'],
+    mappedToEmoticons: ['woman_getting_haircut'],
     skinTone: FluentEmojiSkinTone.dark,
   );
 
@@ -19996,6 +27761,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'woman getting massage',
     glyph: '💆‍♀️',
     svgPath: 'assets/woman_getting_massage_color_default.svg',
+    tts: 'woman getting massage',
+    fromVersion: '4.0',
+    glyphAsUtfInEmoticons: null,
+    keywords: ['face', 'massage', 'woman', 'woman getting massage'],
+    mappedToEmoticons: ['face_massage'],
     skinToneLight: _womanGettingMassageLight,
     skinToneMediumLight: _womanGettingMassageMediumLight,
     skinToneMedium: _womanGettingMassageMedium,
@@ -20010,6 +27780,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'woman getting massage',
     glyph: '💆🏻‍♀️',
     svgPath: 'assets/woman_getting_massage_color_light.svg',
+    tts: 'woman getting massage',
+    fromVersion: '4.0',
+    glyphAsUtfInEmoticons: null,
+    keywords: ['face', 'massage', 'woman', 'woman getting massage'],
+    mappedToEmoticons: ['face_massage'],
     skinTone: FluentEmojiSkinTone.light,
   );
 
@@ -20020,6 +27795,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'woman getting massage',
     glyph: '💆🏼‍♀️',
     svgPath: 'assets/woman_getting_massage_color_medium-light.svg',
+    tts: 'woman getting massage',
+    fromVersion: '4.0',
+    glyphAsUtfInEmoticons: null,
+    keywords: ['face', 'massage', 'woman', 'woman getting massage'],
+    mappedToEmoticons: ['face_massage'],
     skinTone: FluentEmojiSkinTone.mediumLight,
   );
 
@@ -20030,6 +27810,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'woman getting massage',
     glyph: '💆🏽‍♀️',
     svgPath: 'assets/woman_getting_massage_color_medium.svg',
+    tts: 'woman getting massage',
+    fromVersion: '4.0',
+    glyphAsUtfInEmoticons: null,
+    keywords: ['face', 'massage', 'woman', 'woman getting massage'],
+    mappedToEmoticons: ['face_massage'],
     skinTone: FluentEmojiSkinTone.medium,
   );
 
@@ -20040,6 +27825,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'woman getting massage',
     glyph: '💆🏾‍♀️',
     svgPath: 'assets/woman_getting_massage_color_medium-dark.svg',
+    tts: 'woman getting massage',
+    fromVersion: '4.0',
+    glyphAsUtfInEmoticons: null,
+    keywords: ['face', 'massage', 'woman', 'woman getting massage'],
+    mappedToEmoticons: ['face_massage'],
     skinTone: FluentEmojiSkinTone.mediumDark,
   );
 
@@ -20050,6 +27840,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'woman getting massage',
     glyph: '💆🏿‍♀️',
     svgPath: 'assets/woman_getting_massage_color_dark.svg',
+    tts: 'woman getting massage',
+    fromVersion: '4.0',
+    glyphAsUtfInEmoticons: null,
+    keywords: ['face', 'massage', 'woman', 'woman getting massage'],
+    mappedToEmoticons: ['face_massage'],
     skinTone: FluentEmojiSkinTone.dark,
   );
 
@@ -20066,6 +27861,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'woman golfing',
     glyph: '🏌️‍♀️',
     svgPath: 'assets/woman_golfing_color_default.svg',
+    tts: 'woman golfing',
+    fromVersion: '4.0',
+    glyphAsUtfInEmoticons: ['woman_golfer'],
+    keywords: ['golf', 'woman', 'woman golfing'],
+    mappedToEmoticons: ['woman_golfer'],
     skinToneLight: _womanGolfingLight,
     skinToneMediumLight: _womanGolfingMediumLight,
     skinToneMedium: _womanGolfingMedium,
@@ -20080,6 +27880,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'woman golfing',
     glyph: '🏌🏻‍♀️',
     svgPath: 'assets/woman_golfing_color_light.svg',
+    tts: 'woman golfing',
+    fromVersion: '4.0',
+    glyphAsUtfInEmoticons: ['woman_golfer'],
+    keywords: ['golf', 'woman', 'woman golfing'],
+    mappedToEmoticons: ['woman_golfer'],
     skinTone: FluentEmojiSkinTone.light,
   );
 
@@ -20090,6 +27895,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'woman golfing',
     glyph: '🏌🏼‍♀️',
     svgPath: 'assets/woman_golfing_color_medium-light.svg',
+    tts: 'woman golfing',
+    fromVersion: '4.0',
+    glyphAsUtfInEmoticons: ['woman_golfer'],
+    keywords: ['golf', 'woman', 'woman golfing'],
+    mappedToEmoticons: ['woman_golfer'],
     skinTone: FluentEmojiSkinTone.mediumLight,
   );
 
@@ -20100,6 +27910,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'woman golfing',
     glyph: '🏌🏽‍♀️',
     svgPath: 'assets/woman_golfing_color_medium.svg',
+    tts: 'woman golfing',
+    fromVersion: '4.0',
+    glyphAsUtfInEmoticons: ['woman_golfer'],
+    keywords: ['golf', 'woman', 'woman golfing'],
+    mappedToEmoticons: ['woman_golfer'],
     skinTone: FluentEmojiSkinTone.medium,
   );
 
@@ -20110,6 +27925,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'woman golfing',
     glyph: '🏌🏾‍♀️',
     svgPath: 'assets/woman_golfing_color_medium-dark.svg',
+    tts: 'woman golfing',
+    fromVersion: '4.0',
+    glyphAsUtfInEmoticons: ['woman_golfer'],
+    keywords: ['golf', 'woman', 'woman golfing'],
+    mappedToEmoticons: ['woman_golfer'],
     skinTone: FluentEmojiSkinTone.mediumDark,
   );
 
@@ -20120,6 +27940,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'woman golfing',
     glyph: '🏌🏿‍♀️',
     svgPath: 'assets/woman_golfing_color_dark.svg',
+    tts: 'woman golfing',
+    fromVersion: '4.0',
+    glyphAsUtfInEmoticons: ['woman_golfer'],
+    keywords: ['golf', 'woman', 'woman golfing'],
+    mappedToEmoticons: ['woman_golfer'],
     skinTone: FluentEmojiSkinTone.dark,
   );
 
@@ -20136,6 +27961,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'woman guard',
     glyph: '💂‍♀️',
     svgPath: 'assets/woman_guard_color_default.svg',
+    tts: 'woman guard',
+    fromVersion: '4.0',
+    glyphAsUtfInEmoticons: ['woman_guard'],
+    keywords: ['guard', 'woman'],
+    mappedToEmoticons: ['woman_guard'],
     skinToneLight: _womanGuardLight,
     skinToneMediumLight: _womanGuardMediumLight,
     skinToneMedium: _womanGuardMedium,
@@ -20150,6 +27980,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'woman guard',
     glyph: '💂🏻‍♀️',
     svgPath: 'assets/woman_guard_color_light.svg',
+    tts: 'woman guard',
+    fromVersion: '4.0',
+    glyphAsUtfInEmoticons: ['woman_guard'],
+    keywords: ['guard', 'woman'],
+    mappedToEmoticons: ['woman_guard'],
     skinTone: FluentEmojiSkinTone.light,
   );
 
@@ -20160,6 +27995,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'woman guard',
     glyph: '💂🏼‍♀️',
     svgPath: 'assets/woman_guard_color_medium-light.svg',
+    tts: 'woman guard',
+    fromVersion: '4.0',
+    glyphAsUtfInEmoticons: ['woman_guard'],
+    keywords: ['guard', 'woman'],
+    mappedToEmoticons: ['woman_guard'],
     skinTone: FluentEmojiSkinTone.mediumLight,
   );
 
@@ -20170,6 +28010,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'woman guard',
     glyph: '💂🏽‍♀️',
     svgPath: 'assets/woman_guard_color_medium.svg',
+    tts: 'woman guard',
+    fromVersion: '4.0',
+    glyphAsUtfInEmoticons: ['woman_guard'],
+    keywords: ['guard', 'woman'],
+    mappedToEmoticons: ['woman_guard'],
     skinTone: FluentEmojiSkinTone.medium,
   );
 
@@ -20180,6 +28025,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'woman guard',
     glyph: '💂🏾‍♀️',
     svgPath: 'assets/woman_guard_color_medium-dark.svg',
+    tts: 'woman guard',
+    fromVersion: '4.0',
+    glyphAsUtfInEmoticons: ['woman_guard'],
+    keywords: ['guard', 'woman'],
+    mappedToEmoticons: ['woman_guard'],
     skinTone: FluentEmojiSkinTone.mediumDark,
   );
 
@@ -20190,6 +28040,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'woman guard',
     glyph: '💂🏿‍♀️',
     svgPath: 'assets/woman_guard_color_dark.svg',
+    tts: 'woman guard',
+    fromVersion: '4.0',
+    glyphAsUtfInEmoticons: ['woman_guard'],
+    keywords: ['guard', 'woman'],
+    mappedToEmoticons: ['woman_guard'],
     skinTone: FluentEmojiSkinTone.dark,
   );
 
@@ -20206,6 +28061,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'woman health worker',
     glyph: '👩‍⚕️',
     svgPath: 'assets/woman_health_worker_color_default.svg',
+    tts: 'woman health worker',
+    fromVersion: '4.0',
+    glyphAsUtfInEmoticons: ['womanhealthworker'],
+    keywords: ['doctor', 'healthcare', 'nurse', 'therapist', 'woman', 'woman health worker'],
+    mappedToEmoticons: ['womanhealthworker'],
     skinToneLight: _womanHealthWorkerLight,
     skinToneMediumLight: _womanHealthWorkerMediumLight,
     skinToneMedium: _womanHealthWorkerMedium,
@@ -20220,6 +28080,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'woman health worker',
     glyph: '👩🏻‍⚕️',
     svgPath: 'assets/woman_health_worker_color_light.svg',
+    tts: 'woman health worker',
+    fromVersion: '4.0',
+    glyphAsUtfInEmoticons: ['womanhealthworker'],
+    keywords: ['doctor', 'healthcare', 'nurse', 'therapist', 'woman', 'woman health worker'],
+    mappedToEmoticons: ['womanhealthworker'],
     skinTone: FluentEmojiSkinTone.light,
   );
 
@@ -20230,6 +28095,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'woman health worker',
     glyph: '👩🏼‍⚕️',
     svgPath: 'assets/woman_health_worker_color_medium-light.svg',
+    tts: 'woman health worker',
+    fromVersion: '4.0',
+    glyphAsUtfInEmoticons: ['womanhealthworker'],
+    keywords: ['doctor', 'healthcare', 'nurse', 'therapist', 'woman', 'woman health worker'],
+    mappedToEmoticons: ['womanhealthworker'],
     skinTone: FluentEmojiSkinTone.mediumLight,
   );
 
@@ -20240,6 +28110,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'woman health worker',
     glyph: '👩🏽‍⚕️',
     svgPath: 'assets/woman_health_worker_color_medium.svg',
+    tts: 'woman health worker',
+    fromVersion: '4.0',
+    glyphAsUtfInEmoticons: ['womanhealthworker'],
+    keywords: ['doctor', 'healthcare', 'nurse', 'therapist', 'woman', 'woman health worker'],
+    mappedToEmoticons: ['womanhealthworker'],
     skinTone: FluentEmojiSkinTone.medium,
   );
 
@@ -20250,6 +28125,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'woman health worker',
     glyph: '👩🏾‍⚕️',
     svgPath: 'assets/woman_health_worker_color_medium-dark.svg',
+    tts: 'woman health worker',
+    fromVersion: '4.0',
+    glyphAsUtfInEmoticons: ['womanhealthworker'],
+    keywords: ['doctor', 'healthcare', 'nurse', 'therapist', 'woman', 'woman health worker'],
+    mappedToEmoticons: ['womanhealthworker'],
     skinTone: FluentEmojiSkinTone.mediumDark,
   );
 
@@ -20260,6 +28140,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'woman health worker',
     glyph: '👩🏿‍⚕️',
     svgPath: 'assets/woman_health_worker_color_dark.svg',
+    tts: 'woman health worker',
+    fromVersion: '4.0',
+    glyphAsUtfInEmoticons: ['womanhealthworker'],
+    keywords: ['doctor', 'healthcare', 'nurse', 'therapist', 'woman', 'woman health worker'],
+    mappedToEmoticons: ['womanhealthworker'],
     skinTone: FluentEmojiSkinTone.dark,
   );
 
@@ -20276,6 +28161,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'woman in lotus position',
     glyph: '🧘‍♀️',
     svgPath: 'assets/woman_in_lotus_position_color_default.svg',
+    tts: 'woman in lotus position',
+    fromVersion: '5.0',
+    glyphAsUtfInEmoticons: ['yoga'],
+    keywords: ['meditation', 'woman in lotus position', 'yoga'],
+    mappedToEmoticons: ['yoga'],
     skinToneLight: _womanInLotusPositionLight,
     skinToneMediumLight: _womanInLotusPositionMediumLight,
     skinToneMedium: _womanInLotusPositionMedium,
@@ -20290,6 +28180,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'woman in lotus position',
     glyph: '🧘🏻‍♀️',
     svgPath: 'assets/woman_in_lotus_position_color_light.svg',
+    tts: 'woman in lotus position',
+    fromVersion: '5.0',
+    glyphAsUtfInEmoticons: ['yoga'],
+    keywords: ['meditation', 'woman in lotus position', 'yoga'],
+    mappedToEmoticons: ['yoga'],
     skinTone: FluentEmojiSkinTone.light,
   );
 
@@ -20300,6 +28195,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'woman in lotus position',
     glyph: '🧘🏼‍♀️',
     svgPath: 'assets/woman_in_lotus_position_color_medium-light.svg',
+    tts: 'woman in lotus position',
+    fromVersion: '5.0',
+    glyphAsUtfInEmoticons: ['yoga'],
+    keywords: ['meditation', 'woman in lotus position', 'yoga'],
+    mappedToEmoticons: ['yoga'],
     skinTone: FluentEmojiSkinTone.mediumLight,
   );
 
@@ -20310,6 +28210,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'woman in lotus position',
     glyph: '🧘🏽‍♀️',
     svgPath: 'assets/woman_in_lotus_position_color_medium.svg',
+    tts: 'woman in lotus position',
+    fromVersion: '5.0',
+    glyphAsUtfInEmoticons: ['yoga'],
+    keywords: ['meditation', 'woman in lotus position', 'yoga'],
+    mappedToEmoticons: ['yoga'],
     skinTone: FluentEmojiSkinTone.medium,
   );
 
@@ -20320,6 +28225,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'woman in lotus position',
     glyph: '🧘🏾‍♀️',
     svgPath: 'assets/woman_in_lotus_position_color_medium-dark.svg',
+    tts: 'woman in lotus position',
+    fromVersion: '5.0',
+    glyphAsUtfInEmoticons: ['yoga'],
+    keywords: ['meditation', 'woman in lotus position', 'yoga'],
+    mappedToEmoticons: ['yoga'],
     skinTone: FluentEmojiSkinTone.mediumDark,
   );
 
@@ -20330,6 +28240,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'woman in lotus position',
     glyph: '🧘🏿‍♀️',
     svgPath: 'assets/woman_in_lotus_position_color_dark.svg',
+    tts: 'woman in lotus position',
+    fromVersion: '5.0',
+    glyphAsUtfInEmoticons: ['yoga'],
+    keywords: ['meditation', 'woman in lotus position', 'yoga'],
+    mappedToEmoticons: ['yoga'],
     skinTone: FluentEmojiSkinTone.dark,
   );
 
@@ -20346,6 +28261,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'woman in manual wheelchair',
     glyph: '👩‍🦽',
     svgPath: 'assets/woman_in_manual_wheelchair_color_default.svg',
+    tts: 'woman in manual wheelchair',
+    fromVersion: '12.0',
+    glyphAsUtfInEmoticons: ['woman_in_manual_wheelchair'],
+    keywords: ['accessibility', 'wheelchair', 'woman', 'woman in manual wheelchair'],
+    mappedToEmoticons: ['woman_in_manual_wheelchair'],
     skinToneLight: _womanInManualWheelchairLight,
     skinToneMediumLight: _womanInManualWheelchairMediumLight,
     skinToneMedium: _womanInManualWheelchairMedium,
@@ -20360,6 +28280,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'woman in manual wheelchair',
     glyph: '👩🏻‍🦽',
     svgPath: 'assets/woman_in_manual_wheelchair_color_light.svg',
+    tts: 'woman in manual wheelchair',
+    fromVersion: '12.0',
+    glyphAsUtfInEmoticons: ['woman_in_manual_wheelchair'],
+    keywords: ['accessibility', 'wheelchair', 'woman', 'woman in manual wheelchair'],
+    mappedToEmoticons: ['woman_in_manual_wheelchair'],
     skinTone: FluentEmojiSkinTone.light,
   );
 
@@ -20370,6 +28295,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'woman in manual wheelchair',
     glyph: '👩🏼‍🦽',
     svgPath: 'assets/woman_in_manual_wheelchair_color_medium-light.svg',
+    tts: 'woman in manual wheelchair',
+    fromVersion: '12.0',
+    glyphAsUtfInEmoticons: ['woman_in_manual_wheelchair'],
+    keywords: ['accessibility', 'wheelchair', 'woman', 'woman in manual wheelchair'],
+    mappedToEmoticons: ['woman_in_manual_wheelchair'],
     skinTone: FluentEmojiSkinTone.mediumLight,
   );
 
@@ -20380,6 +28310,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'woman in manual wheelchair',
     glyph: '👩🏽‍🦽',
     svgPath: 'assets/woman_in_manual_wheelchair_color_medium.svg',
+    tts: 'woman in manual wheelchair',
+    fromVersion: '12.0',
+    glyphAsUtfInEmoticons: ['woman_in_manual_wheelchair'],
+    keywords: ['accessibility', 'wheelchair', 'woman', 'woman in manual wheelchair'],
+    mappedToEmoticons: ['woman_in_manual_wheelchair'],
     skinTone: FluentEmojiSkinTone.medium,
   );
 
@@ -20390,6 +28325,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'woman in manual wheelchair',
     glyph: '👩🏾‍🦽',
     svgPath: 'assets/woman_in_manual_wheelchair_color_medium-dark.svg',
+    tts: 'woman in manual wheelchair',
+    fromVersion: '12.0',
+    glyphAsUtfInEmoticons: ['woman_in_manual_wheelchair'],
+    keywords: ['accessibility', 'wheelchair', 'woman', 'woman in manual wheelchair'],
+    mappedToEmoticons: ['woman_in_manual_wheelchair'],
     skinTone: FluentEmojiSkinTone.mediumDark,
   );
 
@@ -20400,6 +28340,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'woman in manual wheelchair',
     glyph: '👩🏿‍🦽',
     svgPath: 'assets/woman_in_manual_wheelchair_color_dark.svg',
+    tts: 'woman in manual wheelchair',
+    fromVersion: '12.0',
+    glyphAsUtfInEmoticons: ['woman_in_manual_wheelchair'],
+    keywords: ['accessibility', 'wheelchair', 'woman', 'woman in manual wheelchair'],
+    mappedToEmoticons: ['woman_in_manual_wheelchair'],
     skinTone: FluentEmojiSkinTone.dark,
   );
 
@@ -20416,6 +28361,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'woman in manual wheelchair facing right',
     glyph: '👩‍🦽‍➡️',
     svgPath: 'assets/woman_in_manual_wheelchair_facing_right_color_default.svg',
+    tts: '',
+    fromVersion: '15.1',
+    glyphAsUtfInEmoticons: [],
+    keywords: ['accessibility', 'wheelchair', 'woman', 'woman in manual wheelchair'],
+    mappedToEmoticons: [],
     skinToneLight: _womanInManualWheelchairFacingRightLight,
     skinToneMediumLight: _womanInManualWheelchairFacingRightMediumLight,
     skinToneMedium: _womanInManualWheelchairFacingRightMedium,
@@ -20430,6 +28380,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'woman in manual wheelchair facing right',
     glyph: '👩🏻‍🦽‍➡️',
     svgPath: 'assets/woman_in_manual_wheelchair_facing_right_color_light.svg',
+    tts: '',
+    fromVersion: '15.1',
+    glyphAsUtfInEmoticons: [],
+    keywords: ['accessibility', 'wheelchair', 'woman', 'woman in manual wheelchair'],
+    mappedToEmoticons: [],
     skinTone: FluentEmojiSkinTone.light,
   );
 
@@ -20440,6 +28395,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'woman in manual wheelchair facing right',
     glyph: '👩🏼‍🦽‍➡️',
     svgPath: 'assets/woman_in_manual_wheelchair_facing_right_color_medium-light.svg',
+    tts: '',
+    fromVersion: '15.1',
+    glyphAsUtfInEmoticons: [],
+    keywords: ['accessibility', 'wheelchair', 'woman', 'woman in manual wheelchair'],
+    mappedToEmoticons: [],
     skinTone: FluentEmojiSkinTone.mediumLight,
   );
 
@@ -20450,6 +28410,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'woman in manual wheelchair facing right',
     glyph: '👩🏽‍🦽‍➡️',
     svgPath: 'assets/woman_in_manual_wheelchair_facing_right_color_medium.svg',
+    tts: '',
+    fromVersion: '15.1',
+    glyphAsUtfInEmoticons: [],
+    keywords: ['accessibility', 'wheelchair', 'woman', 'woman in manual wheelchair'],
+    mappedToEmoticons: [],
     skinTone: FluentEmojiSkinTone.medium,
   );
 
@@ -20460,6 +28425,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'woman in manual wheelchair facing right',
     glyph: '👩🏾‍🦽‍➡️',
     svgPath: 'assets/woman_in_manual_wheelchair_facing_right_color_medium-dark.svg',
+    tts: '',
+    fromVersion: '15.1',
+    glyphAsUtfInEmoticons: [],
+    keywords: ['accessibility', 'wheelchair', 'woman', 'woman in manual wheelchair'],
+    mappedToEmoticons: [],
     skinTone: FluentEmojiSkinTone.mediumDark,
   );
 
@@ -20470,6 +28440,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'woman in manual wheelchair facing right',
     glyph: '👩🏿‍🦽‍➡️',
     svgPath: 'assets/woman_in_manual_wheelchair_facing_right_color_dark.svg',
+    tts: '',
+    fromVersion: '15.1',
+    glyphAsUtfInEmoticons: [],
+    keywords: ['accessibility', 'wheelchair', 'woman', 'woman in manual wheelchair'],
+    mappedToEmoticons: [],
     skinTone: FluentEmojiSkinTone.dark,
   );
 
@@ -20486,6 +28461,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'woman in motorized wheelchair',
     glyph: '👩‍🦼',
     svgPath: 'assets/woman_in_motorized_wheelchair_color_default.svg',
+    tts: 'woman in motorized wheelchair',
+    fromVersion: '12.0',
+    glyphAsUtfInEmoticons: ['woman_in_motorized_wheelchair'],
+    keywords: ['accessibility', 'wheelchair', 'woman', 'woman in motorized wheelchair'],
+    mappedToEmoticons: ['woman_in_motorized_wheelchair'],
     skinToneLight: _womanInMotorizedWheelchairLight,
     skinToneMediumLight: _womanInMotorizedWheelchairMediumLight,
     skinToneMedium: _womanInMotorizedWheelchairMedium,
@@ -20500,6 +28480,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'woman in motorized wheelchair',
     glyph: '👩🏻‍🦼',
     svgPath: 'assets/woman_in_motorized_wheelchair_color_light.svg',
+    tts: 'woman in motorized wheelchair',
+    fromVersion: '12.0',
+    glyphAsUtfInEmoticons: ['woman_in_motorized_wheelchair'],
+    keywords: ['accessibility', 'wheelchair', 'woman', 'woman in motorized wheelchair'],
+    mappedToEmoticons: ['woman_in_motorized_wheelchair'],
     skinTone: FluentEmojiSkinTone.light,
   );
 
@@ -20510,6 +28495,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'woman in motorized wheelchair',
     glyph: '👩🏼‍🦼',
     svgPath: 'assets/woman_in_motorized_wheelchair_color_medium-light.svg',
+    tts: 'woman in motorized wheelchair',
+    fromVersion: '12.0',
+    glyphAsUtfInEmoticons: ['woman_in_motorized_wheelchair'],
+    keywords: ['accessibility', 'wheelchair', 'woman', 'woman in motorized wheelchair'],
+    mappedToEmoticons: ['woman_in_motorized_wheelchair'],
     skinTone: FluentEmojiSkinTone.mediumLight,
   );
 
@@ -20520,6 +28510,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'woman in motorized wheelchair',
     glyph: '👩🏽‍🦼',
     svgPath: 'assets/woman_in_motorized_wheelchair_color_medium.svg',
+    tts: 'woman in motorized wheelchair',
+    fromVersion: '12.0',
+    glyphAsUtfInEmoticons: ['woman_in_motorized_wheelchair'],
+    keywords: ['accessibility', 'wheelchair', 'woman', 'woman in motorized wheelchair'],
+    mappedToEmoticons: ['woman_in_motorized_wheelchair'],
     skinTone: FluentEmojiSkinTone.medium,
   );
 
@@ -20530,6 +28525,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'woman in motorized wheelchair',
     glyph: '👩🏾‍🦼',
     svgPath: 'assets/woman_in_motorized_wheelchair_color_medium-dark.svg',
+    tts: 'woman in motorized wheelchair',
+    fromVersion: '12.0',
+    glyphAsUtfInEmoticons: ['woman_in_motorized_wheelchair'],
+    keywords: ['accessibility', 'wheelchair', 'woman', 'woman in motorized wheelchair'],
+    mappedToEmoticons: ['woman_in_motorized_wheelchair'],
     skinTone: FluentEmojiSkinTone.mediumDark,
   );
 
@@ -20540,6 +28540,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'woman in motorized wheelchair',
     glyph: '👩🏿‍🦼',
     svgPath: 'assets/woman_in_motorized_wheelchair_color_dark.svg',
+    tts: 'woman in motorized wheelchair',
+    fromVersion: '12.0',
+    glyphAsUtfInEmoticons: ['woman_in_motorized_wheelchair'],
+    keywords: ['accessibility', 'wheelchair', 'woman', 'woman in motorized wheelchair'],
+    mappedToEmoticons: ['woman_in_motorized_wheelchair'],
     skinTone: FluentEmojiSkinTone.dark,
   );
 
@@ -20556,6 +28561,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'woman in motorized wheelchair facing right',
     glyph: '👩‍🦼‍➡️',
     svgPath: 'assets/woman_in_motorized_wheelchair_facing_right_color_default.svg',
+    tts: '',
+    fromVersion: '15.1',
+    glyphAsUtfInEmoticons: [],
+    keywords: ['accessibility', 'wheelchair', 'woman', 'woman in motorized wheelchair'],
+    mappedToEmoticons: [],
     skinToneLight: _womanInMotorizedWheelchairFacingRightLight,
     skinToneMediumLight: _womanInMotorizedWheelchairFacingRightMediumLight,
     skinToneMedium: _womanInMotorizedWheelchairFacingRightMedium,
@@ -20570,6 +28580,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'woman in motorized wheelchair facing right',
     glyph: '👩🏻‍🦼‍➡️',
     svgPath: 'assets/woman_in_motorized_wheelchair_facing_right_color_light.svg',
+    tts: '',
+    fromVersion: '15.1',
+    glyphAsUtfInEmoticons: [],
+    keywords: ['accessibility', 'wheelchair', 'woman', 'woman in motorized wheelchair'],
+    mappedToEmoticons: [],
     skinTone: FluentEmojiSkinTone.light,
   );
 
@@ -20580,6 +28595,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'woman in motorized wheelchair facing right',
     glyph: '👩🏼‍🦼‍➡️',
     svgPath: 'assets/woman_in_motorized_wheelchair_facing_right_color_medium-light.svg',
+    tts: '',
+    fromVersion: '15.1',
+    glyphAsUtfInEmoticons: [],
+    keywords: ['accessibility', 'wheelchair', 'woman', 'woman in motorized wheelchair'],
+    mappedToEmoticons: [],
     skinTone: FluentEmojiSkinTone.mediumLight,
   );
 
@@ -20590,6 +28610,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'woman in motorized wheelchair facing right',
     glyph: '👩🏽‍🦼‍➡️',
     svgPath: 'assets/woman_in_motorized_wheelchair_facing_right_color_medium.svg',
+    tts: '',
+    fromVersion: '15.1',
+    glyphAsUtfInEmoticons: [],
+    keywords: ['accessibility', 'wheelchair', 'woman', 'woman in motorized wheelchair'],
+    mappedToEmoticons: [],
     skinTone: FluentEmojiSkinTone.medium,
   );
 
@@ -20600,6 +28625,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'woman in motorized wheelchair facing right',
     glyph: '👩🏾‍🦼‍➡️',
     svgPath: 'assets/woman_in_motorized_wheelchair_facing_right_color_medium-dark.svg',
+    tts: '',
+    fromVersion: '15.1',
+    glyphAsUtfInEmoticons: [],
+    keywords: ['accessibility', 'wheelchair', 'woman', 'woman in motorized wheelchair'],
+    mappedToEmoticons: [],
     skinTone: FluentEmojiSkinTone.mediumDark,
   );
 
@@ -20610,6 +28640,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'woman in motorized wheelchair facing right',
     glyph: '👩🏿‍🦼‍➡️',
     svgPath: 'assets/woman_in_motorized_wheelchair_facing_right_color_dark.svg',
+    tts: '',
+    fromVersion: '15.1',
+    glyphAsUtfInEmoticons: [],
+    keywords: ['accessibility', 'wheelchair', 'woman', 'woman in motorized wheelchair'],
+    mappedToEmoticons: [],
     skinTone: FluentEmojiSkinTone.dark,
   );
 
@@ -20626,6 +28661,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'woman in steamy room',
     glyph: '🧖‍♀️',
     svgPath: 'assets/woman_in_steamy_room_color_default.svg',
+    tts: 'woman in steamy room',
+    fromVersion: '5.0',
+    glyphAsUtfInEmoticons: ['woman_steam_room'],
+    keywords: ['sauna', 'steam room', 'woman in steamy room'],
+    mappedToEmoticons: ['woman_steam_room'],
     skinToneLight: _womanInSteamyRoomLight,
     skinToneMediumLight: _womanInSteamyRoomMediumLight,
     skinToneMedium: _womanInSteamyRoomMedium,
@@ -20640,6 +28680,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'woman in steamy room',
     glyph: '🧖🏻‍♀️',
     svgPath: 'assets/woman_in_steamy_room_color_light.svg',
+    tts: 'woman in steamy room',
+    fromVersion: '5.0',
+    glyphAsUtfInEmoticons: ['woman_steam_room'],
+    keywords: ['sauna', 'steam room', 'woman in steamy room'],
+    mappedToEmoticons: ['woman_steam_room'],
     skinTone: FluentEmojiSkinTone.light,
   );
 
@@ -20650,6 +28695,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'woman in steamy room',
     glyph: '🧖🏼‍♀️',
     svgPath: 'assets/woman_in_steamy_room_color_medium-light.svg',
+    tts: 'woman in steamy room',
+    fromVersion: '5.0',
+    glyphAsUtfInEmoticons: ['woman_steam_room'],
+    keywords: ['sauna', 'steam room', 'woman in steamy room'],
+    mappedToEmoticons: ['woman_steam_room'],
     skinTone: FluentEmojiSkinTone.mediumLight,
   );
 
@@ -20660,6 +28710,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'woman in steamy room',
     glyph: '🧖🏽‍♀️',
     svgPath: 'assets/woman_in_steamy_room_color_medium.svg',
+    tts: 'woman in steamy room',
+    fromVersion: '5.0',
+    glyphAsUtfInEmoticons: ['woman_steam_room'],
+    keywords: ['sauna', 'steam room', 'woman in steamy room'],
+    mappedToEmoticons: ['woman_steam_room'],
     skinTone: FluentEmojiSkinTone.medium,
   );
 
@@ -20670,6 +28725,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'woman in steamy room',
     glyph: '🧖🏾‍♀️',
     svgPath: 'assets/woman_in_steamy_room_color_medium-dark.svg',
+    tts: 'woman in steamy room',
+    fromVersion: '5.0',
+    glyphAsUtfInEmoticons: ['woman_steam_room'],
+    keywords: ['sauna', 'steam room', 'woman in steamy room'],
+    mappedToEmoticons: ['woman_steam_room'],
     skinTone: FluentEmojiSkinTone.mediumDark,
   );
 
@@ -20680,6 +28740,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'woman in steamy room',
     glyph: '🧖🏿‍♀️',
     svgPath: 'assets/woman_in_steamy_room_color_dark.svg',
+    tts: 'woman in steamy room',
+    fromVersion: '5.0',
+    glyphAsUtfInEmoticons: ['woman_steam_room'],
+    keywords: ['sauna', 'steam room', 'woman in steamy room'],
+    mappedToEmoticons: ['woman_steam_room'],
     skinTone: FluentEmojiSkinTone.dark,
   );
 
@@ -20696,6 +28761,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'woman in tuxedo',
     glyph: '🤵‍♀️',
     svgPath: 'assets/woman_in_tuxedo_color_default.svg',
+    tts: 'woman in tuxedo',
+    fromVersion: '13.0',
+    glyphAsUtfInEmoticons: ['womanintuxedo'],
+    keywords: ['tuxedo', 'woman', 'woman in tuxedo'],
+    mappedToEmoticons: ['womanintuxedo'],
     skinToneLight: _womanInTuxedoLight,
     skinToneMediumLight: _womanInTuxedoMediumLight,
     skinToneMedium: _womanInTuxedoMedium,
@@ -20710,6 +28780,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'woman in tuxedo',
     glyph: '🤵🏻‍♀️',
     svgPath: 'assets/woman_in_tuxedo_color_light.svg',
+    tts: 'woman in tuxedo',
+    fromVersion: '13.0',
+    glyphAsUtfInEmoticons: ['womanintuxedo'],
+    keywords: ['tuxedo', 'woman', 'woman in tuxedo'],
+    mappedToEmoticons: ['womanintuxedo'],
     skinTone: FluentEmojiSkinTone.light,
   );
 
@@ -20720,6 +28795,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'woman in tuxedo',
     glyph: '🤵🏼‍♀️',
     svgPath: 'assets/woman_in_tuxedo_color_medium-light.svg',
+    tts: 'woman in tuxedo',
+    fromVersion: '13.0',
+    glyphAsUtfInEmoticons: ['womanintuxedo'],
+    keywords: ['tuxedo', 'woman', 'woman in tuxedo'],
+    mappedToEmoticons: ['womanintuxedo'],
     skinTone: FluentEmojiSkinTone.mediumLight,
   );
 
@@ -20730,6 +28810,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'woman in tuxedo',
     glyph: '🤵🏽‍♀️',
     svgPath: 'assets/woman_in_tuxedo_color_medium.svg',
+    tts: 'woman in tuxedo',
+    fromVersion: '13.0',
+    glyphAsUtfInEmoticons: ['womanintuxedo'],
+    keywords: ['tuxedo', 'woman', 'woman in tuxedo'],
+    mappedToEmoticons: ['womanintuxedo'],
     skinTone: FluentEmojiSkinTone.medium,
   );
 
@@ -20740,6 +28825,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'woman in tuxedo',
     glyph: '🤵🏾‍♀️',
     svgPath: 'assets/woman_in_tuxedo_color_medium-dark.svg',
+    tts: 'woman in tuxedo',
+    fromVersion: '13.0',
+    glyphAsUtfInEmoticons: ['womanintuxedo'],
+    keywords: ['tuxedo', 'woman', 'woman in tuxedo'],
+    mappedToEmoticons: ['womanintuxedo'],
     skinTone: FluentEmojiSkinTone.mediumDark,
   );
 
@@ -20750,6 +28840,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'woman in tuxedo',
     glyph: '🤵🏿‍♀️',
     svgPath: 'assets/woman_in_tuxedo_color_dark.svg',
+    tts: 'woman in tuxedo',
+    fromVersion: '13.0',
+    glyphAsUtfInEmoticons: ['womanintuxedo'],
+    keywords: ['tuxedo', 'woman', 'woman in tuxedo'],
+    mappedToEmoticons: ['womanintuxedo'],
     skinTone: FluentEmojiSkinTone.dark,
   );
 
@@ -20766,6 +28861,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'woman judge',
     glyph: '👩‍⚖️',
     svgPath: 'assets/woman_judge_color_default.svg',
+    tts: 'woman judge',
+    fromVersion: '4.0',
+    glyphAsUtfInEmoticons: ['womanjudge'],
+    keywords: ['judge', 'justice', 'scales', 'woman'],
+    mappedToEmoticons: ['womanjudge'],
     skinToneLight: _womanJudgeLight,
     skinToneMediumLight: _womanJudgeMediumLight,
     skinToneMedium: _womanJudgeMedium,
@@ -20780,6 +28880,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'woman judge',
     glyph: '👩🏻‍⚖️',
     svgPath: 'assets/woman_judge_color_light.svg',
+    tts: 'woman judge',
+    fromVersion: '4.0',
+    glyphAsUtfInEmoticons: ['womanjudge'],
+    keywords: ['judge', 'justice', 'scales', 'woman'],
+    mappedToEmoticons: ['womanjudge'],
     skinTone: FluentEmojiSkinTone.light,
   );
 
@@ -20790,6 +28895,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'woman judge',
     glyph: '👩🏼‍⚖️',
     svgPath: 'assets/woman_judge_color_medium-light.svg',
+    tts: 'woman judge',
+    fromVersion: '4.0',
+    glyphAsUtfInEmoticons: ['womanjudge'],
+    keywords: ['judge', 'justice', 'scales', 'woman'],
+    mappedToEmoticons: ['womanjudge'],
     skinTone: FluentEmojiSkinTone.mediumLight,
   );
 
@@ -20800,6 +28910,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'woman judge',
     glyph: '👩🏽‍⚖️',
     svgPath: 'assets/woman_judge_color_medium.svg',
+    tts: 'woman judge',
+    fromVersion: '4.0',
+    glyphAsUtfInEmoticons: ['womanjudge'],
+    keywords: ['judge', 'justice', 'scales', 'woman'],
+    mappedToEmoticons: ['womanjudge'],
     skinTone: FluentEmojiSkinTone.medium,
   );
 
@@ -20810,6 +28925,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'woman judge',
     glyph: '👩🏾‍⚖️',
     svgPath: 'assets/woman_judge_color_medium-dark.svg',
+    tts: 'woman judge',
+    fromVersion: '4.0',
+    glyphAsUtfInEmoticons: ['womanjudge'],
+    keywords: ['judge', 'justice', 'scales', 'woman'],
+    mappedToEmoticons: ['womanjudge'],
     skinTone: FluentEmojiSkinTone.mediumDark,
   );
 
@@ -20820,6 +28940,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'woman judge',
     glyph: '👩🏿‍⚖️',
     svgPath: 'assets/woman_judge_color_dark.svg',
+    tts: 'woman judge',
+    fromVersion: '4.0',
+    glyphAsUtfInEmoticons: ['womanjudge'],
+    keywords: ['judge', 'justice', 'scales', 'woman'],
+    mappedToEmoticons: ['womanjudge'],
     skinTone: FluentEmojiSkinTone.dark,
   );
 
@@ -20836,6 +28961,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'woman juggling',
     glyph: '🤹‍♀️',
     svgPath: 'assets/woman_juggling_color_default.svg',
+    tts: 'woman juggling',
+    fromVersion: '4.0',
+    glyphAsUtfInEmoticons: ['woman_juggling'],
+    keywords: ['juggling', 'multitask', 'woman'],
+    mappedToEmoticons: ['woman_juggling'],
     skinToneLight: _womanJugglingLight,
     skinToneMediumLight: _womanJugglingMediumLight,
     skinToneMedium: _womanJugglingMedium,
@@ -20850,6 +28980,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'woman juggling',
     glyph: '🤹🏻‍♀️',
     svgPath: 'assets/woman_juggling_color_light.svg',
+    tts: 'woman juggling',
+    fromVersion: '4.0',
+    glyphAsUtfInEmoticons: ['woman_juggling'],
+    keywords: ['juggling', 'multitask', 'woman'],
+    mappedToEmoticons: ['woman_juggling'],
     skinTone: FluentEmojiSkinTone.light,
   );
 
@@ -20860,6 +28995,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'woman juggling',
     glyph: '🤹🏼‍♀️',
     svgPath: 'assets/woman_juggling_color_medium-light.svg',
+    tts: 'woman juggling',
+    fromVersion: '4.0',
+    glyphAsUtfInEmoticons: ['woman_juggling'],
+    keywords: ['juggling', 'multitask', 'woman'],
+    mappedToEmoticons: ['woman_juggling'],
     skinTone: FluentEmojiSkinTone.mediumLight,
   );
 
@@ -20870,6 +29010,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'woman juggling',
     glyph: '🤹🏽‍♀️',
     svgPath: 'assets/woman_juggling_color_medium.svg',
+    tts: 'woman juggling',
+    fromVersion: '4.0',
+    glyphAsUtfInEmoticons: ['woman_juggling'],
+    keywords: ['juggling', 'multitask', 'woman'],
+    mappedToEmoticons: ['woman_juggling'],
     skinTone: FluentEmojiSkinTone.medium,
   );
 
@@ -20880,6 +29025,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'woman juggling',
     glyph: '🤹🏾‍♀️',
     svgPath: 'assets/woman_juggling_color_medium-dark.svg',
+    tts: 'woman juggling',
+    fromVersion: '4.0',
+    glyphAsUtfInEmoticons: ['woman_juggling'],
+    keywords: ['juggling', 'multitask', 'woman'],
+    mappedToEmoticons: ['woman_juggling'],
     skinTone: FluentEmojiSkinTone.mediumDark,
   );
 
@@ -20890,6 +29040,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'woman juggling',
     glyph: '🤹🏿‍♀️',
     svgPath: 'assets/woman_juggling_color_dark.svg',
+    tts: 'woman juggling',
+    fromVersion: '4.0',
+    glyphAsUtfInEmoticons: ['woman_juggling'],
+    keywords: ['juggling', 'multitask', 'woman'],
+    mappedToEmoticons: ['woman_juggling'],
     skinTone: FluentEmojiSkinTone.dark,
   );
 
@@ -20906,6 +29061,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'woman kneeling',
     glyph: '🧎‍♀️',
     svgPath: 'assets/woman_kneeling_color_default.svg',
+    tts: 'woman kneeling',
+    fromVersion: '12.0',
+    glyphAsUtfInEmoticons: ['woman_kneeling'],
+    keywords: ['kneeling', 'woman'],
+    mappedToEmoticons: ['woman_kneeling'],
     skinToneLight: _womanKneelingLight,
     skinToneMediumLight: _womanKneelingMediumLight,
     skinToneMedium: _womanKneelingMedium,
@@ -20920,6 +29080,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'woman kneeling',
     glyph: '🧎🏻‍♀️',
     svgPath: 'assets/woman_kneeling_color_light.svg',
+    tts: 'woman kneeling',
+    fromVersion: '12.0',
+    glyphAsUtfInEmoticons: ['woman_kneeling'],
+    keywords: ['kneeling', 'woman'],
+    mappedToEmoticons: ['woman_kneeling'],
     skinTone: FluentEmojiSkinTone.light,
   );
 
@@ -20930,6 +29095,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'woman kneeling',
     glyph: '🧎🏼‍♀️',
     svgPath: 'assets/woman_kneeling_color_medium-light.svg',
+    tts: 'woman kneeling',
+    fromVersion: '12.0',
+    glyphAsUtfInEmoticons: ['woman_kneeling'],
+    keywords: ['kneeling', 'woman'],
+    mappedToEmoticons: ['woman_kneeling'],
     skinTone: FluentEmojiSkinTone.mediumLight,
   );
 
@@ -20940,6 +29110,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'woman kneeling',
     glyph: '🧎🏽‍♀️',
     svgPath: 'assets/woman_kneeling_color_medium.svg',
+    tts: 'woman kneeling',
+    fromVersion: '12.0',
+    glyphAsUtfInEmoticons: ['woman_kneeling'],
+    keywords: ['kneeling', 'woman'],
+    mappedToEmoticons: ['woman_kneeling'],
     skinTone: FluentEmojiSkinTone.medium,
   );
 
@@ -20950,6 +29125,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'woman kneeling',
     glyph: '🧎🏾‍♀️',
     svgPath: 'assets/woman_kneeling_color_medium-dark.svg',
+    tts: 'woman kneeling',
+    fromVersion: '12.0',
+    glyphAsUtfInEmoticons: ['woman_kneeling'],
+    keywords: ['kneeling', 'woman'],
+    mappedToEmoticons: ['woman_kneeling'],
     skinTone: FluentEmojiSkinTone.mediumDark,
   );
 
@@ -20960,6 +29140,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'woman kneeling',
     glyph: '🧎🏿‍♀️',
     svgPath: 'assets/woman_kneeling_color_dark.svg',
+    tts: 'woman kneeling',
+    fromVersion: '12.0',
+    glyphAsUtfInEmoticons: ['woman_kneeling'],
+    keywords: ['kneeling', 'woman'],
+    mappedToEmoticons: ['woman_kneeling'],
     skinTone: FluentEmojiSkinTone.dark,
   );
 
@@ -20976,6 +29161,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'woman kneeling facing right',
     glyph: '🧎‍♀️‍➡️',
     svgPath: 'assets/woman_kneeling_facing_right_color_default.svg',
+    tts: '',
+    fromVersion: '15.1',
+    glyphAsUtfInEmoticons: [],
+    keywords: ['kneeling', 'woman'],
+    mappedToEmoticons: [],
     skinToneLight: _womanKneelingFacingRightLight,
     skinToneMediumLight: _womanKneelingFacingRightMediumLight,
     skinToneMedium: _womanKneelingFacingRightMedium,
@@ -20990,6 +29180,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'woman kneeling facing right',
     glyph: '🧎🏻‍♀️‍➡️',
     svgPath: 'assets/woman_kneeling_facing_right_color_light.svg',
+    tts: '',
+    fromVersion: '15.1',
+    glyphAsUtfInEmoticons: [],
+    keywords: ['kneeling', 'woman'],
+    mappedToEmoticons: [],
     skinTone: FluentEmojiSkinTone.light,
   );
 
@@ -21000,6 +29195,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'woman kneeling facing right',
     glyph: '🧎🏼‍♀️‍➡️',
     svgPath: 'assets/woman_kneeling_facing_right_color_medium-light.svg',
+    tts: '',
+    fromVersion: '15.1',
+    glyphAsUtfInEmoticons: [],
+    keywords: ['kneeling', 'woman'],
+    mappedToEmoticons: [],
     skinTone: FluentEmojiSkinTone.mediumLight,
   );
 
@@ -21010,6 +29210,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'woman kneeling facing right',
     glyph: '🧎🏽‍♀️‍➡️',
     svgPath: 'assets/woman_kneeling_facing_right_color_medium.svg',
+    tts: '',
+    fromVersion: '15.1',
+    glyphAsUtfInEmoticons: [],
+    keywords: ['kneeling', 'woman'],
+    mappedToEmoticons: [],
     skinTone: FluentEmojiSkinTone.medium,
   );
 
@@ -21020,6 +29225,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'woman kneeling facing right',
     glyph: '🧎🏾‍♀️‍➡️',
     svgPath: 'assets/woman_kneeling_facing_right_color_medium-dark.svg',
+    tts: '',
+    fromVersion: '15.1',
+    glyphAsUtfInEmoticons: [],
+    keywords: ['kneeling', 'woman'],
+    mappedToEmoticons: [],
     skinTone: FluentEmojiSkinTone.mediumDark,
   );
 
@@ -21030,6 +29240,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'woman kneeling facing right',
     glyph: '🧎🏿‍♀️‍➡️',
     svgPath: 'assets/woman_kneeling_facing_right_color_dark.svg',
+    tts: '',
+    fromVersion: '15.1',
+    glyphAsUtfInEmoticons: [],
+    keywords: ['kneeling', 'woman'],
+    mappedToEmoticons: [],
     skinTone: FluentEmojiSkinTone.dark,
   );
 
@@ -21046,6 +29261,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'woman lifting weights',
     glyph: '🏋️‍♀️',
     svgPath: 'assets/woman_lifting_weights_color_default.svg',
+    tts: 'woman lifting weights',
+    fromVersion: '4.0',
+    glyphAsUtfInEmoticons: ['woman_weight_lifter'],
+    keywords: ['weight lifter', 'woman', 'woman lifting weights'],
+    mappedToEmoticons: ['woman_weight_lifter'],
     skinToneLight: _womanLiftingWeightsLight,
     skinToneMediumLight: _womanLiftingWeightsMediumLight,
     skinToneMedium: _womanLiftingWeightsMedium,
@@ -21060,6 +29280,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'woman lifting weights',
     glyph: '🏋🏻‍♀️',
     svgPath: 'assets/woman_lifting_weights_color_light.svg',
+    tts: 'woman lifting weights',
+    fromVersion: '4.0',
+    glyphAsUtfInEmoticons: ['woman_weight_lifter'],
+    keywords: ['weight lifter', 'woman', 'woman lifting weights'],
+    mappedToEmoticons: ['woman_weight_lifter'],
     skinTone: FluentEmojiSkinTone.light,
   );
 
@@ -21070,6 +29295,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'woman lifting weights',
     glyph: '🏋🏼‍♀️',
     svgPath: 'assets/woman_lifting_weights_color_medium-light.svg',
+    tts: 'woman lifting weights',
+    fromVersion: '4.0',
+    glyphAsUtfInEmoticons: ['woman_weight_lifter'],
+    keywords: ['weight lifter', 'woman', 'woman lifting weights'],
+    mappedToEmoticons: ['woman_weight_lifter'],
     skinTone: FluentEmojiSkinTone.mediumLight,
   );
 
@@ -21080,6 +29310,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'woman lifting weights',
     glyph: '🏋🏽‍♀️',
     svgPath: 'assets/woman_lifting_weights_color_medium.svg',
+    tts: 'woman lifting weights',
+    fromVersion: '4.0',
+    glyphAsUtfInEmoticons: ['woman_weight_lifter'],
+    keywords: ['weight lifter', 'woman', 'woman lifting weights'],
+    mappedToEmoticons: ['woman_weight_lifter'],
     skinTone: FluentEmojiSkinTone.medium,
   );
 
@@ -21090,6 +29325,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'woman lifting weights',
     glyph: '🏋🏾‍♀️',
     svgPath: 'assets/woman_lifting_weights_color_medium-dark.svg',
+    tts: 'woman lifting weights',
+    fromVersion: '4.0',
+    glyphAsUtfInEmoticons: ['woman_weight_lifter'],
+    keywords: ['weight lifter', 'woman', 'woman lifting weights'],
+    mappedToEmoticons: ['woman_weight_lifter'],
     skinTone: FluentEmojiSkinTone.mediumDark,
   );
 
@@ -21100,6 +29340,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'woman lifting weights',
     glyph: '🏋🏿‍♀️',
     svgPath: 'assets/woman_lifting_weights_color_dark.svg',
+    tts: 'woman lifting weights',
+    fromVersion: '4.0',
+    glyphAsUtfInEmoticons: ['woman_weight_lifter'],
+    keywords: ['weight lifter', 'woman', 'woman lifting weights'],
+    mappedToEmoticons: ['woman_weight_lifter'],
     skinTone: FluentEmojiSkinTone.dark,
   );
 
@@ -21116,6 +29361,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'woman mage',
     glyph: '🧙‍♀️',
     svgPath: 'assets/woman_mage_color_default.svg',
+    tts: 'woman mage',
+    fromVersion: '5.0',
+    glyphAsUtfInEmoticons: ['womanmage'],
+    keywords: ['sorceress', 'witch', 'woman mage'],
+    mappedToEmoticons: ['womanmage'],
     skinToneLight: _womanMageLight,
     skinToneMediumLight: _womanMageMediumLight,
     skinToneMedium: _womanMageMedium,
@@ -21130,6 +29380,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'woman mage',
     glyph: '🧙🏻‍♀️',
     svgPath: 'assets/woman_mage_color_light.svg',
+    tts: 'woman mage',
+    fromVersion: '5.0',
+    glyphAsUtfInEmoticons: ['womanmage'],
+    keywords: ['sorceress', 'witch', 'woman mage'],
+    mappedToEmoticons: ['womanmage'],
     skinTone: FluentEmojiSkinTone.light,
   );
 
@@ -21140,6 +29395,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'woman mage',
     glyph: '🧙🏼‍♀️',
     svgPath: 'assets/woman_mage_color_medium-light.svg',
+    tts: 'woman mage',
+    fromVersion: '5.0',
+    glyphAsUtfInEmoticons: ['womanmage'],
+    keywords: ['sorceress', 'witch', 'woman mage'],
+    mappedToEmoticons: ['womanmage'],
     skinTone: FluentEmojiSkinTone.mediumLight,
   );
 
@@ -21150,6 +29410,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'woman mage',
     glyph: '🧙🏽‍♀️',
     svgPath: 'assets/woman_mage_color_medium.svg',
+    tts: 'woman mage',
+    fromVersion: '5.0',
+    glyphAsUtfInEmoticons: ['womanmage'],
+    keywords: ['sorceress', 'witch', 'woman mage'],
+    mappedToEmoticons: ['womanmage'],
     skinTone: FluentEmojiSkinTone.medium,
   );
 
@@ -21160,6 +29425,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'woman mage',
     glyph: '🧙🏾‍♀️',
     svgPath: 'assets/woman_mage_color_medium-dark.svg',
+    tts: 'woman mage',
+    fromVersion: '5.0',
+    glyphAsUtfInEmoticons: ['womanmage'],
+    keywords: ['sorceress', 'witch', 'woman mage'],
+    mappedToEmoticons: ['womanmage'],
     skinTone: FluentEmojiSkinTone.mediumDark,
   );
 
@@ -21170,6 +29440,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'woman mage',
     glyph: '🧙🏿‍♀️',
     svgPath: 'assets/woman_mage_color_dark.svg',
+    tts: 'woman mage',
+    fromVersion: '5.0',
+    glyphAsUtfInEmoticons: ['womanmage'],
+    keywords: ['sorceress', 'witch', 'woman mage'],
+    mappedToEmoticons: ['womanmage'],
     skinTone: FluentEmojiSkinTone.dark,
   );
 
@@ -21186,6 +29461,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'woman mechanic',
     glyph: '👩‍🔧',
     svgPath: 'assets/woman_mechanic_color_default.svg',
+    tts: 'woman mechanic',
+    fromVersion: '4.0',
+    glyphAsUtfInEmoticons: ['womanmechanic'],
+    keywords: ['electrician', 'mechanic', 'plumber', 'tradesperson', 'woman'],
+    mappedToEmoticons: ['womanmechanic'],
     skinToneLight: _womanMechanicLight,
     skinToneMediumLight: _womanMechanicMediumLight,
     skinToneMedium: _womanMechanicMedium,
@@ -21200,6 +29480,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'woman mechanic',
     glyph: '👩🏻‍🔧',
     svgPath: 'assets/woman_mechanic_color_light.svg',
+    tts: 'woman mechanic',
+    fromVersion: '4.0',
+    glyphAsUtfInEmoticons: ['womanmechanic'],
+    keywords: ['electrician', 'mechanic', 'plumber', 'tradesperson', 'woman'],
+    mappedToEmoticons: ['womanmechanic'],
     skinTone: FluentEmojiSkinTone.light,
   );
 
@@ -21210,6 +29495,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'woman mechanic',
     glyph: '👩🏼‍🔧',
     svgPath: 'assets/woman_mechanic_color_medium-light.svg',
+    tts: 'woman mechanic',
+    fromVersion: '4.0',
+    glyphAsUtfInEmoticons: ['womanmechanic'],
+    keywords: ['electrician', 'mechanic', 'plumber', 'tradesperson', 'woman'],
+    mappedToEmoticons: ['womanmechanic'],
     skinTone: FluentEmojiSkinTone.mediumLight,
   );
 
@@ -21220,6 +29510,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'woman mechanic',
     glyph: '👩🏽‍🔧',
     svgPath: 'assets/woman_mechanic_color_medium.svg',
+    tts: 'woman mechanic',
+    fromVersion: '4.0',
+    glyphAsUtfInEmoticons: ['womanmechanic'],
+    keywords: ['electrician', 'mechanic', 'plumber', 'tradesperson', 'woman'],
+    mappedToEmoticons: ['womanmechanic'],
     skinTone: FluentEmojiSkinTone.medium,
   );
 
@@ -21230,6 +29525,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'woman mechanic',
     glyph: '👩🏾‍🔧',
     svgPath: 'assets/woman_mechanic_color_medium-dark.svg',
+    tts: 'woman mechanic',
+    fromVersion: '4.0',
+    glyphAsUtfInEmoticons: ['womanmechanic'],
+    keywords: ['electrician', 'mechanic', 'plumber', 'tradesperson', 'woman'],
+    mappedToEmoticons: ['womanmechanic'],
     skinTone: FluentEmojiSkinTone.mediumDark,
   );
 
@@ -21240,6 +29540,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'woman mechanic',
     glyph: '👩🏿‍🔧',
     svgPath: 'assets/woman_mechanic_color_dark.svg',
+    tts: 'woman mechanic',
+    fromVersion: '4.0',
+    glyphAsUtfInEmoticons: ['womanmechanic'],
+    keywords: ['electrician', 'mechanic', 'plumber', 'tradesperson', 'woman'],
+    mappedToEmoticons: ['womanmechanic'],
     skinTone: FluentEmojiSkinTone.dark,
   );
 
@@ -21256,6 +29561,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'woman mountain biking',
     glyph: '🚵‍♀️',
     svgPath: 'assets/woman_mountain_biking_color_default.svg',
+    tts: 'woman mountain biking',
+    fromVersion: '4.0',
+    glyphAsUtfInEmoticons: ['woman_mountain_biking'],
+    keywords: ['bicycle', 'bike', 'biking', 'cyclist', 'mountain', 'woman'],
+    mappedToEmoticons: ['woman_mountain_biking'],
     skinToneLight: _womanMountainBikingLight,
     skinToneMediumLight: _womanMountainBikingMediumLight,
     skinToneMedium: _womanMountainBikingMedium,
@@ -21270,6 +29580,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'woman mountain biking',
     glyph: '🚵🏻‍♀️',
     svgPath: 'assets/woman_mountain_biking_color_light.svg',
+    tts: 'woman mountain biking',
+    fromVersion: '4.0',
+    glyphAsUtfInEmoticons: ['woman_mountain_biking'],
+    keywords: ['bicycle', 'bike', 'biking', 'cyclist', 'mountain', 'woman'],
+    mappedToEmoticons: ['woman_mountain_biking'],
     skinTone: FluentEmojiSkinTone.light,
   );
 
@@ -21280,6 +29595,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'woman mountain biking',
     glyph: '🚵🏼‍♀️',
     svgPath: 'assets/woman_mountain_biking_color_medium-light.svg',
+    tts: 'woman mountain biking',
+    fromVersion: '4.0',
+    glyphAsUtfInEmoticons: ['woman_mountain_biking'],
+    keywords: ['bicycle', 'bike', 'biking', 'cyclist', 'mountain', 'woman'],
+    mappedToEmoticons: ['woman_mountain_biking'],
     skinTone: FluentEmojiSkinTone.mediumLight,
   );
 
@@ -21290,6 +29610,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'woman mountain biking',
     glyph: '🚵🏽‍♀️',
     svgPath: 'assets/woman_mountain_biking_color_medium.svg',
+    tts: 'woman mountain biking',
+    fromVersion: '4.0',
+    glyphAsUtfInEmoticons: ['woman_mountain_biking'],
+    keywords: ['bicycle', 'bike', 'biking', 'cyclist', 'mountain', 'woman'],
+    mappedToEmoticons: ['woman_mountain_biking'],
     skinTone: FluentEmojiSkinTone.medium,
   );
 
@@ -21300,6 +29625,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'woman mountain biking',
     glyph: '🚵🏾‍♀️',
     svgPath: 'assets/woman_mountain_biking_color_medium-dark.svg',
+    tts: 'woman mountain biking',
+    fromVersion: '4.0',
+    glyphAsUtfInEmoticons: ['woman_mountain_biking'],
+    keywords: ['bicycle', 'bike', 'biking', 'cyclist', 'mountain', 'woman'],
+    mappedToEmoticons: ['woman_mountain_biking'],
     skinTone: FluentEmojiSkinTone.mediumDark,
   );
 
@@ -21310,6 +29640,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'woman mountain biking',
     glyph: '🚵🏿‍♀️',
     svgPath: 'assets/woman_mountain_biking_color_dark.svg',
+    tts: 'woman mountain biking',
+    fromVersion: '4.0',
+    glyphAsUtfInEmoticons: ['woman_mountain_biking'],
+    keywords: ['bicycle', 'bike', 'biking', 'cyclist', 'mountain', 'woman'],
+    mappedToEmoticons: ['woman_mountain_biking'],
     skinTone: FluentEmojiSkinTone.dark,
   );
 
@@ -21326,6 +29661,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'woman office worker',
     glyph: '👩‍💼',
     svgPath: 'assets/woman_office_worker_color_default.svg',
+    tts: 'woman office worker',
+    fromVersion: '4.0',
+    glyphAsUtfInEmoticons: ['officeworkerfemale'],
+    keywords: ['architect', 'business', 'manager', 'white-collar', 'woman', 'woman office worker'],
+    mappedToEmoticons: ['officeworkerfemale'],
     skinToneLight: _womanOfficeWorkerLight,
     skinToneMediumLight: _womanOfficeWorkerMediumLight,
     skinToneMedium: _womanOfficeWorkerMedium,
@@ -21340,6 +29680,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'woman office worker',
     glyph: '👩🏻‍💼',
     svgPath: 'assets/woman_office_worker_color_light.svg',
+    tts: 'woman office worker',
+    fromVersion: '4.0',
+    glyphAsUtfInEmoticons: ['officeworkerfemale'],
+    keywords: ['architect', 'business', 'manager', 'white-collar', 'woman', 'woman office worker'],
+    mappedToEmoticons: ['officeworkerfemale'],
     skinTone: FluentEmojiSkinTone.light,
   );
 
@@ -21350,6 +29695,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'woman office worker',
     glyph: '👩🏼‍💼',
     svgPath: 'assets/woman_office_worker_color_medium-light.svg',
+    tts: 'woman office worker',
+    fromVersion: '4.0',
+    glyphAsUtfInEmoticons: ['officeworkerfemale'],
+    keywords: ['architect', 'business', 'manager', 'white-collar', 'woman', 'woman office worker'],
+    mappedToEmoticons: ['officeworkerfemale'],
     skinTone: FluentEmojiSkinTone.mediumLight,
   );
 
@@ -21360,6 +29710,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'woman office worker',
     glyph: '👩🏽‍💼',
     svgPath: 'assets/woman_office_worker_color_medium.svg',
+    tts: 'woman office worker',
+    fromVersion: '4.0',
+    glyphAsUtfInEmoticons: ['officeworkerfemale'],
+    keywords: ['architect', 'business', 'manager', 'white-collar', 'woman', 'woman office worker'],
+    mappedToEmoticons: ['officeworkerfemale'],
     skinTone: FluentEmojiSkinTone.medium,
   );
 
@@ -21370,6 +29725,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'woman office worker',
     glyph: '👩🏾‍💼',
     svgPath: 'assets/woman_office_worker_color_medium-dark.svg',
+    tts: 'woman office worker',
+    fromVersion: '4.0',
+    glyphAsUtfInEmoticons: ['officeworkerfemale'],
+    keywords: ['architect', 'business', 'manager', 'white-collar', 'woman', 'woman office worker'],
+    mappedToEmoticons: ['officeworkerfemale'],
     skinTone: FluentEmojiSkinTone.mediumDark,
   );
 
@@ -21380,6 +29740,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'woman office worker',
     glyph: '👩🏿‍💼',
     svgPath: 'assets/woman_office_worker_color_dark.svg',
+    tts: 'woman office worker',
+    fromVersion: '4.0',
+    glyphAsUtfInEmoticons: ['officeworkerfemale'],
+    keywords: ['architect', 'business', 'manager', 'white-collar', 'woman', 'woman office worker'],
+    mappedToEmoticons: ['officeworkerfemale'],
     skinTone: FluentEmojiSkinTone.dark,
   );
 
@@ -21396,6 +29761,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'woman pilot',
     glyph: '👩‍✈️',
     svgPath: 'assets/woman_pilot_color_default.svg',
+    tts: 'woman pilot',
+    fromVersion: '4.0',
+    glyphAsUtfInEmoticons: ['womanpilot'],
+    keywords: ['pilot', 'plane', 'woman'],
+    mappedToEmoticons: ['womanpilot'],
     skinToneLight: _womanPilotLight,
     skinToneMediumLight: _womanPilotMediumLight,
     skinToneMedium: _womanPilotMedium,
@@ -21410,6 +29780,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'woman pilot',
     glyph: '👩🏻‍✈️',
     svgPath: 'assets/woman_pilot_color_light.svg',
+    tts: 'woman pilot',
+    fromVersion: '4.0',
+    glyphAsUtfInEmoticons: ['womanpilot'],
+    keywords: ['pilot', 'plane', 'woman'],
+    mappedToEmoticons: ['womanpilot'],
     skinTone: FluentEmojiSkinTone.light,
   );
 
@@ -21420,6 +29795,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'woman pilot',
     glyph: '👩🏼‍✈️',
     svgPath: 'assets/woman_pilot_color_medium-light.svg',
+    tts: 'woman pilot',
+    fromVersion: '4.0',
+    glyphAsUtfInEmoticons: ['womanpilot'],
+    keywords: ['pilot', 'plane', 'woman'],
+    mappedToEmoticons: ['womanpilot'],
     skinTone: FluentEmojiSkinTone.mediumLight,
   );
 
@@ -21430,6 +29810,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'woman pilot',
     glyph: '👩🏽‍✈️',
     svgPath: 'assets/woman_pilot_color_medium.svg',
+    tts: 'woman pilot',
+    fromVersion: '4.0',
+    glyphAsUtfInEmoticons: ['womanpilot'],
+    keywords: ['pilot', 'plane', 'woman'],
+    mappedToEmoticons: ['womanpilot'],
     skinTone: FluentEmojiSkinTone.medium,
   );
 
@@ -21440,6 +29825,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'woman pilot',
     glyph: '👩🏾‍✈️',
     svgPath: 'assets/woman_pilot_color_medium-dark.svg',
+    tts: 'woman pilot',
+    fromVersion: '4.0',
+    glyphAsUtfInEmoticons: ['womanpilot'],
+    keywords: ['pilot', 'plane', 'woman'],
+    mappedToEmoticons: ['womanpilot'],
     skinTone: FluentEmojiSkinTone.mediumDark,
   );
 
@@ -21450,6 +29840,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'woman pilot',
     glyph: '👩🏿‍✈️',
     svgPath: 'assets/woman_pilot_color_dark.svg',
+    tts: 'woman pilot',
+    fromVersion: '4.0',
+    glyphAsUtfInEmoticons: ['womanpilot'],
+    keywords: ['pilot', 'plane', 'woman'],
+    mappedToEmoticons: ['womanpilot'],
     skinTone: FluentEmojiSkinTone.dark,
   );
 
@@ -21466,6 +29861,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'woman playing handball',
     glyph: '🤾‍♀️',
     svgPath: 'assets/woman_playing_handball_color_default.svg',
+    tts: 'woman playing handball',
+    fromVersion: '4.0',
+    glyphAsUtfInEmoticons: ['woman_playing_handball'],
+    keywords: ['handball', 'woman', 'woman playing handball'],
+    mappedToEmoticons: ['woman_playing_handball'],
     skinToneLight: _womanPlayingHandballLight,
     skinToneMediumLight: _womanPlayingHandballMediumLight,
     skinToneMedium: _womanPlayingHandballMedium,
@@ -21480,6 +29880,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'woman playing handball',
     glyph: '🤾🏻‍♀️',
     svgPath: 'assets/woman_playing_handball_color_light.svg',
+    tts: 'woman playing handball',
+    fromVersion: '4.0',
+    glyphAsUtfInEmoticons: ['woman_playing_handball'],
+    keywords: ['handball', 'woman', 'woman playing handball'],
+    mappedToEmoticons: ['woman_playing_handball'],
     skinTone: FluentEmojiSkinTone.light,
   );
 
@@ -21490,6 +29895,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'woman playing handball',
     glyph: '🤾🏼‍♀️',
     svgPath: 'assets/woman_playing_handball_color_medium-light.svg',
+    tts: 'woman playing handball',
+    fromVersion: '4.0',
+    glyphAsUtfInEmoticons: ['woman_playing_handball'],
+    keywords: ['handball', 'woman', 'woman playing handball'],
+    mappedToEmoticons: ['woman_playing_handball'],
     skinTone: FluentEmojiSkinTone.mediumLight,
   );
 
@@ -21500,6 +29910,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'woman playing handball',
     glyph: '🤾🏽‍♀️',
     svgPath: 'assets/woman_playing_handball_color_medium.svg',
+    tts: 'woman playing handball',
+    fromVersion: '4.0',
+    glyphAsUtfInEmoticons: ['woman_playing_handball'],
+    keywords: ['handball', 'woman', 'woman playing handball'],
+    mappedToEmoticons: ['woman_playing_handball'],
     skinTone: FluentEmojiSkinTone.medium,
   );
 
@@ -21510,6 +29925,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'woman playing handball',
     glyph: '🤾🏾‍♀️',
     svgPath: 'assets/woman_playing_handball_color_medium-dark.svg',
+    tts: 'woman playing handball',
+    fromVersion: '4.0',
+    glyphAsUtfInEmoticons: ['woman_playing_handball'],
+    keywords: ['handball', 'woman', 'woman playing handball'],
+    mappedToEmoticons: ['woman_playing_handball'],
     skinTone: FluentEmojiSkinTone.mediumDark,
   );
 
@@ -21520,6 +29940,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'woman playing handball',
     glyph: '🤾🏿‍♀️',
     svgPath: 'assets/woman_playing_handball_color_dark.svg',
+    tts: 'woman playing handball',
+    fromVersion: '4.0',
+    glyphAsUtfInEmoticons: ['woman_playing_handball'],
+    keywords: ['handball', 'woman', 'woman playing handball'],
+    mappedToEmoticons: ['woman_playing_handball'],
     skinTone: FluentEmojiSkinTone.dark,
   );
 
@@ -21536,6 +29961,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'woman playing water polo',
     glyph: '🤽‍♀️',
     svgPath: 'assets/woman_playing_water_polo_color_default.svg',
+    tts: 'woman playing water polo',
+    fromVersion: '4.0',
+    glyphAsUtfInEmoticons: ['woman_playing_water_polo'],
+    keywords: ['water polo', 'woman', 'woman playing water polo'],
+    mappedToEmoticons: ['woman_playing_water_polo'],
     skinToneLight: _womanPlayingWaterPoloLight,
     skinToneMediumLight: _womanPlayingWaterPoloMediumLight,
     skinToneMedium: _womanPlayingWaterPoloMedium,
@@ -21550,6 +29980,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'woman playing water polo',
     glyph: '🤽🏻‍♀️',
     svgPath: 'assets/woman_playing_water_polo_color_light.svg',
+    tts: 'woman playing water polo',
+    fromVersion: '4.0',
+    glyphAsUtfInEmoticons: ['woman_playing_water_polo'],
+    keywords: ['water polo', 'woman', 'woman playing water polo'],
+    mappedToEmoticons: ['woman_playing_water_polo'],
     skinTone: FluentEmojiSkinTone.light,
   );
 
@@ -21560,6 +29995,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'woman playing water polo',
     glyph: '🤽🏼‍♀️',
     svgPath: 'assets/woman_playing_water_polo_color_medium-light.svg',
+    tts: 'woman playing water polo',
+    fromVersion: '4.0',
+    glyphAsUtfInEmoticons: ['woman_playing_water_polo'],
+    keywords: ['water polo', 'woman', 'woman playing water polo'],
+    mappedToEmoticons: ['woman_playing_water_polo'],
     skinTone: FluentEmojiSkinTone.mediumLight,
   );
 
@@ -21570,6 +30010,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'woman playing water polo',
     glyph: '🤽🏽‍♀️',
     svgPath: 'assets/woman_playing_water_polo_color_medium.svg',
+    tts: 'woman playing water polo',
+    fromVersion: '4.0',
+    glyphAsUtfInEmoticons: ['woman_playing_water_polo'],
+    keywords: ['water polo', 'woman', 'woman playing water polo'],
+    mappedToEmoticons: ['woman_playing_water_polo'],
     skinTone: FluentEmojiSkinTone.medium,
   );
 
@@ -21580,6 +30025,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'woman playing water polo',
     glyph: '🤽🏾‍♀️',
     svgPath: 'assets/woman_playing_water_polo_color_medium-dark.svg',
+    tts: 'woman playing water polo',
+    fromVersion: '4.0',
+    glyphAsUtfInEmoticons: ['woman_playing_water_polo'],
+    keywords: ['water polo', 'woman', 'woman playing water polo'],
+    mappedToEmoticons: ['woman_playing_water_polo'],
     skinTone: FluentEmojiSkinTone.mediumDark,
   );
 
@@ -21590,6 +30040,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'woman playing water polo',
     glyph: '🤽🏿‍♀️',
     svgPath: 'assets/woman_playing_water_polo_color_dark.svg',
+    tts: 'woman playing water polo',
+    fromVersion: '4.0',
+    glyphAsUtfInEmoticons: ['woman_playing_water_polo'],
+    keywords: ['water polo', 'woman', 'woman playing water polo'],
+    mappedToEmoticons: ['woman_playing_water_polo'],
     skinTone: FluentEmojiSkinTone.dark,
   );
 
@@ -21606,6 +30061,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'woman police officer',
     glyph: '👮‍♀️',
     svgPath: 'assets/woman_police_officer_color_default.svg',
+    tts: 'woman police officer',
+    fromVersion: '4.0',
+    glyphAsUtfInEmoticons: ['womanpoliceofficer'],
+    keywords: ['cop', 'officer', 'police', 'woman'],
+    mappedToEmoticons: ['womanpoliceofficer'],
     skinToneLight: _womanPoliceOfficerLight,
     skinToneMediumLight: _womanPoliceOfficerMediumLight,
     skinToneMedium: _womanPoliceOfficerMedium,
@@ -21620,6 +30080,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'woman police officer',
     glyph: '👮🏻‍♀️',
     svgPath: 'assets/woman_police_officer_color_light.svg',
+    tts: 'woman police officer',
+    fromVersion: '4.0',
+    glyphAsUtfInEmoticons: ['womanpoliceofficer'],
+    keywords: ['cop', 'officer', 'police', 'woman'],
+    mappedToEmoticons: ['womanpoliceofficer'],
     skinTone: FluentEmojiSkinTone.light,
   );
 
@@ -21630,6 +30095,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'woman police officer',
     glyph: '👮🏼‍♀️',
     svgPath: 'assets/woman_police_officer_color_medium-light.svg',
+    tts: 'woman police officer',
+    fromVersion: '4.0',
+    glyphAsUtfInEmoticons: ['womanpoliceofficer'],
+    keywords: ['cop', 'officer', 'police', 'woman'],
+    mappedToEmoticons: ['womanpoliceofficer'],
     skinTone: FluentEmojiSkinTone.mediumLight,
   );
 
@@ -21640,6 +30110,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'woman police officer',
     glyph: '👮🏽‍♀️',
     svgPath: 'assets/woman_police_officer_color_medium.svg',
+    tts: 'woman police officer',
+    fromVersion: '4.0',
+    glyphAsUtfInEmoticons: ['womanpoliceofficer'],
+    keywords: ['cop', 'officer', 'police', 'woman'],
+    mappedToEmoticons: ['womanpoliceofficer'],
     skinTone: FluentEmojiSkinTone.medium,
   );
 
@@ -21650,6 +30125,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'woman police officer',
     glyph: '👮🏾‍♀️',
     svgPath: 'assets/woman_police_officer_color_medium-dark.svg',
+    tts: 'woman police officer',
+    fromVersion: '4.0',
+    glyphAsUtfInEmoticons: ['womanpoliceofficer'],
+    keywords: ['cop', 'officer', 'police', 'woman'],
+    mappedToEmoticons: ['womanpoliceofficer'],
     skinTone: FluentEmojiSkinTone.mediumDark,
   );
 
@@ -21660,6 +30140,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'woman police officer',
     glyph: '👮🏿‍♀️',
     svgPath: 'assets/woman_police_officer_color_dark.svg',
+    tts: 'woman police officer',
+    fromVersion: '4.0',
+    glyphAsUtfInEmoticons: ['womanpoliceofficer'],
+    keywords: ['cop', 'officer', 'police', 'woman'],
+    mappedToEmoticons: ['womanpoliceofficer'],
     skinTone: FluentEmojiSkinTone.dark,
   );
 
@@ -21676,6 +30161,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'woman pouting',
     glyph: '🙎‍♀️',
     svgPath: 'assets/woman_pouting_color_default.svg',
+    tts: 'woman pouting',
+    fromVersion: '4.0',
+    glyphAsUtfInEmoticons: ['womanpouting'],
+    keywords: ['gesture', 'pouting', 'woman'],
+    mappedToEmoticons: ['womanpouting'],
     skinToneLight: _womanPoutingLight,
     skinToneMediumLight: _womanPoutingMediumLight,
     skinToneMedium: _womanPoutingMedium,
@@ -21690,6 +30180,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'woman pouting',
     glyph: '🙎🏻‍♀️',
     svgPath: 'assets/woman_pouting_color_light.svg',
+    tts: 'woman pouting',
+    fromVersion: '4.0',
+    glyphAsUtfInEmoticons: ['womanpouting'],
+    keywords: ['gesture', 'pouting', 'woman'],
+    mappedToEmoticons: ['womanpouting'],
     skinTone: FluentEmojiSkinTone.light,
   );
 
@@ -21700,6 +30195,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'woman pouting',
     glyph: '🙎🏼‍♀️',
     svgPath: 'assets/woman_pouting_color_medium-light.svg',
+    tts: 'woman pouting',
+    fromVersion: '4.0',
+    glyphAsUtfInEmoticons: ['womanpouting'],
+    keywords: ['gesture', 'pouting', 'woman'],
+    mappedToEmoticons: ['womanpouting'],
     skinTone: FluentEmojiSkinTone.mediumLight,
   );
 
@@ -21710,6 +30210,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'woman pouting',
     glyph: '🙎🏽‍♀️',
     svgPath: 'assets/woman_pouting_color_medium.svg',
+    tts: 'woman pouting',
+    fromVersion: '4.0',
+    glyphAsUtfInEmoticons: ['womanpouting'],
+    keywords: ['gesture', 'pouting', 'woman'],
+    mappedToEmoticons: ['womanpouting'],
     skinTone: FluentEmojiSkinTone.medium,
   );
 
@@ -21720,6 +30225,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'woman pouting',
     glyph: '🙎🏾‍♀️',
     svgPath: 'assets/woman_pouting_color_medium-dark.svg',
+    tts: 'woman pouting',
+    fromVersion: '4.0',
+    glyphAsUtfInEmoticons: ['womanpouting'],
+    keywords: ['gesture', 'pouting', 'woman'],
+    mappedToEmoticons: ['womanpouting'],
     skinTone: FluentEmojiSkinTone.mediumDark,
   );
 
@@ -21730,6 +30240,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'woman pouting',
     glyph: '🙎🏿‍♀️',
     svgPath: 'assets/woman_pouting_color_dark.svg',
+    tts: 'woman pouting',
+    fromVersion: '4.0',
+    glyphAsUtfInEmoticons: ['womanpouting'],
+    keywords: ['gesture', 'pouting', 'woman'],
+    mappedToEmoticons: ['womanpouting'],
     skinTone: FluentEmojiSkinTone.dark,
   );
 
@@ -21746,6 +30261,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'woman raising hand',
     glyph: '🙋‍♀️',
     svgPath: 'assets/woman_raising_hand_color_default.svg',
+    tts: 'woman raising hand',
+    fromVersion: '4.0',
+    glyphAsUtfInEmoticons: ['womanraisinghand'],
+    keywords: ['gesture', 'raising hand', 'woman', 'woman raising hand'],
+    mappedToEmoticons: ['womanraisinghand'],
     skinToneLight: _womanRaisingHandLight,
     skinToneMediumLight: _womanRaisingHandMediumLight,
     skinToneMedium: _womanRaisingHandMedium,
@@ -21760,6 +30280,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'woman raising hand',
     glyph: '🙋🏻‍♀️',
     svgPath: 'assets/woman_raising_hand_color_light.svg',
+    tts: 'woman raising hand',
+    fromVersion: '4.0',
+    glyphAsUtfInEmoticons: ['womanraisinghand'],
+    keywords: ['gesture', 'raising hand', 'woman', 'woman raising hand'],
+    mappedToEmoticons: ['womanraisinghand'],
     skinTone: FluentEmojiSkinTone.light,
   );
 
@@ -21770,6 +30295,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'woman raising hand',
     glyph: '🙋🏼‍♀️',
     svgPath: 'assets/woman_raising_hand_color_medium-light.svg',
+    tts: 'woman raising hand',
+    fromVersion: '4.0',
+    glyphAsUtfInEmoticons: ['womanraisinghand'],
+    keywords: ['gesture', 'raising hand', 'woman', 'woman raising hand'],
+    mappedToEmoticons: ['womanraisinghand'],
     skinTone: FluentEmojiSkinTone.mediumLight,
   );
 
@@ -21780,6 +30310,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'woman raising hand',
     glyph: '🙋🏽‍♀️',
     svgPath: 'assets/woman_raising_hand_color_medium.svg',
+    tts: 'woman raising hand',
+    fromVersion: '4.0',
+    glyphAsUtfInEmoticons: ['womanraisinghand'],
+    keywords: ['gesture', 'raising hand', 'woman', 'woman raising hand'],
+    mappedToEmoticons: ['womanraisinghand'],
     skinTone: FluentEmojiSkinTone.medium,
   );
 
@@ -21790,6 +30325,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'woman raising hand',
     glyph: '🙋🏾‍♀️',
     svgPath: 'assets/woman_raising_hand_color_medium-dark.svg',
+    tts: 'woman raising hand',
+    fromVersion: '4.0',
+    glyphAsUtfInEmoticons: ['womanraisinghand'],
+    keywords: ['gesture', 'raising hand', 'woman', 'woman raising hand'],
+    mappedToEmoticons: ['womanraisinghand'],
     skinTone: FluentEmojiSkinTone.mediumDark,
   );
 
@@ -21800,6 +30340,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'woman raising hand',
     glyph: '🙋🏿‍♀️',
     svgPath: 'assets/woman_raising_hand_color_dark.svg',
+    tts: 'woman raising hand',
+    fromVersion: '4.0',
+    glyphAsUtfInEmoticons: ['womanraisinghand'],
+    keywords: ['gesture', 'raising hand', 'woman', 'woman raising hand'],
+    mappedToEmoticons: ['womanraisinghand'],
     skinTone: FluentEmojiSkinTone.dark,
   );
 
@@ -21816,6 +30361,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'woman rowing boat',
     glyph: '🚣‍♀️',
     svgPath: 'assets/woman_rowing_boat_color_default.svg',
+    tts: 'woman rowing boat',
+    fromVersion: '4.0',
+    glyphAsUtfInEmoticons: ['woman_rowing_boat'],
+    keywords: ['boat', 'rowboat', 'woman', 'woman rowing boat'],
+    mappedToEmoticons: ['woman_rowing_boat'],
     skinToneLight: _womanRowingBoatLight,
     skinToneMediumLight: _womanRowingBoatMediumLight,
     skinToneMedium: _womanRowingBoatMedium,
@@ -21830,6 +30380,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'woman rowing boat',
     glyph: '🚣🏻‍♀️',
     svgPath: 'assets/woman_rowing_boat_color_light.svg',
+    tts: 'woman rowing boat',
+    fromVersion: '4.0',
+    glyphAsUtfInEmoticons: ['woman_rowing_boat'],
+    keywords: ['boat', 'rowboat', 'woman', 'woman rowing boat'],
+    mappedToEmoticons: ['woman_rowing_boat'],
     skinTone: FluentEmojiSkinTone.light,
   );
 
@@ -21840,6 +30395,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'woman rowing boat',
     glyph: '🚣🏼‍♀️',
     svgPath: 'assets/woman_rowing_boat_color_medium-light.svg',
+    tts: 'woman rowing boat',
+    fromVersion: '4.0',
+    glyphAsUtfInEmoticons: ['woman_rowing_boat'],
+    keywords: ['boat', 'rowboat', 'woman', 'woman rowing boat'],
+    mappedToEmoticons: ['woman_rowing_boat'],
     skinTone: FluentEmojiSkinTone.mediumLight,
   );
 
@@ -21850,6 +30410,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'woman rowing boat',
     glyph: '🚣🏽‍♀️',
     svgPath: 'assets/woman_rowing_boat_color_medium.svg',
+    tts: 'woman rowing boat',
+    fromVersion: '4.0',
+    glyphAsUtfInEmoticons: ['woman_rowing_boat'],
+    keywords: ['boat', 'rowboat', 'woman', 'woman rowing boat'],
+    mappedToEmoticons: ['woman_rowing_boat'],
     skinTone: FluentEmojiSkinTone.medium,
   );
 
@@ -21860,6 +30425,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'woman rowing boat',
     glyph: '🚣🏾‍♀️',
     svgPath: 'assets/woman_rowing_boat_color_medium-dark.svg',
+    tts: 'woman rowing boat',
+    fromVersion: '4.0',
+    glyphAsUtfInEmoticons: ['woman_rowing_boat'],
+    keywords: ['boat', 'rowboat', 'woman', 'woman rowing boat'],
+    mappedToEmoticons: ['woman_rowing_boat'],
     skinTone: FluentEmojiSkinTone.mediumDark,
   );
 
@@ -21870,6 +30440,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'woman rowing boat',
     glyph: '🚣🏿‍♀️',
     svgPath: 'assets/woman_rowing_boat_color_dark.svg',
+    tts: 'woman rowing boat',
+    fromVersion: '4.0',
+    glyphAsUtfInEmoticons: ['woman_rowing_boat'],
+    keywords: ['boat', 'rowboat', 'woman', 'woman rowing boat'],
+    mappedToEmoticons: ['woman_rowing_boat'],
     skinTone: FluentEmojiSkinTone.dark,
   );
 
@@ -21886,6 +30461,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'woman running',
     glyph: '🏃‍♀️',
     svgPath: 'assets/woman_running_color_default.svg',
+    tts: 'woman running',
+    fromVersion: '4.0',
+    glyphAsUtfInEmoticons: ['running'],
+    keywords: ['marathon', 'racing', 'running', 'woman'],
+    mappedToEmoticons: ['running'],
     skinToneLight: _womanRunningLight,
     skinToneMediumLight: _womanRunningMediumLight,
     skinToneMedium: _womanRunningMedium,
@@ -21900,6 +30480,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'woman running',
     glyph: '🏃🏻‍♀️',
     svgPath: 'assets/woman_running_color_light.svg',
+    tts: 'woman running',
+    fromVersion: '4.0',
+    glyphAsUtfInEmoticons: ['running'],
+    keywords: ['marathon', 'racing', 'running', 'woman'],
+    mappedToEmoticons: ['running'],
     skinTone: FluentEmojiSkinTone.light,
   );
 
@@ -21910,6 +30495,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'woman running',
     glyph: '🏃🏼‍♀️',
     svgPath: 'assets/woman_running_color_medium-light.svg',
+    tts: 'woman running',
+    fromVersion: '4.0',
+    glyphAsUtfInEmoticons: ['running'],
+    keywords: ['marathon', 'racing', 'running', 'woman'],
+    mappedToEmoticons: ['running'],
     skinTone: FluentEmojiSkinTone.mediumLight,
   );
 
@@ -21920,6 +30510,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'woman running',
     glyph: '🏃🏽‍♀️',
     svgPath: 'assets/woman_running_color_medium.svg',
+    tts: 'woman running',
+    fromVersion: '4.0',
+    glyphAsUtfInEmoticons: ['running'],
+    keywords: ['marathon', 'racing', 'running', 'woman'],
+    mappedToEmoticons: ['running'],
     skinTone: FluentEmojiSkinTone.medium,
   );
 
@@ -21930,6 +30525,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'woman running',
     glyph: '🏃🏾‍♀️',
     svgPath: 'assets/woman_running_color_medium-dark.svg',
+    tts: 'woman running',
+    fromVersion: '4.0',
+    glyphAsUtfInEmoticons: ['running'],
+    keywords: ['marathon', 'racing', 'running', 'woman'],
+    mappedToEmoticons: ['running'],
     skinTone: FluentEmojiSkinTone.mediumDark,
   );
 
@@ -21940,6 +30540,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'woman running',
     glyph: '🏃🏿‍♀️',
     svgPath: 'assets/woman_running_color_dark.svg',
+    tts: 'woman running',
+    fromVersion: '4.0',
+    glyphAsUtfInEmoticons: ['running'],
+    keywords: ['marathon', 'racing', 'running', 'woman'],
+    mappedToEmoticons: ['running'],
     skinTone: FluentEmojiSkinTone.dark,
   );
 
@@ -21956,6 +30561,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'woman running facing right',
     glyph: '🏃‍♀️‍➡️',
     svgPath: 'assets/woman_running_facing_right_color_default.svg',
+    tts: '',
+    fromVersion: '15.1',
+    glyphAsUtfInEmoticons: [],
+    keywords: ['marathon', 'racing', 'running', 'woman'],
+    mappedToEmoticons: [],
     skinToneLight: _womanRunningFacingRightLight,
     skinToneMediumLight: _womanRunningFacingRightMediumLight,
     skinToneMedium: _womanRunningFacingRightMedium,
@@ -21970,6 +30580,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'woman running facing right',
     glyph: '🏃🏻‍♀️‍➡️',
     svgPath: 'assets/woman_running_facing_right_color_light.svg',
+    tts: '',
+    fromVersion: '15.1',
+    glyphAsUtfInEmoticons: [],
+    keywords: ['marathon', 'racing', 'running', 'woman'],
+    mappedToEmoticons: [],
     skinTone: FluentEmojiSkinTone.light,
   );
 
@@ -21980,6 +30595,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'woman running facing right',
     glyph: '🏃🏼‍♀️‍➡️',
     svgPath: 'assets/woman_running_facing_right_color_medium-light.svg',
+    tts: '',
+    fromVersion: '15.1',
+    glyphAsUtfInEmoticons: [],
+    keywords: ['marathon', 'racing', 'running', 'woman'],
+    mappedToEmoticons: [],
     skinTone: FluentEmojiSkinTone.mediumLight,
   );
 
@@ -21990,6 +30610,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'woman running facing right',
     glyph: '🏃🏽‍♀️‍➡️',
     svgPath: 'assets/woman_running_facing_right_color_medium.svg',
+    tts: '',
+    fromVersion: '15.1',
+    glyphAsUtfInEmoticons: [],
+    keywords: ['marathon', 'racing', 'running', 'woman'],
+    mappedToEmoticons: [],
     skinTone: FluentEmojiSkinTone.medium,
   );
 
@@ -22000,6 +30625,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'woman running facing right',
     glyph: '🏃🏾‍♀️‍➡️',
     svgPath: 'assets/woman_running_facing_right_color_medium-dark.svg',
+    tts: '',
+    fromVersion: '15.1',
+    glyphAsUtfInEmoticons: [],
+    keywords: ['marathon', 'racing', 'running', 'woman'],
+    mappedToEmoticons: [],
     skinTone: FluentEmojiSkinTone.mediumDark,
   );
 
@@ -22010,6 +30640,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'woman running facing right',
     glyph: '🏃🏿‍♀️‍➡️',
     svgPath: 'assets/woman_running_facing_right_color_dark.svg',
+    tts: '',
+    fromVersion: '15.1',
+    glyphAsUtfInEmoticons: [],
+    keywords: ['marathon', 'racing', 'running', 'woman'],
+    mappedToEmoticons: [],
     skinTone: FluentEmojiSkinTone.dark,
   );
 
@@ -22026,6 +30661,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'woman scientist',
     glyph: '👩‍🔬',
     svgPath: 'assets/woman_scientist_color_default.svg',
+    tts: 'woman scientist',
+    fromVersion: '4.0',
+    glyphAsUtfInEmoticons: ['womanscientist'],
+    keywords: ['biologist', 'chemist', 'engineer', 'physicist', 'scientist', 'woman'],
+    mappedToEmoticons: ['womanscientist'],
     skinToneLight: _womanScientistLight,
     skinToneMediumLight: _womanScientistMediumLight,
     skinToneMedium: _womanScientistMedium,
@@ -22040,6 +30680,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'woman scientist',
     glyph: '👩🏻‍🔬',
     svgPath: 'assets/woman_scientist_color_light.svg',
+    tts: 'woman scientist',
+    fromVersion: '4.0',
+    glyphAsUtfInEmoticons: ['womanscientist'],
+    keywords: ['biologist', 'chemist', 'engineer', 'physicist', 'scientist', 'woman'],
+    mappedToEmoticons: ['womanscientist'],
     skinTone: FluentEmojiSkinTone.light,
   );
 
@@ -22050,6 +30695,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'woman scientist',
     glyph: '👩🏼‍🔬',
     svgPath: 'assets/woman_scientist_color_medium-light.svg',
+    tts: 'woman scientist',
+    fromVersion: '4.0',
+    glyphAsUtfInEmoticons: ['womanscientist'],
+    keywords: ['biologist', 'chemist', 'engineer', 'physicist', 'scientist', 'woman'],
+    mappedToEmoticons: ['womanscientist'],
     skinTone: FluentEmojiSkinTone.mediumLight,
   );
 
@@ -22060,6 +30710,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'woman scientist',
     glyph: '👩🏽‍🔬',
     svgPath: 'assets/woman_scientist_color_medium.svg',
+    tts: 'woman scientist',
+    fromVersion: '4.0',
+    glyphAsUtfInEmoticons: ['womanscientist'],
+    keywords: ['biologist', 'chemist', 'engineer', 'physicist', 'scientist', 'woman'],
+    mappedToEmoticons: ['womanscientist'],
     skinTone: FluentEmojiSkinTone.medium,
   );
 
@@ -22070,6 +30725,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'woman scientist',
     glyph: '👩🏾‍🔬',
     svgPath: 'assets/woman_scientist_color_medium-dark.svg',
+    tts: 'woman scientist',
+    fromVersion: '4.0',
+    glyphAsUtfInEmoticons: ['womanscientist'],
+    keywords: ['biologist', 'chemist', 'engineer', 'physicist', 'scientist', 'woman'],
+    mappedToEmoticons: ['womanscientist'],
     skinTone: FluentEmojiSkinTone.mediumDark,
   );
 
@@ -22080,6 +30740,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'woman scientist',
     glyph: '👩🏿‍🔬',
     svgPath: 'assets/woman_scientist_color_dark.svg',
+    tts: 'woman scientist',
+    fromVersion: '4.0',
+    glyphAsUtfInEmoticons: ['womanscientist'],
+    keywords: ['biologist', 'chemist', 'engineer', 'physicist', 'scientist', 'woman'],
+    mappedToEmoticons: ['womanscientist'],
     skinTone: FluentEmojiSkinTone.dark,
   );
 
@@ -22096,6 +30761,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'woman shrugging',
     glyph: '🤷‍♀️',
     svgPath: 'assets/woman_shrugging_color_default.svg',
+    tts: 'woman shrugging',
+    fromVersion: '4.0',
+    glyphAsUtfInEmoticons: ['womanshrug', 'woty'],
+    keywords: ['doubt', 'ignorance', 'indifference', 'shrug', 'woman', 'woman shrugging'],
+    mappedToEmoticons: ['womanshrug'],
     skinToneLight: _womanShruggingLight,
     skinToneMediumLight: _womanShruggingMediumLight,
     skinToneMedium: _womanShruggingMedium,
@@ -22110,6 +30780,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'woman shrugging',
     glyph: '🤷🏻‍♀️',
     svgPath: 'assets/woman_shrugging_color_light.svg',
+    tts: 'woman shrugging',
+    fromVersion: '4.0',
+    glyphAsUtfInEmoticons: ['womanshrug', 'woty'],
+    keywords: ['doubt', 'ignorance', 'indifference', 'shrug', 'woman', 'woman shrugging'],
+    mappedToEmoticons: ['womanshrug'],
     skinTone: FluentEmojiSkinTone.light,
   );
 
@@ -22120,6 +30795,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'woman shrugging',
     glyph: '🤷🏼‍♀️',
     svgPath: 'assets/woman_shrugging_color_medium-light.svg',
+    tts: 'woman shrugging',
+    fromVersion: '4.0',
+    glyphAsUtfInEmoticons: ['womanshrug', 'woty'],
+    keywords: ['doubt', 'ignorance', 'indifference', 'shrug', 'woman', 'woman shrugging'],
+    mappedToEmoticons: ['womanshrug'],
     skinTone: FluentEmojiSkinTone.mediumLight,
   );
 
@@ -22130,6 +30810,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'woman shrugging',
     glyph: '🤷🏽‍♀️',
     svgPath: 'assets/woman_shrugging_color_medium.svg',
+    tts: 'woman shrugging',
+    fromVersion: '4.0',
+    glyphAsUtfInEmoticons: ['womanshrug', 'woty'],
+    keywords: ['doubt', 'ignorance', 'indifference', 'shrug', 'woman', 'woman shrugging'],
+    mappedToEmoticons: ['womanshrug'],
     skinTone: FluentEmojiSkinTone.medium,
   );
 
@@ -22140,6 +30825,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'woman shrugging',
     glyph: '🤷🏾‍♀️',
     svgPath: 'assets/woman_shrugging_color_medium-dark.svg',
+    tts: 'woman shrugging',
+    fromVersion: '4.0',
+    glyphAsUtfInEmoticons: ['womanshrug', 'woty'],
+    keywords: ['doubt', 'ignorance', 'indifference', 'shrug', 'woman', 'woman shrugging'],
+    mappedToEmoticons: ['womanshrug'],
     skinTone: FluentEmojiSkinTone.mediumDark,
   );
 
@@ -22150,6 +30840,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'woman shrugging',
     glyph: '🤷🏿‍♀️',
     svgPath: 'assets/woman_shrugging_color_dark.svg',
+    tts: 'woman shrugging',
+    fromVersion: '4.0',
+    glyphAsUtfInEmoticons: ['womanshrug', 'woty'],
+    keywords: ['doubt', 'ignorance', 'indifference', 'shrug', 'woman', 'woman shrugging'],
+    mappedToEmoticons: ['womanshrug'],
     skinTone: FluentEmojiSkinTone.dark,
   );
 
@@ -22166,6 +30861,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'woman singer',
     glyph: '👩‍🎤',
     svgPath: 'assets/woman_singer_color_default.svg',
+    tts: 'woman singer',
+    fromVersion: '4.0',
+    glyphAsUtfInEmoticons: ['woman_singer'],
+    keywords: ['actor', 'entertainer', 'rock', 'singer', 'star', 'woman'],
+    mappedToEmoticons: ['woman_singer'],
     skinToneLight: _womanSingerLight,
     skinToneMediumLight: _womanSingerMediumLight,
     skinToneMedium: _womanSingerMedium,
@@ -22180,6 +30880,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'woman singer',
     glyph: '👩🏻‍🎤',
     svgPath: 'assets/woman_singer_color_light.svg',
+    tts: 'woman singer',
+    fromVersion: '4.0',
+    glyphAsUtfInEmoticons: ['woman_singer'],
+    keywords: ['actor', 'entertainer', 'rock', 'singer', 'star', 'woman'],
+    mappedToEmoticons: ['woman_singer'],
     skinTone: FluentEmojiSkinTone.light,
   );
 
@@ -22190,6 +30895,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'woman singer',
     glyph: '👩🏼‍🎤',
     svgPath: 'assets/woman_singer_color_medium-light.svg',
+    tts: 'woman singer',
+    fromVersion: '4.0',
+    glyphAsUtfInEmoticons: ['woman_singer'],
+    keywords: ['actor', 'entertainer', 'rock', 'singer', 'star', 'woman'],
+    mappedToEmoticons: ['woman_singer'],
     skinTone: FluentEmojiSkinTone.mediumLight,
   );
 
@@ -22200,6 +30910,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'woman singer',
     glyph: '👩🏽‍🎤',
     svgPath: 'assets/woman_singer_color_medium.svg',
+    tts: 'woman singer',
+    fromVersion: '4.0',
+    glyphAsUtfInEmoticons: ['woman_singer'],
+    keywords: ['actor', 'entertainer', 'rock', 'singer', 'star', 'woman'],
+    mappedToEmoticons: ['woman_singer'],
     skinTone: FluentEmojiSkinTone.medium,
   );
 
@@ -22210,6 +30925,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'woman singer',
     glyph: '👩🏾‍🎤',
     svgPath: 'assets/woman_singer_color_medium-dark.svg',
+    tts: 'woman singer',
+    fromVersion: '4.0',
+    glyphAsUtfInEmoticons: ['woman_singer'],
+    keywords: ['actor', 'entertainer', 'rock', 'singer', 'star', 'woman'],
+    mappedToEmoticons: ['woman_singer'],
     skinTone: FluentEmojiSkinTone.mediumDark,
   );
 
@@ -22220,6 +30940,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'woman singer',
     glyph: '👩🏿‍🎤',
     svgPath: 'assets/woman_singer_color_dark.svg',
+    tts: 'woman singer',
+    fromVersion: '4.0',
+    glyphAsUtfInEmoticons: ['woman_singer'],
+    keywords: ['actor', 'entertainer', 'rock', 'singer', 'star', 'woman'],
+    mappedToEmoticons: ['woman_singer'],
     skinTone: FluentEmojiSkinTone.dark,
   );
 
@@ -22236,6 +30961,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'woman standing',
     glyph: '🧍‍♀️',
     svgPath: 'assets/woman_standing_color_default.svg',
+    tts: 'woman standing',
+    fromVersion: '12.0',
+    glyphAsUtfInEmoticons: ['womanstanding'],
+    keywords: ['standing', 'woman'],
+    mappedToEmoticons: ['womanstanding'],
     skinToneLight: _womanStandingLight,
     skinToneMediumLight: _womanStandingMediumLight,
     skinToneMedium: _womanStandingMedium,
@@ -22250,6 +30980,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'woman standing',
     glyph: '🧍🏻‍♀️',
     svgPath: 'assets/woman_standing_color_light.svg',
+    tts: 'woman standing',
+    fromVersion: '12.0',
+    glyphAsUtfInEmoticons: ['womanstanding'],
+    keywords: ['standing', 'woman'],
+    mappedToEmoticons: ['womanstanding'],
     skinTone: FluentEmojiSkinTone.light,
   );
 
@@ -22260,6 +30995,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'woman standing',
     glyph: '🧍🏼‍♀️',
     svgPath: 'assets/woman_standing_color_medium-light.svg',
+    tts: 'woman standing',
+    fromVersion: '12.0',
+    glyphAsUtfInEmoticons: ['womanstanding'],
+    keywords: ['standing', 'woman'],
+    mappedToEmoticons: ['womanstanding'],
     skinTone: FluentEmojiSkinTone.mediumLight,
   );
 
@@ -22270,6 +31010,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'woman standing',
     glyph: '🧍🏽‍♀️',
     svgPath: 'assets/woman_standing_color_medium.svg',
+    tts: 'woman standing',
+    fromVersion: '12.0',
+    glyphAsUtfInEmoticons: ['womanstanding'],
+    keywords: ['standing', 'woman'],
+    mappedToEmoticons: ['womanstanding'],
     skinTone: FluentEmojiSkinTone.medium,
   );
 
@@ -22280,6 +31025,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'woman standing',
     glyph: '🧍🏾‍♀️',
     svgPath: 'assets/woman_standing_color_medium-dark.svg',
+    tts: 'woman standing',
+    fromVersion: '12.0',
+    glyphAsUtfInEmoticons: ['womanstanding'],
+    keywords: ['standing', 'woman'],
+    mappedToEmoticons: ['womanstanding'],
     skinTone: FluentEmojiSkinTone.mediumDark,
   );
 
@@ -22290,6 +31040,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'woman standing',
     glyph: '🧍🏿‍♀️',
     svgPath: 'assets/woman_standing_color_dark.svg',
+    tts: 'woman standing',
+    fromVersion: '12.0',
+    glyphAsUtfInEmoticons: ['womanstanding'],
+    keywords: ['standing', 'woman'],
+    mappedToEmoticons: ['womanstanding'],
     skinTone: FluentEmojiSkinTone.dark,
   );
 
@@ -22306,6 +31061,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'woman student',
     glyph: '👩‍🎓',
     svgPath: 'assets/woman_student_color_default.svg',
+    tts: 'woman student',
+    fromVersion: '4.0',
+    glyphAsUtfInEmoticons: ['womangraduate'],
+    keywords: ['graduate', 'student', 'woman'],
+    mappedToEmoticons: ['womanstudent'],
     skinToneLight: _womanStudentLight,
     skinToneMediumLight: _womanStudentMediumLight,
     skinToneMedium: _womanStudentMedium,
@@ -22320,6 +31080,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'woman student',
     glyph: '👩🏻‍🎓',
     svgPath: 'assets/woman_student_color_light.svg',
+    tts: 'woman student',
+    fromVersion: '4.0',
+    glyphAsUtfInEmoticons: ['womangraduate'],
+    keywords: ['graduate', 'student', 'woman'],
+    mappedToEmoticons: ['womanstudent'],
     skinTone: FluentEmojiSkinTone.light,
   );
 
@@ -22330,6 +31095,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'woman student',
     glyph: '👩🏼‍🎓',
     svgPath: 'assets/woman_student_color_medium-light.svg',
+    tts: 'woman student',
+    fromVersion: '4.0',
+    glyphAsUtfInEmoticons: ['womangraduate'],
+    keywords: ['graduate', 'student', 'woman'],
+    mappedToEmoticons: ['womanstudent'],
     skinTone: FluentEmojiSkinTone.mediumLight,
   );
 
@@ -22340,6 +31110,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'woman student',
     glyph: '👩🏽‍🎓',
     svgPath: 'assets/woman_student_color_medium.svg',
+    tts: 'woman student',
+    fromVersion: '4.0',
+    glyphAsUtfInEmoticons: ['womangraduate'],
+    keywords: ['graduate', 'student', 'woman'],
+    mappedToEmoticons: ['womanstudent'],
     skinTone: FluentEmojiSkinTone.medium,
   );
 
@@ -22350,6 +31125,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'woman student',
     glyph: '👩🏾‍🎓',
     svgPath: 'assets/woman_student_color_medium-dark.svg',
+    tts: 'woman student',
+    fromVersion: '4.0',
+    glyphAsUtfInEmoticons: ['womangraduate'],
+    keywords: ['graduate', 'student', 'woman'],
+    mappedToEmoticons: ['womanstudent'],
     skinTone: FluentEmojiSkinTone.mediumDark,
   );
 
@@ -22360,6 +31140,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'woman student',
     glyph: '👩🏿‍🎓',
     svgPath: 'assets/woman_student_color_dark.svg',
+    tts: 'woman student',
+    fromVersion: '4.0',
+    glyphAsUtfInEmoticons: ['womangraduate'],
+    keywords: ['graduate', 'student', 'woman'],
+    mappedToEmoticons: ['womanstudent'],
     skinTone: FluentEmojiSkinTone.dark,
   );
 
@@ -22376,6 +31161,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'woman superhero',
     glyph: '🦸‍♀️',
     svgPath: 'assets/woman_superhero_color_default.svg',
+    tts: 'woman superhero',
+    fromVersion: '11.0',
+    glyphAsUtfInEmoticons: ['hero'],
+    keywords: ['good', 'hero', 'heroine', 'superpower', 'woman', 'woman superhero'],
+    mappedToEmoticons: ['hero'],
     skinToneLight: _womanSuperheroLight,
     skinToneMediumLight: _womanSuperheroMediumLight,
     skinToneMedium: _womanSuperheroMedium,
@@ -22390,6 +31180,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'woman superhero',
     glyph: '🦸🏻‍♀️',
     svgPath: 'assets/woman_superhero_color_light.svg',
+    tts: 'woman superhero',
+    fromVersion: '11.0',
+    glyphAsUtfInEmoticons: ['hero'],
+    keywords: ['good', 'hero', 'heroine', 'superpower', 'woman', 'woman superhero'],
+    mappedToEmoticons: ['hero'],
     skinTone: FluentEmojiSkinTone.light,
   );
 
@@ -22400,6 +31195,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'woman superhero',
     glyph: '🦸🏼‍♀️',
     svgPath: 'assets/woman_superhero_color_medium-light.svg',
+    tts: 'woman superhero',
+    fromVersion: '11.0',
+    glyphAsUtfInEmoticons: ['hero'],
+    keywords: ['good', 'hero', 'heroine', 'superpower', 'woman', 'woman superhero'],
+    mappedToEmoticons: ['hero'],
     skinTone: FluentEmojiSkinTone.mediumLight,
   );
 
@@ -22410,6 +31210,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'woman superhero',
     glyph: '🦸🏽‍♀️',
     svgPath: 'assets/woman_superhero_color_medium.svg',
+    tts: 'woman superhero',
+    fromVersion: '11.0',
+    glyphAsUtfInEmoticons: ['hero'],
+    keywords: ['good', 'hero', 'heroine', 'superpower', 'woman', 'woman superhero'],
+    mappedToEmoticons: ['hero'],
     skinTone: FluentEmojiSkinTone.medium,
   );
 
@@ -22420,6 +31225,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'woman superhero',
     glyph: '🦸🏾‍♀️',
     svgPath: 'assets/woman_superhero_color_medium-dark.svg',
+    tts: 'woman superhero',
+    fromVersion: '11.0',
+    glyphAsUtfInEmoticons: ['hero'],
+    keywords: ['good', 'hero', 'heroine', 'superpower', 'woman', 'woman superhero'],
+    mappedToEmoticons: ['hero'],
     skinTone: FluentEmojiSkinTone.mediumDark,
   );
 
@@ -22430,6 +31240,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'woman superhero',
     glyph: '🦸🏿‍♀️',
     svgPath: 'assets/woman_superhero_color_dark.svg',
+    tts: 'woman superhero',
+    fromVersion: '11.0',
+    glyphAsUtfInEmoticons: ['hero'],
+    keywords: ['good', 'hero', 'heroine', 'superpower', 'woman', 'woman superhero'],
+    mappedToEmoticons: ['hero'],
     skinTone: FluentEmojiSkinTone.dark,
   );
 
@@ -22446,6 +31261,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'woman supervillain',
     glyph: '🦹‍♀️',
     svgPath: 'assets/woman_supervillain_color_default.svg',
+    tts: 'woman supervillain',
+    fromVersion: '11.0',
+    glyphAsUtfInEmoticons: ['woman_super_villain'],
+    keywords: ['criminal', 'evil', 'superpower', 'villain', 'woman', 'woman supervillain'],
+    mappedToEmoticons: ['woman_super_villain'],
     skinToneLight: _womanSupervillainLight,
     skinToneMediumLight: _womanSupervillainMediumLight,
     skinToneMedium: _womanSupervillainMedium,
@@ -22460,6 +31280,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'woman supervillain',
     glyph: '🦹🏻‍♀️',
     svgPath: 'assets/woman_supervillain_color_light.svg',
+    tts: 'woman supervillain',
+    fromVersion: '11.0',
+    glyphAsUtfInEmoticons: ['woman_super_villain'],
+    keywords: ['criminal', 'evil', 'superpower', 'villain', 'woman', 'woman supervillain'],
+    mappedToEmoticons: ['woman_super_villain'],
     skinTone: FluentEmojiSkinTone.light,
   );
 
@@ -22470,6 +31295,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'woman supervillain',
     glyph: '🦹🏼‍♀️',
     svgPath: 'assets/woman_supervillain_color_medium-light.svg',
+    tts: 'woman supervillain',
+    fromVersion: '11.0',
+    glyphAsUtfInEmoticons: ['woman_super_villain'],
+    keywords: ['criminal', 'evil', 'superpower', 'villain', 'woman', 'woman supervillain'],
+    mappedToEmoticons: ['woman_super_villain'],
     skinTone: FluentEmojiSkinTone.mediumLight,
   );
 
@@ -22480,6 +31310,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'woman supervillain',
     glyph: '🦹🏽‍♀️',
     svgPath: 'assets/woman_supervillain_color_medium.svg',
+    tts: 'woman supervillain',
+    fromVersion: '11.0',
+    glyphAsUtfInEmoticons: ['woman_super_villain'],
+    keywords: ['criminal', 'evil', 'superpower', 'villain', 'woman', 'woman supervillain'],
+    mappedToEmoticons: ['woman_super_villain'],
     skinTone: FluentEmojiSkinTone.medium,
   );
 
@@ -22490,6 +31325,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'woman supervillain',
     glyph: '🦹🏾‍♀️',
     svgPath: 'assets/woman_supervillain_color_medium-dark.svg',
+    tts: 'woman supervillain',
+    fromVersion: '11.0',
+    glyphAsUtfInEmoticons: ['woman_super_villain'],
+    keywords: ['criminal', 'evil', 'superpower', 'villain', 'woman', 'woman supervillain'],
+    mappedToEmoticons: ['woman_super_villain'],
     skinTone: FluentEmojiSkinTone.mediumDark,
   );
 
@@ -22500,6 +31340,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'woman supervillain',
     glyph: '🦹🏿‍♀️',
     svgPath: 'assets/woman_supervillain_color_dark.svg',
+    tts: 'woman supervillain',
+    fromVersion: '11.0',
+    glyphAsUtfInEmoticons: ['woman_super_villain'],
+    keywords: ['criminal', 'evil', 'superpower', 'villain', 'woman', 'woman supervillain'],
+    mappedToEmoticons: ['woman_super_villain'],
     skinTone: FluentEmojiSkinTone.dark,
   );
 
@@ -22516,6 +31361,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'woman surfing',
     glyph: '🏄‍♀️',
     svgPath: 'assets/woman_surfing_color_default.svg',
+    tts: 'woman surfing',
+    fromVersion: '4.0',
+    glyphAsUtfInEmoticons: ['womansurfer'],
+    keywords: ['surfing', 'woman'],
+    mappedToEmoticons: ['womansurfer'],
     skinToneLight: _womanSurfingLight,
     skinToneMediumLight: _womanSurfingMediumLight,
     skinToneMedium: _womanSurfingMedium,
@@ -22530,6 +31380,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'woman surfing',
     glyph: '🏄🏻‍♀️',
     svgPath: 'assets/woman_surfing_color_light.svg',
+    tts: 'woman surfing',
+    fromVersion: '4.0',
+    glyphAsUtfInEmoticons: ['womansurfer'],
+    keywords: ['surfing', 'woman'],
+    mappedToEmoticons: ['womansurfer'],
     skinTone: FluentEmojiSkinTone.light,
   );
 
@@ -22540,6 +31395,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'woman surfing',
     glyph: '🏄🏼‍♀️',
     svgPath: 'assets/woman_surfing_color_medium-light.svg',
+    tts: 'woman surfing',
+    fromVersion: '4.0',
+    glyphAsUtfInEmoticons: ['womansurfer'],
+    keywords: ['surfing', 'woman'],
+    mappedToEmoticons: ['womansurfer'],
     skinTone: FluentEmojiSkinTone.mediumLight,
   );
 
@@ -22550,6 +31410,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'woman surfing',
     glyph: '🏄🏽‍♀️',
     svgPath: 'assets/woman_surfing_color_medium.svg',
+    tts: 'woman surfing',
+    fromVersion: '4.0',
+    glyphAsUtfInEmoticons: ['womansurfer'],
+    keywords: ['surfing', 'woman'],
+    mappedToEmoticons: ['womansurfer'],
     skinTone: FluentEmojiSkinTone.medium,
   );
 
@@ -22560,6 +31425,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'woman surfing',
     glyph: '🏄🏾‍♀️',
     svgPath: 'assets/woman_surfing_color_medium-dark.svg',
+    tts: 'woman surfing',
+    fromVersion: '4.0',
+    glyphAsUtfInEmoticons: ['womansurfer'],
+    keywords: ['surfing', 'woman'],
+    mappedToEmoticons: ['womansurfer'],
     skinTone: FluentEmojiSkinTone.mediumDark,
   );
 
@@ -22570,6 +31440,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'woman surfing',
     glyph: '🏄🏿‍♀️',
     svgPath: 'assets/woman_surfing_color_dark.svg',
+    tts: 'woman surfing',
+    fromVersion: '4.0',
+    glyphAsUtfInEmoticons: ['womansurfer'],
+    keywords: ['surfing', 'woman'],
+    mappedToEmoticons: ['womansurfer'],
     skinTone: FluentEmojiSkinTone.dark,
   );
 
@@ -22586,6 +31461,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'woman swimming',
     glyph: '🏊‍♀️',
     svgPath: 'assets/woman_swimming_color_default.svg',
+    tts: 'woman swimming',
+    fromVersion: '4.0',
+    glyphAsUtfInEmoticons: ['woman_swimmer'],
+    keywords: ['swim', 'woman', 'woman swimming'],
+    mappedToEmoticons: ['woman_swimmer'],
     skinToneLight: _womanSwimmingLight,
     skinToneMediumLight: _womanSwimmingMediumLight,
     skinToneMedium: _womanSwimmingMedium,
@@ -22600,6 +31480,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'woman swimming',
     glyph: '🏊🏻‍♀️',
     svgPath: 'assets/woman_swimming_color_light.svg',
+    tts: 'woman swimming',
+    fromVersion: '4.0',
+    glyphAsUtfInEmoticons: ['woman_swimmer'],
+    keywords: ['swim', 'woman', 'woman swimming'],
+    mappedToEmoticons: ['woman_swimmer'],
     skinTone: FluentEmojiSkinTone.light,
   );
 
@@ -22610,6 +31495,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'woman swimming',
     glyph: '🏊🏼‍♀️',
     svgPath: 'assets/woman_swimming_color_medium-light.svg',
+    tts: 'woman swimming',
+    fromVersion: '4.0',
+    glyphAsUtfInEmoticons: ['woman_swimmer'],
+    keywords: ['swim', 'woman', 'woman swimming'],
+    mappedToEmoticons: ['woman_swimmer'],
     skinTone: FluentEmojiSkinTone.mediumLight,
   );
 
@@ -22620,6 +31510,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'woman swimming',
     glyph: '🏊🏽‍♀️',
     svgPath: 'assets/woman_swimming_color_medium.svg',
+    tts: 'woman swimming',
+    fromVersion: '4.0',
+    glyphAsUtfInEmoticons: ['woman_swimmer'],
+    keywords: ['swim', 'woman', 'woman swimming'],
+    mappedToEmoticons: ['woman_swimmer'],
     skinTone: FluentEmojiSkinTone.medium,
   );
 
@@ -22630,6 +31525,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'woman swimming',
     glyph: '🏊🏾‍♀️',
     svgPath: 'assets/woman_swimming_color_medium-dark.svg',
+    tts: 'woman swimming',
+    fromVersion: '4.0',
+    glyphAsUtfInEmoticons: ['woman_swimmer'],
+    keywords: ['swim', 'woman', 'woman swimming'],
+    mappedToEmoticons: ['woman_swimmer'],
     skinTone: FluentEmojiSkinTone.mediumDark,
   );
 
@@ -22640,6 +31540,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'woman swimming',
     glyph: '🏊🏿‍♀️',
     svgPath: 'assets/woman_swimming_color_dark.svg',
+    tts: 'woman swimming',
+    fromVersion: '4.0',
+    glyphAsUtfInEmoticons: ['woman_swimmer'],
+    keywords: ['swim', 'woman', 'woman swimming'],
+    mappedToEmoticons: ['woman_swimmer'],
     skinTone: FluentEmojiSkinTone.dark,
   );
 
@@ -22656,6 +31561,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'woman teacher',
     glyph: '👩‍🏫',
     svgPath: 'assets/woman_teacher_color_default.svg',
+    tts: 'woman teacher',
+    fromVersion: '4.0',
+    glyphAsUtfInEmoticons: ['womanteacher'],
+    keywords: ['instructor', 'professor', 'teacher', 'woman'],
+    mappedToEmoticons: ['womanteacher'],
     skinToneLight: _womanTeacherLight,
     skinToneMediumLight: _womanTeacherMediumLight,
     skinToneMedium: _womanTeacherMedium,
@@ -22670,6 +31580,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'woman teacher',
     glyph: '👩🏻‍🏫',
     svgPath: 'assets/woman_teacher_color_light.svg',
+    tts: 'woman teacher',
+    fromVersion: '4.0',
+    glyphAsUtfInEmoticons: ['womanteacher'],
+    keywords: ['instructor', 'professor', 'teacher', 'woman'],
+    mappedToEmoticons: ['womanteacher'],
     skinTone: FluentEmojiSkinTone.light,
   );
 
@@ -22680,6 +31595,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'woman teacher',
     glyph: '👩🏼‍🏫',
     svgPath: 'assets/woman_teacher_color_medium-light.svg',
+    tts: 'woman teacher',
+    fromVersion: '4.0',
+    glyphAsUtfInEmoticons: ['womanteacher'],
+    keywords: ['instructor', 'professor', 'teacher', 'woman'],
+    mappedToEmoticons: ['womanteacher'],
     skinTone: FluentEmojiSkinTone.mediumLight,
   );
 
@@ -22690,6 +31610,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'woman teacher',
     glyph: '👩🏽‍🏫',
     svgPath: 'assets/woman_teacher_color_medium.svg',
+    tts: 'woman teacher',
+    fromVersion: '4.0',
+    glyphAsUtfInEmoticons: ['womanteacher'],
+    keywords: ['instructor', 'professor', 'teacher', 'woman'],
+    mappedToEmoticons: ['womanteacher'],
     skinTone: FluentEmojiSkinTone.medium,
   );
 
@@ -22700,6 +31625,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'woman teacher',
     glyph: '👩🏾‍🏫',
     svgPath: 'assets/woman_teacher_color_medium-dark.svg',
+    tts: 'woman teacher',
+    fromVersion: '4.0',
+    glyphAsUtfInEmoticons: ['womanteacher'],
+    keywords: ['instructor', 'professor', 'teacher', 'woman'],
+    mappedToEmoticons: ['womanteacher'],
     skinTone: FluentEmojiSkinTone.mediumDark,
   );
 
@@ -22710,6 +31640,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'woman teacher',
     glyph: '👩🏿‍🏫',
     svgPath: 'assets/woman_teacher_color_dark.svg',
+    tts: 'woman teacher',
+    fromVersion: '4.0',
+    glyphAsUtfInEmoticons: ['womanteacher'],
+    keywords: ['instructor', 'professor', 'teacher', 'woman'],
+    mappedToEmoticons: ['womanteacher'],
     skinTone: FluentEmojiSkinTone.dark,
   );
 
@@ -22726,6 +31661,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'woman technologist',
     glyph: '👩‍💻',
     svgPath: 'assets/woman_technologist_color_default.svg',
+    tts: 'woman technologist',
+    fromVersion: '4.0',
+    glyphAsUtfInEmoticons: ['womandeveloper'],
+    keywords: ['coder', 'developer', 'inventor', 'software', 'technologist', 'woman'],
+    mappedToEmoticons: ['womandeveloper'],
     skinToneLight: _womanTechnologistLight,
     skinToneMediumLight: _womanTechnologistMediumLight,
     skinToneMedium: _womanTechnologistMedium,
@@ -22740,6 +31680,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'woman technologist',
     glyph: '👩🏻‍💻',
     svgPath: 'assets/woman_technologist_color_light.svg',
+    tts: 'woman technologist',
+    fromVersion: '4.0',
+    glyphAsUtfInEmoticons: ['womandeveloper'],
+    keywords: ['coder', 'developer', 'inventor', 'software', 'technologist', 'woman'],
+    mappedToEmoticons: ['womandeveloper'],
     skinTone: FluentEmojiSkinTone.light,
   );
 
@@ -22750,6 +31695,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'woman technologist',
     glyph: '👩🏼‍💻',
     svgPath: 'assets/woman_technologist_color_medium-light.svg',
+    tts: 'woman technologist',
+    fromVersion: '4.0',
+    glyphAsUtfInEmoticons: ['womandeveloper'],
+    keywords: ['coder', 'developer', 'inventor', 'software', 'technologist', 'woman'],
+    mappedToEmoticons: ['womandeveloper'],
     skinTone: FluentEmojiSkinTone.mediumLight,
   );
 
@@ -22760,6 +31710,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'woman technologist',
     glyph: '👩🏽‍💻',
     svgPath: 'assets/woman_technologist_color_medium.svg',
+    tts: 'woman technologist',
+    fromVersion: '4.0',
+    glyphAsUtfInEmoticons: ['womandeveloper'],
+    keywords: ['coder', 'developer', 'inventor', 'software', 'technologist', 'woman'],
+    mappedToEmoticons: ['womandeveloper'],
     skinTone: FluentEmojiSkinTone.medium,
   );
 
@@ -22770,6 +31725,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'woman technologist',
     glyph: '👩🏾‍💻',
     svgPath: 'assets/woman_technologist_color_medium-dark.svg',
+    tts: 'woman technologist',
+    fromVersion: '4.0',
+    glyphAsUtfInEmoticons: ['womandeveloper'],
+    keywords: ['coder', 'developer', 'inventor', 'software', 'technologist', 'woman'],
+    mappedToEmoticons: ['womandeveloper'],
     skinTone: FluentEmojiSkinTone.mediumDark,
   );
 
@@ -22780,6 +31740,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'woman technologist',
     glyph: '👩🏿‍💻',
     svgPath: 'assets/woman_technologist_color_dark.svg',
+    tts: 'woman technologist',
+    fromVersion: '4.0',
+    glyphAsUtfInEmoticons: ['womandeveloper'],
+    keywords: ['coder', 'developer', 'inventor', 'software', 'technologist', 'woman'],
+    mappedToEmoticons: ['womandeveloper'],
     skinTone: FluentEmojiSkinTone.dark,
   );
 
@@ -22796,6 +31761,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'woman tipping hand',
     glyph: '💁‍♀️',
     svgPath: 'assets/woman_tipping_hand_color_default.svg',
+    tts: 'woman tipping hand',
+    fromVersion: '4.0',
+    glyphAsUtfInEmoticons: ['womantippinghand'],
+    keywords: ['sassy', 'tipping hand', 'woman', 'woman tipping hand'],
+    mappedToEmoticons: ['womantippinghand'],
     skinToneLight: _womanTippingHandLight,
     skinToneMediumLight: _womanTippingHandMediumLight,
     skinToneMedium: _womanTippingHandMedium,
@@ -22810,6 +31780,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'woman tipping hand',
     glyph: '💁🏻‍♀️',
     svgPath: 'assets/woman_tipping_hand_color_light.svg',
+    tts: 'woman tipping hand',
+    fromVersion: '4.0',
+    glyphAsUtfInEmoticons: ['womantippinghand'],
+    keywords: ['sassy', 'tipping hand', 'woman', 'woman tipping hand'],
+    mappedToEmoticons: ['womantippinghand'],
     skinTone: FluentEmojiSkinTone.light,
   );
 
@@ -22820,6 +31795,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'woman tipping hand',
     glyph: '💁🏼‍♀️',
     svgPath: 'assets/woman_tipping_hand_color_medium-light.svg',
+    tts: 'woman tipping hand',
+    fromVersion: '4.0',
+    glyphAsUtfInEmoticons: ['womantippinghand'],
+    keywords: ['sassy', 'tipping hand', 'woman', 'woman tipping hand'],
+    mappedToEmoticons: ['womantippinghand'],
     skinTone: FluentEmojiSkinTone.mediumLight,
   );
 
@@ -22830,6 +31810,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'woman tipping hand',
     glyph: '💁🏽‍♀️',
     svgPath: 'assets/woman_tipping_hand_color_medium.svg',
+    tts: 'woman tipping hand',
+    fromVersion: '4.0',
+    glyphAsUtfInEmoticons: ['womantippinghand'],
+    keywords: ['sassy', 'tipping hand', 'woman', 'woman tipping hand'],
+    mappedToEmoticons: ['womantippinghand'],
     skinTone: FluentEmojiSkinTone.medium,
   );
 
@@ -22840,6 +31825,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'woman tipping hand',
     glyph: '💁🏾‍♀️',
     svgPath: 'assets/woman_tipping_hand_color_medium-dark.svg',
+    tts: 'woman tipping hand',
+    fromVersion: '4.0',
+    glyphAsUtfInEmoticons: ['womantippinghand'],
+    keywords: ['sassy', 'tipping hand', 'woman', 'woman tipping hand'],
+    mappedToEmoticons: ['womantippinghand'],
     skinTone: FluentEmojiSkinTone.mediumDark,
   );
 
@@ -22850,6 +31840,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'woman tipping hand',
     glyph: '💁🏿‍♀️',
     svgPath: 'assets/woman_tipping_hand_color_dark.svg',
+    tts: 'woman tipping hand',
+    fromVersion: '4.0',
+    glyphAsUtfInEmoticons: ['womantippinghand'],
+    keywords: ['sassy', 'tipping hand', 'woman', 'woman tipping hand'],
+    mappedToEmoticons: ['womantippinghand'],
     skinTone: FluentEmojiSkinTone.dark,
   );
 
@@ -22866,6 +31861,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'woman vampire',
     glyph: '🧛‍♀️',
     svgPath: 'assets/woman_vampire_color_default.svg',
+    tts: 'woman vampire',
+    fromVersion: '5.0',
+    glyphAsUtfInEmoticons: null,
+    keywords: ['undead', 'woman vampire'],
+    mappedToEmoticons: ['ladyvampire'],
     skinToneLight: _womanVampireLight,
     skinToneMediumLight: _womanVampireMediumLight,
     skinToneMedium: _womanVampireMedium,
@@ -22880,6 +31880,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'woman vampire',
     glyph: '🧛🏻‍♀️',
     svgPath: 'assets/woman_vampire_color_light.svg',
+    tts: 'woman vampire',
+    fromVersion: '5.0',
+    glyphAsUtfInEmoticons: null,
+    keywords: ['undead', 'woman vampire'],
+    mappedToEmoticons: ['ladyvampire'],
     skinTone: FluentEmojiSkinTone.light,
   );
 
@@ -22890,6 +31895,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'woman vampire',
     glyph: '🧛🏼‍♀️',
     svgPath: 'assets/woman_vampire_color_medium-light.svg',
+    tts: 'woman vampire',
+    fromVersion: '5.0',
+    glyphAsUtfInEmoticons: null,
+    keywords: ['undead', 'woman vampire'],
+    mappedToEmoticons: ['ladyvampire'],
     skinTone: FluentEmojiSkinTone.mediumLight,
   );
 
@@ -22900,6 +31910,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'woman vampire',
     glyph: '🧛🏽‍♀️',
     svgPath: 'assets/woman_vampire_color_medium.svg',
+    tts: 'woman vampire',
+    fromVersion: '5.0',
+    glyphAsUtfInEmoticons: null,
+    keywords: ['undead', 'woman vampire'],
+    mappedToEmoticons: ['ladyvampire'],
     skinTone: FluentEmojiSkinTone.medium,
   );
 
@@ -22910,6 +31925,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'woman vampire',
     glyph: '🧛🏾‍♀️',
     svgPath: 'assets/woman_vampire_color_medium-dark.svg',
+    tts: 'woman vampire',
+    fromVersion: '5.0',
+    glyphAsUtfInEmoticons: null,
+    keywords: ['undead', 'woman vampire'],
+    mappedToEmoticons: ['ladyvampire'],
     skinTone: FluentEmojiSkinTone.mediumDark,
   );
 
@@ -22920,6 +31940,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'woman vampire',
     glyph: '🧛🏿‍♀️',
     svgPath: 'assets/woman_vampire_color_dark.svg',
+    tts: 'woman vampire',
+    fromVersion: '5.0',
+    glyphAsUtfInEmoticons: null,
+    keywords: ['undead', 'woman vampire'],
+    mappedToEmoticons: ['ladyvampire'],
     skinTone: FluentEmojiSkinTone.dark,
   );
 
@@ -22936,6 +31961,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'woman walking',
     glyph: '🚶‍♀️',
     svgPath: 'assets/woman_walking_color_default.svg',
+    tts: 'woman walking',
+    fromVersion: '4.0',
+    glyphAsUtfInEmoticons: ['woman_walking'],
+    keywords: ['hike', 'walk', 'woman', 'woman walking'],
+    mappedToEmoticons: ['woman_walking'],
     skinToneLight: _womanWalkingLight,
     skinToneMediumLight: _womanWalkingMediumLight,
     skinToneMedium: _womanWalkingMedium,
@@ -22950,6 +31980,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'woman walking',
     glyph: '🚶🏻‍♀️',
     svgPath: 'assets/woman_walking_color_light.svg',
+    tts: 'woman walking',
+    fromVersion: '4.0',
+    glyphAsUtfInEmoticons: ['woman_walking'],
+    keywords: ['hike', 'walk', 'woman', 'woman walking'],
+    mappedToEmoticons: ['woman_walking'],
     skinTone: FluentEmojiSkinTone.light,
   );
 
@@ -22960,6 +31995,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'woman walking',
     glyph: '🚶🏼‍♀️',
     svgPath: 'assets/woman_walking_color_medium-light.svg',
+    tts: 'woman walking',
+    fromVersion: '4.0',
+    glyphAsUtfInEmoticons: ['woman_walking'],
+    keywords: ['hike', 'walk', 'woman', 'woman walking'],
+    mappedToEmoticons: ['woman_walking'],
     skinTone: FluentEmojiSkinTone.mediumLight,
   );
 
@@ -22970,6 +32010,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'woman walking',
     glyph: '🚶🏽‍♀️',
     svgPath: 'assets/woman_walking_color_medium.svg',
+    tts: 'woman walking',
+    fromVersion: '4.0',
+    glyphAsUtfInEmoticons: ['woman_walking'],
+    keywords: ['hike', 'walk', 'woman', 'woman walking'],
+    mappedToEmoticons: ['woman_walking'],
     skinTone: FluentEmojiSkinTone.medium,
   );
 
@@ -22980,6 +32025,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'woman walking',
     glyph: '🚶🏾‍♀️',
     svgPath: 'assets/woman_walking_color_medium-dark.svg',
+    tts: 'woman walking',
+    fromVersion: '4.0',
+    glyphAsUtfInEmoticons: ['woman_walking'],
+    keywords: ['hike', 'walk', 'woman', 'woman walking'],
+    mappedToEmoticons: ['woman_walking'],
     skinTone: FluentEmojiSkinTone.mediumDark,
   );
 
@@ -22990,6 +32040,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'woman walking',
     glyph: '🚶🏿‍♀️',
     svgPath: 'assets/woman_walking_color_dark.svg',
+    tts: 'woman walking',
+    fromVersion: '4.0',
+    glyphAsUtfInEmoticons: ['woman_walking'],
+    keywords: ['hike', 'walk', 'woman', 'woman walking'],
+    mappedToEmoticons: ['woman_walking'],
     skinTone: FluentEmojiSkinTone.dark,
   );
 
@@ -23006,6 +32061,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'woman walking facing right',
     glyph: '🚶‍♀️‍➡️',
     svgPath: 'assets/woman_walking_facing_right_color_default.svg',
+    tts: '',
+    fromVersion: '15.1',
+    glyphAsUtfInEmoticons: [],
+    keywords: ['hike', 'walk', 'woman', 'woman walking'],
+    mappedToEmoticons: [],
     skinToneLight: _womanWalkingFacingRightLight,
     skinToneMediumLight: _womanWalkingFacingRightMediumLight,
     skinToneMedium: _womanWalkingFacingRightMedium,
@@ -23020,6 +32080,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'woman walking facing right',
     glyph: '🚶🏻‍♀️‍➡️',
     svgPath: 'assets/woman_walking_facing_right_color_light.svg',
+    tts: '',
+    fromVersion: '15.1',
+    glyphAsUtfInEmoticons: [],
+    keywords: ['hike', 'walk', 'woman', 'woman walking'],
+    mappedToEmoticons: [],
     skinTone: FluentEmojiSkinTone.light,
   );
 
@@ -23030,6 +32095,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'woman walking facing right',
     glyph: '🚶🏼‍♀️‍➡️',
     svgPath: 'assets/woman_walking_facing_right_color_medium-light.svg',
+    tts: '',
+    fromVersion: '15.1',
+    glyphAsUtfInEmoticons: [],
+    keywords: ['hike', 'walk', 'woman', 'woman walking'],
+    mappedToEmoticons: [],
     skinTone: FluentEmojiSkinTone.mediumLight,
   );
 
@@ -23040,6 +32110,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'woman walking facing right',
     glyph: '🚶🏽‍♀️‍➡️',
     svgPath: 'assets/woman_walking_facing_right_color_medium.svg',
+    tts: '',
+    fromVersion: '15.1',
+    glyphAsUtfInEmoticons: [],
+    keywords: ['hike', 'walk', 'woman', 'woman walking'],
+    mappedToEmoticons: [],
     skinTone: FluentEmojiSkinTone.medium,
   );
 
@@ -23050,6 +32125,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'woman walking facing right',
     glyph: '🚶🏾‍♀️‍➡️',
     svgPath: 'assets/woman_walking_facing_right_color_medium-dark.svg',
+    tts: '',
+    fromVersion: '15.1',
+    glyphAsUtfInEmoticons: [],
+    keywords: ['hike', 'walk', 'woman', 'woman walking'],
+    mappedToEmoticons: [],
     skinTone: FluentEmojiSkinTone.mediumDark,
   );
 
@@ -23060,6 +32140,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'woman walking facing right',
     glyph: '🚶🏿‍♀️‍➡️',
     svgPath: 'assets/woman_walking_facing_right_color_dark.svg',
+    tts: '',
+    fromVersion: '15.1',
+    glyphAsUtfInEmoticons: [],
+    keywords: ['hike', 'walk', 'woman', 'woman walking'],
+    mappedToEmoticons: [],
     skinTone: FluentEmojiSkinTone.dark,
   );
 
@@ -23076,6 +32161,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'woman wearing turban',
     glyph: '👳‍♀️',
     svgPath: 'assets/woman_wearing_turban_color_default.svg',
+    tts: 'woman wearing turban',
+    fromVersion: '4.0',
+    glyphAsUtfInEmoticons: ['woman_wearing_turban', 'womanwearingturban'],
+    keywords: ['turban', 'woman', 'woman wearing turban'],
+    mappedToEmoticons: ['womanwearingturban'],
     skinToneLight: _womanWearingTurbanLight,
     skinToneMediumLight: _womanWearingTurbanMediumLight,
     skinToneMedium: _womanWearingTurbanMedium,
@@ -23090,6 +32180,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'woman wearing turban',
     glyph: '👳🏻‍♀️',
     svgPath: 'assets/woman_wearing_turban_color_light.svg',
+    tts: 'woman wearing turban',
+    fromVersion: '4.0',
+    glyphAsUtfInEmoticons: ['woman_wearing_turban', 'womanwearingturban'],
+    keywords: ['turban', 'woman', 'woman wearing turban'],
+    mappedToEmoticons: ['womanwearingturban'],
     skinTone: FluentEmojiSkinTone.light,
   );
 
@@ -23100,6 +32195,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'woman wearing turban',
     glyph: '👳🏼‍♀️',
     svgPath: 'assets/woman_wearing_turban_color_medium-light.svg',
+    tts: 'woman wearing turban',
+    fromVersion: '4.0',
+    glyphAsUtfInEmoticons: ['woman_wearing_turban', 'womanwearingturban'],
+    keywords: ['turban', 'woman', 'woman wearing turban'],
+    mappedToEmoticons: ['womanwearingturban'],
     skinTone: FluentEmojiSkinTone.mediumLight,
   );
 
@@ -23110,6 +32210,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'woman wearing turban',
     glyph: '👳🏽‍♀️',
     svgPath: 'assets/woman_wearing_turban_color_medium.svg',
+    tts: 'woman wearing turban',
+    fromVersion: '4.0',
+    glyphAsUtfInEmoticons: ['woman_wearing_turban', 'womanwearingturban'],
+    keywords: ['turban', 'woman', 'woman wearing turban'],
+    mappedToEmoticons: ['womanwearingturban'],
     skinTone: FluentEmojiSkinTone.medium,
   );
 
@@ -23120,6 +32225,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'woman wearing turban',
     glyph: '👳🏾‍♀️',
     svgPath: 'assets/woman_wearing_turban_color_medium-dark.svg',
+    tts: 'woman wearing turban',
+    fromVersion: '4.0',
+    glyphAsUtfInEmoticons: ['woman_wearing_turban', 'womanwearingturban'],
+    keywords: ['turban', 'woman', 'woman wearing turban'],
+    mappedToEmoticons: ['womanwearingturban'],
     skinTone: FluentEmojiSkinTone.mediumDark,
   );
 
@@ -23130,6 +32240,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'woman wearing turban',
     glyph: '👳🏿‍♀️',
     svgPath: 'assets/woman_wearing_turban_color_dark.svg',
+    tts: 'woman wearing turban',
+    fromVersion: '4.0',
+    glyphAsUtfInEmoticons: ['woman_wearing_turban', 'womanwearingturban'],
+    keywords: ['turban', 'woman', 'woman wearing turban'],
+    mappedToEmoticons: ['womanwearingturban'],
     skinTone: FluentEmojiSkinTone.dark,
   );
 
@@ -23146,6 +32261,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'woman with headscarf',
     glyph: '🧕',
     svgPath: 'assets/woman_with_headscarf_color_default.svg',
+    tts: 'woman with headscarf',
+    fromVersion: '5.0',
+    glyphAsUtfInEmoticons: ['woman_with_head_scarf'],
+    keywords: ['headscarf', 'hijab', 'mantilla', 'tichel', 'woman with headscarf'],
+    mappedToEmoticons: ['woman_with_head_scarf'],
     skinToneLight: _womanWithHeadscarfLight,
     skinToneMediumLight: _womanWithHeadscarfMediumLight,
     skinToneMedium: _womanWithHeadscarfMedium,
@@ -23160,6 +32280,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'woman with headscarf',
     glyph: '🧕🏻',
     svgPath: 'assets/woman_with_headscarf_color_light.svg',
+    tts: 'woman with headscarf',
+    fromVersion: '5.0',
+    glyphAsUtfInEmoticons: ['woman_with_head_scarf'],
+    keywords: ['headscarf', 'hijab', 'mantilla', 'tichel', 'woman with headscarf'],
+    mappedToEmoticons: ['woman_with_head_scarf'],
     skinTone: FluentEmojiSkinTone.light,
   );
 
@@ -23170,6 +32295,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'woman with headscarf',
     glyph: '🧕🏼',
     svgPath: 'assets/woman_with_headscarf_color_medium-light.svg',
+    tts: 'woman with headscarf',
+    fromVersion: '5.0',
+    glyphAsUtfInEmoticons: ['woman_with_head_scarf'],
+    keywords: ['headscarf', 'hijab', 'mantilla', 'tichel', 'woman with headscarf'],
+    mappedToEmoticons: ['woman_with_head_scarf'],
     skinTone: FluentEmojiSkinTone.mediumLight,
   );
 
@@ -23180,6 +32310,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'woman with headscarf',
     glyph: '🧕🏽',
     svgPath: 'assets/woman_with_headscarf_color_medium.svg',
+    tts: 'woman with headscarf',
+    fromVersion: '5.0',
+    glyphAsUtfInEmoticons: ['woman_with_head_scarf'],
+    keywords: ['headscarf', 'hijab', 'mantilla', 'tichel', 'woman with headscarf'],
+    mappedToEmoticons: ['woman_with_head_scarf'],
     skinTone: FluentEmojiSkinTone.medium,
   );
 
@@ -23190,6 +32325,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'woman with headscarf',
     glyph: '🧕🏾',
     svgPath: 'assets/woman_with_headscarf_color_medium-dark.svg',
+    tts: 'woman with headscarf',
+    fromVersion: '5.0',
+    glyphAsUtfInEmoticons: ['woman_with_head_scarf'],
+    keywords: ['headscarf', 'hijab', 'mantilla', 'tichel', 'woman with headscarf'],
+    mappedToEmoticons: ['woman_with_head_scarf'],
     skinTone: FluentEmojiSkinTone.mediumDark,
   );
 
@@ -23200,6 +32340,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'woman with headscarf',
     glyph: '🧕🏿',
     svgPath: 'assets/woman_with_headscarf_color_dark.svg',
+    tts: 'woman with headscarf',
+    fromVersion: '5.0',
+    glyphAsUtfInEmoticons: ['woman_with_head_scarf'],
+    keywords: ['headscarf', 'hijab', 'mantilla', 'tichel', 'woman with headscarf'],
+    mappedToEmoticons: ['woman_with_head_scarf'],
     skinTone: FluentEmojiSkinTone.dark,
   );
 
@@ -23216,6 +32361,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'woman with veil',
     glyph: '👰‍♀️',
     svgPath: 'assets/woman_with_veil_color_default.svg',
+    tts: 'woman with veil',
+    fromVersion: '13.0',
+    glyphAsUtfInEmoticons: ['womanwithveil'],
+    keywords: ['veil', 'woman', 'woman with veil'],
+    mappedToEmoticons: ['womanwithveil'],
     skinToneLight: _womanWithVeilLight,
     skinToneMediumLight: _womanWithVeilMediumLight,
     skinToneMedium: _womanWithVeilMedium,
@@ -23230,6 +32380,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'woman with veil',
     glyph: '👰🏻‍♀️',
     svgPath: 'assets/woman_with_veil_color_light.svg',
+    tts: 'woman with veil',
+    fromVersion: '13.0',
+    glyphAsUtfInEmoticons: ['womanwithveil'],
+    keywords: ['veil', 'woman', 'woman with veil'],
+    mappedToEmoticons: ['womanwithveil'],
     skinTone: FluentEmojiSkinTone.light,
   );
 
@@ -23240,6 +32395,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'woman with veil',
     glyph: '👰🏼‍♀️',
     svgPath: 'assets/woman_with_veil_color_medium-light.svg',
+    tts: 'woman with veil',
+    fromVersion: '13.0',
+    glyphAsUtfInEmoticons: ['womanwithveil'],
+    keywords: ['veil', 'woman', 'woman with veil'],
+    mappedToEmoticons: ['womanwithveil'],
     skinTone: FluentEmojiSkinTone.mediumLight,
   );
 
@@ -23250,6 +32410,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'woman with veil',
     glyph: '👰🏽‍♀️',
     svgPath: 'assets/woman_with_veil_color_medium.svg',
+    tts: 'woman with veil',
+    fromVersion: '13.0',
+    glyphAsUtfInEmoticons: ['womanwithveil'],
+    keywords: ['veil', 'woman', 'woman with veil'],
+    mappedToEmoticons: ['womanwithveil'],
     skinTone: FluentEmojiSkinTone.medium,
   );
 
@@ -23260,6 +32425,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'woman with veil',
     glyph: '👰🏾‍♀️',
     svgPath: 'assets/woman_with_veil_color_medium-dark.svg',
+    tts: 'woman with veil',
+    fromVersion: '13.0',
+    glyphAsUtfInEmoticons: ['womanwithveil'],
+    keywords: ['veil', 'woman', 'woman with veil'],
+    mappedToEmoticons: ['womanwithveil'],
     skinTone: FluentEmojiSkinTone.mediumDark,
   );
 
@@ -23270,6 +32440,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'woman with veil',
     glyph: '👰🏿‍♀️',
     svgPath: 'assets/woman_with_veil_color_dark.svg',
+    tts: 'woman with veil',
+    fromVersion: '13.0',
+    glyphAsUtfInEmoticons: ['womanwithveil'],
+    keywords: ['veil', 'woman', 'woman with veil'],
+    mappedToEmoticons: ['womanwithveil'],
     skinTone: FluentEmojiSkinTone.dark,
   );
 
@@ -23286,6 +32461,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'woman with white cane',
     glyph: '👩‍🦯',
     svgPath: 'assets/woman_with_white_cane_color_default.svg',
+    tts: 'woman with white cane',
+    fromVersion: '12.0',
+    glyphAsUtfInEmoticons: ['woman_probing_cane'],
+    keywords: ['accessibility', 'blind', 'woman', 'woman with white cane'],
+    mappedToEmoticons: ['woman_probing_cane'],
     skinToneLight: _womanWithWhiteCaneLight,
     skinToneMediumLight: _womanWithWhiteCaneMediumLight,
     skinToneMedium: _womanWithWhiteCaneMedium,
@@ -23300,6 +32480,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'woman with white cane',
     glyph: '👩🏻‍🦯',
     svgPath: 'assets/woman_with_white_cane_color_light.svg',
+    tts: 'woman with white cane',
+    fromVersion: '12.0',
+    glyphAsUtfInEmoticons: ['woman_probing_cane'],
+    keywords: ['accessibility', 'blind', 'woman', 'woman with white cane'],
+    mappedToEmoticons: ['woman_probing_cane'],
     skinTone: FluentEmojiSkinTone.light,
   );
 
@@ -23310,6 +32495,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'woman with white cane',
     glyph: '👩🏼‍🦯',
     svgPath: 'assets/woman_with_white_cane_color_medium-light.svg',
+    tts: 'woman with white cane',
+    fromVersion: '12.0',
+    glyphAsUtfInEmoticons: ['woman_probing_cane'],
+    keywords: ['accessibility', 'blind', 'woman', 'woman with white cane'],
+    mappedToEmoticons: ['woman_probing_cane'],
     skinTone: FluentEmojiSkinTone.mediumLight,
   );
 
@@ -23320,6 +32510,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'woman with white cane',
     glyph: '👩🏽‍🦯',
     svgPath: 'assets/woman_with_white_cane_color_medium.svg',
+    tts: 'woman with white cane',
+    fromVersion: '12.0',
+    glyphAsUtfInEmoticons: ['woman_probing_cane'],
+    keywords: ['accessibility', 'blind', 'woman', 'woman with white cane'],
+    mappedToEmoticons: ['woman_probing_cane'],
     skinTone: FluentEmojiSkinTone.medium,
   );
 
@@ -23330,6 +32525,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'woman with white cane',
     glyph: '👩🏾‍🦯',
     svgPath: 'assets/woman_with_white_cane_color_medium-dark.svg',
+    tts: 'woman with white cane',
+    fromVersion: '12.0',
+    glyphAsUtfInEmoticons: ['woman_probing_cane'],
+    keywords: ['accessibility', 'blind', 'woman', 'woman with white cane'],
+    mappedToEmoticons: ['woman_probing_cane'],
     skinTone: FluentEmojiSkinTone.mediumDark,
   );
 
@@ -23340,6 +32540,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'woman with white cane',
     glyph: '👩🏿‍🦯',
     svgPath: 'assets/woman_with_white_cane_color_dark.svg',
+    tts: 'woman with white cane',
+    fromVersion: '12.0',
+    glyphAsUtfInEmoticons: ['woman_probing_cane'],
+    keywords: ['accessibility', 'blind', 'woman', 'woman with white cane'],
+    mappedToEmoticons: ['woman_probing_cane'],
     skinTone: FluentEmojiSkinTone.dark,
   );
 
@@ -23356,6 +32561,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'woman with white cane facing right',
     glyph: '👩‍🦯‍➡️',
     svgPath: 'assets/woman_with_white_cane_facing_right_color_default.svg',
+    tts: '',
+    fromVersion: '15.1',
+    glyphAsUtfInEmoticons: [],
+    keywords: ['accessibility', 'blind', 'woman', 'woman with white cane'],
+    mappedToEmoticons: [],
     skinToneLight: _womanWithWhiteCaneFacingRightLight,
     skinToneMediumLight: _womanWithWhiteCaneFacingRightMediumLight,
     skinToneMedium: _womanWithWhiteCaneFacingRightMedium,
@@ -23370,6 +32580,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'woman with white cane facing right',
     glyph: '👩🏻‍🦯‍➡️',
     svgPath: 'assets/woman_with_white_cane_facing_right_color_light.svg',
+    tts: '',
+    fromVersion: '15.1',
+    glyphAsUtfInEmoticons: [],
+    keywords: ['accessibility', 'blind', 'woman', 'woman with white cane'],
+    mappedToEmoticons: [],
     skinTone: FluentEmojiSkinTone.light,
   );
 
@@ -23380,6 +32595,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'woman with white cane facing right',
     glyph: '👩🏼‍🦯‍➡️',
     svgPath: 'assets/woman_with_white_cane_facing_right_color_medium-light.svg',
+    tts: '',
+    fromVersion: '15.1',
+    glyphAsUtfInEmoticons: [],
+    keywords: ['accessibility', 'blind', 'woman', 'woman with white cane'],
+    mappedToEmoticons: [],
     skinTone: FluentEmojiSkinTone.mediumLight,
   );
 
@@ -23390,6 +32610,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'woman with white cane facing right',
     glyph: '👩🏽‍🦯‍➡️',
     svgPath: 'assets/woman_with_white_cane_facing_right_color_medium.svg',
+    tts: '',
+    fromVersion: '15.1',
+    glyphAsUtfInEmoticons: [],
+    keywords: ['accessibility', 'blind', 'woman', 'woman with white cane'],
+    mappedToEmoticons: [],
     skinTone: FluentEmojiSkinTone.medium,
   );
 
@@ -23400,6 +32625,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'woman with white cane facing right',
     glyph: '👩🏾‍🦯‍➡️',
     svgPath: 'assets/woman_with_white_cane_facing_right_color_medium-dark.svg',
+    tts: '',
+    fromVersion: '15.1',
+    glyphAsUtfInEmoticons: [],
+    keywords: ['accessibility', 'blind', 'woman', 'woman with white cane'],
+    mappedToEmoticons: [],
     skinTone: FluentEmojiSkinTone.mediumDark,
   );
 
@@ -23410,6 +32640,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'woman with white cane facing right',
     glyph: '👩🏿‍🦯‍➡️',
     svgPath: 'assets/woman_with_white_cane_facing_right_color_dark.svg',
+    tts: '',
+    fromVersion: '15.1',
+    glyphAsUtfInEmoticons: [],
+    keywords: ['accessibility', 'blind', 'woman', 'woman with white cane'],
+    mappedToEmoticons: [],
     skinTone: FluentEmojiSkinTone.dark,
   );
 
@@ -23420,6 +32655,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'woman zombie',
     glyph: '🧟‍♀️',
     svgPath: 'assets/woman_zombie_color.svg',
+    tts: 'woman zombie',
+    fromVersion: '5.0',
+    glyphAsUtfInEmoticons: null,
+    keywords: ['undead', 'walking dead', 'woman zombie'],
+    mappedToEmoticons: ['zombie'],
     skinTone: FluentEmojiSkinTone.standard,
   );
 
@@ -23436,6 +32676,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'woman: bald',
     glyph: '👩‍🦲',
     svgPath: 'assets/woman_bald_color_default.svg',
+    tts: 'woman: bald',
+    fromVersion: '11.0',
+    glyphAsUtfInEmoticons: ['1f469_200d_1f9b2_femalebald'],
+    keywords: ['adult', 'bald', 'woman'],
+    mappedToEmoticons: ['1f469_200d_1f9b2_femalebald'],
     skinToneLight: _womanBaldLight,
     skinToneMediumLight: _womanBaldMediumLight,
     skinToneMedium: _womanBaldMedium,
@@ -23450,6 +32695,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'woman: bald',
     glyph: '👩🏻‍🦲',
     svgPath: 'assets/woman_bald_color_light.svg',
+    tts: 'woman: bald',
+    fromVersion: '11.0',
+    glyphAsUtfInEmoticons: ['1f469_200d_1f9b2_femalebald'],
+    keywords: ['adult', 'bald', 'woman'],
+    mappedToEmoticons: ['1f469_200d_1f9b2_femalebald'],
     skinTone: FluentEmojiSkinTone.light,
   );
 
@@ -23460,6 +32710,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'woman: bald',
     glyph: '👩🏼‍🦲',
     svgPath: 'assets/woman_bald_color_medium-light.svg',
+    tts: 'woman: bald',
+    fromVersion: '11.0',
+    glyphAsUtfInEmoticons: ['1f469_200d_1f9b2_femalebald'],
+    keywords: ['adult', 'bald', 'woman'],
+    mappedToEmoticons: ['1f469_200d_1f9b2_femalebald'],
     skinTone: FluentEmojiSkinTone.mediumLight,
   );
 
@@ -23470,6 +32725,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'woman: bald',
     glyph: '👩🏽‍🦲',
     svgPath: 'assets/woman_bald_color_medium.svg',
+    tts: 'woman: bald',
+    fromVersion: '11.0',
+    glyphAsUtfInEmoticons: ['1f469_200d_1f9b2_femalebald'],
+    keywords: ['adult', 'bald', 'woman'],
+    mappedToEmoticons: ['1f469_200d_1f9b2_femalebald'],
     skinTone: FluentEmojiSkinTone.medium,
   );
 
@@ -23480,6 +32740,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'woman: bald',
     glyph: '👩🏾‍🦲',
     svgPath: 'assets/woman_bald_color_medium-dark.svg',
+    tts: 'woman: bald',
+    fromVersion: '11.0',
+    glyphAsUtfInEmoticons: ['1f469_200d_1f9b2_femalebald'],
+    keywords: ['adult', 'bald', 'woman'],
+    mappedToEmoticons: ['1f469_200d_1f9b2_femalebald'],
     skinTone: FluentEmojiSkinTone.mediumDark,
   );
 
@@ -23490,6 +32755,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'woman: bald',
     glyph: '👩🏿‍🦲',
     svgPath: 'assets/woman_bald_color_dark.svg',
+    tts: 'woman: bald',
+    fromVersion: '11.0',
+    glyphAsUtfInEmoticons: ['1f469_200d_1f9b2_femalebald'],
+    keywords: ['adult', 'bald', 'woman'],
+    mappedToEmoticons: ['1f469_200d_1f9b2_femalebald'],
     skinTone: FluentEmojiSkinTone.dark,
   );
 
@@ -23506,6 +32776,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'woman: beard',
     glyph: '🧔‍♀️',
     svgPath: 'assets/woman_beard_color_default.svg',
+    tts: 'woman: beard',
+    fromVersion: '13.1',
+    glyphAsUtfInEmoticons: null,
+    keywords: ['beard', 'woman', 'woman: beard'],
+    mappedToEmoticons: ['womanbeard'],
     skinToneLight: _womanBeardLight,
     skinToneMediumLight: _womanBeardMediumLight,
     skinToneMedium: _womanBeardMedium,
@@ -23520,6 +32795,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'woman: beard',
     glyph: '🧔🏻‍♀️',
     svgPath: 'assets/woman_beard_color_light.svg',
+    tts: 'woman: beard',
+    fromVersion: '13.1',
+    glyphAsUtfInEmoticons: null,
+    keywords: ['beard', 'woman', 'woman: beard'],
+    mappedToEmoticons: ['womanbeard'],
     skinTone: FluentEmojiSkinTone.light,
   );
 
@@ -23530,6 +32810,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'woman: beard',
     glyph: '🧔🏼‍♀️',
     svgPath: 'assets/woman_beard_color_medium-light.svg',
+    tts: 'woman: beard',
+    fromVersion: '13.1',
+    glyphAsUtfInEmoticons: null,
+    keywords: ['beard', 'woman', 'woman: beard'],
+    mappedToEmoticons: ['womanbeard'],
     skinTone: FluentEmojiSkinTone.mediumLight,
   );
 
@@ -23540,6 +32825,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'woman: beard',
     glyph: '🧔🏽‍♀️',
     svgPath: 'assets/woman_beard_color_medium.svg',
+    tts: 'woman: beard',
+    fromVersion: '13.1',
+    glyphAsUtfInEmoticons: null,
+    keywords: ['beard', 'woman', 'woman: beard'],
+    mappedToEmoticons: ['womanbeard'],
     skinTone: FluentEmojiSkinTone.medium,
   );
 
@@ -23550,6 +32840,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'woman: beard',
     glyph: '🧔🏾‍♀️',
     svgPath: 'assets/woman_beard_color_medium-dark.svg',
+    tts: 'woman: beard',
+    fromVersion: '13.1',
+    glyphAsUtfInEmoticons: null,
+    keywords: ['beard', 'woman', 'woman: beard'],
+    mappedToEmoticons: ['womanbeard'],
     skinTone: FluentEmojiSkinTone.mediumDark,
   );
 
@@ -23560,6 +32855,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'woman: beard',
     glyph: '🧔🏿‍♀️',
     svgPath: 'assets/woman_beard_color_dark.svg',
+    tts: 'woman: beard',
+    fromVersion: '13.1',
+    glyphAsUtfInEmoticons: null,
+    keywords: ['beard', 'woman', 'woman: beard'],
+    mappedToEmoticons: ['womanbeard'],
     skinTone: FluentEmojiSkinTone.dark,
   );
 
@@ -23576,6 +32876,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'woman: blond hair',
     glyph: '👱‍♀️',
     svgPath: 'assets/woman_blonde_hair_color_default.svg',
+    tts: 'woman: blond hair',
+    fromVersion: '4.0',
+    glyphAsUtfInEmoticons: ['womanblondhair'],
+    keywords: ['blond-haired woman', 'blonde', 'hair', 'woman', 'woman: blond hair'],
+    mappedToEmoticons: ['womanblondhair'],
     skinToneLight: _womanBlondHairLight,
     skinToneMediumLight: _womanBlondHairMediumLight,
     skinToneMedium: _womanBlondHairMedium,
@@ -23590,6 +32895,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'woman: blond hair',
     glyph: '👱🏻‍♀️',
     svgPath: 'assets/woman_blonde_hair_color_light.svg',
+    tts: 'woman: blond hair',
+    fromVersion: '4.0',
+    glyphAsUtfInEmoticons: ['womanblondhair'],
+    keywords: ['blond-haired woman', 'blonde', 'hair', 'woman', 'woman: blond hair'],
+    mappedToEmoticons: ['womanblondhair'],
     skinTone: FluentEmojiSkinTone.light,
   );
 
@@ -23600,6 +32910,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'woman: blond hair',
     glyph: '👱🏼‍♀️',
     svgPath: 'assets/woman_blonde_hair_color_medium-light.svg',
+    tts: 'woman: blond hair',
+    fromVersion: '4.0',
+    glyphAsUtfInEmoticons: ['womanblondhair'],
+    keywords: ['blond-haired woman', 'blonde', 'hair', 'woman', 'woman: blond hair'],
+    mappedToEmoticons: ['womanblondhair'],
     skinTone: FluentEmojiSkinTone.mediumLight,
   );
 
@@ -23610,6 +32925,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'woman: blond hair',
     glyph: '👱🏽‍♀️',
     svgPath: 'assets/woman_blonde_hair_color_medium.svg',
+    tts: 'woman: blond hair',
+    fromVersion: '4.0',
+    glyphAsUtfInEmoticons: ['womanblondhair'],
+    keywords: ['blond-haired woman', 'blonde', 'hair', 'woman', 'woman: blond hair'],
+    mappedToEmoticons: ['womanblondhair'],
     skinTone: FluentEmojiSkinTone.medium,
   );
 
@@ -23620,6 +32940,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'woman: blond hair',
     glyph: '👱🏾‍♀️',
     svgPath: 'assets/woman_blonde_hair_color_medium-dark.svg',
+    tts: 'woman: blond hair',
+    fromVersion: '4.0',
+    glyphAsUtfInEmoticons: ['womanblondhair'],
+    keywords: ['blond-haired woman', 'blonde', 'hair', 'woman', 'woman: blond hair'],
+    mappedToEmoticons: ['womanblondhair'],
     skinTone: FluentEmojiSkinTone.mediumDark,
   );
 
@@ -23630,6 +32955,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'woman: blond hair',
     glyph: '👱🏿‍♀️',
     svgPath: 'assets/woman_blonde_hair_color_dark.svg',
+    tts: 'woman: blond hair',
+    fromVersion: '4.0',
+    glyphAsUtfInEmoticons: ['womanblondhair'],
+    keywords: ['blond-haired woman', 'blonde', 'hair', 'woman', 'woman: blond hair'],
+    mappedToEmoticons: ['womanblondhair'],
     skinTone: FluentEmojiSkinTone.dark,
   );
 
@@ -23646,6 +32976,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'woman: curly hair',
     glyph: '👩‍🦱',
     svgPath: 'assets/woman_curly_hair_color_default.svg',
+    tts: 'woman: curly hair',
+    fromVersion: '11.0',
+    glyphAsUtfInEmoticons: ['womancurlyhair'],
+    keywords: ['adult', 'curly hair', 'woman'],
+    mappedToEmoticons: ['womancurlyhair'],
     skinToneLight: _womanCurlyHairLight,
     skinToneMediumLight: _womanCurlyHairMediumLight,
     skinToneMedium: _womanCurlyHairMedium,
@@ -23660,6 +32995,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'woman: curly hair',
     glyph: '👩🏻‍🦱',
     svgPath: 'assets/woman_curly_hair_color_light.svg',
+    tts: 'woman: curly hair',
+    fromVersion: '11.0',
+    glyphAsUtfInEmoticons: ['womancurlyhair'],
+    keywords: ['adult', 'curly hair', 'woman'],
+    mappedToEmoticons: ['womancurlyhair'],
     skinTone: FluentEmojiSkinTone.light,
   );
 
@@ -23670,6 +33010,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'woman: curly hair',
     glyph: '👩🏼‍🦱',
     svgPath: 'assets/woman_curly_hair_color_medium-light.svg',
+    tts: 'woman: curly hair',
+    fromVersion: '11.0',
+    glyphAsUtfInEmoticons: ['womancurlyhair'],
+    keywords: ['adult', 'curly hair', 'woman'],
+    mappedToEmoticons: ['womancurlyhair'],
     skinTone: FluentEmojiSkinTone.mediumLight,
   );
 
@@ -23680,6 +33025,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'woman: curly hair',
     glyph: '👩🏽‍🦱',
     svgPath: 'assets/woman_curly_hair_color_medium.svg',
+    tts: 'woman: curly hair',
+    fromVersion: '11.0',
+    glyphAsUtfInEmoticons: ['womancurlyhair'],
+    keywords: ['adult', 'curly hair', 'woman'],
+    mappedToEmoticons: ['womancurlyhair'],
     skinTone: FluentEmojiSkinTone.medium,
   );
 
@@ -23690,6 +33040,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'woman: curly hair',
     glyph: '👩🏾‍🦱',
     svgPath: 'assets/woman_curly_hair_color_medium-dark.svg',
+    tts: 'woman: curly hair',
+    fromVersion: '11.0',
+    glyphAsUtfInEmoticons: ['womancurlyhair'],
+    keywords: ['adult', 'curly hair', 'woman'],
+    mappedToEmoticons: ['womancurlyhair'],
     skinTone: FluentEmojiSkinTone.mediumDark,
   );
 
@@ -23700,6 +33055,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'woman: curly hair',
     glyph: '👩🏿‍🦱',
     svgPath: 'assets/woman_curly_hair_color_dark.svg',
+    tts: 'woman: curly hair',
+    fromVersion: '11.0',
+    glyphAsUtfInEmoticons: ['womancurlyhair'],
+    keywords: ['adult', 'curly hair', 'woman'],
+    mappedToEmoticons: ['womancurlyhair'],
     skinTone: FluentEmojiSkinTone.dark,
   );
 
@@ -23716,6 +33076,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'woman: red hair',
     glyph: '👩‍🦰',
     svgPath: 'assets/woman_red_hair_color_default.svg',
+    tts: 'woman: red hair',
+    fromVersion: '11.0',
+    glyphAsUtfInEmoticons: ['1f469_200d_1f9b0_femaleredhaired'],
+    keywords: ['adult', 'red hair', 'woman'],
+    mappedToEmoticons: ['1f469_200d_1f9b0_femaleredhaired'],
     skinToneLight: _womanRedHairLight,
     skinToneMediumLight: _womanRedHairMediumLight,
     skinToneMedium: _womanRedHairMedium,
@@ -23730,6 +33095,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'woman: red hair',
     glyph: '👩🏻‍🦰',
     svgPath: 'assets/woman_red_hair_color_light.svg',
+    tts: 'woman: red hair',
+    fromVersion: '11.0',
+    glyphAsUtfInEmoticons: ['1f469_200d_1f9b0_femaleredhaired'],
+    keywords: ['adult', 'red hair', 'woman'],
+    mappedToEmoticons: ['1f469_200d_1f9b0_femaleredhaired'],
     skinTone: FluentEmojiSkinTone.light,
   );
 
@@ -23740,6 +33110,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'woman: red hair',
     glyph: '👩🏼‍🦰',
     svgPath: 'assets/woman_red_hair_color_medium-light.svg',
+    tts: 'woman: red hair',
+    fromVersion: '11.0',
+    glyphAsUtfInEmoticons: ['1f469_200d_1f9b0_femaleredhaired'],
+    keywords: ['adult', 'red hair', 'woman'],
+    mappedToEmoticons: ['1f469_200d_1f9b0_femaleredhaired'],
     skinTone: FluentEmojiSkinTone.mediumLight,
   );
 
@@ -23750,6 +33125,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'woman: red hair',
     glyph: '👩🏽‍🦰',
     svgPath: 'assets/woman_red_hair_color_medium.svg',
+    tts: 'woman: red hair',
+    fromVersion: '11.0',
+    glyphAsUtfInEmoticons: ['1f469_200d_1f9b0_femaleredhaired'],
+    keywords: ['adult', 'red hair', 'woman'],
+    mappedToEmoticons: ['1f469_200d_1f9b0_femaleredhaired'],
     skinTone: FluentEmojiSkinTone.medium,
   );
 
@@ -23760,6 +33140,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'woman: red hair',
     glyph: '👩🏾‍🦰',
     svgPath: 'assets/woman_red_hair_color_medium-dark.svg',
+    tts: 'woman: red hair',
+    fromVersion: '11.0',
+    glyphAsUtfInEmoticons: ['1f469_200d_1f9b0_femaleredhaired'],
+    keywords: ['adult', 'red hair', 'woman'],
+    mappedToEmoticons: ['1f469_200d_1f9b0_femaleredhaired'],
     skinTone: FluentEmojiSkinTone.mediumDark,
   );
 
@@ -23770,6 +33155,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'woman: red hair',
     glyph: '👩🏿‍🦰',
     svgPath: 'assets/woman_red_hair_color_dark.svg',
+    tts: 'woman: red hair',
+    fromVersion: '11.0',
+    glyphAsUtfInEmoticons: ['1f469_200d_1f9b0_femaleredhaired'],
+    keywords: ['adult', 'red hair', 'woman'],
+    mappedToEmoticons: ['1f469_200d_1f9b0_femaleredhaired'],
     skinTone: FluentEmojiSkinTone.dark,
   );
 
@@ -23786,6 +33176,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'woman: white hair',
     glyph: '👩‍🦳',
     svgPath: 'assets/woman_white_hair_color_default.svg',
+    tts: 'woman: white hair',
+    fromVersion: '11.0',
+    glyphAsUtfInEmoticons: ['womanwhitehair'],
+    keywords: ['adult', 'white hair', 'woman'],
+    mappedToEmoticons: ['womanwhitehair'],
     skinToneLight: _womanWhiteHairLight,
     skinToneMediumLight: _womanWhiteHairMediumLight,
     skinToneMedium: _womanWhiteHairMedium,
@@ -23800,6 +33195,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'woman: white hair',
     glyph: '👩🏻‍🦳',
     svgPath: 'assets/woman_white_hair_color_light.svg',
+    tts: 'woman: white hair',
+    fromVersion: '11.0',
+    glyphAsUtfInEmoticons: ['womanwhitehair'],
+    keywords: ['adult', 'white hair', 'woman'],
+    mappedToEmoticons: ['womanwhitehair'],
     skinTone: FluentEmojiSkinTone.light,
   );
 
@@ -23810,6 +33210,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'woman: white hair',
     glyph: '👩🏼‍🦳',
     svgPath: 'assets/woman_white_hair_color_medium-light.svg',
+    tts: 'woman: white hair',
+    fromVersion: '11.0',
+    glyphAsUtfInEmoticons: ['womanwhitehair'],
+    keywords: ['adult', 'white hair', 'woman'],
+    mappedToEmoticons: ['womanwhitehair'],
     skinTone: FluentEmojiSkinTone.mediumLight,
   );
 
@@ -23820,6 +33225,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'woman: white hair',
     glyph: '👩🏽‍🦳',
     svgPath: 'assets/woman_white_hair_color_medium.svg',
+    tts: 'woman: white hair',
+    fromVersion: '11.0',
+    glyphAsUtfInEmoticons: ['womanwhitehair'],
+    keywords: ['adult', 'white hair', 'woman'],
+    mappedToEmoticons: ['womanwhitehair'],
     skinTone: FluentEmojiSkinTone.medium,
   );
 
@@ -23830,6 +33240,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'woman: white hair',
     glyph: '👩🏾‍🦳',
     svgPath: 'assets/woman_white_hair_color_medium-dark.svg',
+    tts: 'woman: white hair',
+    fromVersion: '11.0',
+    glyphAsUtfInEmoticons: ['womanwhitehair'],
+    keywords: ['adult', 'white hair', 'woman'],
+    mappedToEmoticons: ['womanwhitehair'],
     skinTone: FluentEmojiSkinTone.mediumDark,
   );
 
@@ -23840,6 +33255,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'woman: white hair',
     glyph: '👩🏿‍🦳',
     svgPath: 'assets/woman_white_hair_color_dark.svg',
+    tts: 'woman: white hair',
+    fromVersion: '11.0',
+    glyphAsUtfInEmoticons: ['womanwhitehair'],
+    keywords: ['adult', 'white hair', 'woman'],
+    mappedToEmoticons: ['womanwhitehair'],
     skinTone: FluentEmojiSkinTone.dark,
   );
 
@@ -23850,6 +33270,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'women with bunny ears',
     glyph: '👯‍♀️',
     svgPath: 'assets/woman_with_bunny_ears_color.svg',
+    tts: 'women with bunny ears',
+    fromVersion: '4.0',
+    glyphAsUtfInEmoticons: ['women_with_bunny_ears'],
+    keywords: ['bunny ear', 'dancer', 'partying', 'women', 'women with bunny ears'],
+    mappedToEmoticons: null,
     skinTone: FluentEmojiSkinTone.standard,
   );
 
@@ -23860,6 +33285,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'women wrestling',
     glyph: '🤼‍♀️',
     svgPath: 'assets/woman_wrestling_color.svg',
+    tts: 'women wrestling',
+    fromVersion: '4.0',
+    glyphAsUtfInEmoticons: ['woman_wrestling'],
+    keywords: ['women', 'women wrestling', 'wrestle'],
+    mappedToEmoticons: null,
     skinTone: FluentEmojiSkinTone.standard,
   );
 
@@ -23876,6 +33306,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'writing hand',
     glyph: '✍️',
     svgPath: 'assets/writing_hand_color_default.svg',
+    tts: 'writing hand',
+    fromVersion: '0.7',
+    glyphAsUtfInEmoticons: null,
+    keywords: ['hand', 'write', 'writing hand'],
+    mappedToEmoticons: ['270d_writinghand'],
     skinToneLight: _writingHandLight,
     skinToneMediumLight: _writingHandMediumLight,
     skinToneMedium: _writingHandMedium,
@@ -23890,6 +33325,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'writing hand',
     glyph: '✍🏻',
     svgPath: 'assets/writing_hand_color_light.svg',
+    tts: 'writing hand',
+    fromVersion: '0.7',
+    glyphAsUtfInEmoticons: null,
+    keywords: ['hand', 'write', 'writing hand'],
+    mappedToEmoticons: ['270d_writinghand'],
     skinTone: FluentEmojiSkinTone.light,
   );
 
@@ -23900,6 +33340,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'writing hand',
     glyph: '✍🏼',
     svgPath: 'assets/writing_hand_color_medium-light.svg',
+    tts: 'writing hand',
+    fromVersion: '0.7',
+    glyphAsUtfInEmoticons: null,
+    keywords: ['hand', 'write', 'writing hand'],
+    mappedToEmoticons: ['270d_writinghand'],
     skinTone: FluentEmojiSkinTone.mediumLight,
   );
 
@@ -23910,6 +33355,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'writing hand',
     glyph: '✍🏽',
     svgPath: 'assets/writing_hand_color_medium.svg',
+    tts: 'writing hand',
+    fromVersion: '0.7',
+    glyphAsUtfInEmoticons: null,
+    keywords: ['hand', 'write', 'writing hand'],
+    mappedToEmoticons: ['270d_writinghand'],
     skinTone: FluentEmojiSkinTone.medium,
   );
 
@@ -23920,6 +33370,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'writing hand',
     glyph: '✍🏾',
     svgPath: 'assets/writing_hand_color_medium-dark.svg',
+    tts: 'writing hand',
+    fromVersion: '0.7',
+    glyphAsUtfInEmoticons: null,
+    keywords: ['hand', 'write', 'writing hand'],
+    mappedToEmoticons: ['270d_writinghand'],
     skinTone: FluentEmojiSkinTone.mediumDark,
   );
 
@@ -23930,6 +33385,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'writing hand',
     glyph: '✍🏿',
     svgPath: 'assets/writing_hand_color_dark.svg',
+    tts: 'writing hand',
+    fromVersion: '0.7',
+    glyphAsUtfInEmoticons: null,
+    keywords: ['hand', 'write', 'writing hand'],
+    mappedToEmoticons: ['270d_writinghand'],
     skinTone: FluentEmojiSkinTone.dark,
   );
 
@@ -23940,6 +33400,11 @@ class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
     name: 'zombie',
     glyph: '🧟',
     svgPath: 'assets/person_zombie_color.svg',
+    tts: 'zombie',
+    fromVersion: '5.0',
+    glyphAsUtfInEmoticons: ['zombie'],
+    keywords: ['undead', 'walking dead', 'zombie'],
+    mappedToEmoticons: ['personzombie'],
     skinTone: FluentEmojiSkinTone.standard,
   );
 }

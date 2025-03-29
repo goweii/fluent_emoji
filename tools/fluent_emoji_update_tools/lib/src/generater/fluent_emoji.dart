@@ -32,14 +32,40 @@ class FluentEmojiGroup {
   }();
 }
 
-sealed class FluentEmoji {
+class FluentEmoji {
   FluentEmoji({
     required this.group,
     required this.name,
+    required this.unicode,
+    required this.tts,
+    required this.svg,
+    required this.fromVersion,
+    required this.glyphAsUtfInEmoticons,
+    required this.keywords,
+    required this.mappedToEmoticons,
   });
 
   final String group;
   final String name;
+  final String unicode;
+  final String tts;
+  final String svg;
+  final String fromVersion;
+
+  final List<String>? glyphAsUtfInEmoticons;
+  final List<String>? keywords;
+  final List<String>? mappedToEmoticons;
+
+  late String glyph = () {
+    final emojiCode = unicode.split(' ').map((e) => int.parse(e, radix: 16)).toList();
+    final emoji = String.fromCharCodes(emojiCode);
+    return emoji;
+  }();
+
+  @override
+  String toString() {
+    return 'FluentEmoji{ group: $group, name: $name, glyph: $glyph, unicode: $unicode }';
+  }
 
   late List<String> nameFragments = () {
     return name
@@ -70,6 +96,13 @@ class SkinToneFluentEmoji extends FluentEmoji {
   SkinToneFluentEmoji({
     required super.group,
     required super.name,
+    required super.unicode,
+    required super.tts,
+    required super.svg,
+    required super.fromVersion,
+    required super.glyphAsUtfInEmoticons,
+    required super.keywords,
+    required super.mappedToEmoticons,
     required this.normal,
     required this.light,
     required this.mediumLight,
@@ -78,12 +111,12 @@ class SkinToneFluentEmoji extends FluentEmoji {
     required this.dark,
   });
 
-  final SingleFluentEmoji normal;
-  final SingleFluentEmoji light;
-  final SingleFluentEmoji mediumLight;
-  final SingleFluentEmoji medium;
-  final SingleFluentEmoji mediumDark;
-  final SingleFluentEmoji dark;
+  final FluentEmoji normal;
+  final FluentEmoji light;
+  final FluentEmoji mediumLight;
+  final FluentEmoji medium;
+  final FluentEmoji mediumDark;
+  final FluentEmoji dark;
 
   @override
   String toString() {
@@ -94,28 +127,5 @@ class SkinToneFluentEmoji extends FluentEmoji {
         '  medium: $medium\n'
         '  mediumDark: $mediumDark\n'
         '  dark: $dark';
-  }
-}
-
-class SingleFluentEmoji extends FluentEmoji {
-  SingleFluentEmoji({
-    required super.group,
-    required super.name,
-    required this.unicode,
-    required this.svg,
-  });
-
-  final String unicode;
-  final String svg;
-
-  late String glyph = () {
-    final emojiCode = unicode.split(' ').map((e) => int.parse(e, radix: 16)).toList();
-    final emoji = String.fromCharCodes(emojiCode);
-    return emoji;
-  }();
-
-  @override
-  String toString() {
-    return 'SingleFluentEmoji{ group: $group, name: $name, glyph: $glyph, unicode: $unicode }';
   }
 }

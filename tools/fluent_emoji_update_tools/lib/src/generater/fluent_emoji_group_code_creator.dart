@@ -64,7 +64,7 @@ class FluentEmojiGroupCodeCreator {
 
     buffer.writeln('  late final Map<String, FluentEmojiData> _allEmojis = Map.unmodifiable({');
 
-    void writeFieldLine(SingleFluentEmoji emoji, {String? perfix, String? subfix}) {
+    void writeFieldLine(FluentEmoji emoji, {String? perfix, String? subfix}) {
       var fieldName = emoji.nameLowerCase;
       if (perfix != null) {
         fieldName = perfix + fieldName;
@@ -77,19 +77,15 @@ class FluentEmojiGroupCodeCreator {
 
     for (var i = 0; i < emojiGroup.emojis.length; i++) {
       final emoji = emojiGroup.emojis[i];
-
-      switch (emoji) {
-        case SingleFluentEmoji():
-          writeFieldLine(emoji);
-          break;
-        case SkinToneFluentEmoji():
-          writeFieldLine(emoji.normal);
-          writeFieldLine(emoji.light, perfix: '_', subfix: 'Light');
-          writeFieldLine(emoji.mediumLight, perfix: '_', subfix: 'MediumLight');
-          writeFieldLine(emoji.medium, perfix: '_', subfix: 'Medium');
-          writeFieldLine(emoji.mediumDark, perfix: '_', subfix: 'MediumDark');
-          writeFieldLine(emoji.dark, perfix: '_', subfix: 'Dark');
-          break;
+      if (emoji is! SkinToneFluentEmoji) {
+        writeFieldLine(emoji);
+      } else {
+        writeFieldLine(emoji.normal);
+        writeFieldLine(emoji.light, perfix: '_', subfix: 'Light');
+        writeFieldLine(emoji.mediumLight, perfix: '_', subfix: 'MediumLight');
+        writeFieldLine(emoji.medium, perfix: '_', subfix: 'Medium');
+        writeFieldLine(emoji.mediumDark, perfix: '_', subfix: 'MediumDark');
+        writeFieldLine(emoji.dark, perfix: '_', subfix: 'Dark');
       }
     }
 
@@ -101,7 +97,7 @@ class FluentEmojiGroupCodeCreator {
   String _buildEmojiFields() {
     final buffer = StringBuffer();
 
-    void writeSingleFieldLine(SingleFluentEmoji emoji, {String? perfix, String? subfix}) {
+    void writeSingleFieldLine(FluentEmoji emoji, {String? perfix, String? subfix}) {
       var fieldName = emoji.nameLowerCase;
       if (perfix != null) {
         fieldName = perfix + fieldName;
@@ -124,9 +120,16 @@ class FluentEmojiGroupCodeCreator {
       buffer.writeln("    name: '${emoji.name}',");
       buffer.writeln("    glyph: '${emoji.glyph}',");
       buffer.writeln("    svgPath: '$assetsPath',");
+      buffer.writeln("    tts: '${emoji.tts}',");
+      buffer.writeln("    fromVersion: '${emoji.fromVersion}',");
+      buffer.writeln("    glyphAsUtfInEmoticons: ${emoji.glyphAsUtfInEmoticons?.toDartCodeString()},");
+      buffer.writeln("    keywords: ${emoji.keywords?.toDartCodeString()},");
+      buffer.writeln("    mappedToEmoticons: ${emoji.mappedToEmoticons?.toDartCodeString()},");
       buffer.writeln('    skinTone: FluentEmojiSkinTone.${skinTone},');
       buffer.writeln("  );");
     }
+
+    
 
     void writeSkinToneFieldLine(SkinToneFluentEmoji emoji) {
       final assetsPath = 'assets/${path.basename(emoji.normal.svg)}';
@@ -144,6 +147,11 @@ class FluentEmojiGroupCodeCreator {
       buffer.writeln("    name: '${emoji.normal.name}',");
       buffer.writeln("    glyph: '${emoji.normal.glyph}',");
       buffer.writeln("    svgPath: '$assetsPath',");
+      buffer.writeln("    tts: '${emoji.tts}',");
+      buffer.writeln("    fromVersion: '${emoji.fromVersion}',");
+      buffer.writeln("    glyphAsUtfInEmoticons: ${emoji.glyphAsUtfInEmoticons?.toDartCodeString()},");
+      buffer.writeln("    keywords: ${emoji.keywords?.toDartCodeString()},");
+      buffer.writeln("    mappedToEmoticons: ${emoji.mappedToEmoticons?.toDartCodeString()},");
       buffer.writeln('    skinToneLight: _${emoji.light.nameLowerCase}Light,');
       buffer.writeln('    skinToneMediumLight: _${emoji.mediumLight.nameLowerCase}MediumLight,');
       buffer.writeln('    skinToneMedium: _${emoji.medium.nameLowerCase}Medium,');
@@ -168,13 +176,10 @@ class FluentEmojiGroupCodeCreator {
       if (i > 0) {
         buffer.writeln();
       }
-      switch (emoji) {
-        case SingleFluentEmoji():
-          writeSingleFieldLine(emoji);
-          break;
-        case SkinToneFluentEmoji():
-          writeSkinToneFieldLine(emoji);
-          break;
+      if (emoji is! SkinToneFluentEmoji) {
+        writeSingleFieldLine(emoji);
+      } else {
+        writeSkinToneFieldLine(emoji);
       }
     }
 

@@ -179,6 +179,11 @@ class FluentEmojiAnimalsAndNature extends FluentEmojiGroup {
     name: 'T-Rex',
     glyph: '🦖',
     svgPath: 'assets/t-rex_color.svg',
+    tts: 'T-Rex',
+    fromVersion: '5.0',
+    glyphAsUtfInEmoticons: null,
+    keywords: ['T-Rex', 'Tyrannosaurus Rex'],
+    mappedToEmoticons: ['win10'],
     skinTone: FluentEmojiSkinTone.standard,
   );
 
@@ -189,6 +194,11 @@ class FluentEmojiAnimalsAndNature extends FluentEmojiGroup {
     name: 'ant',
     glyph: '🐜',
     svgPath: 'assets/ant_color.svg',
+    tts: 'ant',
+    fromVersion: '0.6',
+    glyphAsUtfInEmoticons: ['1f41c_ant'],
+    keywords: ['ant', 'insect'],
+    mappedToEmoticons: ['1f41c_ant'],
     skinTone: FluentEmojiSkinTone.standard,
   );
 
@@ -199,6 +209,11 @@ class FluentEmojiAnimalsAndNature extends FluentEmojiGroup {
     name: 'baby chick',
     glyph: '🐤',
     svgPath: 'assets/baby_chick_color.svg',
+    tts: 'baby chick',
+    fromVersion: '0.6',
+    glyphAsUtfInEmoticons: ['1f424_babychick'],
+    keywords: ['baby', 'bird', 'chick'],
+    mappedToEmoticons: ['1f424_babychick'],
     skinTone: FluentEmojiSkinTone.standard,
   );
 
@@ -209,6 +224,11 @@ class FluentEmojiAnimalsAndNature extends FluentEmojiGroup {
     name: 'badger',
     glyph: '🦡',
     svgPath: 'assets/badger_color.svg',
+    tts: 'badger',
+    fromVersion: '11.0',
+    glyphAsUtfInEmoticons: ['1f9a1_badger'],
+    keywords: ['badger', 'honey badger', 'pester'],
+    mappedToEmoticons: ['1f9a1_badger'],
     skinTone: FluentEmojiSkinTone.standard,
   );
 
@@ -219,6 +239,11 @@ class FluentEmojiAnimalsAndNature extends FluentEmojiGroup {
     name: 'bat',
     glyph: '🦇',
     svgPath: 'assets/bat_color.svg',
+    tts: 'bat',
+    fromVersion: '3.0',
+    glyphAsUtfInEmoticons: ['batsmile'],
+    keywords: ['bat', 'vampire'],
+    mappedToEmoticons: ['batsmile'],
     skinTone: FluentEmojiSkinTone.standard,
   );
 
@@ -229,6 +254,11 @@ class FluentEmojiAnimalsAndNature extends FluentEmojiGroup {
     name: 'bear',
     glyph: '🐻',
     svgPath: 'assets/bear_color.svg',
+    tts: 'bear',
+    fromVersion: '0.6',
+    glyphAsUtfInEmoticons: ['1f43b_bearface', 'polarbear'],
+    keywords: ['bear', 'face'],
+    mappedToEmoticons: ['1f43b_bearface'],
     skinTone: FluentEmojiSkinTone.standard,
   );
 
@@ -239,6 +269,11 @@ class FluentEmojiAnimalsAndNature extends FluentEmojiGroup {
     name: 'beaver',
     glyph: '🦫',
     svgPath: 'assets/beaver_color.svg',
+    tts: 'beaver',
+    fromVersion: '13.0',
+    glyphAsUtfInEmoticons: ['beaver'],
+    keywords: ['beaver', 'dam'],
+    mappedToEmoticons: ['beaver'],
     skinTone: FluentEmojiSkinTone.standard,
   );
 
@@ -249,6 +284,11 @@ class FluentEmojiAnimalsAndNature extends FluentEmojiGroup {
     name: 'beetle',
     glyph: '🪲',
     svgPath: 'assets/beetle_color.svg',
+    tts: 'beetle',
+    fromVersion: '13.0',
+    glyphAsUtfInEmoticons: ['beetle'],
+    keywords: ['beetle', 'bug', 'insect'],
+    mappedToEmoticons: ['beetle'],
     skinTone: FluentEmojiSkinTone.standard,
   );
 
@@ -259,6 +299,11 @@ class FluentEmojiAnimalsAndNature extends FluentEmojiGroup {
     name: 'bird',
     glyph: '🐦',
     svgPath: 'assets/bird_color.svg',
+    tts: 'bird',
+    fromVersion: '0.6',
+    glyphAsUtfInEmoticons: ['1f426_bird'],
+    keywords: ['bird'],
+    mappedToEmoticons: ['1f426_bird'],
     skinTone: FluentEmojiSkinTone.standard,
   );
 
@@ -269,6 +314,11 @@ class FluentEmojiAnimalsAndNature extends FluentEmojiGroup {
     name: 'bison',
     glyph: '🦬',
     svgPath: 'assets/bison_color.svg',
+    tts: 'bison',
+    fromVersion: '13.0',
+    glyphAsUtfInEmoticons: ['bison'],
+    keywords: ['bison', 'buffalo', 'herd', 'wisent'],
+    mappedToEmoticons: ['bison'],
     skinTone: FluentEmojiSkinTone.standard,
   );
 
@@ -279,6 +329,11 @@ class FluentEmojiAnimalsAndNature extends FluentEmojiGroup {
     name: 'black bird',
     glyph: '🐦‍⬛',
     svgPath: 'assets/blackbird_color.svg',
+    tts: 'black bird',
+    fromVersion: '15.0',
+    glyphAsUtfInEmoticons: ['birdblack'],
+    keywords: ['bird', 'black', 'crow', 'raven', 'rook'],
+    mappedToEmoticons: ['birdblack'],
     skinTone: FluentEmojiSkinTone.standard,
   );
 
@@ -289,6 +344,11 @@ class FluentEmojiAnimalsAndNature extends FluentEmojiGroup {
     name: 'black cat',
     glyph: '🐈‍⬛',
     svgPath: 'assets/black_cat_color.svg',
+    tts: 'black cat',
+    fromVersion: '13.0',
+    glyphAsUtfInEmoticons: ['blackcat'],
+    keywords: ['black', 'cat', 'unlucky'],
+    mappedToEmoticons: ['blackcat'],
     skinTone: FluentEmojiSkinTone.standard,
   );
 
@@ -299,6 +359,11 @@ class FluentEmojiAnimalsAndNature extends FluentEmojiGroup {
     name: 'blossom',
     glyph: '🌼',
     svgPath: 'assets/blossom_color.svg',
+    tts: 'blossom',
+    fromVersion: '0.6',
+    glyphAsUtfInEmoticons: ['flower'],
+    keywords: ['blossom', 'flower'],
+    mappedToEmoticons: ['flower'],
     skinTone: FluentEmojiSkinTone.standard,
   );
 
@@ -309,6 +374,11 @@ class FluentEmojiAnimalsAndNature extends FluentEmojiGroup {
     name: 'blowfish',
     glyph: '🐡',
     svgPath: 'assets/blowfish_color.svg',
+    tts: 'blowfish',
+    fromVersion: '0.6',
+    glyphAsUtfInEmoticons: ['1f421_blowfish'],
+    keywords: ['blowfish', 'fish'],
+    mappedToEmoticons: ['1f421_blowfish'],
     skinTone: FluentEmojiSkinTone.standard,
   );
 
@@ -319,6 +389,11 @@ class FluentEmojiAnimalsAndNature extends FluentEmojiGroup {
     name: 'boar',
     glyph: '🐗',
     svgPath: 'assets/boar_color.svg',
+    tts: 'boar',
+    fromVersion: '0.6',
+    glyphAsUtfInEmoticons: ['1f417_boar'],
+    keywords: ['boar', 'pig'],
+    mappedToEmoticons: ['1f417_boar'],
     skinTone: FluentEmojiSkinTone.standard,
   );
 
@@ -329,6 +404,11 @@ class FluentEmojiAnimalsAndNature extends FluentEmojiGroup {
     name: 'bouquet',
     glyph: '💐',
     svgPath: 'assets/bouquet_color.svg',
+    tts: 'bouquet',
+    fromVersion: '0.6',
+    glyphAsUtfInEmoticons: ['1f490_bouquet'],
+    keywords: ['bouquet', 'flower'],
+    mappedToEmoticons: ['1f490_bouquet'],
     skinTone: FluentEmojiSkinTone.standard,
   );
 
@@ -339,6 +419,11 @@ class FluentEmojiAnimalsAndNature extends FluentEmojiGroup {
     name: 'bug',
     glyph: '🐛',
     svgPath: 'assets/bug_color.svg',
+    tts: 'bug',
+    fromVersion: '0.6',
+    glyphAsUtfInEmoticons: ['bug'],
+    keywords: ['bug', 'insect'],
+    mappedToEmoticons: ['bug'],
     skinTone: FluentEmojiSkinTone.standard,
   );
 
@@ -349,6 +434,11 @@ class FluentEmojiAnimalsAndNature extends FluentEmojiGroup {
     name: 'butterfly',
     glyph: '🦋',
     svgPath: 'assets/butterfly_color.svg',
+    tts: 'butterfly',
+    fromVersion: '3.0',
+    glyphAsUtfInEmoticons: ['butterfly'],
+    keywords: ['butterfly', 'insect', 'pretty'],
+    mappedToEmoticons: ['butterfly'],
     skinTone: FluentEmojiSkinTone.standard,
   );
 
@@ -359,6 +449,11 @@ class FluentEmojiAnimalsAndNature extends FluentEmojiGroup {
     name: 'cactus',
     glyph: '🌵',
     svgPath: 'assets/cactus_color.svg',
+    tts: 'cactus',
+    fromVersion: '0.6',
+    glyphAsUtfInEmoticons: ['cactus', 'desert'],
+    keywords: ['cactus', 'plant'],
+    mappedToEmoticons: ['cactus'],
     skinTone: FluentEmojiSkinTone.standard,
   );
 
@@ -369,6 +464,11 @@ class FluentEmojiAnimalsAndNature extends FluentEmojiGroup {
     name: 'camel',
     glyph: '🐪',
     svgPath: 'assets/camel_color.svg',
+    tts: 'camel',
+    fromVersion: '1.0',
+    glyphAsUtfInEmoticons: ['1f42a_dromedarycamel'],
+    keywords: ['camel', 'dromedary', 'hump'],
+    mappedToEmoticons: ['1f42a_dromedarycamel'],
     skinTone: FluentEmojiSkinTone.standard,
   );
 
@@ -379,6 +479,11 @@ class FluentEmojiAnimalsAndNature extends FluentEmojiGroup {
     name: 'cat',
     glyph: '🐈',
     svgPath: 'assets/cat_color.svg',
+    tts: 'cat',
+    fromVersion: '0.7',
+    glyphAsUtfInEmoticons: ['cat'],
+    keywords: ['cat', 'pet'],
+    mappedToEmoticons: ['cat'],
     skinTone: FluentEmojiSkinTone.standard,
   );
 
@@ -389,6 +494,11 @@ class FluentEmojiAnimalsAndNature extends FluentEmojiGroup {
     name: 'cat face',
     glyph: '🐱',
     svgPath: 'assets/cat_face_color.svg',
+    tts: 'cat face',
+    fromVersion: '0.6',
+    glyphAsUtfInEmoticons: null,
+    keywords: ['cat', 'face', 'pet'],
+    mappedToEmoticons: null,
     skinTone: FluentEmojiSkinTone.standard,
   );
 
@@ -399,6 +509,11 @@ class FluentEmojiAnimalsAndNature extends FluentEmojiGroup {
     name: 'cherry blossom',
     glyph: '🌸',
     svgPath: 'assets/cherry_blossom_color.svg',
+    tts: 'cherry blossom',
+    fromVersion: '0.6',
+    glyphAsUtfInEmoticons: ['cherryblossom'],
+    keywords: ['blossom', 'cherry', 'flower'],
+    mappedToEmoticons: ['cherryblossom'],
     skinTone: FluentEmojiSkinTone.standard,
   );
 
@@ -409,6 +524,11 @@ class FluentEmojiAnimalsAndNature extends FluentEmojiGroup {
     name: 'chicken',
     glyph: '🐔',
     svgPath: 'assets/chicken_color.svg',
+    tts: 'chicken',
+    fromVersion: '0.6',
+    glyphAsUtfInEmoticons: ['1f414_chicken', 'yotfr'],
+    keywords: ['bird', 'chicken'],
+    mappedToEmoticons: ['1f414_chicken'],
     skinTone: FluentEmojiSkinTone.standard,
   );
 
@@ -419,6 +539,11 @@ class FluentEmojiAnimalsAndNature extends FluentEmojiGroup {
     name: 'chipmunk',
     glyph: '🐿️',
     svgPath: 'assets/chipmunk_color.svg',
+    tts: 'chipmunk',
+    fromVersion: '0.7',
+    glyphAsUtfInEmoticons: null,
+    keywords: ['chipmunk', 'squirrel'],
+    mappedToEmoticons: ['1f43f_chipmunk'],
     skinTone: FluentEmojiSkinTone.standard,
   );
 
@@ -429,6 +554,11 @@ class FluentEmojiAnimalsAndNature extends FluentEmojiGroup {
     name: 'cockroach',
     glyph: '🪳',
     svgPath: 'assets/cockroach_color.svg',
+    tts: 'cockroach',
+    fromVersion: '13.0',
+    glyphAsUtfInEmoticons: ['cockroach'],
+    keywords: ['cockroach', 'insect', 'pest', 'roach'],
+    mappedToEmoticons: ['cockroach'],
     skinTone: FluentEmojiSkinTone.standard,
   );
 
@@ -439,6 +569,11 @@ class FluentEmojiAnimalsAndNature extends FluentEmojiGroup {
     name: 'coral',
     glyph: '🪸',
     svgPath: 'assets/coral_color.svg',
+    tts: 'coral',
+    fromVersion: '14.0',
+    glyphAsUtfInEmoticons: null,
+    keywords: ['coral', 'ocean', 'reef'],
+    mappedToEmoticons: null,
     skinTone: FluentEmojiSkinTone.standard,
   );
 
@@ -449,6 +584,11 @@ class FluentEmojiAnimalsAndNature extends FluentEmojiGroup {
     name: 'cow',
     glyph: '🐄',
     svgPath: 'assets/cow_color.svg',
+    tts: 'cow',
+    fromVersion: '1.0',
+    glyphAsUtfInEmoticons: ['1f404_cow'],
+    keywords: ['cow'],
+    mappedToEmoticons: ['1f404_cow'],
     skinTone: FluentEmojiSkinTone.standard,
   );
 
@@ -459,6 +599,11 @@ class FluentEmojiAnimalsAndNature extends FluentEmojiGroup {
     name: 'cow face',
     glyph: '🐮',
     svgPath: 'assets/cow_face_color.svg',
+    tts: 'cow face',
+    fromVersion: '0.6',
+    glyphAsUtfInEmoticons: ['1f42e_cowface'],
+    keywords: ['cow', 'face'],
+    mappedToEmoticons: ['1f42e_cowface'],
     skinTone: FluentEmojiSkinTone.standard,
   );
 
@@ -469,6 +614,11 @@ class FluentEmojiAnimalsAndNature extends FluentEmojiGroup {
     name: 'cricket',
     glyph: '🦗',
     svgPath: 'assets/cricket_color.svg',
+    tts: 'cricket',
+    fromVersion: '5.0',
+    glyphAsUtfInEmoticons: ['cricket'],
+    keywords: ['cricket', 'grasshopper'],
+    mappedToEmoticons: ['cricket'],
     skinTone: FluentEmojiSkinTone.standard,
   );
 
@@ -479,6 +629,11 @@ class FluentEmojiAnimalsAndNature extends FluentEmojiGroup {
     name: 'crocodile',
     glyph: '🐊',
     svgPath: 'assets/crocodile_color.svg',
+    tts: 'crocodile',
+    fromVersion: '1.0',
+    glyphAsUtfInEmoticons: ['1f40a_crocodile'],
+    keywords: ['crocodile'],
+    mappedToEmoticons: ['1f40a_crocodile'],
     skinTone: FluentEmojiSkinTone.standard,
   );
 
@@ -489,6 +644,11 @@ class FluentEmojiAnimalsAndNature extends FluentEmojiGroup {
     name: 'deciduous tree',
     glyph: '🌳',
     svgPath: 'assets/deciduous_tree_color.svg',
+    tts: 'deciduous tree',
+    fromVersion: '1.0',
+    glyphAsUtfInEmoticons: ['deciduoustree'],
+    keywords: ['deciduous', 'shedding', 'tree'],
+    mappedToEmoticons: ['deciduoustree'],
     skinTone: FluentEmojiSkinTone.standard,
   );
 
@@ -499,6 +659,11 @@ class FluentEmojiAnimalsAndNature extends FluentEmojiGroup {
     name: 'deer',
     glyph: '🦌',
     svgPath: 'assets/deer_color.svg',
+    tts: 'deer',
+    fromVersion: '3.0',
+    glyphAsUtfInEmoticons: ['reindeer'],
+    keywords: ['deer'],
+    mappedToEmoticons: ['reindeer'],
     skinTone: FluentEmojiSkinTone.standard,
   );
 
@@ -509,6 +674,11 @@ class FluentEmojiAnimalsAndNature extends FluentEmojiGroup {
     name: 'dodo',
     glyph: '🦤',
     svgPath: 'assets/dodo_color.svg',
+    tts: 'dodo',
+    fromVersion: '13.0',
+    glyphAsUtfInEmoticons: ['dodo'],
+    keywords: ['dodo', 'extinction', 'large', 'Mauritius'],
+    mappedToEmoticons: ['dodo'],
     skinTone: FluentEmojiSkinTone.standard,
   );
 
@@ -519,6 +689,11 @@ class FluentEmojiAnimalsAndNature extends FluentEmojiGroup {
     name: 'dog',
     glyph: '🐕',
     svgPath: 'assets/dog_color.svg',
+    tts: 'dog',
+    fromVersion: '0.7',
+    glyphAsUtfInEmoticons: ['1f415_200d_1f9ba_servicedog', 'dog'],
+    keywords: ['dog', 'pet'],
+    mappedToEmoticons: ['dog'],
     skinTone: FluentEmojiSkinTone.standard,
   );
 
@@ -529,6 +704,11 @@ class FluentEmojiAnimalsAndNature extends FluentEmojiGroup {
     name: 'dog face',
     glyph: '🐶',
     svgPath: 'assets/dog_face_color.svg',
+    tts: 'dog face',
+    fromVersion: '0.6',
+    glyphAsUtfInEmoticons: null,
+    keywords: ['dog', 'face', 'pet'],
+    mappedToEmoticons: ['smiledog'],
     skinTone: FluentEmojiSkinTone.standard,
   );
 
@@ -539,6 +719,11 @@ class FluentEmojiAnimalsAndNature extends FluentEmojiGroup {
     name: 'dolphin',
     glyph: '🐬',
     svgPath: 'assets/dolphin_color.svg',
+    tts: 'dolphin',
+    fromVersion: '0.6',
+    glyphAsUtfInEmoticons: ['dolphin'],
+    keywords: ['dolphin', 'flipper'],
+    mappedToEmoticons: ['dolphin'],
     skinTone: FluentEmojiSkinTone.standard,
   );
 
@@ -549,6 +734,11 @@ class FluentEmojiAnimalsAndNature extends FluentEmojiGroup {
     name: 'donkey',
     glyph: '🫏',
     svgPath: 'assets/donkey_color.svg',
+    tts: 'donkey',
+    fromVersion: '15.0',
+    glyphAsUtfInEmoticons: ['donkey'],
+    keywords: ['animal', 'ass', 'burro', 'donkey', 'mammal', 'mule', 'stubborn'],
+    mappedToEmoticons: ['donkey'],
     skinTone: FluentEmojiSkinTone.standard,
   );
 
@@ -559,6 +749,11 @@ class FluentEmojiAnimalsAndNature extends FluentEmojiGroup {
     name: 'dove',
     glyph: '🕊️',
     svgPath: 'assets/dove_color.svg',
+    tts: 'dove',
+    fromVersion: '0.7',
+    glyphAsUtfInEmoticons: null,
+    keywords: ['bird', 'dove', 'fly', 'peace'],
+    mappedToEmoticons: ['1f54a_doveofpeace'],
     skinTone: FluentEmojiSkinTone.standard,
   );
 
@@ -569,6 +764,11 @@ class FluentEmojiAnimalsAndNature extends FluentEmojiGroup {
     name: 'dragon',
     glyph: '🐉',
     svgPath: 'assets/dragon_color.svg',
+    tts: 'dragon',
+    fromVersion: '1.0',
+    glyphAsUtfInEmoticons: ['1f409_dragon'],
+    keywords: ['dragon', 'fairy tale'],
+    mappedToEmoticons: ['1f409_dragon'],
     skinTone: FluentEmojiSkinTone.standard,
   );
 
@@ -579,6 +779,11 @@ class FluentEmojiAnimalsAndNature extends FluentEmojiGroup {
     name: 'dragon face',
     glyph: '🐲',
     svgPath: 'assets/dragon_face_color.svg',
+    tts: 'dragon face',
+    fromVersion: '0.6',
+    glyphAsUtfInEmoticons: ['1f432_dragonface'],
+    keywords: ['dragon', 'face', 'fairy tale'],
+    mappedToEmoticons: ['1f432_dragonface'],
     skinTone: FluentEmojiSkinTone.standard,
   );
 
@@ -589,6 +794,11 @@ class FluentEmojiAnimalsAndNature extends FluentEmojiGroup {
     name: 'duck',
     glyph: '🦆',
     svgPath: 'assets/duck_color.svg',
+    tts: 'duck',
+    fromVersion: '3.0',
+    glyphAsUtfInEmoticons: ['1f986_duck'],
+    keywords: ['bird', 'duck'],
+    mappedToEmoticons: ['1f986_duck'],
     skinTone: FluentEmojiSkinTone.standard,
   );
 
@@ -599,6 +809,11 @@ class FluentEmojiAnimalsAndNature extends FluentEmojiGroup {
     name: 'eagle',
     glyph: '🦅',
     svgPath: 'assets/eagle_color.svg',
+    tts: 'eagle',
+    fromVersion: '3.0',
+    glyphAsUtfInEmoticons: ['1f985_eagle'],
+    keywords: ['bird', 'eagle'],
+    mappedToEmoticons: ['1f985_eagle'],
     skinTone: FluentEmojiSkinTone.standard,
   );
 
@@ -609,6 +824,11 @@ class FluentEmojiAnimalsAndNature extends FluentEmojiGroup {
     name: 'elephant',
     glyph: '🐘',
     svgPath: 'assets/elephant_color.svg',
+    tts: 'elephant',
+    fromVersion: '0.6',
+    glyphAsUtfInEmoticons: ['elephant'],
+    keywords: ['elephant'],
+    mappedToEmoticons: ['elephant'],
     skinTone: FluentEmojiSkinTone.standard,
   );
 
@@ -619,6 +839,11 @@ class FluentEmojiAnimalsAndNature extends FluentEmojiGroup {
     name: 'empty nest',
     glyph: '🪹',
     svgPath: 'assets/empty_nest_color.svg',
+    tts: 'empty nest',
+    fromVersion: '14.0',
+    glyphAsUtfInEmoticons: null,
+    keywords: ['empty nest', 'nesting'],
+    mappedToEmoticons: null,
     skinTone: FluentEmojiSkinTone.standard,
   );
 
@@ -629,6 +854,11 @@ class FluentEmojiAnimalsAndNature extends FluentEmojiGroup {
     name: 'evergreen tree',
     glyph: '🌲',
     svgPath: 'assets/evergreen_tree_color.svg',
+    tts: 'evergreen tree',
+    fromVersion: '1.0',
+    glyphAsUtfInEmoticons: ['evergreentree'],
+    keywords: ['evergreen tree', 'tree'],
+    mappedToEmoticons: ['evergreentree'],
     skinTone: FluentEmojiSkinTone.standard,
   );
 
@@ -639,6 +869,11 @@ class FluentEmojiAnimalsAndNature extends FluentEmojiGroup {
     name: 'ewe',
     glyph: '🐑',
     svgPath: 'assets/ewe_color.svg',
+    tts: 'ewe',
+    fromVersion: '0.6',
+    glyphAsUtfInEmoticons: ['lamb'],
+    keywords: ['ewe', 'female', 'sheep'],
+    mappedToEmoticons: ['lamb'],
     skinTone: FluentEmojiSkinTone.standard,
   );
 
@@ -649,6 +884,11 @@ class FluentEmojiAnimalsAndNature extends FluentEmojiGroup {
     name: 'fallen leaf',
     glyph: '🍂',
     svgPath: 'assets/fallen_leaf_color.svg',
+    tts: 'fallen leaf',
+    fromVersion: '0.6',
+    glyphAsUtfInEmoticons: ['1f342_fallenleaf', 'fallingleaf'],
+    keywords: ['fallen leaf', 'falling', 'leaf'],
+    mappedToEmoticons: ['1f342_fallenleaf'],
     skinTone: FluentEmojiSkinTone.standard,
   );
 
@@ -659,6 +899,11 @@ class FluentEmojiAnimalsAndNature extends FluentEmojiGroup {
     name: 'feather',
     glyph: '🪶',
     svgPath: 'assets/feather_color.svg',
+    tts: 'feather',
+    fromVersion: '13.0',
+    glyphAsUtfInEmoticons: ['feather'],
+    keywords: ['bird', 'feather', 'flight', 'light', 'plumage'],
+    mappedToEmoticons: ['feather'],
     skinTone: FluentEmojiSkinTone.standard,
   );
 
@@ -669,6 +914,11 @@ class FluentEmojiAnimalsAndNature extends FluentEmojiGroup {
     name: 'fish',
     glyph: '🐟',
     svgPath: 'assets/fish_color.svg',
+    tts: 'fish',
+    fromVersion: '0.6',
+    glyphAsUtfInEmoticons: ['fish'],
+    keywords: ['fish', 'Pisces', 'zodiac'],
+    mappedToEmoticons: ['fish'],
     skinTone: FluentEmojiSkinTone.standard,
   );
 
@@ -679,6 +929,11 @@ class FluentEmojiAnimalsAndNature extends FluentEmojiGroup {
     name: 'flamingo',
     glyph: '🦩',
     svgPath: 'assets/flamingo_color.svg',
+    tts: 'flamingo',
+    fromVersion: '12.0',
+    glyphAsUtfInEmoticons: ['1f9a9_flamingo'],
+    keywords: ['flamboyant', 'flamingo', 'tropical'],
+    mappedToEmoticons: ['1f9a9_flamingo'],
     skinTone: FluentEmojiSkinTone.standard,
   );
 
@@ -689,6 +944,11 @@ class FluentEmojiAnimalsAndNature extends FluentEmojiGroup {
     name: 'fly',
     glyph: '🪰',
     svgPath: 'assets/fly_color.svg',
+    tts: 'fly',
+    fromVersion: '13.0',
+    glyphAsUtfInEmoticons: ['fly'],
+    keywords: ['disease', 'fly', 'maggot', 'pest', 'rotting'],
+    mappedToEmoticons: ['fly'],
     skinTone: FluentEmojiSkinTone.standard,
   );
 
@@ -699,6 +959,11 @@ class FluentEmojiAnimalsAndNature extends FluentEmojiGroup {
     name: 'four leaf clover',
     glyph: '🍀',
     svgPath: 'assets/four_leaf_clover_color.svg',
+    tts: 'four leaf clover',
+    fromVersion: '0.6',
+    glyphAsUtfInEmoticons: ['goodluck'],
+    keywords: ['4', 'clover', 'four', 'four-leaf clover', 'leaf'],
+    mappedToEmoticons: ['goodluck'],
     skinTone: FluentEmojiSkinTone.standard,
   );
 
@@ -709,6 +974,11 @@ class FluentEmojiAnimalsAndNature extends FluentEmojiGroup {
     name: 'fox',
     glyph: '🦊',
     svgPath: 'assets/fox_color.svg',
+    tts: 'fox',
+    fromVersion: '3.0',
+    glyphAsUtfInEmoticons: ['foxhug'],
+    keywords: ['face', 'fox'],
+    mappedToEmoticons: ['foxhug'],
     skinTone: FluentEmojiSkinTone.standard,
   );
 
@@ -719,6 +989,11 @@ class FluentEmojiAnimalsAndNature extends FluentEmojiGroup {
     name: 'frog',
     glyph: '🐸',
     svgPath: 'assets/frog_color.svg',
+    tts: 'frog',
+    fromVersion: '0.6',
+    glyphAsUtfInEmoticons: ['1f438_frogface'],
+    keywords: ['face', 'frog'],
+    mappedToEmoticons: ['1f438_frogface'],
     skinTone: FluentEmojiSkinTone.standard,
   );
 
@@ -729,6 +1004,11 @@ class FluentEmojiAnimalsAndNature extends FluentEmojiGroup {
     name: 'front-facing baby chick',
     glyph: '🐥',
     svgPath: 'assets/front-facing_baby_chick_color.svg',
+    tts: 'front-facing baby chick',
+    fromVersion: '0.6',
+    glyphAsUtfInEmoticons: ['1f425_frontfacingbabychick'],
+    keywords: ['baby', 'bird', 'chick', 'front-facing baby chick'],
+    mappedToEmoticons: ['1f425_frontfacingbabychick'],
     skinTone: FluentEmojiSkinTone.standard,
   );
 
@@ -739,6 +1019,11 @@ class FluentEmojiAnimalsAndNature extends FluentEmojiGroup {
     name: 'giraffe',
     glyph: '🦒',
     svgPath: 'assets/giraffe_color.svg',
+    tts: 'giraffe',
+    fromVersion: '5.0',
+    glyphAsUtfInEmoticons: ['1f992_giraffe', '1f992_giraffeface'],
+    keywords: ['giraffe', 'spots'],
+    mappedToEmoticons: ['1f992_giraffeface'],
     skinTone: FluentEmojiSkinTone.standard,
   );
 
@@ -749,6 +1034,11 @@ class FluentEmojiAnimalsAndNature extends FluentEmojiGroup {
     name: 'goat',
     glyph: '🐐',
     svgPath: 'assets/goat_color.svg',
+    tts: 'goat',
+    fromVersion: '1.0',
+    glyphAsUtfInEmoticons: ['1f410_goat'],
+    keywords: ['Capricorn', 'goat', 'zodiac'],
+    mappedToEmoticons: ['1f410_goat'],
     skinTone: FluentEmojiSkinTone.standard,
   );
 
@@ -759,6 +1049,11 @@ class FluentEmojiAnimalsAndNature extends FluentEmojiGroup {
     name: 'goose',
     glyph: '🪿',
     svgPath: 'assets/goose_color.svg',
+    tts: 'goose',
+    fromVersion: '15.0',
+    glyphAsUtfInEmoticons: ['goose'],
+    keywords: ['bird', 'fowl', 'goose', 'honk', 'silly'],
+    mappedToEmoticons: ['goose'],
     skinTone: FluentEmojiSkinTone.standard,
   );
 
@@ -769,6 +1064,11 @@ class FluentEmojiAnimalsAndNature extends FluentEmojiGroup {
     name: 'gorilla',
     glyph: '🦍',
     svgPath: 'assets/gorilla_color.svg',
+    tts: 'gorilla',
+    fromVersion: '3.0',
+    glyphAsUtfInEmoticons: ['1f98d_gorilla'],
+    keywords: ['gorilla'],
+    mappedToEmoticons: ['1f98d_gorilla'],
     skinTone: FluentEmojiSkinTone.standard,
   );
 
@@ -779,6 +1079,11 @@ class FluentEmojiAnimalsAndNature extends FluentEmojiGroup {
     name: 'guide dog',
     glyph: '🦮',
     svgPath: 'assets/guide_dog_color.svg',
+    tts: 'guide dog',
+    fromVersion: '12.0',
+    glyphAsUtfInEmoticons: ['1f9ae_guidedog'],
+    keywords: ['accessibility', 'blind', 'guide', 'guide dog'],
+    mappedToEmoticons: ['1f9ae_guidedog'],
     skinTone: FluentEmojiSkinTone.standard,
   );
 
@@ -789,6 +1094,11 @@ class FluentEmojiAnimalsAndNature extends FluentEmojiGroup {
     name: 'hamster',
     glyph: '🐹',
     svgPath: 'assets/hamster_color.svg',
+    tts: 'hamster',
+    fromVersion: '0.6',
+    glyphAsUtfInEmoticons: ['1f439_hamsterface'],
+    keywords: ['face', 'hamster', 'pet'],
+    mappedToEmoticons: ['1f439_hamsterface'],
     skinTone: FluentEmojiSkinTone.standard,
   );
 
@@ -799,6 +1109,11 @@ class FluentEmojiAnimalsAndNature extends FluentEmojiGroup {
     name: 'hatching chick',
     glyph: '🐣',
     svgPath: 'assets/hatching_chick_color.svg',
+    tts: 'hatching chick',
+    fromVersion: '0.6',
+    glyphAsUtfInEmoticons: ['1f423_hatchingchick'],
+    keywords: ['baby', 'bird', 'chick', 'hatching'],
+    mappedToEmoticons: ['1f423_hatchingchick'],
     skinTone: FluentEmojiSkinTone.standard,
   );
 
@@ -809,6 +1124,11 @@ class FluentEmojiAnimalsAndNature extends FluentEmojiGroup {
     name: 'hedgehog',
     glyph: '🦔',
     svgPath: 'assets/hedgehog_color.svg',
+    tts: 'hedgehog',
+    fromVersion: '5.0',
+    glyphAsUtfInEmoticons: ['hedgehog'],
+    keywords: ['hedgehog', 'spiny'],
+    mappedToEmoticons: ['hedgehoghug'],
     skinTone: FluentEmojiSkinTone.standard,
   );
 
@@ -819,6 +1139,11 @@ class FluentEmojiAnimalsAndNature extends FluentEmojiGroup {
     name: 'herb',
     glyph: '🌿',
     svgPath: 'assets/herb_color.svg',
+    tts: 'herb',
+    fromVersion: '0.6',
+    glyphAsUtfInEmoticons: ['1f33f_herb'],
+    keywords: ['herb', 'leaf'],
+    mappedToEmoticons: ['1f33f_herb'],
     skinTone: FluentEmojiSkinTone.standard,
   );
 
@@ -829,6 +1154,11 @@ class FluentEmojiAnimalsAndNature extends FluentEmojiGroup {
     name: 'hibiscus',
     glyph: '🌺',
     svgPath: 'assets/hibiscus_color.svg',
+    tts: 'hibiscus',
+    fromVersion: '0.6',
+    glyphAsUtfInEmoticons: ['1f33a_hibiscus'],
+    keywords: ['flower', 'hibiscus'],
+    mappedToEmoticons: ['1f33a_hibiscus'],
     skinTone: FluentEmojiSkinTone.standard,
   );
 
@@ -839,6 +1169,11 @@ class FluentEmojiAnimalsAndNature extends FluentEmojiGroup {
     name: 'hippopotamus',
     glyph: '🦛',
     svgPath: 'assets/hippopotamus_color.svg',
+    tts: 'hippopotamus',
+    fromVersion: '11.0',
+    glyphAsUtfInEmoticons: ['1f99b_hippopotamus'],
+    keywords: ['hippo', 'hippopotamus'],
+    mappedToEmoticons: ['1f99b_hippopotamus'],
     skinTone: FluentEmojiSkinTone.standard,
   );
 
@@ -849,6 +1184,11 @@ class FluentEmojiAnimalsAndNature extends FluentEmojiGroup {
     name: 'honeybee',
     glyph: '🐝',
     svgPath: 'assets/honeybee_color.svg',
+    tts: 'honeybee',
+    fromVersion: '0.6',
+    glyphAsUtfInEmoticons: ['bee'],
+    keywords: ['bee', 'honeybee', 'insect'],
+    mappedToEmoticons: ['bee'],
     skinTone: FluentEmojiSkinTone.standard,
   );
 
@@ -859,6 +1199,11 @@ class FluentEmojiAnimalsAndNature extends FluentEmojiGroup {
     name: 'horse',
     glyph: '🐎',
     svgPath: 'assets/horse_color.svg',
+    tts: 'horse',
+    fromVersion: '0.6',
+    glyphAsUtfInEmoticons: ['1f40e_horse'],
+    keywords: ['equestrian', 'horse', 'racehorse', 'racing'],
+    mappedToEmoticons: ['1f40e_horse'],
     skinTone: FluentEmojiSkinTone.standard,
   );
 
@@ -869,6 +1214,11 @@ class FluentEmojiAnimalsAndNature extends FluentEmojiGroup {
     name: 'horse face',
     glyph: '🐴',
     svgPath: 'assets/horse_face_color.svg',
+    tts: 'horse face',
+    fromVersion: '0.6',
+    glyphAsUtfInEmoticons: ['1f434_horseface'],
+    keywords: ['face', 'horse'],
+    mappedToEmoticons: ['1f434_horseface'],
     skinTone: FluentEmojiSkinTone.standard,
   );
 
@@ -879,6 +1229,11 @@ class FluentEmojiAnimalsAndNature extends FluentEmojiGroup {
     name: 'hyacinth',
     glyph: '🪻',
     svgPath: 'assets/hyacinth_color.svg',
+    tts: 'hyacinth',
+    fromVersion: '15.0',
+    glyphAsUtfInEmoticons: ['hyacinth'],
+    keywords: ['bluebonnet', 'flower', 'hyacinth', 'lavender', 'lupine', 'snapdragon'],
+    mappedToEmoticons: ['hyacinth'],
     skinTone: FluentEmojiSkinTone.standard,
   );
 
@@ -889,6 +1244,11 @@ class FluentEmojiAnimalsAndNature extends FluentEmojiGroup {
     name: 'jellyfish',
     glyph: '🪼',
     svgPath: 'assets/jellyfish_color.svg',
+    tts: 'jellyfish',
+    fromVersion: '15.0',
+    glyphAsUtfInEmoticons: ['jellyfish'],
+    keywords: ['burn', 'invertebrate', 'jelly', 'jellyfish', 'marine', 'ouch', 'stinger'],
+    mappedToEmoticons: ['jellyfish'],
     skinTone: FluentEmojiSkinTone.standard,
   );
 
@@ -899,6 +1259,11 @@ class FluentEmojiAnimalsAndNature extends FluentEmojiGroup {
     name: 'kangaroo',
     glyph: '🦘',
     svgPath: 'assets/kangaroo_color.svg',
+    tts: 'kangaroo',
+    fromVersion: '11.0',
+    glyphAsUtfInEmoticons: ['1f998_kangaroo'],
+    keywords: ['Australia', 'joey', 'jump', 'kangaroo', 'marsupial'],
+    mappedToEmoticons: ['1f998_kangaroo'],
     skinTone: FluentEmojiSkinTone.standard,
   );
 
@@ -909,6 +1274,11 @@ class FluentEmojiAnimalsAndNature extends FluentEmojiGroup {
     name: 'koala',
     glyph: '🐨',
     svgPath: 'assets/koala_color.svg',
+    tts: 'koala',
+    fromVersion: '0.6',
+    glyphAsUtfInEmoticons: ['koala'],
+    keywords: ['koala', 'face', 'marsupial'],
+    mappedToEmoticons: ['koala'],
     skinTone: FluentEmojiSkinTone.standard,
   );
 
@@ -919,6 +1289,11 @@ class FluentEmojiAnimalsAndNature extends FluentEmojiGroup {
     name: 'lady beetle',
     glyph: '🐞',
     svgPath: 'assets/lady_beetle_color.svg',
+    tts: 'lady beetle',
+    fromVersion: '0.6',
+    glyphAsUtfInEmoticons: ['1f41e_ladybeetle'],
+    keywords: ['beetle', 'insect', 'lady beetle', 'ladybird', 'ladybug'],
+    mappedToEmoticons: ['1f41e_ladybeetle'],
     skinTone: FluentEmojiSkinTone.standard,
   );
 
@@ -929,6 +1304,11 @@ class FluentEmojiAnimalsAndNature extends FluentEmojiGroup {
     name: 'leaf fluttering in wind',
     glyph: '🍃',
     svgPath: 'assets/leaf_fluttering_in_wind_color.svg',
+    tts: 'leaf fluttering in wind',
+    fromVersion: '0.6',
+    glyphAsUtfInEmoticons: null,
+    keywords: ['blow', 'flutter', 'leaf', 'leaf fluttering in wind', 'wind'],
+    mappedToEmoticons: ['fallingleaf'],
     skinTone: FluentEmojiSkinTone.standard,
   );
 
@@ -939,6 +1319,11 @@ class FluentEmojiAnimalsAndNature extends FluentEmojiGroup {
     name: 'leopard',
     glyph: '🐆',
     svgPath: 'assets/leopard_color.svg',
+    tts: 'leopard',
+    fromVersion: '1.0',
+    glyphAsUtfInEmoticons: ['1f406_leopard'],
+    keywords: ['leopard'],
+    mappedToEmoticons: ['1f406_leopard'],
     skinTone: FluentEmojiSkinTone.standard,
   );
 
@@ -949,6 +1334,11 @@ class FluentEmojiAnimalsAndNature extends FluentEmojiGroup {
     name: 'lion',
     glyph: '🦁',
     svgPath: 'assets/lion_color.svg',
+    tts: 'lion',
+    fromVersion: '1.0',
+    glyphAsUtfInEmoticons: ['lion'],
+    keywords: ['face', 'Leo', 'lion', 'zodiac'],
+    mappedToEmoticons: ['lion'],
     skinTone: FluentEmojiSkinTone.standard,
   );
 
@@ -959,6 +1349,11 @@ class FluentEmojiAnimalsAndNature extends FluentEmojiGroup {
     name: 'lizard',
     glyph: '🦎',
     svgPath: 'assets/lizard_color.svg',
+    tts: 'lizard',
+    fromVersion: '3.0',
+    glyphAsUtfInEmoticons: ['lizard'],
+    keywords: ['lizard', 'reptile'],
+    mappedToEmoticons: ['lizard'],
     skinTone: FluentEmojiSkinTone.standard,
   );
 
@@ -969,6 +1364,11 @@ class FluentEmojiAnimalsAndNature extends FluentEmojiGroup {
     name: 'llama',
     glyph: '🦙',
     svgPath: 'assets/llama_color.svg',
+    tts: 'llama',
+    fromVersion: '11.0',
+    glyphAsUtfInEmoticons: ['1f999_llama'],
+    keywords: ['alpaca', 'guanaco', 'llama', 'vicuña', 'wool'],
+    mappedToEmoticons: ['1f999_llama'],
     skinTone: FluentEmojiSkinTone.standard,
   );
 
@@ -979,6 +1379,11 @@ class FluentEmojiAnimalsAndNature extends FluentEmojiGroup {
     name: 'lotus',
     glyph: '🪷',
     svgPath: 'assets/lotus_color.svg',
+    tts: 'lotus',
+    fromVersion: '14.0',
+    glyphAsUtfInEmoticons: null,
+    keywords: ['Buddhism', 'flower', 'Hinduism', 'India', 'lotus', 'purity', 'Vietnam'],
+    mappedToEmoticons: null,
     skinTone: FluentEmojiSkinTone.standard,
   );
 
@@ -989,6 +1394,11 @@ class FluentEmojiAnimalsAndNature extends FluentEmojiGroup {
     name: 'mammoth',
     glyph: '🦣',
     svgPath: 'assets/mammoth_color.svg',
+    tts: 'mammoth',
+    fromVersion: '13.0',
+    glyphAsUtfInEmoticons: ['mammoth'],
+    keywords: ['extinction', 'large', 'mammoth', 'tusk', 'woolly'],
+    mappedToEmoticons: ['mammoth'],
     skinTone: FluentEmojiSkinTone.standard,
   );
 
@@ -999,6 +1409,11 @@ class FluentEmojiAnimalsAndNature extends FluentEmojiGroup {
     name: 'maple leaf',
     glyph: '🍁',
     svgPath: 'assets/maple_leaf_color.svg',
+    tts: 'maple leaf',
+    fromVersion: '0.6',
+    glyphAsUtfInEmoticons: ['1f341_mapleleaf'],
+    keywords: ['falling', 'leaf', 'maple'],
+    mappedToEmoticons: ['1f341_mapleleaf'],
     skinTone: FluentEmojiSkinTone.standard,
   );
 
@@ -1009,6 +1424,11 @@ class FluentEmojiAnimalsAndNature extends FluentEmojiGroup {
     name: 'microbe',
     glyph: '🦠',
     svgPath: 'assets/microbe_color.svg',
+    tts: 'microbe',
+    fromVersion: '11.0',
+    glyphAsUtfInEmoticons: ['1f9a0_microbe'],
+    keywords: ['amoeba', 'bacteria', 'microbe', 'virus'],
+    mappedToEmoticons: ['1f9a0_microbe'],
     skinTone: FluentEmojiSkinTone.standard,
   );
 
@@ -1019,6 +1439,11 @@ class FluentEmojiAnimalsAndNature extends FluentEmojiGroup {
     name: 'monkey',
     glyph: '🐒',
     svgPath: 'assets/monkey_color.svg',
+    tts: 'monkey',
+    fromVersion: '0.6',
+    glyphAsUtfInEmoticons: ['monkey'],
+    keywords: ['monkey'],
+    mappedToEmoticons: ['monkey'],
     skinTone: FluentEmojiSkinTone.standard,
   );
 
@@ -1029,6 +1454,11 @@ class FluentEmojiAnimalsAndNature extends FluentEmojiGroup {
     name: 'monkey face',
     glyph: '🐵',
     svgPath: 'assets/monkey_face_color.svg',
+    tts: 'monkey face',
+    fromVersion: '0.6',
+    glyphAsUtfInEmoticons: null,
+    keywords: ['face', 'monkey'],
+    mappedToEmoticons: ['smilemonkey'],
     skinTone: FluentEmojiSkinTone.standard,
   );
 
@@ -1039,6 +1469,11 @@ class FluentEmojiAnimalsAndNature extends FluentEmojiGroup {
     name: 'moose',
     glyph: '🫎',
     svgPath: 'assets/moose_color.svg',
+    tts: 'moose',
+    fromVersion: '15.0',
+    glyphAsUtfInEmoticons: ['moose'],
+    keywords: ['animal', 'antlers', 'elk', 'mammal', 'moose'],
+    mappedToEmoticons: ['moose'],
     skinTone: FluentEmojiSkinTone.standard,
   );
 
@@ -1049,6 +1484,11 @@ class FluentEmojiAnimalsAndNature extends FluentEmojiGroup {
     name: 'mosquito',
     glyph: '🦟',
     svgPath: 'assets/mosquito_color.svg',
+    tts: 'mosquito',
+    fromVersion: '11.0',
+    glyphAsUtfInEmoticons: ['1f99f_mosquito'],
+    keywords: ['disease', 'fever', 'malaria', 'mosquito', 'pest', 'virus'],
+    mappedToEmoticons: ['1f99f_mosquito'],
     skinTone: FluentEmojiSkinTone.standard,
   );
 
@@ -1059,6 +1499,11 @@ class FluentEmojiAnimalsAndNature extends FluentEmojiGroup {
     name: 'mouse',
     glyph: '🐁',
     svgPath: 'assets/mouse_color.svg',
+    tts: 'mouse',
+    fromVersion: '1.0',
+    glyphAsUtfInEmoticons: ['1f401_mouse'],
+    keywords: ['mouse'],
+    mappedToEmoticons: ['1f401_mouse'],
     skinTone: FluentEmojiSkinTone.standard,
   );
 
@@ -1069,6 +1514,11 @@ class FluentEmojiAnimalsAndNature extends FluentEmojiGroup {
     name: 'mouse face',
     glyph: '🐭',
     svgPath: 'assets/mouse_face_color.svg',
+    tts: 'mouse face',
+    fromVersion: '0.6',
+    glyphAsUtfInEmoticons: ['1f42d_mouseface'],
+    keywords: ['face', 'mouse'],
+    mappedToEmoticons: ['1f42d_mouseface'],
     skinTone: FluentEmojiSkinTone.standard,
   );
 
@@ -1079,6 +1529,11 @@ class FluentEmojiAnimalsAndNature extends FluentEmojiGroup {
     name: 'nest with eggs',
     glyph: '🪺',
     svgPath: 'assets/nest_with_eggs_color.svg',
+    tts: 'nest with eggs',
+    fromVersion: '14.0',
+    glyphAsUtfInEmoticons: null,
+    keywords: ['nest with eggs', 'nesting'],
+    mappedToEmoticons: null,
     skinTone: FluentEmojiSkinTone.standard,
   );
 
@@ -1089,6 +1544,11 @@ class FluentEmojiAnimalsAndNature extends FluentEmojiGroup {
     name: 'octopus',
     glyph: '🐙',
     svgPath: 'assets/octopus_color.svg',
+    tts: 'octopus',
+    fromVersion: '0.6',
+    glyphAsUtfInEmoticons: ['octopus'],
+    keywords: ['octopus'],
+    mappedToEmoticons: ['octopus'],
     skinTone: FluentEmojiSkinTone.standard,
   );
 
@@ -1099,6 +1559,11 @@ class FluentEmojiAnimalsAndNature extends FluentEmojiGroup {
     name: 'orangutan',
     glyph: '🦧',
     svgPath: 'assets/orangutan_color.svg',
+    tts: 'orangutan',
+    fromVersion: '12.0',
+    glyphAsUtfInEmoticons: null,
+    keywords: ['ape', 'orangutan'],
+    mappedToEmoticons: ['orangutanscratching'],
     skinTone: FluentEmojiSkinTone.standard,
   );
 
@@ -1109,6 +1574,11 @@ class FluentEmojiAnimalsAndNature extends FluentEmojiGroup {
     name: 'otter',
     glyph: '🦦',
     svgPath: 'assets/otter_color.svg',
+    tts: 'otter',
+    fromVersion: '12.0',
+    glyphAsUtfInEmoticons: ['1f9a6_otter'],
+    keywords: ['fishing', 'otter', 'playful'],
+    mappedToEmoticons: ['1f9a6_otter'],
     skinTone: FluentEmojiSkinTone.standard,
   );
 
@@ -1119,6 +1589,11 @@ class FluentEmojiAnimalsAndNature extends FluentEmojiGroup {
     name: 'owl',
     glyph: '🦉',
     svgPath: 'assets/owl_color.svg',
+    tts: 'owl',
+    fromVersion: '3.0',
+    glyphAsUtfInEmoticons: ['1f989_owl'],
+    keywords: ['bird', 'owl', 'wise'],
+    mappedToEmoticons: ['1f989_owl'],
     skinTone: FluentEmojiSkinTone.standard,
   );
 
@@ -1129,6 +1604,11 @@ class FluentEmojiAnimalsAndNature extends FluentEmojiGroup {
     name: 'ox',
     glyph: '🐂',
     svgPath: 'assets/ox_color.svg',
+    tts: 'ox',
+    fromVersion: '1.0',
+    glyphAsUtfInEmoticons: ['1f402_ox'],
+    keywords: ['bull', 'ox', 'Taurus', 'zodiac'],
+    mappedToEmoticons: ['1f402_ox'],
     skinTone: FluentEmojiSkinTone.standard,
   );
 
@@ -1139,6 +1619,11 @@ class FluentEmojiAnimalsAndNature extends FluentEmojiGroup {
     name: 'palm tree',
     glyph: '🌴',
     svgPath: 'assets/palm_tree_color.svg',
+    tts: 'palm tree',
+    fromVersion: '0.6',
+    glyphAsUtfInEmoticons: null,
+    keywords: ['palm', 'tree'],
+    mappedToEmoticons: ['palmtree'],
     skinTone: FluentEmojiSkinTone.standard,
   );
 
@@ -1149,6 +1634,11 @@ class FluentEmojiAnimalsAndNature extends FluentEmojiGroup {
     name: 'panda',
     glyph: '🐼',
     svgPath: 'assets/panda_color.svg',
+    tts: 'panda',
+    fromVersion: '0.6',
+    glyphAsUtfInEmoticons: ['panda'],
+    keywords: ['face', 'panda'],
+    mappedToEmoticons: ['panda'],
     skinTone: FluentEmojiSkinTone.standard,
   );
 
@@ -1159,6 +1649,11 @@ class FluentEmojiAnimalsAndNature extends FluentEmojiGroup {
     name: 'parrot',
     glyph: '🦜',
     svgPath: 'assets/parrot_color.svg',
+    tts: 'parrot',
+    fromVersion: '11.0',
+    glyphAsUtfInEmoticons: ['1f99c_parrot'],
+    keywords: ['bird', 'parrot', 'pirate', 'talk'],
+    mappedToEmoticons: ['1f99c_parrot'],
     skinTone: FluentEmojiSkinTone.standard,
   );
 
@@ -1169,6 +1664,11 @@ class FluentEmojiAnimalsAndNature extends FluentEmojiGroup {
     name: 'paw prints',
     glyph: '🐾',
     svgPath: 'assets/paw_prints_color.svg',
+    tts: 'paw prints',
+    fromVersion: '0.6',
+    glyphAsUtfInEmoticons: ['1f43e_pawprints'],
+    keywords: ['feet', 'paw', 'paw prints', 'print'],
+    mappedToEmoticons: ['1f43e_pawprints'],
     skinTone: FluentEmojiSkinTone.standard,
   );
 
@@ -1179,6 +1679,11 @@ class FluentEmojiAnimalsAndNature extends FluentEmojiGroup {
     name: 'peacock',
     glyph: '🦚',
     svgPath: 'assets/peacock_color.svg',
+    tts: 'peacock',
+    fromVersion: '11.0',
+    glyphAsUtfInEmoticons: ['1f99a_peacock'],
+    keywords: ['bird', 'ostentatious', 'peacock', 'peahen', 'proud'],
+    mappedToEmoticons: ['1f99a_peacock'],
     skinTone: FluentEmojiSkinTone.standard,
   );
 
@@ -1189,6 +1694,11 @@ class FluentEmojiAnimalsAndNature extends FluentEmojiGroup {
     name: 'penguin',
     glyph: '🐧',
     svgPath: 'assets/penguin_color.svg',
+    tts: 'penguin',
+    fromVersion: '0.6',
+    glyphAsUtfInEmoticons: ['penguin'],
+    keywords: ['bird', 'penguin'],
+    mappedToEmoticons: ['penguin'],
     skinTone: FluentEmojiSkinTone.standard,
   );
 
@@ -1199,6 +1709,11 @@ class FluentEmojiAnimalsAndNature extends FluentEmojiGroup {
     name: 'phoenix',
     glyph: '🐦‍🔥',
     svgPath: 'assets/phoenix_bird_color.svg',
+    tts: '',
+    fromVersion: '15.1',
+    glyphAsUtfInEmoticons: null,
+    keywords: ['fantasy', 'firebird', 'phoenix', 'rebirth', 'reincarnation'],
+    mappedToEmoticons: [],
     skinTone: FluentEmojiSkinTone.standard,
   );
 
@@ -1209,6 +1724,11 @@ class FluentEmojiAnimalsAndNature extends FluentEmojiGroup {
     name: 'pig',
     glyph: '🐖',
     svgPath: 'assets/pig_color.svg',
+    tts: 'pig',
+    fromVersion: '1.0',
+    glyphAsUtfInEmoticons: ['pig'],
+    keywords: ['pig', 'sow'],
+    mappedToEmoticons: ['pig'],
     skinTone: FluentEmojiSkinTone.standard,
   );
 
@@ -1219,6 +1739,11 @@ class FluentEmojiAnimalsAndNature extends FluentEmojiGroup {
     name: 'pig face',
     glyph: '🐷',
     svgPath: 'assets/pig_face_color.svg',
+    tts: 'pig face',
+    fromVersion: '0.6',
+    glyphAsUtfInEmoticons: ['1f437_pigface'],
+    keywords: ['face', 'pig'],
+    mappedToEmoticons: ['1f437_pigface'],
     skinTone: FluentEmojiSkinTone.standard,
   );
 
@@ -1229,6 +1754,11 @@ class FluentEmojiAnimalsAndNature extends FluentEmojiGroup {
     name: 'pig nose',
     glyph: '🐽',
     svgPath: 'assets/pig_nose_color.svg',
+    tts: 'pig nose',
+    fromVersion: '0.6',
+    glyphAsUtfInEmoticons: ['1f43d_pignose'],
+    keywords: ['face', 'nose', 'pig'],
+    mappedToEmoticons: ['1f43d_pignose'],
     skinTone: FluentEmojiSkinTone.standard,
   );
 
@@ -1239,6 +1769,11 @@ class FluentEmojiAnimalsAndNature extends FluentEmojiGroup {
     name: 'polar bear',
     glyph: '🐻‍❄️',
     svgPath: 'assets/polar_bear_color.svg',
+    tts: 'polar bear',
+    fromVersion: '13.0',
+    glyphAsUtfInEmoticons: ['polarbearface'],
+    keywords: ['arctic', 'bear', 'polar bear', 'white'],
+    mappedToEmoticons: ['polarbear'],
     skinTone: FluentEmojiSkinTone.standard,
   );
 
@@ -1249,6 +1784,11 @@ class FluentEmojiAnimalsAndNature extends FluentEmojiGroup {
     name: 'poodle',
     glyph: '🐩',
     svgPath: 'assets/poodle_color.svg',
+    tts: 'poodle',
+    fromVersion: '0.6',
+    glyphAsUtfInEmoticons: ['1f429_poodle'],
+    keywords: ['dog', 'poodle'],
+    mappedToEmoticons: ['1f429_poodle'],
     skinTone: FluentEmojiSkinTone.standard,
   );
 
@@ -1259,6 +1799,11 @@ class FluentEmojiAnimalsAndNature extends FluentEmojiGroup {
     name: 'potted plant',
     glyph: '🪴',
     svgPath: 'assets/potted_plant_color.svg',
+    tts: 'potted plant',
+    fromVersion: '13.0',
+    glyphAsUtfInEmoticons: ['pottedplant'],
+    keywords: ['boring', 'grow', 'house', 'nurturing', 'plant', 'potted plant', 'useless'],
+    mappedToEmoticons: ['pottedplant'],
     skinTone: FluentEmojiSkinTone.standard,
   );
 
@@ -1269,6 +1814,11 @@ class FluentEmojiAnimalsAndNature extends FluentEmojiGroup {
     name: 'rabbit',
     glyph: '🐇',
     svgPath: 'assets/rabbit_color.svg',
+    tts: 'rabbit',
+    fromVersion: '1.0',
+    glyphAsUtfInEmoticons: ['bunny'],
+    keywords: ['bunny', 'pet', 'rabbit'],
+    mappedToEmoticons: ['bunny'],
     skinTone: FluentEmojiSkinTone.standard,
   );
 
@@ -1279,6 +1829,11 @@ class FluentEmojiAnimalsAndNature extends FluentEmojiGroup {
     name: 'rabbit face',
     glyph: '🐰',
     svgPath: 'assets/rabbit_face_color.svg',
+    tts: 'rabbit face',
+    fromVersion: '0.6',
+    glyphAsUtfInEmoticons: ['bunnyhug'],
+    keywords: ['bunny', 'face', 'pet', 'rabbit'],
+    mappedToEmoticons: ['bunnyhug'],
     skinTone: FluentEmojiSkinTone.standard,
   );
 
@@ -1289,6 +1844,11 @@ class FluentEmojiAnimalsAndNature extends FluentEmojiGroup {
     name: 'raccoon',
     glyph: '🦝',
     svgPath: 'assets/raccoon_color.svg',
+    tts: 'raccoon',
+    fromVersion: '11.0',
+    glyphAsUtfInEmoticons: null,
+    keywords: ['curious', 'raccoon', 'sly'],
+    mappedToEmoticons: ['racoon'],
     skinTone: FluentEmojiSkinTone.standard,
   );
 
@@ -1299,6 +1859,11 @@ class FluentEmojiAnimalsAndNature extends FluentEmojiGroup {
     name: 'ram',
     glyph: '🐏',
     svgPath: 'assets/ram_color.svg',
+    tts: 'ram',
+    fromVersion: '1.0',
+    glyphAsUtfInEmoticons: ['1f40f_ram'],
+    keywords: ['Aries', 'male', 'ram', 'sheep', 'zodiac'],
+    mappedToEmoticons: ['1f40f_ram'],
     skinTone: FluentEmojiSkinTone.standard,
   );
 
@@ -1309,6 +1874,11 @@ class FluentEmojiAnimalsAndNature extends FluentEmojiGroup {
     name: 'rat',
     glyph: '🐀',
     svgPath: 'assets/rat_color.svg',
+    tts: 'rat',
+    fromVersion: '1.0',
+    glyphAsUtfInEmoticons: ['1f400_rat', 'yotr'],
+    keywords: ['rat'],
+    mappedToEmoticons: ['1f400_rat'],
     skinTone: FluentEmojiSkinTone.standard,
   );
 
@@ -1319,6 +1889,11 @@ class FluentEmojiAnimalsAndNature extends FluentEmojiGroup {
     name: 'rhinoceros',
     glyph: '🦏',
     svgPath: 'assets/rhinoceros_color.svg',
+    tts: 'rhinoceros',
+    fromVersion: '3.0',
+    glyphAsUtfInEmoticons: ['1f98f_rhinoceros'],
+    keywords: ['rhinoceros'],
+    mappedToEmoticons: ['1f98f_rhinoceros'],
     skinTone: FluentEmojiSkinTone.standard,
   );
 
@@ -1329,6 +1904,11 @@ class FluentEmojiAnimalsAndNature extends FluentEmojiGroup {
     name: 'rooster',
     glyph: '🐓',
     svgPath: 'assets/rooster_color.svg',
+    tts: 'rooster',
+    fromVersion: '1.0',
+    glyphAsUtfInEmoticons: ['1f413_rooster'],
+    keywords: ['bird', 'rooster'],
+    mappedToEmoticons: ['1f413_rooster'],
     skinTone: FluentEmojiSkinTone.standard,
   );
 
@@ -1339,6 +1919,11 @@ class FluentEmojiAnimalsAndNature extends FluentEmojiGroup {
     name: 'rose',
     glyph: '🌹',
     svgPath: 'assets/rose_color.svg',
+    tts: 'rose',
+    fromVersion: '0.6',
+    glyphAsUtfInEmoticons: ['rose'],
+    keywords: ['flower', 'rose'],
+    mappedToEmoticons: ['rose'],
     skinTone: FluentEmojiSkinTone.standard,
   );
 
@@ -1349,6 +1934,11 @@ class FluentEmojiAnimalsAndNature extends FluentEmojiGroup {
     name: 'rosette',
     glyph: '🏵️',
     svgPath: 'assets/rosette_color.svg',
+    tts: 'rosette',
+    fromVersion: '0.7',
+    glyphAsUtfInEmoticons: null,
+    keywords: ['plant', 'rosette'],
+    mappedToEmoticons: ['1f3f5_rosette'],
     skinTone: FluentEmojiSkinTone.standard,
   );
 
@@ -1359,6 +1949,11 @@ class FluentEmojiAnimalsAndNature extends FluentEmojiGroup {
     name: 'sauropod',
     glyph: '🦕',
     svgPath: 'assets/sauropod_color.svg',
+    tts: 'sauropod',
+    fromVersion: '5.0',
+    glyphAsUtfInEmoticons: ['1f995_sauropod'],
+    keywords: ['brachiosaurus', 'brontosaurus', 'diplodocus', 'sauropod'],
+    mappedToEmoticons: ['1f995_sauropod'],
     skinTone: FluentEmojiSkinTone.standard,
   );
 
@@ -1369,6 +1964,11 @@ class FluentEmojiAnimalsAndNature extends FluentEmojiGroup {
     name: 'scorpion',
     glyph: '🦂',
     svgPath: 'assets/scorpion_color.svg',
+    tts: 'scorpion',
+    fromVersion: '1.0',
+    glyphAsUtfInEmoticons: ['1f982_scorpion'],
+    keywords: ['scorpio', 'Scorpio', 'scorpion', 'zodiac'],
+    mappedToEmoticons: ['1f982_scorpion'],
     skinTone: FluentEmojiSkinTone.standard,
   );
 
@@ -1379,6 +1979,11 @@ class FluentEmojiAnimalsAndNature extends FluentEmojiGroup {
     name: 'seal',
     glyph: '🦭',
     svgPath: 'assets/seal_color.svg',
+    tts: 'seal',
+    fromVersion: '13.0',
+    glyphAsUtfInEmoticons: null,
+    keywords: ['sea lion', 'seal'],
+    mappedToEmoticons: ['seal'],
     skinTone: FluentEmojiSkinTone.standard,
   );
 
@@ -1389,6 +1994,11 @@ class FluentEmojiAnimalsAndNature extends FluentEmojiGroup {
     name: 'seedling',
     glyph: '🌱',
     svgPath: 'assets/seedling_color.svg',
+    tts: 'seedling',
+    fromVersion: '0.6',
+    glyphAsUtfInEmoticons: ['seedling'],
+    keywords: ['seedling', 'young'],
+    mappedToEmoticons: ['seedling'],
     skinTone: FluentEmojiSkinTone.standard,
   );
 
@@ -1399,6 +2009,11 @@ class FluentEmojiAnimalsAndNature extends FluentEmojiGroup {
     name: 'service dog',
     glyph: '🐕‍🦺',
     svgPath: 'assets/service_dog_color.svg',
+    tts: 'service dog',
+    fromVersion: '12.0',
+    glyphAsUtfInEmoticons: null,
+    keywords: ['accessibility', 'assistance', 'dog', 'service'],
+    mappedToEmoticons: ['1f415_200d_1f9ba_servicedog'],
     skinTone: FluentEmojiSkinTone.standard,
   );
 
@@ -1409,6 +2024,11 @@ class FluentEmojiAnimalsAndNature extends FluentEmojiGroup {
     name: 'shamrock',
     glyph: '☘️',
     svgPath: 'assets/shamrock_color.svg',
+    tts: 'shamrock',
+    fromVersion: '1.0',
+    glyphAsUtfInEmoticons: null,
+    keywords: ['plant', 'shamrock'],
+    mappedToEmoticons: ['2618_shamrock'],
     skinTone: FluentEmojiSkinTone.standard,
   );
 
@@ -1419,6 +2039,11 @@ class FluentEmojiAnimalsAndNature extends FluentEmojiGroup {
     name: 'shark',
     glyph: '🦈',
     svgPath: 'assets/shark_color.svg',
+    tts: 'shark',
+    fromVersion: '3.0',
+    glyphAsUtfInEmoticons: ['1f988_shark'],
+    keywords: ['fish', 'shark'],
+    mappedToEmoticons: ['1f988_shark'],
     skinTone: FluentEmojiSkinTone.standard,
   );
 
@@ -1429,6 +2054,11 @@ class FluentEmojiAnimalsAndNature extends FluentEmojiGroup {
     name: 'sheaf of rice',
     glyph: '🌾',
     svgPath: 'assets/sheaf_of_rice_color.svg',
+    tts: 'sheaf of rice',
+    fromVersion: '0.6',
+    glyphAsUtfInEmoticons: ['1f33e_earofrice'],
+    keywords: ['ear', 'grain', 'rice', 'sheaf of rice'],
+    mappedToEmoticons: ['1f33e_earofrice'],
     skinTone: FluentEmojiSkinTone.standard,
   );
 
@@ -1439,6 +2069,11 @@ class FluentEmojiAnimalsAndNature extends FluentEmojiGroup {
     name: 'skunk',
     glyph: '🦨',
     svgPath: 'assets/skunk_color.svg',
+    tts: 'skunk',
+    fromVersion: '12.0',
+    glyphAsUtfInEmoticons: ['1f9a8_skunk'],
+    keywords: ['skunk', 'stink'],
+    mappedToEmoticons: ['1f9a8_skunk'],
     skinTone: FluentEmojiSkinTone.standard,
   );
 
@@ -1449,6 +2084,11 @@ class FluentEmojiAnimalsAndNature extends FluentEmojiGroup {
     name: 'sloth',
     glyph: '🦥',
     svgPath: 'assets/sloth_color.svg',
+    tts: 'sloth',
+    fromVersion: '12.0',
+    glyphAsUtfInEmoticons: null,
+    keywords: ['lazy', 'sloth', 'slow'],
+    mappedToEmoticons: ['sloth'],
     skinTone: FluentEmojiSkinTone.standard,
   );
 
@@ -1459,6 +2099,11 @@ class FluentEmojiAnimalsAndNature extends FluentEmojiGroup {
     name: 'snail',
     glyph: '🐌',
     svgPath: 'assets/snail_color.svg',
+    tts: 'snail',
+    fromVersion: '0.6',
+    glyphAsUtfInEmoticons: ['snail'],
+    keywords: ['snail'],
+    mappedToEmoticons: ['snail'],
     skinTone: FluentEmojiSkinTone.standard,
   );
 
@@ -1469,6 +2114,11 @@ class FluentEmojiAnimalsAndNature extends FluentEmojiGroup {
     name: 'snake',
     glyph: '🐍',
     svgPath: 'assets/snake_color.svg',
+    tts: 'snake',
+    fromVersion: '0.6',
+    glyphAsUtfInEmoticons: ['snake'],
+    keywords: ['bearer', 'Ophiuchus', 'serpent', 'snake', 'zodiac'],
+    mappedToEmoticons: ['snake'],
     skinTone: FluentEmojiSkinTone.standard,
   );
 
@@ -1479,6 +2129,11 @@ class FluentEmojiAnimalsAndNature extends FluentEmojiGroup {
     name: 'spider',
     glyph: '🕷️',
     svgPath: 'assets/spider_color.svg',
+    tts: 'spider',
+    fromVersion: '0.7',
+    glyphAsUtfInEmoticons: null,
+    keywords: ['insect', 'spider'],
+    mappedToEmoticons: ['spider'],
     skinTone: FluentEmojiSkinTone.standard,
   );
 
@@ -1489,6 +2144,11 @@ class FluentEmojiAnimalsAndNature extends FluentEmojiGroup {
     name: 'spider web',
     glyph: '🕸️',
     svgPath: 'assets/spider_web_color.svg',
+    tts: 'spider web',
+    fromVersion: '0.7',
+    glyphAsUtfInEmoticons: null,
+    keywords: ['spider', 'web'],
+    mappedToEmoticons: ['1f578_spiderweb'],
     skinTone: FluentEmojiSkinTone.standard,
   );
 
@@ -1499,6 +2159,11 @@ class FluentEmojiAnimalsAndNature extends FluentEmojiGroup {
     name: 'spiral shell',
     glyph: '🐚',
     svgPath: 'assets/spiral_shell_color.svg',
+    tts: 'spiral shell',
+    fromVersion: '0.6',
+    glyphAsUtfInEmoticons: ['1f41a_spiralshell'],
+    keywords: ['shell', 'spiral'],
+    mappedToEmoticons: ['1f41a_spiralshell'],
     skinTone: FluentEmojiSkinTone.standard,
   );
 
@@ -1509,6 +2174,11 @@ class FluentEmojiAnimalsAndNature extends FluentEmojiGroup {
     name: 'spouting whale',
     glyph: '🐳',
     svgPath: 'assets/spouting_whale_color.svg',
+    tts: 'spouting whale',
+    fromVersion: '0.6',
+    glyphAsUtfInEmoticons: null,
+    keywords: ['face', 'spouting', 'whale'],
+    mappedToEmoticons: ['spoutingwhale'],
     skinTone: FluentEmojiSkinTone.standard,
   );
 
@@ -1519,6 +2189,11 @@ class FluentEmojiAnimalsAndNature extends FluentEmojiGroup {
     name: 'sunflower',
     glyph: '🌻',
     svgPath: 'assets/sunflower_color.svg',
+    tts: 'sunflower',
+    fromVersion: '0.6',
+    glyphAsUtfInEmoticons: ['sunflower'],
+    keywords: ['flower', 'sun', 'sunflower'],
+    mappedToEmoticons: ['sunflower'],
     skinTone: FluentEmojiSkinTone.standard,
   );
 
@@ -1529,6 +2204,11 @@ class FluentEmojiAnimalsAndNature extends FluentEmojiGroup {
     name: 'swan',
     glyph: '🦢',
     svgPath: 'assets/swan_color.svg',
+    tts: 'swan',
+    fromVersion: '11.0',
+    glyphAsUtfInEmoticons: ['1f9a2_swan'],
+    keywords: ['bird', 'cygnet', 'swan', 'ugly duckling'],
+    mappedToEmoticons: ['1f9a2_swan'],
     skinTone: FluentEmojiSkinTone.standard,
   );
 
@@ -1539,6 +2219,11 @@ class FluentEmojiAnimalsAndNature extends FluentEmojiGroup {
     name: 'tiger',
     glyph: '🐅',
     svgPath: 'assets/tiger_color.svg',
+    tts: 'tiger',
+    fromVersion: '1.0',
+    glyphAsUtfInEmoticons: ['1f405_tiger'],
+    keywords: ['tiger'],
+    mappedToEmoticons: ['1f405_tiger'],
     skinTone: FluentEmojiSkinTone.standard,
   );
 
@@ -1549,6 +2234,11 @@ class FluentEmojiAnimalsAndNature extends FluentEmojiGroup {
     name: 'tiger face',
     glyph: '🐯',
     svgPath: 'assets/tiger_face_color.svg',
+    tts: 'tiger face',
+    fromVersion: '0.6',
+    glyphAsUtfInEmoticons: ['1f42f_tigerface', 'tiger'],
+    keywords: ['face', 'tiger'],
+    mappedToEmoticons: ['1f42f_tigerface'],
     skinTone: FluentEmojiSkinTone.standard,
   );
 
@@ -1559,6 +2249,11 @@ class FluentEmojiAnimalsAndNature extends FluentEmojiGroup {
     name: 'tropical fish',
     glyph: '🐠',
     svgPath: 'assets/tropical_fish_color.svg',
+    tts: 'tropical fish',
+    fromVersion: '0.6',
+    glyphAsUtfInEmoticons: ['tropicalfish'],
+    keywords: ['fish', 'tropical'],
+    mappedToEmoticons: ['tropicalfish'],
     skinTone: FluentEmojiSkinTone.standard,
   );
 
@@ -1569,6 +2264,11 @@ class FluentEmojiAnimalsAndNature extends FluentEmojiGroup {
     name: 'tulip',
     glyph: '🌷',
     svgPath: 'assets/tulip_color.svg',
+    tts: 'tulip',
+    fromVersion: '0.6',
+    glyphAsUtfInEmoticons: ['tulip'],
+    keywords: ['flower', 'tulip'],
+    mappedToEmoticons: ['tulip'],
     skinTone: FluentEmojiSkinTone.standard,
   );
 
@@ -1579,6 +2279,11 @@ class FluentEmojiAnimalsAndNature extends FluentEmojiGroup {
     name: 'turkey',
     glyph: '🦃',
     svgPath: 'assets/turkey_color.svg',
+    tts: 'turkey',
+    fromVersion: '1.0',
+    glyphAsUtfInEmoticons: ['1f983_turkey', 'turkey'],
+    keywords: ['bird', 'turkey'],
+    mappedToEmoticons: ['1f983_turkey'],
     skinTone: FluentEmojiSkinTone.standard,
   );
 
@@ -1589,6 +2294,11 @@ class FluentEmojiAnimalsAndNature extends FluentEmojiGroup {
     name: 'turtle',
     glyph: '🐢',
     svgPath: 'assets/turtle_color.svg',
+    tts: 'turtle',
+    fromVersion: '0.6',
+    glyphAsUtfInEmoticons: ['tortoise', 'turtle'],
+    keywords: ['terrapin', 'tortoise', 'turtle'],
+    mappedToEmoticons: ['tortoise'],
     skinTone: FluentEmojiSkinTone.standard,
   );
 
@@ -1599,6 +2309,11 @@ class FluentEmojiAnimalsAndNature extends FluentEmojiGroup {
     name: 'two-hump camel',
     glyph: '🐫',
     svgPath: 'assets/two-hump_camel_color.svg',
+    tts: 'two-hump camel',
+    fromVersion: '0.6',
+    glyphAsUtfInEmoticons: ['1f42b_bactriancamel'],
+    keywords: ['bactrian', 'camel', 'hump', 'two-hump camel'],
+    mappedToEmoticons: ['1f42b_bactriancamel'],
     skinTone: FluentEmojiSkinTone.standard,
   );
 
@@ -1609,6 +2324,11 @@ class FluentEmojiAnimalsAndNature extends FluentEmojiGroup {
     name: 'unicorn',
     glyph: '🦄',
     svgPath: 'assets/unicorn_color.svg',
+    tts: 'unicorn',
+    fromVersion: '1.0',
+    glyphAsUtfInEmoticons: ['unicornhead'],
+    keywords: ['face', 'unicorn'],
+    mappedToEmoticons: ['unicornhead'],
     skinTone: FluentEmojiSkinTone.standard,
   );
 
@@ -1619,6 +2339,11 @@ class FluentEmojiAnimalsAndNature extends FluentEmojiGroup {
     name: 'water buffalo',
     glyph: '🐃',
     svgPath: 'assets/water_buffalo_color.svg',
+    tts: 'water buffalo',
+    fromVersion: '1.0',
+    glyphAsUtfInEmoticons: ['1f403_waterbuffalo'],
+    keywords: ['buffalo', 'water'],
+    mappedToEmoticons: ['1f403_waterbuffalo'],
     skinTone: FluentEmojiSkinTone.standard,
   );
 
@@ -1629,6 +2354,11 @@ class FluentEmojiAnimalsAndNature extends FluentEmojiGroup {
     name: 'whale',
     glyph: '🐋',
     svgPath: 'assets/whale_color.svg',
+    tts: 'whale',
+    fromVersion: '1.0',
+    glyphAsUtfInEmoticons: ['whale'],
+    keywords: ['whale'],
+    mappedToEmoticons: ['whale'],
     skinTone: FluentEmojiSkinTone.standard,
   );
 
@@ -1639,6 +2369,11 @@ class FluentEmojiAnimalsAndNature extends FluentEmojiGroup {
     name: 'white flower',
     glyph: '💮',
     svgPath: 'assets/white_flower_color.svg',
+    tts: 'white flower',
+    fromVersion: '0.6',
+    glyphAsUtfInEmoticons: ['1f4ae_whiteflower'],
+    keywords: ['flower', 'white flower'],
+    mappedToEmoticons: ['1f4ae_whiteflower'],
     skinTone: FluentEmojiSkinTone.standard,
   );
 
@@ -1649,6 +2384,11 @@ class FluentEmojiAnimalsAndNature extends FluentEmojiGroup {
     name: 'wilted flower',
     glyph: '🥀',
     svgPath: 'assets/wilted_flower_color.svg',
+    tts: 'wilted flower',
+    fromVersion: '3.0',
+    glyphAsUtfInEmoticons: ['wiltedflower'],
+    keywords: ['flower', 'wilted'],
+    mappedToEmoticons: ['wiltedflower'],
     skinTone: FluentEmojiSkinTone.standard,
   );
 
@@ -1659,6 +2399,11 @@ class FluentEmojiAnimalsAndNature extends FluentEmojiGroup {
     name: 'wing',
     glyph: '🪽',
     svgPath: 'assets/wing_color.svg',
+    tts: 'wing',
+    fromVersion: '15.0',
+    glyphAsUtfInEmoticons: ['wing', 'wingleft'],
+    keywords: ['angelic', 'aviation', 'bird', 'flying', 'mythology', 'wing'],
+    mappedToEmoticons: ['wing'],
     skinTone: FluentEmojiSkinTone.standard,
   );
 
@@ -1669,6 +2414,11 @@ class FluentEmojiAnimalsAndNature extends FluentEmojiGroup {
     name: 'wolf',
     glyph: '🐺',
     svgPath: 'assets/wolf_color.svg',
+    tts: 'wolf',
+    fromVersion: '0.6',
+    glyphAsUtfInEmoticons: ['1f43a_wolfface', 'werewolfhowl'],
+    keywords: ['face', 'wolf'],
+    mappedToEmoticons: ['1f43a_wolfface'],
     skinTone: FluentEmojiSkinTone.standard,
   );
 
@@ -1679,6 +2429,11 @@ class FluentEmojiAnimalsAndNature extends FluentEmojiGroup {
     name: 'worm',
     glyph: '🪱',
     svgPath: 'assets/worm_color.svg',
+    tts: 'worm',
+    fromVersion: '13.0',
+    glyphAsUtfInEmoticons: ['worm'],
+    keywords: ['annelid', 'earthworm', 'parasite', 'worm'],
+    mappedToEmoticons: ['worm'],
     skinTone: FluentEmojiSkinTone.standard,
   );
 
@@ -1689,6 +2444,11 @@ class FluentEmojiAnimalsAndNature extends FluentEmojiGroup {
     name: 'zebra',
     glyph: '🦓',
     svgPath: 'assets/zebra_color.svg',
+    tts: 'zebra',
+    fromVersion: '5.0',
+    glyphAsUtfInEmoticons: ['1f993_zebraface'],
+    keywords: ['stripe', 'zebra'],
+    mappedToEmoticons: ['1f993_zebraface'],
     skinTone: FluentEmojiSkinTone.standard,
   );
 }
