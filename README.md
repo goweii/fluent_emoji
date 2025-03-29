@@ -12,6 +12,8 @@ Fluent Emoji 是一个 Flutter 包，提供了微软 Fluent 设计系统中的�
 
 要开始使用 Fluent Emoji 包，请确保您的开发环境已经配置好 Flutter。您可以参考 [Flutter 官方文档](https://flutter.dev/docs/get-started/install) 来设置开发环境。
 
+[Preview](https://goweii.github.io/fluent_emoji/example/web)
+
 ## 安装
 
 在您的 `pubspec.yaml` 文件中添加以下依赖项：
