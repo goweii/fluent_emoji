@@ -35,6 +35,7 @@ class FluentEmojiAllCodeCreator {
       buffer.writeln("export 'package:$packageName/$packageName.dart';");
     }
     buffer.writeln();
+    buffer.writeln("import 'package:flutter/foundation.dart';");
     buffer.writeln("import 'package:fluent_emoji_base/fluent_emoji_base.dart';");
     for (var emojiGroup in emojiGroupList) {
       final packageName = 'fluent_emoji_${emojiGroup.nameSnakeCase}';
@@ -45,16 +46,23 @@ class FluentEmojiAllCodeCreator {
     buffer.writeln('  $className get all => $className.instance;');
     buffer.writeln('}');
     buffer.writeln();
-    buffer.writeln('class $className {');
+    buffer.writeln('class $className extends FluentEmojisBase {');
     buffer.writeln('  static final instance = $className._();');
     buffer.writeln();
-    buffer.writeln('  $className._();');
+    buffer.writeln('  $className._() : super();');
     buffer.writeln();
-    buffer.writeln('  late final Map<String, FluentEmojiData> allEmojis = {');
+    buffer.writeln('  @protected');
+    buffer.writeln('  @override');
+    buffer.writeln("  String get groupName => 'Fluent Emojis';");
+    buffer.writeln();
+    buffer.writeln('  @override');
+    buffer.writeln('  Map<String, FluentEmojiData> get allEmojis => _allEmojis;');
+    buffer.writeln();
+    buffer.writeln('  late final Map<String, FluentEmojiData> _allEmojis = Map.unmodifiable({');
     for (var emojiGroup in emojiGroupList) {
       buffer.writeln('    ...FluentEmoji${emojiGroup.nameCamelCase}.instance.allEmojis,');
     }
-    buffer.writeln('  };');
+    buffer.writeln('  });');
     buffer.writeln('}');
 
     dartFile.writeAsString(buffer.toString());

@@ -6,12 +6,18 @@ extension FluentEmojiTravelAndPlacesExt on FluentEmojisBase {
   FluentEmojiTravelAndPlaces get travelAndPlaces => FluentEmojiTravelAndPlaces.instance;
 }
 
-class FluentEmojiTravelAndPlaces {
+class FluentEmojiTravelAndPlaces extends FluentEmojisBase {
   static final instance = FluentEmojiTravelAndPlaces._();
 
-  FluentEmojiTravelAndPlaces._();
+  FluentEmojiTravelAndPlaces._() : super();
 
-  late final Map<String, FluentEmojiData> allEmojis = {
+  @override
+  String get groupName => 'Travel & Places';
+
+  @override
+  Map<String, FluentEmojiData> get allEmojis => _allEmojis;
+
+  late final Map<String, FluentEmojiData> _allEmojis = Map.unmodifiable({
     '🏯': japaneseCastle,
     '🏣': japanesePostOffice,
     '🗽': statueOfLiberty,
@@ -230,7 +236,7 @@ class FluentEmojiTravelAndPlaces {
     '🌬️': windFace,
     '🪵': wood,
     '🗺️': worldMap,
-  };
+  });
 
   /// 🏯 Japanese castle
   final FluentEmojiData japaneseCastle = const FluentEmojiData(

@@ -6,12 +6,18 @@ extension FluentEmojiPeopleAndBodyExt on FluentEmojisBase {
   FluentEmojiPeopleAndBody get peopleAndBody => FluentEmojiPeopleAndBody.instance;
 }
 
-class FluentEmojiPeopleAndBody {
+class FluentEmojiPeopleAndBody extends FluentEmojisBase {
   static final instance = FluentEmojiPeopleAndBody._();
 
-  FluentEmojiPeopleAndBody._();
+  FluentEmojiPeopleAndBody._() : super();
 
-  late final Map<String, FluentEmojiData> allEmojis = {
+  @override
+  String get groupName => 'People & Body';
+
+  @override
+  Map<String, FluentEmojiData> get allEmojis => _allEmojis;
+
+  late final Map<String, FluentEmojiData> _allEmojis = Map.unmodifiable({
     '🤶': mrsClaus,
     '🤶🏻': _mrsClausLight,
     '🤶🏼': _mrsClausMediumLight,
@@ -1905,7 +1911,7 @@ class FluentEmojiPeopleAndBody {
     '✍🏾': _writingHandMediumDark,
     '✍🏿': _writingHandDark,
     '🧟': zombie,
-  };
+  });
 
   /// 🤶 Mrs. Claus
   ///

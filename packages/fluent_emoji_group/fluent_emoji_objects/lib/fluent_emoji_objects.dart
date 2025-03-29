@@ -6,12 +6,18 @@ extension FluentEmojiObjectsExt on FluentEmojisBase {
   FluentEmojiObjects get objects => FluentEmojiObjects.instance;
 }
 
-class FluentEmojiObjects {
+class FluentEmojiObjects extends FluentEmojisBase {
   static final instance = FluentEmojiObjects._();
 
-  FluentEmojiObjects._();
+  FluentEmojiObjects._() : super();
 
-  late final Map<String, FluentEmojiData> allEmojis = {
+  @override
+  String get groupName => 'Objects';
+
+  @override
+  Map<String, FluentEmojiData> get allEmojis => _allEmojis;
+
+  late final Map<String, FluentEmojiData> _allEmojis = Map.unmodifiable({
     '🧮': abacus,
     '🪗': accordion,
     '🩹': adhesiveBandage,
@@ -272,7 +278,7 @@ class FluentEmojiObjects {
     '🔧': wrench,
     '🩻': xRay,
     '💴': yenBanknote,
-  };
+  });
 
   /// 🧮 abacus
   final FluentEmojiData abacus = const FluentEmojiData(

@@ -6,12 +6,18 @@ extension FluentEmojiFlagsExt on FluentEmojisBase {
   FluentEmojiFlags get flags => FluentEmojiFlags.instance;
 }
 
-class FluentEmojiFlags {
+class FluentEmojiFlags extends FluentEmojisBase {
   static final instance = FluentEmojiFlags._();
 
-  FluentEmojiFlags._();
+  FluentEmojiFlags._() : super();
 
-  late final Map<String, FluentEmojiData> allEmojis = {
+  @override
+  String get groupName => 'Flags';
+
+  @override
+  Map<String, FluentEmojiData> get allEmojis => _allEmojis;
+
+  late final Map<String, FluentEmojiData> _allEmojis = Map.unmodifiable({
     '🏴': blackFlag,
     '🏁': chequeredFlag,
     '🎌': crossedFlags,
@@ -20,7 +26,7 @@ class FluentEmojiFlags {
     '🏳️‍⚧️': transgenderFlag,
     '🚩': triangularFlag,
     '🏳️': whiteFlag,
-  };
+  });
 
   /// 🏴 black flag
   final FluentEmojiData blackFlag = const FluentEmojiData(

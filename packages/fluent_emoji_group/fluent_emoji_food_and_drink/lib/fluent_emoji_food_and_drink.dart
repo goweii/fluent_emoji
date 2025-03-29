@@ -6,12 +6,18 @@ extension FluentEmojiFoodAndDrinkExt on FluentEmojisBase {
   FluentEmojiFoodAndDrink get foodAndDrink => FluentEmojiFoodAndDrink.instance;
 }
 
-class FluentEmojiFoodAndDrink {
+class FluentEmojiFoodAndDrink extends FluentEmojisBase {
   static final instance = FluentEmojiFoodAndDrink._();
 
-  FluentEmojiFoodAndDrink._();
+  FluentEmojiFoodAndDrink._() : super();
 
-  late final Map<String, FluentEmojiData> allEmojis = {
+  @override
+  String get groupName => 'Food & Drink';
+
+  @override
+  Map<String, FluentEmojiData> get allEmojis => _allEmojis;
+
+  late final Map<String, FluentEmojiData> _allEmojis = Map.unmodifiable({
     '🏺': amphora,
     '🥑': avocado,
     '🍼': babyBottle,
@@ -148,7 +154,7 @@ class FluentEmojiFoodAndDrink {
     '🧇': waffle,
     '🍉': watermelon,
     '🍷': wineGlass,
-  };
+  });
 
   /// 🏺 amphora
   final FluentEmojiData amphora = const FluentEmojiData(

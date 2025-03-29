@@ -40,10 +40,16 @@ class FluentEmojiGroupCodeCreator {
     buffer.writeln('  $className get ${emojiGroup.nameLowerCase} => $className.instance;');
     buffer.writeln('}');
     buffer.writeln();
-    buffer.writeln('class $className {');
+    buffer.writeln('class $className extends FluentEmojisBase {');
     buffer.writeln('  static final instance = $className._();');
     buffer.writeln();
-    buffer.writeln('  $className._();');
+    buffer.writeln('  $className._() : super();');
+    buffer.writeln();
+    buffer.writeln('  @override');
+    buffer.writeln("  String get groupName => '${emojiGroup.name}';");
+    buffer.writeln();
+    buffer.writeln('  @override');
+    buffer.writeln('  Map<String, FluentEmojiData> get allEmojis => _allEmojis;');
     buffer.writeln();
     buffer.write(_buildAllEmojisField());
     buffer.writeln();
@@ -56,7 +62,7 @@ class FluentEmojiGroupCodeCreator {
   String _buildAllEmojisField() {
     final buffer = StringBuffer();
 
-    buffer.writeln('  late final Map<String, FluentEmojiData> allEmojis = {');
+    buffer.writeln('  late final Map<String, FluentEmojiData> _allEmojis = Map.unmodifiable({');
 
     void writeFieldLine(SingleFluentEmoji emoji, {String? perfix, String? subfix}) {
       var fieldName = emoji.nameLowerCase;
@@ -87,7 +93,7 @@ class FluentEmojiGroupCodeCreator {
       }
     }
 
-    buffer.writeln('  };');
+    buffer.writeln('  });');
 
     return buffer.toString();
   }

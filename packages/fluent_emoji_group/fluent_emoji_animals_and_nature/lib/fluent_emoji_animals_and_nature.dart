@@ -6,12 +6,18 @@ extension FluentEmojiAnimalsAndNatureExt on FluentEmojisBase {
   FluentEmojiAnimalsAndNature get animalsAndNature => FluentEmojiAnimalsAndNature.instance;
 }
 
-class FluentEmojiAnimalsAndNature {
+class FluentEmojiAnimalsAndNature extends FluentEmojisBase {
   static final instance = FluentEmojiAnimalsAndNature._();
 
-  FluentEmojiAnimalsAndNature._();
+  FluentEmojiAnimalsAndNature._() : super();
 
-  late final Map<String, FluentEmojiData> allEmojis = {
+  @override
+  String get groupName => 'Animals & Nature';
+
+  @override
+  Map<String, FluentEmojiData> get allEmojis => _allEmojis;
+
+  late final Map<String, FluentEmojiData> _allEmojis = Map.unmodifiable({
     '🦖': tRex,
     '🐜': ant,
     '🐤': babyChick,
@@ -164,7 +170,7 @@ class FluentEmojiAnimalsAndNature {
     '🐺': wolf,
     '🪱': worm,
     '🦓': zebra,
-  };
+  });
 
   /// 🦖 T-Rex
   final FluentEmojiData tRex = const FluentEmojiData(

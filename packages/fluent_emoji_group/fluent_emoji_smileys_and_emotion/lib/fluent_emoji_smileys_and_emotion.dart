@@ -6,12 +6,18 @@ extension FluentEmojiSmileysAndEmotionExt on FluentEmojisBase {
   FluentEmojiSmileysAndEmotion get smileysAndEmotion => FluentEmojiSmileysAndEmotion.instance;
 }
 
-class FluentEmojiSmileysAndEmotion {
+class FluentEmojiSmileysAndEmotion extends FluentEmojisBase {
   static final instance = FluentEmojiSmileysAndEmotion._();
 
-  FluentEmojiSmileysAndEmotion._();
+  FluentEmojiSmileysAndEmotion._() : super();
 
-  late final Map<String, FluentEmojiData> allEmojis = {
+  @override
+  String get groupName => 'Smileys & Emotion';
+
+  @override
+  Map<String, FluentEmojiData> get allEmojis => _allEmojis;
+
+  late final Map<String, FluentEmojiData> _allEmojis = Map.unmodifiable({
     '👽': alien,
     '👾': alienMonster,
     '💢': angerSymbol,
@@ -181,7 +187,7 @@ class FluentEmojiSmileysAndEmotion {
     '🤪': zanyFace,
     '🤐': zipperMouthFace,
     '💤': zzz,
-  };
+  });
 
   /// 👽 alien
   final FluentEmojiData alien = const FluentEmojiData(

@@ -6,12 +6,18 @@ extension FluentEmojiSymbolsExt on FluentEmojisBase {
   FluentEmojiSymbols get symbols => FluentEmojiSymbols.instance;
 }
 
-class FluentEmojiSymbols {
+class FluentEmojiSymbols extends FluentEmojisBase {
   static final instance = FluentEmojiSymbols._();
 
-  FluentEmojiSymbols._();
+  FluentEmojiSymbols._() : super();
 
-  late final Map<String, FluentEmojiData> allEmojis = {
+  @override
+  String get groupName => 'Symbols';
+
+  @override
+  Map<String, FluentEmojiData> get allEmojis => _allEmojis;
+
+  late final Map<String, FluentEmojiData> _allEmojis = Map.unmodifiable({
     '🅰️': aButtonBloodType,
     '🆎': abButtonBloodType,
     '🏧': atmSign,
@@ -235,7 +241,7 @@ class FluentEmojiSymbols {
     '🟡': yellowCircle,
     '🟨': yellowSquare,
     '☯️': yinYang,
-  };
+  });
 
   /// 🅰️ A button (blood type)
   final FluentEmojiData aButtonBloodType = const FluentEmojiData(

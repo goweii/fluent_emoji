@@ -54,6 +54,8 @@ class FluentEmojiWidget extends StatelessWidget {
     return SvgPicture.asset(
       emojiData.svgPath, //
       package: emojiData.package,
+      semanticsLabel: emojiData.name,
+      errorBuilder: (context, error, stackTrace) => const Placeholder(),
       width: width,
       height: height,
     );

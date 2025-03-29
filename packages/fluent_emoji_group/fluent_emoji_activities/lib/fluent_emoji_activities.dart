@@ -6,12 +6,18 @@ extension FluentEmojiActivitiesExt on FluentEmojisBase {
   FluentEmojiActivities get activities => FluentEmojiActivities.instance;
 }
 
-class FluentEmojiActivities {
+class FluentEmojiActivities extends FluentEmojisBase {
   static final instance = FluentEmojiActivities._();
 
-  FluentEmojiActivities._();
+  FluentEmojiActivities._() : super();
 
-  late final Map<String, FluentEmojiData> allEmojis = {
+  @override
+  String get groupName => 'Activities';
+
+  @override
+  Map<String, FluentEmojiData> get allEmojis => _allEmojis;
+
+  late final Map<String, FluentEmojiData> _allEmojis = Map.unmodifiable({
     '🥇': firstPlaceMedal,
     '🥈': secondPlaceMedal,
     '🥉': thirdPlaceMedal,
@@ -98,7 +104,7 @@ class FluentEmojiActivities {
     '🎁': wrappedGift,
     '🧶': yarn,
     '🪀': yoYo,
-  };
+  });
 
   /// 🥇 1st place medal
   final FluentEmojiData firstPlaceMedal = const FluentEmojiData(
