@@ -4,7 +4,7 @@ Fluent Emoji 是一个 Flutter 包，提供了微软 Fluent 设计系统中的�
 
 ## 特性
 
-- 提供多种 Fluent 表情符号
+- 提供全部 Fluent 表情符号
 - 易于集成到 Flutter 项目中
 - 高效的表情符号加载和显示
 
