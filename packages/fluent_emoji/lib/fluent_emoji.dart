@@ -22,11 +22,11 @@ import 'package:fluent_emoji_smileys_and_emotion/fluent_emoji_smileys_and_emotio
 import 'package:fluent_emoji_symbols/fluent_emoji_symbols.dart';
 import 'package:fluent_emoji_travel_and_places/fluent_emoji_travel_and_places.dart';
 
-extension FluentEmojiAllExt on FluentEmojisBase {
+extension FluentEmojiAllExt on FluentEmojiAgent {
   FluentEmojiAll get all => FluentEmojiAll.instance;
 }
 
-class FluentEmojiAll extends FluentEmojisBase {
+class FluentEmojiAll extends FluentEmojiGroup {
   static final instance = FluentEmojiAll._();
 
   FluentEmojiAll._() : super();
@@ -35,18 +35,30 @@ class FluentEmojiAll extends FluentEmojisBase {
   @override
   String get groupName => 'Fluent Emojis';
 
+  final List<FluentEmojiGroup> allGroups = List.unmodifiable([
+    FluentEmojis.activities,
+    FluentEmojis.animalsAndNature,
+    FluentEmojis.flags,
+    FluentEmojis.foodAndDrink,
+    FluentEmojis.objects,
+    FluentEmojis.peopleAndBody,
+    FluentEmojis.smileysAndEmotion,
+    FluentEmojis.symbols,
+    FluentEmojis.travelAndPlaces,
+  ]);
+
   @override
   Map<String, FluentEmojiData> get allEmojis => _allEmojis;
 
   late final Map<String, FluentEmojiData> _allEmojis = Map.unmodifiable({
-    ...FluentEmojiActivities.instance.allEmojis,
-    ...FluentEmojiAnimalsAndNature.instance.allEmojis,
-    ...FluentEmojiFlags.instance.allEmojis,
-    ...FluentEmojiFoodAndDrink.instance.allEmojis,
-    ...FluentEmojiObjects.instance.allEmojis,
-    ...FluentEmojiPeopleAndBody.instance.allEmojis,
-    ...FluentEmojiSmileysAndEmotion.instance.allEmojis,
-    ...FluentEmojiSymbols.instance.allEmojis,
-    ...FluentEmojiTravelAndPlaces.instance.allEmojis,
+    ...FluentEmojis.activities.allEmojis,
+    ...FluentEmojis.animalsAndNature.allEmojis,
+    ...FluentEmojis.flags.allEmojis,
+    ...FluentEmojis.foodAndDrink.allEmojis,
+    ...FluentEmojis.objects.allEmojis,
+    ...FluentEmojis.peopleAndBody.allEmojis,
+    ...FluentEmojis.smileysAndEmotion.allEmojis,
+    ...FluentEmojis.symbols.allEmojis,
+    ...FluentEmojis.travelAndPlaces.allEmojis,
   });
 }

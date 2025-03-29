@@ -2,12 +2,12 @@ export 'fluent_emoji_food_and_drink.dart';
 
 import 'package:fluent_emoji_base/fluent_emoji_base.dart';
 
-extension FluentEmojiFoodAndDrinkExt on FluentEmojisBase {
-  FluentEmojiFoodAndDrink get foodAndDrink => FluentEmojiFoodAndDrink.instance;
+extension FluentEmojiFoodAndDrinkExt on FluentEmojiAgent {
+  FluentEmojiFoodAndDrink get foodAndDrink => FluentEmojiFoodAndDrink._instance;
 }
 
-class FluentEmojiFoodAndDrink extends FluentEmojisBase {
-  static final instance = FluentEmojiFoodAndDrink._();
+class FluentEmojiFoodAndDrink extends FluentEmojiGroup {
+  static final _instance = FluentEmojiFoodAndDrink._();
 
   FluentEmojiFoodAndDrink._() : super();
 

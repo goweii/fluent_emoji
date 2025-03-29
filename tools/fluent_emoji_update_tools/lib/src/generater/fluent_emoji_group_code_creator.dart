@@ -36,12 +36,12 @@ class FluentEmojiGroupCodeCreator {
     buffer.writeln();
     buffer.writeln("import 'package:fluent_emoji_base/fluent_emoji_base.dart';");
     buffer.writeln();
-    buffer.writeln('extension ${className}Ext on FluentEmojisBase {');
-    buffer.writeln('  $className get ${emojiGroup.nameLowerCase} => $className.instance;');
+    buffer.writeln('extension ${className}Ext on FluentEmojiAgent {');
+    buffer.writeln('  $className get ${emojiGroup.nameLowerCase} => $className._instance;');
     buffer.writeln('}');
     buffer.writeln();
-    buffer.writeln('class $className extends FluentEmojisBase {');
-    buffer.writeln('  static final instance = $className._();');
+    buffer.writeln('class $className extends FluentEmojiGroup {');
+    buffer.writeln('  static final _instance = $className._();');
     buffer.writeln();
     buffer.writeln('  $className._() : super();');
     buffer.writeln();

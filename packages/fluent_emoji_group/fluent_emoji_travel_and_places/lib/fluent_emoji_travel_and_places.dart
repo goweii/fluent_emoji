@@ -2,12 +2,12 @@ export 'fluent_emoji_travel_and_places.dart';
 
 import 'package:fluent_emoji_base/fluent_emoji_base.dart';
 
-extension FluentEmojiTravelAndPlacesExt on FluentEmojisBase {
-  FluentEmojiTravelAndPlaces get travelAndPlaces => FluentEmojiTravelAndPlaces.instance;
+extension FluentEmojiTravelAndPlacesExt on FluentEmojiAgent {
+  FluentEmojiTravelAndPlaces get travelAndPlaces => FluentEmojiTravelAndPlaces._instance;
 }
 
-class FluentEmojiTravelAndPlaces extends FluentEmojisBase {
-  static final instance = FluentEmojiTravelAndPlaces._();
+class FluentEmojiTravelAndPlaces extends FluentEmojiGroup {
+  static final _instance = FluentEmojiTravelAndPlaces._();
 
   FluentEmojiTravelAndPlaces._() : super();
 

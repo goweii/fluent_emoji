@@ -35,20 +35,9 @@ class _MyHomePageState extends State<MyHomePage> {
   void initState() {
     super.initState();
 
-    final lists = [
-      FluentEmojis.smileysAndEmotion.allEmojis,
-      FluentEmojis.peopleAndBody.allEmojis,
-      FluentEmojis.animalsAndNature.allEmojis,
-      FluentEmojis.activities.allEmojis,
-      FluentEmojis.flags.allEmojis,
-      FluentEmojis.foodAndDrink.allEmojis,
-      FluentEmojis.objects.allEmojis,
-      FluentEmojis.symbols.allEmojis,
-      FluentEmojis.travelAndPlaces.allEmojis,
-    ];
-
-    for (var element in lists) {
-      groups.add(MapEntry(element.values.first.group, element.values.toList()));
+    final allGroups = FluentEmojis.all.allGroups;
+    for (var group in allGroups) {
+      groups.add(MapEntry(group.groupName, group.allEmojis.values.toList()));
     }
   }
 

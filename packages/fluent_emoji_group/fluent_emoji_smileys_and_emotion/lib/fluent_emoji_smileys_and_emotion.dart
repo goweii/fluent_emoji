@@ -2,12 +2,12 @@ export 'fluent_emoji_smileys_and_emotion.dart';
 
 import 'package:fluent_emoji_base/fluent_emoji_base.dart';
 
-extension FluentEmojiSmileysAndEmotionExt on FluentEmojisBase {
-  FluentEmojiSmileysAndEmotion get smileysAndEmotion => FluentEmojiSmileysAndEmotion.instance;
+extension FluentEmojiSmileysAndEmotionExt on FluentEmojiAgent {
+  FluentEmojiSmileysAndEmotion get smileysAndEmotion => FluentEmojiSmileysAndEmotion._instance;
 }
 
-class FluentEmojiSmileysAndEmotion extends FluentEmojisBase {
-  static final instance = FluentEmojiSmileysAndEmotion._();
+class FluentEmojiSmileysAndEmotion extends FluentEmojiGroup {
+  static final _instance = FluentEmojiSmileysAndEmotion._();
 
   FluentEmojiSmileysAndEmotion._() : super();
 

@@ -2,12 +2,12 @@ export 'fluent_emoji_people_and_body.dart';
 
 import 'package:fluent_emoji_base/fluent_emoji_base.dart';
 
-extension FluentEmojiPeopleAndBodyExt on FluentEmojisBase {
-  FluentEmojiPeopleAndBody get peopleAndBody => FluentEmojiPeopleAndBody.instance;
+extension FluentEmojiPeopleAndBodyExt on FluentEmojiAgent {
+  FluentEmojiPeopleAndBody get peopleAndBody => FluentEmojiPeopleAndBody._instance;
 }
 
-class FluentEmojiPeopleAndBody extends FluentEmojisBase {
-  static final instance = FluentEmojiPeopleAndBody._();
+class FluentEmojiPeopleAndBody extends FluentEmojiGroup {
+  static final _instance = FluentEmojiPeopleAndBody._();
 
   FluentEmojiPeopleAndBody._() : super();
 

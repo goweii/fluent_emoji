@@ -2,12 +2,12 @@ export 'fluent_emoji_animals_and_nature.dart';
 
 import 'package:fluent_emoji_base/fluent_emoji_base.dart';
 
-extension FluentEmojiAnimalsAndNatureExt on FluentEmojisBase {
-  FluentEmojiAnimalsAndNature get animalsAndNature => FluentEmojiAnimalsAndNature.instance;
+extension FluentEmojiAnimalsAndNatureExt on FluentEmojiAgent {
+  FluentEmojiAnimalsAndNature get animalsAndNature => FluentEmojiAnimalsAndNature._instance;
 }
 
-class FluentEmojiAnimalsAndNature extends FluentEmojisBase {
-  static final instance = FluentEmojiAnimalsAndNature._();
+class FluentEmojiAnimalsAndNature extends FluentEmojiGroup {
+  static final _instance = FluentEmojiAnimalsAndNature._();
 
   FluentEmojiAnimalsAndNature._() : super();
 
