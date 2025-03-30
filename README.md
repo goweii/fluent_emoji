@@ -20,7 +20,7 @@ Fluent Emoji 是一个 Flutter 包，提供了 [microsoft/fluentui-emoji](https:
 
 ```yaml
 dependencies:
-  fluent_emoji: ^1.0.0
+  fluent_emoji: ^0.0.1
 ```
 
 然后运行 `flutter pub get` 来安装依赖项。
