@@ -1,6 +1,6 @@
 # Fluent Emoji
 
-Fluent Emoji 是一个 Flutter 包，提供了微软 Fluent 设计系统中的表情符号。这个包可以帮助开发者在他们的 Flutter 应用中轻松使用 Fluent 表情符号。
+Fluent Emoji 是一个 Flutter 包，提供了 [microsoft/fluentui-emoji](https://github.com/microsoft/fluentui-emoji) 中的表情符号。这个包可以帮助开发者在他们的 Flutter 应用中轻松使用 Fluent 表情符号。
 
 ## 特性
 
