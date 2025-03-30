@@ -53,10 +53,14 @@ class PublishTask {
         runInShell: true,
       );
       process.stderr.transform(utf8.decoder).listen((event) {
-        print('  $event');
+        event.split('\n').forEach((element) {
+          print('  $element');
+        });
       });
       process.stdout.transform(utf8.decoder).listen((event) {
-        print('  $event');
+        event.split('\n').forEach((element) {
+          print('  $element');
+        });
         if (RegExp(r'Do you want to publish .* \(y/N\)\?').hasMatch(event.toString())) {
           process.stdin.writeln('y');
         }
