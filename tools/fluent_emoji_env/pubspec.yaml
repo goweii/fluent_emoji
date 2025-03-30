@@ -1,12 +1,11 @@
 name: fluent_emoji_env
 description: A sample command-line application with basic argument parsing.
 version: 0.0.1
-# repository: https://github.com/my_org/my_repo
+homepage: https://github.com/goweii/fluent_emoji
 
 environment:
   sdk: ^3.7.0
 
-# Add regular dependencies here.
 dependencies:
   args: ^2.5.0
   path: ^1.8.0

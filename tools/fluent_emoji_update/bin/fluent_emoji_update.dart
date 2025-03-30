@@ -43,5 +43,14 @@ void main(List<String> arguments) async {
     print(e.message);
     print('');
     printUsage(argParser);
+  } on ArgumentError catch (e) {
+    print(e.message);
+    print('');
+    printUsage(argParser);
+  } catch (e, s) {
+    print(e.toString());
+    print(s.toString());
+    print('');
+    printUsage(argParser);
   }
 }

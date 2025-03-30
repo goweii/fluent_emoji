@@ -1,4 +1,4 @@
-name: fluent_emoji_update
+name: fluent_emoji_publish
 description: A sample command-line application with basic argument parsing.
 version: 0.0.1
 homepage: https://github.com/goweii/fluent_emoji
@@ -9,8 +9,6 @@ environment:
 dependencies:
   args: ^2.5.0
   path: ^1.8.0
-  console_bars: ^1.2.0
-  archive: ^4.0.5
 
 dev_dependencies:
   lints: ^5.0.0
