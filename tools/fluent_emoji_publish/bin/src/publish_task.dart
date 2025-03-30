@@ -2,12 +2,16 @@ import 'dart:convert';
 import 'dart:io';
 import 'package:path/path.dart' as path;
 
+const Duration _kDelay = Duration(seconds: 15);
+
 class PublishTask {
-  const PublishTask({required this.packagesDirPath, required this.dryRun});
+  PublishTask({required this.packagesDirPath, required this.dryRun});
 
   final String packagesDirPath;
 
   final bool dryRun;
+
+  DateTime? _lastPublishFinishTime;
 
   Future<void> start() async {
     print('Start publish packages');
@@ -31,6 +35,16 @@ class PublishTask {
   Future<void> _publishPackage(Directory dir) async {
     final packageName = path.basename(dir.path);
     print('Start publish package: $packageName');
+
+    if (_lastPublishFinishTime != null) {
+      final d = DateTime.now().difference(_lastPublishFinishTime!);
+      if (d < _kDelay) {
+        final delay = _kDelay - d;
+        print('  Rate limit, please wait ${delay.inSeconds}s');
+        await Future.delayed(delay);
+      }
+    }
+
     try {
       final process = await Process.start(
         'flutter',
@@ -52,9 +66,10 @@ class PublishTask {
       if (exitCode != 0) {
         throw 'exit with code: $exitCode';
       }
+      _lastPublishFinishTime = DateTime.now();
     } catch (e) {
       print('  Publish package errer: $e');
-      rethrow;
+      //rethrow;
     }
   }
 }
