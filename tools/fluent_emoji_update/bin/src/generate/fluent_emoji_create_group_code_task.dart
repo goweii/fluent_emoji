@@ -2,13 +2,13 @@
 
 import 'dart:io';
 
-import 'package:fluent_emoji_update_tools/src/utils/string_ext.dart';
 import 'package:path/path.dart' as path;
 
+import '../utils/string_ext.dart';
 import 'fluent_emoji.dart';
 
-class FluentEmojiGroupCodeCreator {
-  FluentEmojiGroupCodeCreator({required this.packageDirPath, required this.emojiGroup});
+class FluentEmojiCreateGroupCodeTask {
+  FluentEmojiCreateGroupCodeTask({required this.packageDirPath, required this.emojiGroup});
 
   final String packageDirPath;
   final FluentEmojiGroup emojiGroup;
@@ -128,8 +128,6 @@ class FluentEmojiGroupCodeCreator {
       buffer.writeln('    skinTone: FluentEmojiSkinTone.${skinTone},');
       buffer.writeln("  );");
     }
-
-    
 
     void writeSkinToneFieldLine(SkinToneFluentEmoji emoji) {
       final assetsPath = 'assets/${path.basename(emoji.normal.svg)}';

@@ -1,10 +1,7 @@
-import 'package:fluent_emoji_update_tools/src/utils/string_ext.dart';
+import '../utils/string_ext.dart';
 
 class FluentEmojiGroup {
-  FluentEmojiGroup({
-    required this.name,
-    required this.emojis,
-  });
+  FluentEmojiGroup({required this.name, required this.emojis});
 
   final String name;
   final List<FluentEmoji> emojis;

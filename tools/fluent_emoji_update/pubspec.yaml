@@ -1,13 +1,14 @@
-name: fluent_emoji_update_tools
-description: A starting point for Dart libraries or applications.
-version: 1.0.0
+name: fluent_emoji_update
+description: A sample command-line application with basic argument parsing.
+version: 0.0.1
 # repository: https://github.com/my_org/my_repo
 
 environment:
-  sdk: ^3.6.1
+  sdk: ^3.7.0
 
 # Add regular dependencies here.
 dependencies:
+  args: ^2.5.0
   path: ^1.8.0
   console_bars: ^1.2.0
   archive: ^4.0.5

@@ -3,12 +3,8 @@ import 'package:path/path.dart' as path;
 
 import 'package:archive/archive_io.dart';
 
-class FluentEmojiUnzipper {
-  const FluentEmojiUnzipper({
-    required this.zipFilePath,
-    this.unzipDirPath,
-    this.deleteIfExists = false,
-  });
+class FluentEmojiUnzipTask {
+  const FluentEmojiUnzipTask({required this.zipFilePath, this.unzipDirPath, this.deleteIfExists = false});
 
   /// The path to save the downloaded zip file
   final String zipFilePath;

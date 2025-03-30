@@ -2,12 +2,8 @@ import 'dart:io';
 
 const _kZipUrl = 'https://github.com/microsoft/fluentui-emoji/archive/refs/heads/main.zip';
 
-class FluentEmojiDownloader {
-  const FluentEmojiDownloader({
-    this.downloadUrl = _kZipUrl,
-    required this.downloadPath,
-    this.deleteIfExists = false,
-  });
+class FluentEmojiDownloadTask {
+  const FluentEmojiDownloadTask({this.downloadUrl = _kZipUrl, required this.downloadPath, this.deleteIfExists = false});
 
   /// The URL to download the zip file
   final String downloadUrl;
@@ -70,9 +66,11 @@ class FluentEmojiDownloader {
           final l = receivedLength - lastLenght;
           lastLenght = receivedLength;
           final kb = 1.0 * l / 1024;
-          print('\rDownloading: '
-              '$receivedLength/$totalLength '
-              '(${kb.toStringAsFixed(2)} KB/s)');
+          print(
+            '\rDownloading: '
+            '$receivedLength/$totalLength '
+            '(${kb.toStringAsFixed(2)} KB/s)',
+          );
         }
       }
 

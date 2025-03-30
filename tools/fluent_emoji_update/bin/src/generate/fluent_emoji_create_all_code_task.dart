@@ -1,10 +1,11 @@
 import 'dart:io';
 
-import 'package:fluent_emoji_update_tools/src/generater/fluent_emoji.dart';
 import 'package:path/path.dart' as path;
 
-class FluentEmojiAllCodeCreator {
-  const FluentEmojiAllCodeCreator({required this.packageDirPath, required this.emojiGroupList});
+import 'fluent_emoji.dart';
+
+class FluentEmojiCreateAllCodeTask {
+  const FluentEmojiCreateAllCodeTask({required this.packageDirPath, required this.emojiGroupList});
 
   final String packageDirPath;
   final List<FluentEmojiGroup> emojiGroupList;

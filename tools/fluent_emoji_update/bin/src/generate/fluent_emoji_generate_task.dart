@@ -1,53 +1,39 @@
 import 'dart:io';
 
-import 'package:fluent_emoji_update_tools/src/generater/fluent_emoji_all_code_creator.dart';
-import 'package:fluent_emoji_update_tools/src/generater/fluent_emoji_assets_copier.dart';
-import 'package:fluent_emoji_update_tools/src/generater/fluent_emoji_group_code_creator.dart';
 import 'package:path/path.dart' as path;
 
-import 'fluent_emoji_parser.dart';
+import 'fluent_emoji_create_all_code_task.dart';
+import 'fluent_emoji_assets_copy_task.dart';
+import 'fluent_emoji_create_group_code_task.dart';
+import 'fluent_emoji_parse_task.dart';
 
-class FluentEmojiGenerater {
-  const FluentEmojiGenerater({
-    required this.unzipDirPath,
-  });
+class FluentEmojiGenerateTask {
+  const FluentEmojiGenerateTask({required this.unzipDirPath});
 
   /// The path to save the unzipped files
   final String unzipDirPath;
 
-  Future<void> generater() async {
+  Future<void> generate() async {
     final packagesDirPath = await _findPackagesRootDir();
 
-    final emojiGroupList = await FluentEmojiParser(
-      unzipDirPath: unzipDirPath,
-    ).parse();
+    final emojiGroupList = await FluentEmojiParseTask(unzipDirPath: unzipDirPath).parse();
 
     for (var emojiGroup in emojiGroupList) {
       final packageName = 'fluent_emoji_${emojiGroup.nameSnakeCase}';
 
-      final packageDirPath = path.join(
-        packagesDirPath,
-        'fluent_emoji_group',
-        packageName,
-      );
+      final packageDirPath = path.join(packagesDirPath, 'fluent_emoji_group', packageName);
 
       if (!Directory(packageDirPath).existsSync()) {
         stderr.writeln('Package dir not found: $packageDirPath');
         continue;
       }
 
-      await FluentEmojiAssetsCopier(
-        packageDirPath: packageDirPath,
-        emojiGroup: emojiGroup,
-      ).copy();
+      await FluentEmojiAssetsCopyTask(packageDirPath: packageDirPath, emojiGroup: emojiGroup).copy();
 
-      await FluentEmojiGroupCodeCreator(
-        packageDirPath: packageDirPath,
-        emojiGroup: emojiGroup,
-      ).create();
+      await FluentEmojiCreateGroupCodeTask(packageDirPath: packageDirPath, emojiGroup: emojiGroup).create();
     }
 
-    await FluentEmojiAllCodeCreator(
+    await FluentEmojiCreateAllCodeTask(
       packageDirPath: path.join(packagesDirPath, 'fluent_emoji'),
       emojiGroupList: emojiGroupList,
     ).create();

@@ -6,10 +6,8 @@ import 'package:path/path.dart' as path;
 import 'fluent_emoji_metadata.dart';
 import 'fluent_emoji.dart';
 
-class FluentEmojiParser {
-  const FluentEmojiParser({
-    required this.unzipDirPath,
-  });
+class FluentEmojiParseTask {
+  const FluentEmojiParseTask({required this.unzipDirPath});
 
   /// The path to save the unzipped files
   final String unzipDirPath;
@@ -22,12 +20,7 @@ class FluentEmojiParser {
     final emojiGropyMap = <String, FluentEmojiGroup>{};
 
     for (final emoji in emojiList) {
-      final group = emojiGropyMap.putIfAbsent(
-          emoji.group,
-          () => FluentEmojiGroup(
-                name: emoji.group,
-                emojis: [],
-              ));
+      final group = emojiGropyMap.putIfAbsent(emoji.group, () => FluentEmojiGroup(name: emoji.group, emojis: []));
       group.emojis.add(emoji);
     }
 
@@ -112,9 +105,9 @@ class FluentEmojiParser {
   }
 
   Future<FluentEmoji> _decodeEmoji(Directory dir) async {
-    final metadata = FluentEmojiMetadata.fromJson(jsonDecode(
-      File(path.join(dir.path, 'metadata.json')).readAsStringSync(),
-    ));
+    final metadata = FluentEmojiMetadata.fromJson(
+      jsonDecode(File(path.join(dir.path, 'metadata.json')).readAsStringSync()),
+    );
 
     FluentEmoji getColorEmoji(String dirPath, String unicode) {
       final colorDirPaht = path.join(dirPath, 'Color');
@@ -145,10 +138,7 @@ class FluentEmojiParser {
       // 1f3fe：中深肤色。Medium-Dark
       // 1f3ff：深肤色。Dark
 
-      final normal = getColorEmoji(
-        path.join(dir.path, 'Default'),
-        metadata.unicodeSkintones!.first,
-      );
+      final normal = getColorEmoji(path.join(dir.path, 'Default'), metadata.unicodeSkintones!.first);
 
       emoji = SkinToneFluentEmoji(
         group: normal.group,

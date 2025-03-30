@@ -4,11 +4,8 @@ import 'package:path/path.dart' as path;
 
 import 'fluent_emoji.dart';
 
-class FluentEmojiAssetsCopier {
-  const FluentEmojiAssetsCopier({
-    required this.packageDirPath,
-    required this.emojiGroup,
-  });
+class FluentEmojiAssetsCopyTask {
+  const FluentEmojiAssetsCopyTask({required this.packageDirPath, required this.emojiGroup});
 
   final String packageDirPath;
   final FluentEmojiGroup emojiGroup;
