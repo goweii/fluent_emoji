@@ -42,7 +42,7 @@ class SwitchEnvTask {
         }
       }
       if (version == null) {
-        print('This package does not have a configured version.');
+        print('  This package does not have a configured version.');
         return;
       }
     }
@@ -51,7 +51,7 @@ class SwitchEnvTask {
     final dependienciesEndLineRegExp = RegExp(r'^[\S]');
     final iBegin = lines.indexWhere((line) => dependienciesLineRegExp.hasMatch(line));
     if (iBegin == -1) {
-      print('This package does not have dependencies.');
+      print('  This package does not have dependencies.');
       return;
     }
     final iEnd = lines.indexWhere((line) => dependienciesEndLineRegExp.hasMatch(line), iBegin + 1);
@@ -64,19 +64,24 @@ class SwitchEnvTask {
       lines.removeRange(iBegin, iEnd);
     }
 
+    bool replaced = false;
+
     String dString = dLines.join('\n');
-
     final fluentRegExp = RegExp(r'  (?<pn>fluent_[^\s:]+):( \S+)*?\n(    [^\n]+\n)*');
-
     dString = dString.replaceAllMapped(fluentRegExp, (match) {
+      replaced = true;
       match as RegExpMatch;
       final packageName = match.namedGroup('pn')!;
-      print('depend on package: $packageName');
+      print('  Depend on package: $packageName');
       if (_isUseVersion) {
         return '  ${_getVersionDependiencies(packageName, version!)}\n';
       }
       return '  ${_getLocalDependiencies(dir.path, packageName)}\n';
     });
+
+    if (!replaced) {
+      print('  This package does not have inner dependencies.');
+    }
 
     lines.insert(iBegin, dString);
     if (lines.last.isNotEmpty) {
@@ -86,13 +91,14 @@ class SwitchEnvTask {
   }
 
   String _getVersionDependiencies(String packageName, String version) {
-    return '$packageName: $version';
+    print('    verion: $version');
+    return '$packageName: ^$version';
   }
 
   String _getLocalDependiencies(String curPackageDirPath, String packageName) {
     final packageDirPath = _findPackageDirPath(packageName);
     final relativePath = path.relative(packageDirPath!, from: curPackageDirPath);
-      print('depend on package relative path: $relativePath');
+    print('    relative path: $relativePath');
     return '$packageName:\n    path: $relativePath';
   }
 

@@ -11,8 +11,7 @@ dependencies:
   flutter:
     sdk: flutter
 
-  fluent_emoji_base:
-    path: ../fluent_emoji_base
+  fluent_emoji_base: ^0.0.1
 
   flutter_svg: ^2.0.17
 
