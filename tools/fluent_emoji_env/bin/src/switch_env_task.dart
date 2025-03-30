@@ -17,12 +17,12 @@ class SwitchEnvTask {
   Future<void> _findSubPackage(Directory dir) async {
     final pubspecFile = File(path.join(dir.path, 'pubspec.yaml'));
     if (pubspecFile.existsSync()) {
-      _updateNewEnv(dir);
+    await  _updateNewEnv(dir);
       return;
     }
     final childDirs = dir.listSync().whereType<Directory>();
     for (final childDir in childDirs) {
-      _findSubPackage(childDir);
+     await _findSubPackage(childDir);
     }
   }
 

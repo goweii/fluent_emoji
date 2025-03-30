@@ -1,6 +1,5 @@
 import 'dart:convert';
 import 'dart:io';
-import 'dart:math';
 import 'package:path/path.dart' as path;
 
 class PublishTask {
@@ -34,8 +33,8 @@ class PublishTask {
     print('Start publish package: $packageName');
     try {
       final process = await Process.start(
-        'dart',
-        ['pub', 'publish', if (dryRun) '--dry-run'],
+        'flutter',
+        ['packages', 'pub', 'publish', '--server=https://pub.dartlang.org', if (dryRun) '--dry-run'],
         workingDirectory: dir.absolute.path,
         runInShell: true,
       );

@@ -1,39 +1,53 @@
-<!--
-This README describes the package. If you publish this package to pub.dev,
-this README's contents appear on the landing page for your package.
+# Fluent Emoji
 
-For information about how to write a good package README, see the guide for
-[writing package pages](https://dart.dev/tools/pub/writing-package-pages).
+Fluent Emoji 是一个 Flutter 包，提供了微软 Fluent 设计系统中的表情符号。这个包可以帮助开发者在他们的 Flutter 应用中轻松使用 Fluent 表情符号。
 
-For general information about developing packages, see the Dart guide for
-[creating packages](https://dart.dev/guides/libraries/create-packages)
-and the Flutter guide for
-[developing packages and plugins](https://flutter.dev/to/develop-packages).
--->
+## 特性
 
-TODO: Put a short description of the package here that helps potential users
-know whether this package might be useful for them.
+- 提供全部 Fluent 表情符号
+- 易于集成到 Flutter 项目中
+- 高效的表情符号加载和显示
 
-## Features
+## 入门
 
-TODO: List what your package can do. Maybe include images, gifs, or videos.
+要开始使用 Fluent Emoji 包，请确保您的开发环境已经配置好 Flutter。您可以参考 [Flutter 官方文档](https://flutter.dev/docs/get-started/install) 来设置开发环境。
 
-## Getting started
+[Preview](https://goweii.github.io/fluent_emoji/web)
 
-TODO: List prerequisites and provide or point to information on how to
-start using the package.
+## 安装
 
-## Usage
+在您的 `pubspec.yaml` 文件中添加以下依赖项：
 
-TODO: Include short and useful examples for package users. Add longer examples
-to `/example` folder.
-
-```dart
-const like = 'sample';
+```yaml
+dependencies:
+  fluent_emoji: ^1.0.0
 ```
 
-## Additional information
+然后运行 `flutter pub get` 来安装依赖项。
 
-TODO: Tell users more about the package: where to find more information, how to
-contribute to the package, how to file issues, what response they can expect
-from the package authors, and more.
+## 使用方法
+
+在您的 Dart 文件中导入 Fluent Emoji 包，并使用其中的表情符号：
+
+```dart
+import 'package:fluent_emoji/fluent_emoji.dart';
+import 'package:fluent_emoji_widget/fluent_emoji_widget.dart';
+
+class MyWidget extends StatelessWidget {
+  @override
+  Widget build(BuildContext context) {
+    return Center(
+      child: FluentEmojiWidget(
+        FluentEmojis.peopleAndBody.clappingHands,
+        skinTone: FluentEmojiSkinTone.standard,
+      ),
+    );
+  }
+}
+```
+
+## 其他信息
+
+有关更多信息，请访问 [Fluent Emoji GitHub 仓库](https://github.com/goweii/fluent_emoji)。如果您有任何问题或建议，请通过 GitHub 提交 issue。
+
+我们欢迎社区贡献！如果您想为这个项目做出贡献，请阅读我们的 [贡献指南](CONTRIBUTING.md)。

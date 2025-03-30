@@ -5,10 +5,12 @@ import 'package:args/args.dart';
 
 import 'src/update_version_task.dart';
 import 'src/switch_env_task.dart';
+import 'src/copy_docs_task.dart';
 
 ArgParser buildParser() {
   return ArgParser()
     ..addFlag('help', abbr: 'h', negatable: false, help: 'Print this usage information.')
+    ..addFlag('copy-docs', negatable: false, help: 'Copy project docs to packages dir.')
     ..addOption('update-version', help: 'Update the packages version.', mandatory: false, valueHelp: 'version')
     ..addOption(
       'switch-env',
@@ -32,6 +34,11 @@ void main(List<String> arguments) async {
 
     if (results.flag('help')) {
       printUsage(argParser);
+      return;
+    }
+
+    if (results.flag('copy-docs')) {
+      await CopyDocsTask(packagesDirPath: await _findPackagesDir()).copy();
       return;
     }
 
