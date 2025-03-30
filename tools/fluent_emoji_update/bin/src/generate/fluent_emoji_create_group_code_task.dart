@@ -111,7 +111,7 @@ class FluentEmojiCreateGroupCodeTask {
         skinTone = subfix.toLowerCaseName();
       }
 
-      final assetsPath = 'assets/${path.basename(emoji.svg)}';
+      final assetsPath = 'assets/${emoji.assetName}';
 
       buffer.writeln('  /// ${emoji.glyph} ${emoji.name}');
       buffer.writeln("  final FluentEmojiData $fieldName = const FluentEmojiData(");
@@ -130,7 +130,7 @@ class FluentEmojiCreateGroupCodeTask {
     }
 
     void writeSkinToneFieldLine(SkinToneFluentEmoji emoji) {
-      final assetsPath = 'assets/${path.basename(emoji.normal.svg)}';
+      final assetsPath = 'assets/${emoji.assetName}';
 
       buffer.writeln('  /// ${emoji.normal.glyph} ${emoji.normal.name}');
       buffer.writeln('  ///');

@@ -952,7 +952,7 @@ class FluentEmojiActivities extends FluentEmojiGroup {
     group: 'Activities',
     name: 'piñata',
     glyph: '🪅',
-    svgPath: 'assets/piñata_color.svg',
+    svgPath: 'assets/pinata_color.svg',
     tts: 'piñata',
     fromVersion: '13.0',
     glyphAsUtfInEmoticons: ['pinata'],

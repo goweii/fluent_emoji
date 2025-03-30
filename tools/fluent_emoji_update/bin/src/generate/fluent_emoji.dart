@@ -1,3 +1,5 @@
+import 'package:path/path.dart' as path;
+
 import '../utils/string_ext.dart';
 
 class FluentEmojiGroup {
@@ -63,6 +65,11 @@ class FluentEmoji {
   String toString() {
     return 'FluentEmoji{ group: $group, name: $name, glyph: $glyph, unicode: $unicode }';
   }
+
+  late String assetName = () {
+    final name = path.basename(svg);
+    return name.replaceAll('ñ', 'n');
+  }();
 
   late List<String> nameFragments = () {
     return name

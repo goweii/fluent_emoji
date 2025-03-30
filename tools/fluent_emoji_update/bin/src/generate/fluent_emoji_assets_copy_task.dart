@@ -1,5 +1,7 @@
+import 'dart:convert';
 import 'dart:io';
 
+import 'package:archive/archive.dart';
 import 'package:path/path.dart' as path;
 
 import 'fluent_emoji.dart';
@@ -17,15 +19,19 @@ class FluentEmojiAssetsCopyTask {
 
     final assetsDirPath = path.join(packageDirPath, 'assets');
     final assetsDir = Directory(assetsDirPath);
-    if (!assetsDir.existsSync()) {
-      assetsDir.createSync(recursive: true);
+    if (assetsDir.existsSync()) {
+      assetsDir.deleteSync(recursive: true);
     }
+    assetsDir.createSync(recursive: true);
 
     Future<void> copySvg(FluentEmoji emoji) async {
       final svgFile = File(emoji.svg);
-      final svgFileName = path.basename(svgFile.path);
-      final destSvgPath = path.join(assetsDirPath, svgFileName);
-      await svgFile.copy(destSvgPath);
+      final destSvgPath = path.join(assetsDirPath, emoji.assetName);
+
+      final fileBytes = await svgFile.readAsBytes();
+      final compressedBytes = GZipEncoder().encodeBytes(fileBytes);
+      String svgContent = base64.encode(compressedBytes);
+      await File(destSvgPath).writeAsString(svgContent);
     }
 
     for (var emoji in emojiGroup.emojis) {
