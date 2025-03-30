@@ -13,13 +13,30 @@ class PublishTask {
 
   DateTime? _lastPublishFinishTime;
 
+  final failedPackages = <MapEntry<Directory, Object>>[];
+
   Future<void> start() async {
     print('Start publish packages');
+
+    failedPackages.clear();
 
     await _publishPackage(Directory(path.join(packagesDirPath, 'fluent_emoji_base')));
     await _publishSubPackages(Directory(path.join(packagesDirPath, 'fluent_emoji_group')));
     await _publishPackage(Directory(path.join(packagesDirPath, 'fluent_emoji_widget')));
     await _publishPackage(Directory(path.join(packagesDirPath, 'fluent_emoji')));
+
+    if (failedPackages.isNotEmpty) {
+      print('');
+      print('Publish failed packages: ');
+      for (var failedPackage in failedPackages) {
+        final pn = path.basename(failedPackage.key.path);
+        print('  $pn');
+        final reason = failedPackage.value.toString();
+        reason.split('\n').forEach((element) {
+          print('    $element');
+        });
+      }
+    }
   }
 
   Future<void> _publishSubPackages(Directory dir) async {
@@ -73,7 +90,8 @@ class PublishTask {
       _lastPublishFinishTime = DateTime.now();
     } catch (e) {
       print('  Publish package errer: $e');
-      //rethrow;
+      failedPackages.add(MapEntry(dir, e));
+      // rethrow;
     }
   }
 }
