@@ -8,8 +8,8 @@ ArgParser buildParser() {
   return ArgParser()
     ..addFlag('help', abbr: 'h', negatable: false, help: 'Print this usage information.')
     ..addFlag('version', negatable: false, help: 'Print the tool version.')
-    ..addFlag('download', negatable: true, defaultsTo: false, help: 'Download the latest fluentui-emoji-main.zip.')
-    ..addFlag('generate', negatable: true, defaultsTo: false, help: 'Generate the package using the downloaded file.');
+    ..addFlag('download', negatable: false, defaultsTo: false, help: 'Download the latest fluentui-emoji-main.zip.')
+    ..addFlag('generate', negatable: false, defaultsTo: false, help: 'Generate the package using the downloaded file.');
 }
 
 void printUsage(ArgParser argParser) {
@@ -34,9 +34,12 @@ Future<void> main(List<String> arguments) async {
     final shouldDownload = results.flag('download');
     final shouldGenerate = results.flag('generate');
 
-    await FluentEmojiUpdateTask(shouldDownload: shouldDownload, shouldGenerate: shouldGenerate).update();
+    if (shouldDownload || shouldGenerate) {
+      await FluentEmojiUpdateTask(shouldDownload: shouldDownload, shouldGenerate: shouldGenerate).update();
+    } else {
+      printUsage(argParser);
+    }
   } on FormatException catch (e) {
-    // Print usage information if an invalid argument was provided.
     print(e.message);
     print('');
     printUsage(argParser);

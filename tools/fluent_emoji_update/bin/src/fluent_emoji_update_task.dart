@@ -15,21 +15,24 @@ class FluentEmojiUpdateTask {
     var tempDirPath = await _findTempDir();
     print('Temp path: $tempDirPath');
 
-    final zipFilePath = path.join(tempDirPath, 'fluentui-emoji-main.zip');
+    final zipFile = File(path.join(tempDirPath, 'fluentui-emoji-main.zip'));
     if (shouldDownload) {
-      final zipFile = File(zipFilePath);
-      if (zipFile.existsSync()) {
-        zipFile.deleteSync();
-      }
-      final downloadTask = FluentEmojiDownloadTask(downloadPath: zipFilePath, deleteIfExists: true);
+      final downloadTask = FluentEmojiDownloadTask(downloadPath: zipFile.path, deleteIfExists: true);
       await downloadTask.download();
+    } else {
+      if (!zipFile.existsSync()) {
+        final downloadTask = FluentEmojiDownloadTask(downloadPath: zipFile.path, deleteIfExists: true);
+        await downloadTask.download();
+      } else {
+        print('The downloaded file already exists, just reuse it.');
+      }
     }
 
     if (shouldGenerate) {
       final unzipDir = Directory(path.join(tempDirPath, 'fluentui-emoji-main'));
       try {
         final unzipTask = FluentEmojiUnzipTask(
-          zipFilePath: zipFilePath,
+          zipFilePath: zipFile.path,
           unzipDirPath: unzipDir.path,
           deleteIfExists: true,
         );
